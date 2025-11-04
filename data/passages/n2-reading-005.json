@@ -1,0 +1,51 @@
+{
+  "id": "n2-reading-005",
+  "title": "リモートワークの是非",
+  "category": "essay",
+  "difficulty": 4,
+  "questionType": "統合理解",
+  "passage": "【文章A】\nリモートワークは現代の理想的な働き方だ。通勤時間がなくなることで、その時間を有効に使える。また、自分のペースで仕事ができるため、生産性も向上する。会議もオンラインで効率的に行え、無駄な時間が削減される。家族との時間も増え、ワークライフバランスが改善される。これからの時代、リモートワークは標準的な働き方になるだろう。\n\n【文章B】\nリモートワークには多くの課題がある。直接会って話すことで生まれる創造的なアイデアや、偶然の出会いから生まれる新しい発想が失われてしまう。また、新入社員の教育も難しくなる。先輩の仕事を見て学ぶ機会がなくなり、成長が遅れる可能性がある。さらに、仕事とプライベートの境界が曖昧になり、かえってストレスが増える人もいる。やはり、対面でのコミュニケーションは欠かせない。",
+  "estimatedTime": 7,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "文章AとBの筆者が共通して認識している点は何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "リモートワークは生産性を向上させる"},
+        {"id": "b", "text": "リモートワークは働き方に大きな変化をもたらす"},
+        {"id": "c", "text": "対面コミュニケーションは不要である"},
+        {"id": "d", "text": "新入社員教育は簡単になる"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "両者とも、リモートワークが働き方に大きな影響を与えることは認識していますが、その評価が異なります。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "文章Bの筆者が最も懸念していることは何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "通勤時間が長くなること"},
+        {"id": "b", "text": "会議の効率が悪くなること"},
+        {"id": "c", "text": "創造性や人材育成の機会が失われること"},
+        {"id": "d", "text": "家族との時間が減ること"}
+      ],
+      "correctAnswer": "c",
+      "explanation": "文章Bでは、創造的なアイデアの喪失と新入社員教育の困難さを主要な課題として挙げています。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "是非", "reading": "ぜひ", "meaning": "right or wrong, pros and cons"},
+    {"kanji": "生産性", "reading": "せいさんせい", "meaning": "productivity"},
+    {"kanji": "境界", "reading": "きょうかい", "meaning": "boundary"},
+    {"kanji": "曖昧", "reading": "あいまい", "meaning": "vague, ambiguous"},
+    {"kanji": "欠かせない", "reading": "かかせない", "meaning": "indispensable"}
+  ],
+  "grammarPoints": ["〜ことで", "〜から生まれる", "〜可能性がある", "やはり"],
+  "metadata": {
+    "dateAdded": "2025-01-04",
+    "source": "Original"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "vocab-academic",
+  "category": "academic",
+  "totalWords": 200,
+  "items": [
+    {
+      "id": "v001",
+      "kanji": "研究",
+      "kana": "けんきゅう",
+      "romaji": "kenkyuu",
+      "partOfSpeech": "noun",
+      "meaning": "research, study",
+      "jlptLevel": "N2",
+      "exampleSentence": "環境問題について研究しています。",
+      "exampleTranslation": "I am researching environmental issues.",
+      "relatedWords": ["調査", "実験", "分析"],
+      "notes": "研究者 means researcher"
+    },
+    {
+      "id": "v002",
+      "kanji": "論文",
+      "kana": "ろんぶん",
+      "romaji": "ronbun",
+      "partOfSpeech": "noun",
+      "meaning": "thesis, paper, article",
+      "jlptLevel": "N2",
+      "exampleSentence": "卒業論文を書いています。",
+      "exampleTranslation": "I am writing my graduation thesis.",
+      "relatedWords": ["レポート", "報告書", "記事"],
+      "notes": "卒業論文 = graduation thesis"
+    },
+    {
+      "id": "v003",
+      "kanji": "理論",
+      "kana": "りろん",
+      "romaji": "riron",
+      "partOfSpeech": "noun",
+      "meaning": "theory",
+      "jlptLevel": "N2",
+      "exampleSentence": "その理論は証明されていません。",
+      "exampleTranslation": "That theory has not been proven.",
+      "relatedWords": ["仮説", "学説", "原理"],
+      "notes": "理論的 means theoretical"
+    },
+    {
+      "id": "v004",
+      "kanji": "実験",
+      "kana": "じっけん",
+      "romaji": "jikken",
+      "partOfSpeech": "noun",
+      "meaning": "experiment",
+      "jlptLevel": "N2",
+      "exampleSentence": "実験の結果が出ました。",
+      "exampleTranslation": "The experiment results are out.",
+      "relatedWords": ["試験", "検証", "テスト"],
+      "notes": "実験室 = laboratory"
+    },
+    {
+      "id": "v005",
+      "kanji": "分析",
+      "kana": "ぶんせき",
+      "romaji": "bunseki",
+      "partOfSpeech": "noun",
+      "meaning": "analysis",
+      "jlptLevel": "N2",
+      "exampleSentence": "データを分析する必要があります。",
+      "exampleTranslation": "We need to analyze the data.",
+      "relatedWords": ["解析", "検討", "考察"],
+      "notes": "Often used in academic and business contexts"
+    }
+  ]
+}

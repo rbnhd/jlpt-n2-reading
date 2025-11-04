@@ -1,0 +1,72 @@
+{
+  "id": "vocab-abstract",
+  "category": "abstract",
+  "totalWords": 200,
+  "items": [
+    {
+      "id": "v001",
+      "kanji": "概念",
+      "kana": "がいねん",
+      "romaji": "gainenn",
+      "partOfSpeech": "noun",
+      "meaning": "concept",
+      "jlptLevel": "N2",
+      "exampleSentence": "自由という概念について考える。",
+      "exampleTranslation": "I think about the concept of freedom.",
+      "relatedWords": ["考え", "思想"],
+      "notes": "Common in academic essays"
+    },
+    {
+      "id": "v002",
+      "kanji": "本質",
+      "kana": "ほんしつ",
+      "romaji": "honshitsu",
+      "partOfSpeech": "noun",
+      "meaning": "essence, true nature",
+      "jlptLevel": "N2",
+      "exampleSentence": "問題の本質を見極める。",
+      "exampleTranslation": "Grasp the essence of the problem.",
+      "relatedWords": ["性質", "根本"],
+      "notes": "Appears in opinion essays"
+    },
+    {
+      "id": "v003",
+      "kanji": "傾向",
+      "kana": "けいこう",
+      "romaji": "keikou",
+      "partOfSpeech": "noun",
+      "meaning": "tendency, trend",
+      "jlptLevel": "N2",
+      "exampleSentence": "若者に人気がある傾向が見られる。",
+      "exampleTranslation": "A tendency to be popular among young people can be seen.",
+      "relatedWords": ["流行", "動向"],
+      "notes": "Often used with 統計 data"
+    },
+    {
+      "id": "v004",
+      "kanji": "視点",
+      "kana": "してん",
+      "romaji": "shiten",
+      "partOfSpeech": "noun",
+      "meaning": "point of view, perspective",
+      "jlptLevel": "N2",
+      "exampleSentence": "子供の視点で物事を見る。",
+      "exampleTranslation": "Look at things from a child's perspective.",
+      "relatedWords": ["見方", "観点"],
+      "notes": "Used in analytical writing"
+    },
+    {
+      "id": "v005",
+      "kanji": "影響",
+      "kana": "えいきょう",
+      "romaji": "eikyou",
+      "partOfSpeech": "noun・する動詞",
+      "meaning": "influence, effect",
+      "jlptLevel": "N3",
+      "exampleSentence": "環境に悪い影響を与える。",
+      "exampleTranslation": "It has a bad effect on the environment.",
+      "relatedWords": ["作用", "結果"],
+      "notes": "Frequent in discussions about society and science"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "n2-reading-006",
+  "title": "駅前の古い喫茶店",
+  "category": "story",
+  "difficulty": 3,
+  "questionType": "内容理解・中文",
+  "passage": "駅前に40年続く喫茶店がある。店主の山田さんは、もう70歳を過ぎているが、毎朝5時に起きてコーヒー豆を挽く。\n\n「機械で挽いた方が楽だけど、手で挽いた方が香りが違うんです」と山田さんは言う。確かに、店に入った瞬間から漂うコーヒーの香りは格別だ。\n\n常連客の多くは、山田さんと同じくらいの年齢の人たちだ。彼らは毎朝同じ席に座り、同じメニューを注文する。「ここに来ると落ち着くんです。新しいカフェもいいけど、やっぱりここが一番」と常連の一人が話してくれた。\n\nしかし、最近は若い客も増えてきた。SNSで「レトロな喫茶店」として話題になったからだ。山田さんは少し戸惑いながらも、「若い人にも昔ながらの喫茶店の良さを知ってもらえて嬉しい」と笑顔を見せた。\n\n時代は変わっても、この喫茶店は変わらない。それが、多くの人を惹きつける理由なのかもしれない。",
+  "estimatedTime": 8,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "山田さんが手でコーヒー豆を挽く理由は何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "機械を持っていないから"},
+        {"id": "b", "text": "手で挽いた方が香りが良いから"},
+        {"id": "c", "text": "客に頼まれたから"},
+        {"id": "d", "text": "時間に余裕があるから"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "山田さんは「手で挽いた方が香りが違うんです」と述べています。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "若い客が増えた理由は何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "メニューを変更したから"},
+        {"id": "b", "text": "値段を下げたから"},
+        {"id": "c", "text": "SNSで話題になったから"},
+        {"id": "d", "text": "駅前に大学ができたから"}
+      ],
+      "correctAnswer": "c",
+      "explanation": "文章に「SNSで『レトロな喫茶店』として話題になったから」と明記されています。",
+      "points": 1
+    },
+    {
+      "id": "q3",
+      "questionText": "この喫茶店の魅力は何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "最新の設備があること"},
+        {"id": "b", "text": "昔から変わらないこと"},
+        {"id": "c", "text": "価格が安いこと"},
+        {"id": "d", "text": "メニューが豊富なこと"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "最後の段落で「時代は変わっても、この喫茶店は変わらない」ことが魅力だと述べられています。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "挽く", "reading": "ひく", "meaning": "to grind"},
+    {"kanji": "漂う", "reading": "ただよう", "meaning": "to drift, waft"},
+    {"kanji": "格別", "reading": "かくべつ", "meaning": "exceptional"},
+    {"kanji": "戸惑う", "reading": "とまどう", "meaning": "to be confused"},
+    {"kanji": "惹きつける", "reading": "ひきつける", "meaning": "to attract"}
+  ],
+  "grammarPoints": ["〜を過ぎる", "〜けど", "〜ながらも", "〜のかもしれない"],
+  "metadata": {
+    "dateAdded": "2025-01-04",
+    "source": "Original"
+  }
+}

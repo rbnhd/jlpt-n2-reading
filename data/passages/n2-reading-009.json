@@ -1,0 +1,65 @@
+{
+  "id": "n2-reading-009",
+  "title": "AIと仕事の未来",
+  "category": "academic",
+  "difficulty": 4,
+  "questionType": "内容理解・中文",
+  "passage": "人工知能（AI）の発展により、私たちの仕事は大きく変わろうとしている。一部では「AIに仕事を奪われる」という不安の声も聞かれるが、実際はどうなのだろうか。\n\n確かに、単純作業や定型的な業務はAIに置き換えられる可能性が高い。データ入力や簡単な分析作業などは、すでにAIが人間より速く正確に行えるようになっている。しかし、これは必ずしも悪いことではない。\n\n人間がAIに単純作業を任せることで、より創造的で価値の高い仕事に集中できるようになる。企画立案、問題解決、人間関係の構築など、AIには難しい領域で人間の能力を発揮できるのだ。\n\nまた、AIの登場により新しい職業も生まれている。AIエンジニア、データサイエンティスト、AIトレーナーなど、10年前には存在しなかった職業が今では重要な役割を果たしている。\n\n重要なのは、AIを恐れるのではなく、AIと共存する方法を学ぶことだ。AIの特性を理解し、それを活用するスキルを身につけることが、これからの時代に求められる。AIは人間の敵ではなく、強力なパートナーになり得るのだ。",
+  "estimatedTime": 8,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "AIに置き換えられる可能性が高い仕事の特徴は何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "創造性が求められる仕事"},
+        {"id": "b", "text": "単純作業や定型的な業務"},
+        {"id": "c", "text": "人間関係の構築が必要な仕事"},
+        {"id": "d", "text": "問題解決が必要な仕事"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "第2段落で「単純作業や定型的な業務はAIに置き換えられる可能性が高い」と明記されています。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "AIの登場によってもたらされた良い変化として述べられていないものはどれか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "人間が創造的な仕事に集中できる"},
+        {"id": "b", "text": "新しい職業が生まれた"},
+        {"id": "c", "text": "すべての仕事がなくなる"},
+        {"id": "d", "text": "作業の速度と正確性が向上した"}
+      ],
+      "correctAnswer": "c",
+      "explanation": "すべての仕事がなくなるという記述はなく、むしろ新しい職業が生まれることが述べられています。",
+      "points": 1
+    },
+    {
+      "id": "q3",
+      "questionText": "筆者が最も伝えたいことは何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "AIは危険なので使用を控えるべきだ"},
+        {"id": "b", "text": "AIと共存する方法を学ぶことが重要だ"},
+        {"id": "c", "text": "AIはすぐに人間を超える"},
+        {"id": "d", "text": "AIの開発を止めるべきだ"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "最終段落で「AIを恐れるのではなく、AIと共存する方法を学ぶことだ」と主張しています。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "人工知能", "reading": "じんこうちのう", "meaning": "artificial intelligence"},
+    {"kanji": "定型的", "reading": "ていけいてき", "meaning": "routine, standardized"},
+    {"kanji": "置き換える", "reading": "おきかえる", "meaning": "to replace"},
+    {"kanji": "企画立案", "reading": "きかくりつあん", "meaning": "planning and drafting"},
+    {"kanji": "共存", "reading": "きょうぞん", "meaning": "coexistence"}
+  ],
+  "grammarPoints": ["〜により", "〜ようとしている", "〜に置き換えられる", "〜ことで", "〜なり得る"],
+  "metadata": {
+    "dateAdded": "2025-01-04",
+    "source": "Original"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "vocab-social",
+  "category": "social",
+  "totalWords": 200,
+  "items": [
+    {
+      "id": "v001",
+      "kanji": "少子高齢化",
+      "kana": "しょうしこうれいか",
+      "romaji": "shoushi koureika",
+      "partOfSpeech": "noun",
+      "meaning": "declining birthrate and aging population",
+      "jlptLevel": "N2",
+      "exampleSentence": "日本では少子高齢化が深刻な問題になっている。",
+      "exampleTranslation": "In Japan, the declining birthrate and aging population is a serious problem.",
+      "relatedWords": ["人口減少", "高齢者"],
+      "notes": "Common topic in social issue passages"
+    },
+    {
+      "id": "v002",
+      "kanji": "労働力",
+      "kana": "ろうどうりょく",
+      "romaji": "roudouryoku",
+      "partOfSpeech": "noun",
+      "meaning": "labor force",
+      "jlptLevel": "N2",
+      "exampleSentence": "外国人労働力の受け入れが議論されている。",
+      "exampleTranslation": "The acceptance of foreign labor is being discussed.",
+      "relatedWords": ["労働", "雇用"],
+      "notes": "Appears in economy and society topics"
+    },
+    {
+      "id": "v003",
+      "kanji": "格差",
+      "kana": "かくさ",
+      "romaji": "kakusa",
+      "partOfSpeech": "noun",
+      "meaning": "disparity, gap",
+      "jlptLevel": "N2",
+      "exampleSentence": "地域によって教育の格差が存在する。",
+      "exampleTranslation": "Educational disparities exist depending on the region.",
+      "relatedWords": ["差", "不平等"],
+      "notes": "Often paired with 解消 (resolution)"
+    },
+    {
+      "id": "v004",
+      "kanji": "防災",
+      "kana": "ぼうさい",
+      "romaji": "bousai",
+      "partOfSpeech": "noun",
+      "meaning": "disaster prevention",
+      "jlptLevel": "N2",
+      "exampleSentence": "防災訓練に参加する住民が増えている。",
+      "exampleTranslation": "More residents are participating in disaster prevention drills.",
+      "relatedWords": ["災害", "避難"],
+      "notes": "Disaster-related vocabulary"
+    },
+    {
+      "id": "v005",
+      "kanji": "共存",
+      "kana": "きょうぞん",
+      "romaji": "kyouzon",
+      "partOfSpeech": "noun",
+      "meaning": "coexistence",
+      "jlptLevel": "N2",
+      "exampleSentence": "多様な価値観が共存する社会を目指す。",
+      "exampleTranslation": "We aim for a society where diverse values coexist.",
+      "relatedWords": ["共生", "調和"],
+      "notes": "Appears in multicultural topics"
+    }
+  ]
+}

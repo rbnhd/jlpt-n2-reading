@@ -1,0 +1,72 @@
+{
+  "id": "vocab-daily",
+  "category": "daily",
+  "totalWords": 200,
+  "items": [
+    {
+      "id": "v001",
+      "kanji": "通勤",
+      "kana": "つうきん",
+      "romaji": "tsuukin",
+      "partOfSpeech": "noun",
+      "meaning": "commuting to work",
+      "jlptLevel": "N2",
+      "exampleSentence": "通勤時間を読書に使っている。",
+      "exampleTranslation": "I use my commute time for reading.",
+      "relatedWords": ["通学", "出社"],
+      "notes": "Appears in lifestyle passages"
+    },
+    {
+      "id": "v002",
+      "kanji": "節約",
+      "kana": "せつやく",
+      "romaji": "setsuyaku",
+      "partOfSpeech": "noun・する動詞",
+      "meaning": "saving, economizing",
+      "jlptLevel": "N2",
+      "exampleSentence": "光熱費を節約するためにLEDライトを使う。",
+      "exampleTranslation": "I use LED lights to save on utility costs.",
+      "relatedWords": ["倹約", "無駄遣い"],
+      "notes": "Common with 家計 topics"
+    },
+    {
+      "id": "v003",
+      "kanji": "掃除機",
+      "kana": "そうじき",
+      "romaji": "soujiki",
+      "partOfSpeech": "noun",
+      "meaning": "vacuum cleaner",
+      "jlptLevel": "N3",
+      "exampleSentence": "週末に掃除機をかける。",
+      "exampleTranslation": "I vacuum on weekends.",
+      "relatedWords": ["掃除", "片付け"],
+      "notes": "Lower level but appears in daily routine contexts"
+    },
+    {
+      "id": "v004",
+      "kanji": "換気",
+      "kana": "かんき",
+      "romaji": "kanki",
+      "partOfSpeech": "noun・する動詞",
+      "meaning": "ventilation",
+      "jlptLevel": "N2",
+      "exampleSentence": "朝一番に窓を開けて部屋を換気する。",
+      "exampleTranslation": "I open the windows first thing in the morning to ventilate the room.",
+      "relatedWords": ["空気", "新鮮"],
+      "notes": "Frequently appears in health-related advice"
+    },
+    {
+      "id": "v005",
+      "kanji": "保温",
+      "kana": "ほおん",
+      "romaji": "hoon",
+      "partOfSpeech": "noun・する動詞",
+      "meaning": "keeping 温 warm; heat insulation",
+      "jlptLevel": "N2",
+      "exampleSentence": "スープを保温できる容器を持ち歩く。",
+      "exampleTranslation": "I carry a container that keeps my soup warm.",
+      "relatedWords": ["保冷", "温度"],
+      "notes": "Useful for household and lifestyle passages"
+    }
+  ]
+}

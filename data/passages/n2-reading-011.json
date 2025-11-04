@@ -1,0 +1,50 @@
+{
+  "id": "n2-reading-011",
+  "title": "オンライン教育の効果",
+  "category": "academic",
+  "difficulty": 3,
+  "questionType": "統合理解",
+  "passage": "【研究報告A】\nオンライン教育に関する最新の研究では、対面授業と比較して学習効果に大きな差はないことが明らかになった。むしろ、自分のペースで学習できる点や、繰り返し視聴できる点において、オンライン教育の方が優れている場合もある。特に、基礎知識の習得においては、オンライン教育の効果が高いという結果が出ている。\n\n【教師の意見B】\n20年間教壇に立ってきた経験から言えば、オンライン教育では生徒の理解度を把握することが難しい。対面授業では、生徒の表情や態度から理解度を判断し、説明を調整できる。また、生徒同士の議論や協力学習も、対面の方がスムーズに行える。知識の伝達だけでなく、社会性やコミュニケーション能力の育成も教育の重要な役割であることを忘れてはならない。",
+  "estimatedTime": 7,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "研究報告Aと教師の意見Bで共通して認めている点は何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "オンライン教育は完全に対面授業に劣る"},
+        {"id": "b", "text": "教育方法にはそれぞれ特徴がある"},
+        {"id": "c", "text": "対面授業は不要である"},
+        {"id": "d", "text": "オンライン教育は基礎知識の習得に適さない"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "両者とも、それぞれの教育方法に長所と短所があることを認識しています。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "教師が対面授業の利点として挙げていないものはどれか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "生徒の理解度を把握しやすい"},
+        {"id": "b", "text": "繰り返し学習できる"},
+        {"id": "c", "text": "生徒同士の議論がしやすい"},
+        {"id": "d", "text": "社会性の育成ができる"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "繰り返し学習できることは、研究報告Aでオンライン教育の利点として挙げられています。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "教壇", "reading": "きょうだん", "meaning": "teacher's platform"},
+    {"kanji": "把握", "reading": "はあく", "meaning": "grasp, understanding"},
+    {"kanji": "社会性", "reading": "しゃかいせい", "meaning": "sociability"},
+    {"kanji": "育成", "reading": "いくせい", "meaning": "nurturing, development"}
+  ],
+  "grammarPoints": ["〜と比較して", "〜において", "〜から言えば", "〜てはならない"],
+  "metadata": {
+    "dateAdded": "2025-01-04",
+    "source": "Original"
+  }
+}

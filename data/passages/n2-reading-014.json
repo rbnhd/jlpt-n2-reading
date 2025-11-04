@@ -1,0 +1,50 @@
+{
+  "id": "n2-reading-014",
+  "title": "温泉旅館の宿泊プラン",
+  "category": "business",
+  "difficulty": 1,
+  "questionType": "情報検索",
+  "passage": "【山の湯温泉　春の特別プラン】\n\n■桜満喫プラン（3/25～4/15限定）\n・1泊2食付き：15,000円～\n・桜の見える特別室確約\n・夕食時、地酒1本サービス\n・早朝桜見物ツアー付き（希望者のみ）\n\n■ファミリープラン（通年）\n・大人：12,000円\n・小学生：6,000円（大人料金の50％）\n・幼児（3歳以上）：3,000円\n・幼児（3歳未満）：無料\n※和室12畳、最大5名まで\n※子供用浴衣、アメニティ付き\n\n■ビジネスプラン（平日限定）\n・素泊まり：6,500円\n・朝食付き：7,800円\n・2連泊以上で10％割引\n・チェックイン14:00、チェックアウト12:00\n（通常はイン15:00、アウト10:00）\n\n■日帰り入浴\n・大人：1,200円\n・小人：600円\n・営業時間：11:00～20:00（最終受付19:30）\n・タオルセット：300円\n\n【予約・問い合わせ】\n電話：0XXX-XX-XXXX\nWeb：www.yamanoyu-onsen.jp\n※キャンセル料：3日前20％、前日50％、当日100％",
+  "estimatedTime": 10,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "4月10日に大人2名と5歳の子供1名で1泊する場合、ファミリープランの合計金額はいくらか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "24,000円"},
+        {"id": "b", "text": "27,000円"},
+        {"id": "c", "text": "30,000円"},
+        {"id": "d", "text": "36,000円"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "大人12,000円×2名＋幼児（3歳以上）3,000円×1名＝27,000円です。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "ビジネスプランで3泊する場合の朝食付き料金はいくらか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "21,060円"},
+        {"id": "b", "text": "23,400円"},
+        {"id": "c", "text": "17,550円"},
+        {"id": "d", "text": "19,500円"}
+      ],
+      "correctAnswer": "a",
+      "explanation": "朝食付き7,800円×3泊＝23,400円、2連泊以上で10％割引なので、23,400円×0.9＝21,060円です。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "満喫", "reading": "まんきつ", "meaning": "full enjoyment"},
+    {"kanji": "確約", "reading": "かくやく", "meaning": "firm promise, guarantee"},
+    {"kanji": "素泊まり", "reading": "すどまり", "meaning": "staying without meals"},
+    {"kanji": "連泊", "reading": "れんぱく", "meaning": "consecutive nights' stay"}
+  ],
+  "grammarPoints": ["〜付き", "〜以上", "〜限定"],
+  "metadata": {
+    "dateAdded": "2025-01-04",
+    "source": "Original"
+  }
+}

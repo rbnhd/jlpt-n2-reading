@@ -1,0 +1,50 @@
+{
+  "id": "n2-reading-013",
+  "title": "食品ロスを減らすために",
+  "category": "essay",
+  "difficulty": 2,
+  "questionType": "内容理解・短文",
+  "passage": "日本では年間約600万トンもの食品が捨てられている。これは、国民一人当たり毎日お茶碗一杯分の食べ物を捨てていることになる。\n\n食品ロスの原因は様々だ。家庭では、買いすぎや作りすぎ、賞味期限切れなどが主な原因となっている。レストランでは、客の食べ残しや仕込みすぎが問題だ。スーパーやコンビニでは、見た目の悪い野菜や期限の近い商品が廃棄される。\n\nこの問題を解決するには、一人一人の意識改革が必要だ。買い物前に冷蔵庫を確認し、必要な分だけ購入する。料理は食べきれる量を作る。外食時は、食べきれる量を注文する。小さな心がけが、大きな変化を生むのだ。",
+  "estimatedTime": 4,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "日本の食品ロスの量はどのくらいか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "年間約60万トン"},
+        {"id": "b", "text": "年間約600万トン"},
+        {"id": "c", "text": "年間約6000万トン"},
+        {"id": "d", "text": "年間約6億トン"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "文章の冒頭で「年間約600万トンもの食品が捨てられている」と明記されています。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "筆者が提案する解決策として適切でないものはどれか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "買い物前に冷蔵庫を確認する"},
+        {"id": "b", "text": "食べきれる量を作る"},
+        {"id": "c", "text": "賞味期限を無視する"},
+        {"id": "d", "text": "必要な分だけ購入する"}
+      ],
+      "correctAnswer": "c",
+      "explanation": "賞味期限を無視することは提案されていません。むしろ期限切れが原因の一つとして挙げられています。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "食品ロス", "reading": "しょくひんロス", "meaning": "food waste"},
+    {"kanji": "廃棄", "reading": "はいき", "meaning": "disposal, waste"},
+    {"kanji": "仕込み", "reading": "しこみ", "meaning": "preparation"},
+    {"kanji": "心がけ", "reading": "こころがけ", "meaning": "mindset, attention"}
+  ],
+  "grammarPoints": ["〜ことになる", "〜が主な原因となっている", "〜には"],
+  "metadata": {
+    "dateAdded": "2025-01-04",
+    "source": "Original"
+  }
+}

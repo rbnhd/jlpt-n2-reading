@@ -1,0 +1,72 @@
+{
+  "id": "vocab-business",
+  "category": "business",
+  "totalWords": 200,
+  "items": [
+    {
+      "id": "v001",
+      "kanji": "企画",
+      "kana": "きかく",
+      "romaji": "kikaku",
+      "partOfSpeech": "noun",
+      "meaning": "plan, project, proposal",
+      "jlptLevel": "N2",
+      "exampleSentence": "新しい企画を提案しました。",
+      "exampleTranslation": "I proposed a new project.",
+      "relatedWords": ["計画", "案", "提案"],
+      "notes": "Common in business contexts"
+    },
+    {
+      "id": "v002",
+      "kanji": "営業",
+      "kana": "えいぎょう",
+      "romaji": "eigyou",
+      "partOfSpeech": "noun",
+      "meaning": "sales, business operations",
+      "jlptLevel": "N2",
+      "exampleSentence": "営業部で働いています。",
+      "exampleTranslation": "I work in the sales department.",
+      "relatedWords": ["販売", "商売", "営業マン"],
+      "notes": "Can also mean business hours when used as 営業時間"
+    },
+    {
+      "id": "v003",
+      "kanji": "取引",
+      "kana": "とりひき",
+      "romaji": "torihiki",
+      "partOfSpeech": "noun",
+      "meaning": "transaction, business deal",
+      "jlptLevel": "N2",
+      "exampleSentence": "その会社との取引は順調です。",
+      "exampleTranslation": "Business dealings with that company are going smoothly.",
+      "relatedWords": ["商談", "契約", "交渉"],
+      "notes": "取引先 means business partner/client"
+    },
+    {
+      "id": "v004",
+      "kanji": "業績",
+      "kana": "ぎょうせき",
+      "romaji": "gyouseki",
+      "partOfSpeech": "noun",
+      "meaning": "business performance, results",
+      "jlptLevel": "N2",
+      "exampleSentence": "今年の業績は良好です。",
+      "exampleTranslation": "This year's business performance is good.",
+      "relatedWords": ["成績", "実績", "成果"],
+      "notes": "Often used in financial reports"
+    },
+    {
+      "id": "v005",
+      "kanji": "経営",
+      "kana": "けいえい",
+      "romaji": "keiei",
+      "partOfSpeech": "noun",
+      "meaning": "management, administration",
+      "jlptLevel": "N2",
+      "exampleSentence": "経営状態が改善しました。",
+      "exampleTranslation": "The management situation has improved.",
+      "relatedWords": ["運営", "管理", "経営者"],
+      "notes": "経営者 means manager/executive"
+    }
+  ]
+}

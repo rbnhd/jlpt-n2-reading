@@ -1,0 +1,131 @@
+{
+  "id": "grammar-n2",
+  "level": "N2",
+  "totalPatterns": 100,
+  "patterns": [
+    {
+      "id": "g001",
+      "pattern": "〜に関する／〜に関して",
+      "reading": "にかんする／にかんして",
+      "meaning": "regarding, concerning, about",
+      "jlptLevel": "N2",
+      "explanation": "Used to indicate what something relates to or is about. More formal than について.",
+      "formationRules": [
+        "Noun + に関する + Noun",
+        "Noun + に関して"
+      ],
+      "examples": [
+        {
+          "japanese": "環境問題に関する研究を行っています。",
+          "english": "I am conducting research concerning environmental issues."
+        },
+        {
+          "japanese": "この件に関して、ご意見をお聞かせください。",
+          "english": "Please let me hear your opinion regarding this matter."
+        }
+      ],
+      "similarGrammar": ["〜について", "〜に関連して", "〜をめぐって"],
+      "notes": "に関する modifies nouns, に関して is used before verbs/at sentence end"
+    },
+    {
+      "id": "g002",
+      "pattern": "〜によって／〜により／〜による",
+      "reading": "によって／により／による",
+      "meaning": "by, due to, depending on",
+      "jlptLevel": "N2",
+      "explanation": "Multiple uses: 1) indicates means/method 2) indicates cause/reason 3) indicates variation",
+      "formationRules": [
+        "Noun + によって",
+        "Noun + により",
+        "Noun + による + Noun"
+      ],
+      "examples": [
+        {
+          "japanese": "地震によって建物が壊れた。",
+          "english": "The building was destroyed by the earthquake."
+        },
+        {
+          "japanese": "人によって意見が違います。",
+          "english": "Opinions differ depending on the person."
+        },
+        {
+          "japanese": "努力により成功した。",
+          "english": "I succeeded through effort."
+        }
+      ],
+      "similarGrammar": ["〜で", "〜のために", "〜のおかげで"],
+      "notes": "による is attributive form (modifies nouns)"
+    },
+    {
+      "id": "g003",
+      "pattern": "〜において／〜における",
+      "reading": "において／における",
+      "meaning": "in, at, on (formal location/situation)",
+      "jlptLevel": "N2",
+      "explanation": "Formal way to indicate location, time, or situation. More formal than で.",
+      "formationRules": [
+        "Noun + において",
+        "Noun + における + Noun"
+      ],
+      "examples": [
+        {
+          "japanese": "日本において、桜は特別な意味を持つ。",
+          "english": "In Japan, cherry blossoms have special meaning."
+        },
+        {
+          "japanese": "現代社会における問題。",
+          "english": "Problems in modern society."
+        }
+      ],
+      "similarGrammar": ["〜で", "〜にて", "〜では"],
+      "notes": "における modifies nouns, において is used adverbially"
+    },
+    {
+      "id": "g004",
+      "pattern": "〜に対して／〜に対する",
+      "reading": "にたいして／にたいする",
+      "meaning": "toward, against, regarding, in contrast to",
+      "jlptLevel": "N2",
+      "explanation": "Shows direction of action/feeling, or contrast between two things.",
+      "formationRules": [
+        "Noun + に対して",
+        "Noun + に対する + Noun"
+      ],
+      "examples": [
+        {
+          "japanese": "親に対して感謝している。",
+          "english": "I am grateful toward my parents."
+        },
+        {
+          "japanese": "10人に対して1人の割合。",
+          "english": "A ratio of 1 to 10 people."
+        }
+      ],
+      "similarGrammar": ["〜に", "〜について", "〜に比べて"],
+      "notes": "に対する modifies nouns"
+    },
+    {
+      "id": "g005",
+      "pattern": "〜にとって",
+      "reading": "にとって",
+      "meaning": "for, to (from the standpoint of)",
+      "jlptLevel": "N2",
+      "explanation": "Indicates from whose perspective or for whom something is evaluated.",
+      "formationRules": [
+        "Noun + にとって"
+      ],
+      "examples": [
+        {
+          "japanese": "留学生にとって、日本語の敬語は難しい。",
+          "english": "For international students, Japanese honorifics are difficult."
+        },
+        {
+          "japanese": "健康は誰にとっても大切です。",
+          "english": "Health is important for everyone."
+        }
+      ],
+      "similarGrammar": ["〜には", "〜にしては", "〜にすれば"],
+      "notes": "Often used to introduce the perspective"
+    }
+  ]
+}

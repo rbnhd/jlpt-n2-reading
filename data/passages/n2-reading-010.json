@@ -1,0 +1,50 @@
+{
+  "id": "n2-reading-010",
+  "title": "お祭りボランティア募集",
+  "category": "news",
+  "difficulty": 1,
+  "questionType": "情報検索",
+  "passage": "【第25回さくら祭り　ボランティア募集】\n\n開催日：4月7日（土）・8日（日）\n時間：9:00～17:00\n場所：中央公園\n\n■募集内容\n①会場案内係（各日20名）\n・来場者への案内、パンフレット配布\n・経験不問、笑顔で対応できる方\n\n②屋台補助（各日15名）\n・食べ物、飲み物の販売補助\n・立ち仕事が可能な方\n\n③清掃係（各日10名）\n・会場内のゴミ回収、分別\n・体力に自信のある方歓迎\n\n④子供広場係（各日8名）\n・子供向けゲームの運営補助\n・子供が好きな方、保育経験者優遇\n\n■参加特典\n・昼食支給（弁当・飲み物）\n・記念Tシャツプレゼント\n・ボランティア証明書発行（希望者のみ）\n\n■応募条件\n・18歳以上（高校生不可）\n・両日参加できる方優先\n・事前説明会（3月25日14:00～）に参加可能な方\n\n■応募方法\nメールまたは電話で下記までご連絡ください。\nメール：sakura@festival.jp\n電話：0120-XXX-XXXX（平日10:00～16:00）\n締切：3月20日（火）必着",
+  "estimatedTime": 10,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "子供広場係として応募したい大学生が確認すべき条件は何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "保育経験があるかどうか"},
+        {"id": "b", "text": "3月25日の説明会に参加できるかどうか"},
+        {"id": "c", "text": "記念Tシャツのサイズ"},
+        {"id": "d", "text": "昼食の内容"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "応募条件として「事前説明会（3月25日14:00～）に参加可能な方」とあり、これは必須条件です。保育経験は優遇条件であり必須ではありません。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "高校3年生で18歳の人は応募できるか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "できる"},
+        {"id": "b", "text": "できない"},
+        {"id": "c", "text": "保護者の同意があればできる"},
+        {"id": "d", "text": "記載されていない"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "応募条件に「18歳以上（高校生不可）」と明記されているため、18歳でも高校生は応募できません。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "募集", "reading": "ぼしゅう", "meaning": "recruitment"},
+    {"kanji": "経験不問", "reading": "けいけんふもん", "meaning": "no experience required"},
+    {"kanji": "優遇", "reading": "ゆうぐう", "meaning": "preferential treatment"},
+    {"kanji": "必着", "reading": "ひっちゃく", "meaning": "must arrive by"}
+  ],
+  "grammarPoints": ["〜可能な方", "〜に自信のある方", "希望者のみ"],
+  "metadata": {
+    "dateAdded": "2025-01-04",
+    "source": "Original"
+  }
+}

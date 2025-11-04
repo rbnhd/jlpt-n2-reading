@@ -1,0 +1,65 @@
+{
+  "id": "n2-reading-002",
+  "title": "日本の読書離れについて",
+  "category": "essay",
+  "difficulty": 3,
+  "questionType": "内容理解・中文",
+  "passage": "最近の調査によると、日本人の読書時間が年々減少している。特に20代から30代の若い世代では、1か月に1冊も本を読まない人が半数を超えているという。\n\nこの現象の背景には、スマートフォンの普及が大きく関わっている。通勤時間や休憩時間に、以前は本を読んでいた人も、今ではSNSや動画を見ることが多くなった。情報を得る手段が多様化したことで、必ずしも本を読む必要がなくなったとも言える。\n\nしかし、読書には動画やSNSでは得られない価値がある。本を読むことで、想像力が養われ、論理的思考力も身につく。また、長い文章を読む集中力は、仕事や勉強にも役立つはずだ。\n\n読書離れを防ぐためには、子供の頃から本に親しむ環境を作ることが重要だ。学校や家庭で読書の楽しさを伝え、本を読む習慣を身につけさせる必要がある。デジタル時代だからこそ、読書の価値を見直すべきではないだろうか。",
+  "estimatedTime": 8,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "筆者が読書離れの主な原因として挙げているものは何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "本の値段が高くなったこと"},
+        {"id": "b", "text": "スマートフォンの普及"},
+        {"id": "c", "text": "図書館が減少したこと"},
+        {"id": "d", "text": "仕事が忙しくなったこと"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "第2段落で「この現象の背景には、スマートフォンの普及が大きく関わっている」と明確に述べられています。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "筆者が読書の価値として述べていないものはどれか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "想像力が養われる"},
+        {"id": "b", "text": "論理的思考力が身につく"},
+        {"id": "c", "text": "外国語が上達する"},
+        {"id": "d", "text": "集中力が身につく"}
+      ],
+      "correctAnswer": "c",
+      "explanation": "第3段落で想像力、論理的思考力、集中力について言及していますが、外国語の上達については触れていません。",
+      "points": 1
+    },
+    {
+      "id": "q3",
+      "questionText": "筆者の主張として最も適切なものはどれか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "デジタル機器の使用を制限すべきだ"},
+        {"id": "b", "text": "読書の価値を再認識し、読書習慣を育てるべきだ"},
+        {"id": "c", "text": "電子書籍を普及させるべきだ"},
+        {"id": "d", "text": "学校での読書教育を廃止すべきだ"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "最終段落で「デジタル時代だからこそ、読書の価値を見直すべき」と結論づけ、読書習慣の重要性を強調しています。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "読書離れ", "reading": "どくしょばなれ", "meaning": "decline in reading habits"},
+    {"kanji": "普及", "reading": "ふきゅう", "meaning": "spread, popularization"},
+    {"kanji": "多様化", "reading": "たようか", "meaning": "diversification"},
+    {"kanji": "養う", "reading": "やしなう", "meaning": "to cultivate, develop"},
+    {"kanji": "親しむ", "reading": "したしむ", "meaning": "to become familiar with"}
+  ],
+  "grammarPoints": ["〜によると", "〜とも言える", "〜はずだ", "〜べきではないだろうか"],
+  "metadata": {
+    "dateAdded": "2025-01-04",
+    "source": "Original"
+  }
+}

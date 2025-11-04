@@ -1,0 +1,50 @@
+{
+  "id": "n2-reading-001",
+  "title": "新入社員研修のお知らせ",
+  "category": "business",
+  "difficulty": 2,
+  "questionType": "内容理解・短文",
+  "passage": "社員各位\n\n4月15日（月）午前9時より、新入社員向けの研修を開催します。今回の研修では、会社の基本方針や業務システムの使い方について説明します。\n\n参加対象者は今年度入社の新入社員全員となっており、必須参加です。当日は筆記用具とノートパソコンをご持参ください。昼食は会社が用意いたします。\n\nなお、やむを得ない理由で欠席される場合は、前日までに人事部の田中までご連絡ください。後日、個別に研修内容をお伝えします。",
+  "estimatedTime": 4,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "この文章によると、新入社員がすぐに準備しなければならないものは何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "筆記用具とノートパソコン"},
+        {"id": "b", "text": "昼食と飲み物"},
+        {"id": "c", "text": "会社の資料"},
+        {"id": "d", "text": "研修の申込書"}
+      ],
+      "correctAnswer": "a",
+      "explanation": "文章中に「当日は筆記用具とノートパソコンをご持参ください」と明記されています。昼食は会社が用意すると書かれています。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "欠席する場合の対応について正しいものはどれか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "当日の朝に連絡する"},
+        {"id": "b", "text": "前日までに人事部に連絡する"},
+        {"id": "c", "text": "特に連絡は必要ない"},
+        {"id": "d", "text": "研修後に報告書を提出する"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "「前日までに人事部の田中までご連絡ください」と明確に記載されています。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "各位", "reading": "かくい", "meaning": "everyone (formal)"},
+    {"kanji": "必須", "reading": "ひっす", "meaning": "required, mandatory"},
+    {"kanji": "筆記用具", "reading": "ひっきようぐ", "meaning": "writing materials"},
+    {"kanji": "やむを得ない", "reading": "やむをえない", "meaning": "unavoidable, inevitable"}
+  ],
+  "grammarPoints": ["〜について", "〜場合は", "なお"],
+  "metadata": {
+    "dateAdded": "2025-01-04",
+    "source": "Original"
+  }
+}

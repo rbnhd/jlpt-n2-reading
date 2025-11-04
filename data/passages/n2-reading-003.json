@@ -1,0 +1,50 @@
+{
+  "id": "n2-reading-003",
+  "title": "環境に優しい買い物",
+  "category": "news",
+  "difficulty": 2,
+  "questionType": "内容理解・短文",
+  "passage": "最近、エコバッグを持参する人が増えています。プラスチック製のレジ袋が有料化されたことで、多くの人が環境問題を意識するようになりました。\n\nただし、エコバッグも使い方によっては環境に負担をかけることがあります。例えば、エコバッグを何個も買って使わないままにしていたり、すぐに新しいものに買い替えたりすることは、かえって資源の無駄遣いになります。\n\n大切なのは、一つのエコバッグを長く大切に使うことです。そうすることで、本当の意味で環境に優しい買い物ができるのです。",
+  "estimatedTime": 4,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "エコバッグを使う人が増えた理由は何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "エコバッグが安くなったから"},
+        {"id": "b", "text": "レジ袋が有料化されたから"},
+        {"id": "c", "text": "エコバッグのデザインが良くなったから"},
+        {"id": "d", "text": "お店がエコバッグを配布したから"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "文章に「プラスチック製のレジ袋が有料化されたことで」と明記されています。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "筆者が最も伝えたいことは何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "エコバッグをたくさん持つべきだ"},
+        {"id": "b", "text": "エコバッグは使わない方がよい"},
+        {"id": "c", "text": "エコバッグを長く大切に使うべきだ"},
+        {"id": "d", "text": "新しいエコバッグを買うべきだ"}
+      ],
+      "correctAnswer": "c",
+      "explanation": "最終段落で「大切なのは、一つのエコバッグを長く大切に使うこと」と結論づけています。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "持参", "reading": "じさん", "meaning": "bringing with oneself"},
+    {"kanji": "有料化", "reading": "ゆうりょうか", "meaning": "charging fees"},
+    {"kanji": "負担", "reading": "ふたん", "meaning": "burden"},
+    {"kanji": "無駄遣い", "reading": "むだづかい", "meaning": "waste"}
+  ],
+  "grammarPoints": ["〜によっては", "〜ことがある", "〜ことで"],
+  "metadata": {
+    "dateAdded": "2025-01-04",
+    "source": "Original"
+  }
+}
