@@ -1,0 +1,1806 @@
+{
+  "category": "Abstract Concepts Vocabulary",
+  "level": "N2",
+  "items": [
+    {
+      "id": "v001",
+      "word": "概念",
+      "reading": "がいねん",
+      "meaning": "Concept, idea",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "その哲学者は、新しい概念を提唱した。",
+          "translation": "The philosopher proposed a new concept."
+        },
+        {
+          "sentence": "愛という概念を説明するのは難しい。",
+          "translation": "It is difficult to explain the concept of love."
+        }
+      ]
+    },
+    {
+      "id": "v002",
+      "word": "意識",
+      "reading": "いしき",
+      "meaning": "Consciousness, awareness",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は事故で意識を失った。",
+          "translation": "He lost consciousness in the accident."
+        },
+        {
+          "sentence": "環境問題に対する意識を高める必要がある。",
+          "translation": "It is necessary to raise awareness of environmental issues."
+        }
+      ]
+    },
+    {
+      "id": "v003",
+      "word": "存在",
+      "reading": "そんざい",
+      "meaning": "Existence, being",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "神の存在を信じますか。",
+          "translation": "Do you believe in the existence of God?"
+        },
+        {
+          "sentence": "彼の存在は、チームにとって大きい。",
+          "translation": "His presence is significant for the team."
+        }
+      ]
+    },
+    {
+      "id": "v004",
+      "word": "本質",
+      "reading": "ほんしつ",
+      "meaning": "Essence, true nature",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "問題の本質を見極めることが重要だ。",
+          "translation": "It is important to discern the essence of the problem."
+        },
+        {
+          "sentence": "物事の本質を理解するのは容易ではない。",
+          "translation": "It is not easy to understand the true nature of things."
+        }
+      ]
+    },
+    {
+      "id": "v005",
+      "word": "価値",
+      "reading": "かち",
+      "meaning": "Value, worth",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "この絵には、非常に高い芸術的価値がある。",
+          "translation": "This painting has extremely high artistic value."
+        },
+        {
+          "sentence": "人それぞれの価値観を尊重すべきだ。",
+          "translation": "We should respect each person's values."
+        }
+      ]
+    },
+    {
+      "id": "v006",
+      "word": "理想",
+      "reading": "りそう",
+      "meaning": "Ideal",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は高い理想を掲げて、社会活動を行っている。",
+          "translation": "He is engaged in social activities with high ideals."
+        },
+        {
+          "sentence": "理想と現実は、しばしば異なる。",
+          "translation": "Ideals and reality are often different."
+        }
+      ]
+    },
+    {
+      "id": "v007",
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "Reality",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "厳しい現実から目をそむけてはいけない。",
+          "translation": "You must not turn your eyes away from the harsh reality."
+        },
+        {
+          "sentence": "彼の夢は、ついに現実のものとなった。",
+          "translation": "His dream finally became a reality."
+        }
+      ]
+    },
+    {
+      "id": "v008",
+      "word": "自由",
+      "reading": "じゆう",
+      "meaning": "Freedom, liberty",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "表現の自由は、民主主義の基本だ。",
+          "translation": "Freedom of expression is a cornerstone of democracy."
+        },
+        {
+          "sentence": "退職後、自由な時間を楽しんでいる。",
+          "translation": "After retirement, I am enjoying my free time."
+        }
+      ]
+    },
+    {
+      "id": "v009",
+      "word": "平等",
+      "reading": "びょうどう",
+      "meaning": "Equality",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "法の下の平等を求める。",
+          "translation": "We demand equality under the law."
+        },
+        {
+          "sentence": "男女平等の社会を目指すべきだ。",
+          "translation": "We should aim for a society of gender equality."
+        }
+      ]
+    },
+    {
+      "id": "v010",
+      "word": "正義",
+      "reading": "せいぎ",
+      "meaning": "Justice",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は正義のために戦った。",
+          "translation": "He fought for justice."
+        },
+        {
+          "sentence": "何が正義であるかは、立場によって異なることがある。",
+          "translation": "What constitutes justice can differ depending on one's standpoint."
+        }
+      ]
+    },
+    {
+      "id": "v011",
+      "word": "運命",
+      "reading": "うんめい",
+      "meaning": "Fate, destiny",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "二人の出会いは運命だったのかもしれない。",
+          "translation": "Perhaps the meeting of the two was fate."
+        },
+        {
+          "sentence": "自分の運命は、自分で切り開くものだ。",
+          "translation": "One's destiny is something to be carved out by oneself."
+        }
+      ]
+    },
+    {
+      "id": "v012",
+      "word": "偶然",
+      "reading": "ぐうぜん",
+      "meaning": "Coincidence, chance",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "駅で偶然、昔の友人に会った。",
+          "translation": "I met an old friend by chance at the station."
+        },
+        {
+          "sentence": "その発見は、全くの偶然の産物だった。",
+          "translation": "The discovery was a product of pure coincidence."
+        }
+      ]
+    },
+    {
+      "id": "v013",
+      "word": "必然",
+      "reading": "ひつぜん",
+      "meaning": "Inevitability, necessity",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼の成功は、努力の結果であり、必然だった。",
+          "translation": "His success was the result of his efforts and was inevitable."
+        },
+        {
+          "sentence": "歴史の必然について議論する。",
+          "translation": "Discuss the inevitability of history."
+        }
+      ]
+    },
+    {
+      "id": "v014",
+      "word": "矛盾",
+      "reading": "むじゅん",
+      "meaning": "Contradiction",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼の言っていることとやっていることには、矛盾がある。",
+          "translation": "There is a contradiction between what he says and what he does."
+        },
+        {
+          "sentence": "その理論は、内部に矛盾を抱えている。",
+          "translation": "That theory contains internal contradictions."
+        }
+      ]
+    },
+    {
+      "id": "v015",
+      "word": "真理",
+      "reading": "しんり",
+      "meaning": "Truth",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "科学者たちは、宇宙の真理を探求している。",
+          "translation": "Scientists are searching for the truth of the universe."
+        },
+        {
+          "sentence": "普遍的な真理というものは存在するのだろうか。",
+          "translation": "I wonder if universal truths exist."
+        }
+      ]
+    },
+    {
+      "id": "v016",
+      "word": "論理",
+      "reading": "ろんり",
+      "meaning": "Logic",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼の説明は、論理的で分かりやすい。",
+          "translation": "His explanation is logical and easy to understand."
+        },
+        {
+          "sentence": "感情的にならず、論理で考えなさい。",
+          "translation": "Don't get emotional, think with logic."
+        }
+      ]
+    },
+    {
+      "id": "v017",
+      "word": "抽象",
+      "reading": "ちゅうしょう",
+      "meaning": "Abstraction",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "この絵は、具体的な形ではなく、抽象的なイメージを描いている。",
+          "translation": "This painting depicts an abstract image rather than a concrete form."
+        },
+        {
+          "sentence": "抽象的な議論は、分かりにくいことがある。",
+          "translation": "Abstract discussions can be difficult to understand."
+        }
+      ]
+    },
+    {
+      "id": "v018",
+      "word": "具体",
+      "reading": "ぐたい",
+      "meaning": "Concrete, specific",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "抽象的な話ではなく、具体的に説明してください。",
+          "translation": "Please explain it concretely, not in abstract terms."
+        },
+        {
+          "sentence": "具体的な計画を立てる必要がある。",
+          "translation": "It is necessary to make a concrete plan."
+        }
+      ]
+    },
+    {
+      "id": "v019",
+      "word": "主観",
+      "reading": "しゅかん",
+      "meaning": "Subjectivity",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "この記事は、筆者の主観が強く出ている。",
+          "translation": "This article strongly reflects the author's subjectivity."
+        },
+        {
+          "sentence": "評価は、主観に左右されがちだ。",
+          "translation": "Evaluations tend to be influenced by subjectivity."
+        }
+      ]
+    },
+    {
+      "id": "v020",
+      "word": "客観",
+      "reading": "きゃっかん",
+      "meaning": "Objectivity",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "客観的な事実に基づいて判断してください。",
+          "translation": "Please make a judgment based on objective facts."
+        },
+        {
+          "sentence": "彼は、常に客観的な視点を保とうと努めている。",
+          "translation": "He always strives to maintain an objective perspective."
+        }
+      ]
+    },
+    {
+      "id": "v021",
+      "word": "分析",
+      "reading": "ぶんせき",
+      "meaning": "Analysis",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "データを分析して、問題の原因を特定する。",
+          "translation": "Analyze the data to identify the cause of the problem."
+        },
+        {
+          "sentence": "彼は状況を冷静に分析した。",
+          "translation": "He calmly analyzed the situation."
+        }
+      ]
+    },
+    {
+      "id": "v022",
+      "word": "統合",
+      "reading": "とうごう",
+      "meaning": "Integration, unification",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "二つの会社が統合して、新しい会社が設立された。",
+          "translation": "The two companies merged to establish a new company."
+        },
+        {
+          "sentence": "このシステムは、複数の機能を一つに統合している。",
+          "translation": "This system integrates multiple functions into one."
+        }
+      ]
+    },
+    {
+      "id": "v023",
+      "word": "分離",
+      "reading": "ぶんり",
+      "meaning": "Separation, division",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "実験で、混合物から純粋な物質を分離した。",
+          "translation": "In the experiment, a pure substance was separated from the mixture."
+        },
+        {
+          "sentence": "ゴミは、燃えるゴミと燃えないゴミに分離してください。",
+          "translation": "Please separate the trash into burnable and non-burnable."
+        }
+      ]
+    },
+    {
+      "id": "v024",
+      "word": "秩序",
+      "reading": "ちつじょ",
+      "meaning": "Order, discipline",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "社会の秩序を維持することが大切だ。",
+          "translation": "It is important to maintain social order."
+        },
+        {
+          "sentence": "彼の部屋は、いつもきちんと秩序が保たれている。",
+          "translation": "His room is always kept in good order."
+        }
+      ]
+    },
+    {
+      "id": "v025",
+      "word": "混沌",
+      "reading": "こんとん",
+      "meaning": "Chaos",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "革命後、国は混沌とした状態に陥った。",
+          "translation": "After the revolution, the country fell into a state of chaos."
+        },
+        {
+          "sentence": "彼の頭の中は、様々な考えで混沌としていた。",
+          "translation": "His mind was in chaos with various thoughts."
+        }
+      ]
+    },
+    {
+      "id": "v026",
+      "word": "調和",
+      "reading": "ちょうわ",
+      "meaning": "Harmony",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "自然との調和を大切にしたい。",
+          "translation": "I want to cherish harmony with nature."
+        },
+        {
+          "sentence": "この建物は、周囲の景観と美しく調和している。",
+          "translation": "This building is in beautiful harmony with the surrounding landscape."
+        }
+      ]
+    },
+    {
+      "id": "v027",
+      "word": "対立",
+      "reading": "たいりつ",
+      "meaning": "Confrontation, conflict",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "二つの国は、長年対立している。",
+          "translation": "The two countries have been in conflict for many years."
+        },
+        {
+          "sentence": "会議で意見が対立した。",
+          "translation": "Opinions conflicted at the meeting."
+        }
+      ]
+    },
+    {
+      "id": "v028",
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "Cooperation",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "このプロジェクトを成功させるためには、皆の協力が必要だ。",
+          "translation": "Everyone's cooperation is necessary to make this project a success."
+        },
+        {
+          "sentence": "ご協力ありがとうございます。",
+          "translation": "Thank you for your cooperation."
+        }
+      ]
+    },
+    {
+      "id": "v029",
+      "word": "権力",
+      "reading": "けんりょく",
+      "meaning": "Power, authority",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は、絶大な権力を手に入れた。",
+          "translation": "He obtained immense power."
+        },
+        {
+          "sentence": "権力は、腐敗しやすいと言われている。",
+          "translation": "It is said that power tends to corrupt."
+        }
+      ]
+    },
+    {
+      "id": "v030",
+      "word": "義務",
+      "reading": "ぎむ",
+      "meaning": "Duty, obligation",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "国民には、納税の義務がある。",
+          "translation": "Citizens have an obligation to pay taxes."
+        },
+        {
+          "sentence": "子供を育てるのは、親の義務だ。",
+          "translation": "It is a parent's duty to raise their children."
+        }
+      ]
+    },
+    {
+      "id": "v031",
+      "word": "権利",
+      "reading": "けんり",
+      "meaning": "Right, privilege",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "全ての人間は、幸福を追求する権利を持つ。",
+          "translation": "All human beings have the right to pursue happiness."
+        },
+        {
+          "sentence": "自分の権利を主張することは大切だ。",
+          "translation": "It is important to assert your rights."
+        }
+      ]
+    },
+    {
+      "id": "v032",
+      "word": "責任",
+      "reading": "せきにん",
+      "meaning": "Responsibility",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "この失敗の責任は、私にあります。",
+          "translation": "The responsibility for this failure lies with me."
+        },
+        {
+          "sentence": "彼は、責任感の強い人だ。",
+          "translation": "He is a person with a strong sense of responsibility."
+        }
+      ]
+    },
+    {
+      "id": "v033",
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaning": "Tradition",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "その祭りは、何百年も続く伝統的な行事だ。",
+          "translation": "The festival is a traditional event that has continued for hundreds of years."
+        },
+        {
+          "sentence": "古い伝統を守りながら、新しい文化も取り入れている。",
+          "translation": "While preserving old traditions, they are also incorporating new culture."
+        }
+      ]
+    },
+    {
+      "id": "v034",
+      "word": "革新",
+      "reading": "かくしん",
+      "meaning": "Innovation, reform",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "技術革新が、社会を大きく変えた。",
+          "translation": "Technological innovation has greatly changed society."
+        },
+        {
+          "sentence": "彼は、会社の経営に革新をもたらした。",
+          "translation": "He brought innovation to the company's management."
+        }
+      ]
+    },
+    {
+      "id": "v035",
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaning": "Culture",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "日本のアニメは、世界中で人気の文化になっている。",
+          "translation": "Japanese anime has become a popular culture all over the world."
+        },
+        {
+          "sentence": "異文化を理解することは、国際交流の第一歩だ。",
+          "translation": "Understanding different cultures is the first step in international exchange."
+        }
+      ]
+    },
+    {
+      "id": "v036",
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "Civilization",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "古代エジプト文明は、多くの謎に包まれている。",
+          "translation": "Ancient Egyptian civilization is shrouded in many mysteries."
+        },
+        {
+          "sentence": "インターネットは、現代文明の象徴だ。",
+          "translation": "The internet is a symbol of modern civilization."
+        }
+      ]
+    },
+    {
+      "id": "v037",
+      "word": "個人",
+      "reading": "こじん",
+      "meaning": "Individual",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "個人の意見を尊重することが重要だ。",
+          "translation": "It is important to respect individual opinions."
+        },
+        {
+          "sentence": "この問題は、個人レベルで解決できるものではない。",
+          "translation": "This problem cannot be solved at the individual level."
+        }
+      ]
+    },
+    {
+      "id": "v038",
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "Society",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "高齢化は、現代社会の大きな課題だ。",
+          "translation": "An aging population is a major issue in modern society."
+        },
+        {
+          "sentence": "彼は、社会に貢献したいと考えている。",
+          "translation": "He wants to contribute to society."
+        }
+      ]
+    },
+    {
+      "id": "v039",
+      "word": "組織",
+      "reading": "そしき",
+      "meaning": "Organization",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は、巨大な犯罪組織のリーダーだった。",
+          "translation": "He was the leader of a huge criminal organization."
+        },
+        {
+          "sentence": "効率的な組織を作るためには、明確な目標が必要だ。",
+          "translation": "Clear goals are necessary to create an efficient organization."
+        }
+      ]
+    },
+    {
+      "id": "v040",
+      "word": "共同体",
+      "reading": "きょうどうたい",
+      "meaning": "Community",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "地域共同体との連携を深める。",
+          "translation": "Deepen cooperation with the local community."
+        },
+        {
+          "sentence": "彼らは、同じ目的を持つ運命共同体だ。",
+          "translation": "They are a community of fate with the same purpose."
+        }
+      ]
+    },
+    {
+      "id": "v041",
+      "word": "感情",
+      "reading": "かんじょう",
+      "meaning": "Emotion, feeling",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は感情をあまり表に出さない。",
+          "translation": "He doesn't show his emotions much."
+        },
+        {
+          "sentence": "その映画を見て、様々な感情が湧き上がってきた。",
+          "translation": "Watching that movie, various emotions welled up inside me."
+        }
+      ]
+    },
+    {
+      "id": "v042",
+      "word": "理性",
+      "reading": "りせい",
+      "meaning": "Reason, rationality",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "感情に流されず、理性で判断することが大切だ。",
+          "translation": "It is important to judge with reason, without being swayed by emotion."
+        },
+        {
+          "sentence": "人間は理性を持つ動物である。",
+          "translation": "Humans are animals that possess reason."
+        }
+      ]
+    },
+    {
+      "id": "v043",
+      "word": "精神",
+      "reading": "せいしん",
+      "meaning": "Spirit, mind, soul",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "健全な精神は、健全な身体に宿る。",
+          "translation": "A sound mind dwells in a sound body."
+        },
+        {
+          "sentence": "彼は、強い精神力で困難を乗り越えた。",
+          "translation": "He overcame difficulties with his strong spirit."
+        }
+      ]
+    },
+    {
+      "id": "v044",
+      "word": "物質",
+      "reading": "ぶっしつ",
+      "meaning": "Substance, material",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "この世の全てのものは、物質でできている。",
+          "translation": "Everything in this world is made of matter."
+        },
+        {
+          "sentence": "彼は、精神的な豊かさよりも物質的な豊かさを求める。",
+          "translation": "He seeks material wealth more than spiritual wealth."
+        }
+      ]
+    },
+    {
+      "id": "v045",
+      "word": "エネルギー",
+      "reading": "エネルギー",
+      "meaning": "Energy",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "再生可能エネルギーへの転換が求められている。",
+          "translation": "A shift to renewable energy is required."
+        },
+        {
+          "sentence": "彼は、常にエネルギーに満ち溢れている。",
+          "translation": "He is always full of energy."
+        }
+      ]
+    },
+    {
+      "id": "v046",
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "Time",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "時間は、誰にでも平等に与えられている。",
+          "translation": "Time is given equally to everyone."
+        },
+        {
+          "sentence": "楽しい時間は、あっという間に過ぎてしまう。",
+          "translation": "Fun times pass by in a flash."
+        }
+      ]
+    },
+    {
+      "id": "v047",
+      "word": "空間",
+      "reading": "くうかん",
+      "meaning": "Space",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "宇宙空間には、無数の星が存在する。",
+          "translation": "Countless stars exist in outer space."
+        },
+        {
+          "sentence": "この部屋は、空間をうまく利用している。",
+          "translation": "This room makes good use of space."
+        }
+      ]
+    },
+    {
+      "id": "v048",
+      "word": "原因",
+      "reading": "げんいん",
+      "meaning": "Cause",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "事故の原因は、まだ分かっていない。",
+          "translation": "The cause of the accident is not yet known."
+        },
+        {
+          "sentence": "全ての出来事には、原因がある。",
+          "translation": "Every event has a cause."
+        }
+      ]
+    },
+    {
+      "id": "v049",
+      "word": "結果",
+      "reading": "けっか",
+      "meaning": "Result, consequence",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "努力すれば、必ず良い結果が出るとは限らない。",
+          "translation": "Effort does not always guarantee a good result."
+        },
+        {
+          "sentence": "試験の結果が発表された。",
+          "translation": "The results of the exam have been announced."
+        }
+      ]
+    },
+    {
+      "id": "v050",
+      "word": "目的",
+      "reading": "もくてき",
+      "meaning": "Purpose, goal",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "人生の目的は何ですか。",
+          "translation": "What is the purpose of life?"
+        },
+        {
+          "sentence": "目的を達成するためには、計画が必要だ。",
+          "translation": "A plan is necessary to achieve a goal."
+        }
+      ]
+    },
+    {
+      "id": "v051",
+      "word": "手段",
+      "reading": "しゅだん",
+      "meaning": "Means, way, measure",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "目的のためには手段を選ばない。",
+          "translation": "The end justifies the means."
+        },
+        {
+          "sentence": "問題を解決するための、あらゆる手段を試した。",
+          "translation": "I tried all possible means to solve the problem."
+        }
+      ]
+    },
+    {
+      "id": "v052",
+      "word": "形式",
+      "reading": "けいしき",
+      "meaning": "Form, formality",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "手紙には、決まった形式がある。",
+          "translation": "There is a set format for letters."
+        },
+        {
+          "sentence": "形式にこだわらず、自由に話し合いましょう。",
+          "translation": "Let's discuss freely without being bound by formality."
+        }
+      ]
+    },
+    {
+      "id": "v053",
+      "word": "内容",
+      "reading": "ないよう",
+      "meaning": "Content",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "この本の内容は、非常に興味深い。",
+          "translation": "The content of this book is very interesting."
+        },
+        {
+          "sentence": "会議の内容を要約してください。",
+          "translation": "Please summarize the content of the meeting."
+        }
+      ]
+    },
+    {
+      "id": "v054",
+      "word": "構造",
+      "reading": "こうぞう",
+      "meaning": "Structure, construction",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "この建物の構造は、非常に複雑だ。",
+          "translation": "The structure of this building is very complex."
+        },
+        {
+          "sentence": "社会の構造的な問題を解決する必要がある。",
+          "translation": "It is necessary to solve the structural problems of society."
+        }
+      ]
+    },
+    {
+      "id": "v055",
+      "word": "機能",
+      "reading": "きのう",
+      "meaning": "Function",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "このスマートフォンには、たくさんの便利な機能がある。",
+          "translation": "This smartphone has many useful functions."
+        },
+        {
+          "sentence": "心臓は、血液を全身に送る機能を持っている。",
+          "translation": "The heart has the function of sending blood throughout the body."
+        }
+      ]
+    },
+    {
+      "id": "v056",
+      "word": "関係",
+      "reading": "かんけい",
+      "meaning": "Relationship, connection",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "二人の関係は、誰にも知られていなかった。",
+          "translation": "No one knew about their relationship."
+        },
+        {
+          "sentence": "この事件と彼は、何か関係があるのだろうか。",
+          "translation": "I wonder if he has any connection to this incident."
+        }
+      ]
+    },
+    {
+      "id": "v057",
+      "word": "影響",
+      "reading": "えいきょう",
+      "meaning": "Influence, effect",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼の言葉は、私に大きな影響を与えた。",
+          "translation": "His words had a great influence on me."
+        },
+        {
+          "sentence": "台風の影響で、電車が遅れている。",
+          "translation": "The trains are delayed due to the effect of the typhoon."
+        }
+      ]
+    },
+    {
+      "id": "v058",
+      "word": "変化",
+      "reading": "へんか",
+      "meaning": "Change",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "時代の変化に対応していく必要がある。",
+          "translation": "It is necessary to adapt to the changes of the times."
+        },
+        {
+          "sentence": "彼の心境に、何か変化があったようだ。",
+          "translation": "There seems to have been some change in his state of mind."
+        }
+      ]
+    },
+    {
+      "id": "v059",
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "Development, growth",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "経済の発展が、人々の生活を豊かにした。",
+          "translation": "Economic development has enriched people's lives."
+        },
+        {
+          "sentence": "この国は、急速な発展を遂げている。",
+          "translation": "This country is undergoing rapid development."
+        }
+      ]
+    },
+    {
+      "id": "v060",
+      "word": "衰退",
+      "reading": "すいたい",
+      "meaning": "Decline, decay",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "その古代文明は、謎の衰退を遂げた。",
+          "translation": "That ancient civilization met a mysterious decline."
+        },
+        {
+          "sentence": "産業の衰退が、地域の活力を失わせている。",
+          "translation": "The decline of industry is causing the region to lose its vitality."
+        }
+      ]
+    },
+    {
+      "id": "v061",
+      "word": "創造",
+      "reading": "そうぞう",
+      "meaning": "Creation",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "神は、天地を創造した。",
+          "translation": "God created the heavens and the earth."
+        },
+        {
+          "sentence": "彼は、新しい芸術の形式を創造した。",
+          "translation": "He created a new form of art."
+        }
+      ]
+    },
+    {
+      "id": "v062",
+      "word": "破壊",
+      "reading": "はかい",
+      "meaning": "Destruction",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "戦争は、多くの都市を破壊した。",
+          "translation": "The war destroyed many cities."
+        },
+        {
+          "sentence": "環境破壊が、深刻な問題となっている。",
+          "translation": "Environmental destruction has become a serious problem."
+        }
+      ]
+    },
+    {
+      "id": "v063",
+      "word": "普遍",
+      "reading": "ふへん",
+      "meaning": "Universal",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "愛は、人類に共通する普遍的な感情だ。",
+          "translation": "Love is a universal emotion common to all humanity."
+        },
+        {
+          "sentence": "その理論は、普遍的な真理として受け入れられている。",
+          "translation": "That theory is accepted as a universal truth."
+        }
+      ]
+    },
+    {
+      "id": "v064",
+      "word": "特殊",
+      "reading": "とくしゅ",
+      "meaning": "Special, particular",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は、特殊な能力を持っている。",
+          "translation": "He has a special ability."
+        },
+        {
+          "sentence": "これは、非常に特殊なケースだ。",
+          "translation": "This is a very particular case."
+        }
+      ]
+    },
+    {
+      "id": "v065",
+      "word": "絶対",
+      "reading": "ぜったい",
+      "meaning": "Absolute",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "この世に絶対的なものは存在しない。",
+          "translation": "Nothing is absolute in this world."
+        },
+        {
+          "sentence": "彼は、自分の判断に絶対の自信を持っている。",
+          "translation": "He has absolute confidence in his judgment."
+        }
+      ]
+    },
+    {
+      "id": "v066",
+      "word": "相対",
+      "reading": "そうたい",
+      "meaning": "Relative",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "美しさの基準は、相対的なものだ。",
+          "translation": "The standard of beauty is relative."
+        },
+        {
+          "sentence": "アインシュタインは、相対性理論を発見した。",
+          "translation": "Einstein discovered the theory of relativity."
+        }
+      ]
+    },
+    {
+      "id": "v067",
+      "word": "可能性",
+      "reading": "かのうせい",
+      "meaning": "Possibility, potential",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "失敗する可能性もあることを、忘れてはいけない。",
+          "translation": "You must not forget that there is also a possibility of failure."
+        },
+        {
+          "sentence": "彼は、無限の可能性を秘めている。",
+          "translation": "He holds infinite potential."
+        }
+      ]
+    },
+    {
+      "id": "v068",
+      "word": "現実性",
+      "reading": "げんじつせい",
+      "meaning": "Reality, feasibility",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "その計画は、現実性に乏しい。",
+          "translation": "That plan lacks feasibility."
+        },
+        {
+          "sentence": "夢物語ではなく、現実性のある提案をしてほしい。",
+          "translation": "I want you to make a realistic proposal, not a fantasy."
+        }
+      ]
+    },
+    {
+      "id": "v069",
+      "word": "象徴",
+      "reading": "しょうちょう",
+      "meaning": "Symbol",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "ハトは、平和の象徴だ。",
+          "translation": "The dove is a symbol of peace."
+        },
+        {
+          "sentence": "この塔は、この街の象徴として建てられた。",
+          "translation": "This tower was built as a symbol of this city."
+        }
+      ]
+    },
+    {
+      "id": "v070",
+      "word": "比喩",
+      "reading": "ひゆ",
+      "meaning": "Metaphor, figure of speech",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は、巧みな比喩を使って、複雑な状況を説明した。",
+          "translation": "He explained the complex situation using a clever metaphor."
+        },
+        {
+          "sentence": "「人生は旅だ」というのは、よく使われる比喩だ。",
+          "translation": "'Life is a journey' is a commonly used metaphor."
+        }
+      ]
+    },
+    {
+      "id": "v071",
+      "word": "神秘",
+      "reading": "しんぴ",
+      "meaning": "Mystery",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "宇宙の神秘に、人々は魅了される。",
+          "translation": "People are fascinated by the mysteries of the universe."
+        },
+        {
+          "sentence": "その古代遺跡は、神秘的な雰囲気に包まれていた。",
+          "translation": "The ancient ruins were enveloped in a mysterious atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "v072",
+      "word": "秩序",
+      "reading": "ちつじょ",
+      "meaning": "Order",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "社会の秩序を守ることは警察の仕事だ。",
+          "translation": "It is the job of the police to maintain social order."
+        },
+        {
+          "sentence": "地震の後、町は秩序を失った。",
+          "translation": "The town lost its order after the earthquake."
+        }
+      ]
+    },
+    {
+      "id": "v073",
+      "word": "美",
+      "reading": "び",
+      "meaning": "Beauty",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼女は、自然の美しさに感動した。",
+          "translation": "She was moved by the beauty of nature."
+        },
+        {
+          "sentence": "美の基準は、時代や文化によって異なる。",
+          "translation": "Standards of beauty differ depending on the era and culture."
+        }
+      ]
+    },
+    {
+      "id": "v074",
+      "word": "善",
+      "reading": "ぜん",
+      "meaning": "Good",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は、善と悪の間で葛藤した。",
+          "translation": "He struggled between good and evil."
+        },
+        {
+          "sentence": "善を行うことは、必ずしも容易ではない。",
+          "translation": "Doing good is not always easy."
+        }
+      ]
+    },
+    {
+      "id": "v075",
+      "word": "悪",
+      "reading": "あく",
+      "meaning": "Evil",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "物語の中で、ヒーローは悪と戦う。",
+          "translation": "In the story, the hero fights against evil."
+        },
+        {
+          "sentence": "彼は、自分の行いが悪であると気づいていなかった。",
+          "translation": "He was not aware that his actions were evil."
+        }
+      ]
+    },
+    {
+      "id": "v076",
+      "word": "幸福",
+      "reading": "こうふく",
+      "meaning": "Happiness",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "本当の幸福とは何か、彼は考え続けている。",
+          "translation": "He continues to think about what true happiness is."
+        },
+        {
+          "sentence": "家族と過ごす時間が、私にとっての幸福だ。",
+          "translation": "The time I spend with my family is happiness for me."
+        }
+      ]
+    },
+    {
+      "id": "v077",
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "Unhappiness, misfortune",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は、度重なる不幸に見舞われた。",
+          "translation": "He was struck by repeated misfortunes."
+        },
+        {
+          "sentence": "他人の不幸を喜ぶべきではない。",
+          "translation": "You should not rejoice in the unhappiness of others."
+        }
+      ]
+    },
+    {
+      "id": "v078",
+      "word": "希望",
+      "reading": "きぼう",
+      "meaning": "Hope",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "どんなに困難な状況でも、希望を捨ててはいけない。",
+          "translation": "No matter how difficult the situation, you must not give up hope."
+        },
+        {
+          "sentence": "若者たちは、未来への希望に満ちている。",
+          "translation": "The young people are full of hope for the future."
+        }
+      ]
+    },
+    {
+      "id": "v079",
+      "word": "絶望",
+      "reading": "ぜつぼう",
+      "meaning": "Despair",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は、全てを失い、絶望の淵に立たされた。",
+          "translation": "He lost everything and was pushed to the brink of despair."
+        },
+        {
+          "sentence": "絶望的な状況から、奇跡的に生還した。",
+          "translation": "He miraculously survived a desperate situation."
+        }
+      ]
+    },
+    {
+      "id": "v080",
+      "word": "宿命",
+      "reading": "しゅくめい",
+      "meaning": "Destiny, fate (often with a negative connotation)",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼らは、戦うしかないという宿命を背負っていた。",
+          "translation": "They bore the destiny of having no choice but to fight."
+        },
+        {
+          "sentence": "それは、彼にとって変えることのできない宿命だった。",
+          "translation": "It was a destiny that he could not change."
+        }
+      ]
+    },
+    {
+      "id": "v081",
+      "word": "愛",
+      "reading": "あい",
+      "meaning": "Love",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "母の愛は、何よりも深い。",
+          "translation": "A mother's love is deeper than anything."
+        },
+        {
+          "sentence": "彼は、彼女への愛を告白した。",
+          "translation": "He confessed his love for her."
+        }
+      ]
+    },
+    {
+      "id": "v082",
+      "word": "憎しみ",
+      "reading": "にくしみ",
+      "meaning": "Hatred",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "憎しみは、新たな憎しみしか生まない。",
+          "translation": "Hatred only breeds new hatred."
+        },
+        {
+          "sentence": "彼は、裏切った友人への憎しみを募らせた。",
+          "translation": "He harbored a growing hatred for the friend who betrayed him."
+        }
+      ]
+    },
+    {
+      "id": "v083",
+      "word": "喜び",
+      "reading": "よろこび",
+      "meaning": "Joy, delight",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "合格の知らせを聞いて、彼は喜びの声を上げた。",
+          "translation": "Hearing the news of his acceptance, he cried out with joy."
+        },
+        {
+          "sentence": "子供の成長は、親にとって大きな喜びだ。",
+          "translation": "A child's growth is a great joy for a parent."
+        }
+      ]
+    },
+    {
+      "id": "v084",
+      "word": "悲しみ",
+      "reading": "かなしみ",
+      "meaning": "Sadness, sorrow",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼女は、愛犬の死の悲しみを乗り越えようとしている。",
+          "translation": "She is trying to overcome the sadness of her beloved dog's death."
+        },
+        {
+          "sentence": "その知らせは、人々に深い悲しみをもたらした。",
+          "translation": "The news brought deep sorrow to the people."
+        }
+      ]
+    },
+    {
+      "id": "v085",
+      "word": "怒り",
+      "reading": "いかり",
+      "meaning": "Anger, rage",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼の不正な行為に、私は怒りを感じた。",
+          "translation": "I felt anger at his dishonest act."
+        },
+        {
+          "sentence": "怒りをコントロールすることは、とても重要だ。",
+          "translation": "It is very important to control your anger."
+        }
+      ]
+    },
+    {
+      "id": "v086",
+      "word": "恐怖",
+      "reading": "きょうふ",
+      "meaning": "Fear, terror",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は、暗闇に対して恐怖を感じる。",
+          "translation": "He feels fear towards the darkness."
+        },
+        {
+          "sentence": "失敗を恐れずに、挑戦することが大切だ。",
+          "translation": "It is important to challenge yourself without fear of failure."
+        }
+      ]
+    },
+    {
+      "id": "v087",
+      "word": "勇気",
+      "reading": "ゆうき",
+      "meaning": "Courage, bravery",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "彼は、困難に立ち向かう勇気を持っている。",
+          "translation": "He has the courage to face difficulties."
+        },
+        {
+          "sentence": "真実を語るには、勇気が必要だ。",
+          "translation": "It takes courage to tell the truth."
+        }
+      ]
+    },
+    {
+      "id": "v088",
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaning": "Trust, confidence",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "信頼関係を築くには、時間がかかる。",
+          "translation": "It takes time to build a relationship of trust."
+        },
+        {
+          "sentence": "私は、彼の言葉を完全に信頼している。",
+          "translation": "I completely trust his words."
+        }
+      ]
+    },
+    {
+      "id": "v089",
+      "word": "裏切り",
+      "reading": "うらぎり",
+      "meaning": "Betrayal",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "親友からの裏切りは、彼を深く傷つけた。",
+          "translation": "The betrayal from his best friend hurt him deeply."
+        },
+        {
+          "sentence": "彼は、決して仲間を裏切るような人間ではない。",
+          "translation": "He is not the kind of person who would ever betray his comrades."
+        }
+      ]
+    },
+    {
+      "id": "v090",
+      "word": "孤独",
+      "reading": "こどく",
+      "meaning": "Loneliness, solitude",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "大都会の中で、彼は深い孤独を感じていた。",
+          "translation": "In the big city, he felt a deep sense of loneliness."
+        },
+        {
+          "sentence": "時には、孤独になる時間も必要だ。",
+          "translation": "Sometimes, time to be in solitude is also necessary."
+        }
+      ]
+    },
+    {
+      "id": "v091",
+      "word": "絆",
+      "reading": "きずな",
+      "meaning": "Bond, ties",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "家族の絆は、何よりも強い。",
+          "translation": "The bond of family is stronger than anything."
+        },
+        {
+          "sentence": "彼らは、苦しい時を共に乗り越え、固い絆で結ばれている。",
+          "translation": "They have overcome difficult times together and are bound by a strong bond."
+        }
+      ]
+    },
+    {
+      "id": "v092",
+      "word": "記憶",
+      "reading": "きおく",
+      "meaning": "Memory",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "幼い頃の記憶は、今でも鮮明に残っている。",
+          "translation": "Memories from my early childhood still remain vivid."
+        },
+        {
+          "sentence": "彼は、事故で記憶の一部を失った。",
+          "translation": "He lost a part of his memory in the accident."
+        }
+      ]
+    },
+    {
+      "id": "v093",
+      "word": "忘却",
+      "reading": "ぼうきゃく",
+      "meaning": "Oblivion, forgetting",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "辛い過去は、忘却の彼方へと追いやった。",
+          "translation": "I pushed the painful past into oblivion."
+        },
+        {
+          "sentence": "時の流れは、多くのことを忘却させる。",
+          "translation": "The flow of time makes us forget many things."
+        }
+      ]
+    },
+    {
+      "id": "v094",
+      "word": "創造",
+      "reading": "そうぞう",
+      "meaning": "Creation",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "神は、天地を創造したと言われている。",
+          "translation": "It is said that God created the heavens and the earth."
+        },
+        {
+          "sentence": "芸術家は、無から有を創造する。",
+          "translation": "Artists create something out of nothing."
+        }
+      ]
+    },
+    {
+      "id": "v095",
+      "word": "破壊",
+      "reading": "はかい",
+      "meaning": "Destruction",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "戦争は、多くの都市を破壊した。",
+          "translation": "The war destroyed many cities."
+        },
+        {
+          "sentence": "環境破壊は、深刻な問題となっている。",
+          "translation": "Environmental destruction has become a serious problem."
+        }
+      ]
+    },
+    {
+      "id": "v096",
+      "word": "永遠",
+      "reading": "えいえん",
+      "meaning": "Eternity",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "二人の愛は、永遠に続くと信じていた。",
+          "translation": "I believed that the love between the two would last for eternity."
+        },
+        {
+          "sentence": "永遠の命を手に入れることは、人間の夢の一つだ。",
+          "translation": "Obtaining eternal life is one of humanity's dreams."
+        }
+      ]
+    },
+    {
+      "id": "v097",
+      "word": "瞬間",
+      "reading": "しゅんかん",
+      "meaning": "Moment, instant",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "その美しい景色を見た瞬間、息をのんだ。",
+          "translation": "The moment I saw that beautiful scenery, I held my breath."
+        },
+        {
+          "sentence": "人生は、瞬間の積み重ねだ。",
+          "translation": "Life is an accumulation of moments."
+        }
+      ]
+    },
+    {
+      "id": "v098",
+      "word": "無限",
+      "reading": "むげん",
+      "meaning": "Infinity",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "宇宙の広さは、無限だと考えられている。",
+          "translation": "The vastness of the universe is considered to be infinite."
+        },
+        {
+          "sentence": "子供の可能性は、無限だ。",
+          "translation": "A child's potential is infinite."
+        }
+      ]
+    },
+    {
+      "id": "v099",
+      "word": "有限",
+      "reading": "ゆうげん",
+      "meaning": "Finite",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "地球の資源は、有限であることを忘れてはならない。",
+          "translation": "We must not forget that the Earth's resources are finite."
+        },
+        {
+          "sentence": "私たちの命は、有限だ。",
+          "translation": "Our lives are finite."
+        }
+      ]
+    },
+    {
+      "id": "v100",
+      "word": "無",
+      "reading": "む",
+      "meaning": "Nothingness",
+      "level": "N2",
+      "category": "Abstract Concepts",
+      "examples": [
+        {
+          "sentence": "禅の教えでは、「無」の境地を目指す。",
+          "translation": "In Zen teachings, one aims for a state of 'nothingness'."
+        },
+        {
+          "sentence": "彼の努力は、全て無に帰した。",
+          "translation": "All his efforts came to nothing."
+        }
+      ]
+    }
+  ]
+}

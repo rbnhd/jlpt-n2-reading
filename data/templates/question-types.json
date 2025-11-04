@@ -1,0 +1,125 @@
+{
+  "questionTypes": [
+    {
+      "id": "q-type-001",
+      "name": "内容理解（短文）- Short Passage Comprehension",
+      "description": "Read a short passage (approx. 200 characters) and answer a single question about its content. Tests ability to grasp the main point of a simple text.",
+      "passageLength": "Short (150-250 characters)",
+      "questionFocus": "Main idea, specific detail, or author's intent.",
+      "distractorPatterns": [
+        "Overly broad generalizations.",
+        "Statements that are true but not mentioned in the text.",
+        "Slightly incorrect details (e.g., wrong actor, time, or degree).",
+        "Plausible but unsupported inferences."
+      ],
+      "exampleSchema": {
+        "passageId": "n2-reading-xxx",
+        "questionId": "q001",
+        "question": "筆者が最も言いたいことは何か。",
+        "choices": [],
+        "correctAnswer": "c"
+      }
+    },
+    {
+      "id": "q-type-002",
+      "name": "内容理解（中文）- Medium Passage Comprehension",
+      "description": "Read a medium-length passage (approx. 500 characters) and answer multiple questions. Tests understanding of logical flow, reasoning, and detailed information.",
+      "passageLength": "Medium (400-600 characters)",
+      "questionFocus": "Causal relationships, author's reasoning, meaning of underlined phrases, specific details.",
+      "distractorPatterns": [
+        "Correctly stated cause linked to the wrong effect.",
+        "Paraphrasing of the text that changes the nuance.",
+        "Answers that are only partially correct.",
+        "Confusing the author's opinion with a generally accepted idea."
+      ],
+      "exampleSchema": {
+        "passageId": "n2-reading-yyy",
+        "questions": [
+          {
+            "questionId": "q001",
+            "question": "「それ」が指す内容は何か。",
+            "choices": [],
+            "correctAnswer": "a"
+          },
+          {
+            "questionId": "q002",
+            "question": "この文章の内容と合っているものはどれか。",
+            "choices": [],
+            "correctAnswer": "d"
+          }
+        ]
+      }
+    },
+    {
+      "id": "q-type-003",
+      "name": "統合理解 - Integrated Comprehension",
+      "description": "Read and compare two different texts (A and B) on the same topic and answer questions that require synthesizing information from both. Tests comparative and analytical skills.",
+      "passageLength": "Two passages, approx. 300-400 characters each.",
+      "questionFocus": "Points of agreement and disagreement, information unique to one text, conclusions that can be drawn from both.",
+      "distractorPatterns": [
+        "Information true for text A but presented as true for both.",
+        "A point of disagreement presented as a point of agreement.",
+        "A conclusion that is too extreme or not fully supported by both texts.",
+        "Confusing the main point of one text with the shared topic."
+      ],
+      "exampleSchema": {
+        "passageId": "n2-reading-zzz",
+        "passageA": "Text A content...",
+        "passageB": "Text B content...",
+        "questions": [
+          {
+            "questionId": "q001",
+            "question": "AとBの両方の文章に共通する考えは何か。",
+            "choices": [],
+            "correctAnswer": "b"
+          }
+        ]
+      }
+    },
+    {
+      "id": "q-type-004",
+      "name": "主張理解（長文）- Thematic Comprehension (Long Passage)",
+      "description": "Read a long, often abstract or argumentative passage (approx. 900 characters) and answer questions about the author's overall argument, tone, and key ideas. Tests deep comprehension of complex texts.",
+      "passageLength": "Long (800-1000 characters)",
+      "questionFocus": "Author's main assertion, underlying theme, structure of the argument, attitude towards the topic.",
+      "distractorPatterns": [
+        "A supporting detail presented as the main theme.",
+        "A counter-argument mentioned by the author, presented as their own opinion.",
+        "A correct statement that doesn't capture the full nuance of the author's claim.",
+        "Misrepresenting the author's tone (e.g., critical vs. neutral)."
+      ],
+      "exampleSchema": {
+        "passageId": "n2-reading-aaa",
+        "questions": [
+          {
+            "questionId": "q001",
+            "question": "この文章で筆者が最も強く主張していることは何か。",
+            "choices": [],
+            "correctAnswer": "c"
+          }
+        ]
+      }
+    },
+    {
+      "id": "q-type-005",
+      "name": "情報検索 - Information Retrieval",
+      "description": "Scan a practical text like a poster, flyer, email, or chart to find specific pieces of information needed to answer questions. Tests practical reading and information extraction skills.",
+      "passageLength": "Varies (e.g., a flyer, a set of instructions).",
+      "questionFocus": "Locating specific details like dates, times, prices, conditions, or contact information based on a given scenario.",
+      "distractorPatterns": [
+        "Information that is correct but applies to a different condition (e.g., price for adults vs. children).",
+        "Details that are visually prominent but irrelevant to the question.",
+        "Correct-looking numbers or words taken from the wrong section.",
+        "An answer that requires a calculation or inference when the information is explicitly stated elsewhere."
+      ],
+      "exampleSchema": {
+        "passageId": "n2-reading-bbb",
+        "context": "You are looking for a class to take on a weekday evening.",
+        "questionId": "q001",
+        "question": "あなたに合うクラスはどれか。",
+        "choices": [],
+        "correctAnswer": "d"
+      }
+    }
+  ]
+}

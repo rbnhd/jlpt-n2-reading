@@ -1,0 +1,1606 @@
+{
+  "category": "Technology Vocabulary",
+  "description": "A list of N2 vocabulary related to technology, computers, and the internet.",
+  "items": [
+    {
+      "id": "v001",
+      "kanji": "技術",
+      "kana": "ぎじゅつ",
+      "romaji": "gijutsu",
+      "partOfSpeech": "noun",
+      "meaning": "technology, technique, skill",
+      "jlptLevel": "N2",
+      "exampleSentence": "日本の自動車技術は世界的に評価されている。",
+      "exampleTranslation": "Japan's automobile technology is globally acclaimed.",
+      "relatedWords": ["科学", "スキル", "工学"],
+      "notes": "A broad term for the application of scientific knowledge for practical purposes."
+    },
+    {
+      "id": "v002",
+      "kanji": "科学",
+      "kana": "かがく",
+      "romaji": "kagaku",
+      "partOfSpeech": "noun",
+      "meaning": "science",
+      "jlptLevel": "N2",
+      "exampleSentence": "科学の進歩は我々の生活を豊かにした。",
+      "exampleTranslation": "The advancement of science has enriched our lives.",
+      "relatedWords": ["技術", "研究", "化学"],
+      "notes": "Note that 化学 (kagaku) with a different kanji means 'chemistry'."
+    },
+    {
+      "id": "v003",
+      "kanji": "情報",
+      "kana": "じょうほう",
+      "romaji": "jouhou",
+      "partOfSpeech": "noun",
+      "meaning": "information, data, news",
+      "jlptLevel": "N2",
+      "exampleSentence": "インターネットで様々な情報を得ることができる。",
+      "exampleTranslation": "You can get various information on the internet.",
+      "relatedWords": ["データ", "ニュース", "知らせ"],
+      "notes": "A fundamental concept in the digital age."
+    },
+    {
+      "id": "v004",
+      "kanji": "データ",
+      "kana": "データ",
+      "romaji": "deeta",
+      "partOfSpeech": "noun",
+      "meaning": "data",
+      "jlptLevel": "N2",
+      "exampleSentence": "その結論を裏付けるデータが不足している。",
+      "exampleTranslation": "There is insufficient data to support that conclusion.",
+      "relatedWords": ["情報", "数値", "資料"],
+      "notes": "Loanword from English."
+    },
+    {
+      "id": "v005",
+      "kanji": "インターネット",
+      "kana": "インターネット",
+      "romaji": "intaanetto",
+      "partOfSpeech": "noun",
+      "meaning": "internet",
+      "jlptLevel": "N2",
+      "exampleSentence": "最近は、何でもインターネットで調べる。",
+      "exampleTranslation": "Recently, I look up everything on the internet.",
+      "relatedWords": ["ネット", "ウェブ", "オンライン"],
+      "notes": "Often shortened to ネット (netto)."
+    },
+    {
+      "id": "v006",
+      "kanji": "ウェブサイト",
+      "kana": "ウェブサイト",
+      "romaji": "webusaito",
+      "partOfSpeech": "noun",
+      "meaning": "website",
+      "jlptLevel": "N2",
+      "exampleSentence": "会社の公式ウェブサイトを更新した。",
+      "exampleTranslation": "I updated the company's official website.",
+      "relatedWords": ["サイト", "ホームページ", "ページ"],
+      "notes": "Often shortened to サイト (saito)."
+    },
+    {
+      "id": "v007",
+      "kanji": "メール",
+      "kana": "メール",
+      "romaji": "meeru",
+      "partOfSpeech": "noun",
+      "meaning": "e-mail",
+      "jlptLevel": "N2",
+      "exampleSentence": "後で詳細をメールで送ります。",
+      "exampleTranslation": "I will send the details by e-mail later.",
+      "relatedWords": ["電子メール", "受信", "送信"],
+      "notes": "Can also refer to text messages (SMS) in some contexts."
+    },
+    {
+      "id": "v008",
+      "kanji": "パソコン",
+      "kana": "パソコン",
+      "romaji": "pasokon",
+      "partOfSpeech": "noun",
+      "meaning": "personal computer, PC",
+      "jlptLevel": "N2",
+      "exampleSentence": "仕事で毎日パソコンを使っている。",
+      "exampleTranslation": "I use a personal computer every day for work.",
+      "relatedWords": ["コンピューター", "ノートパソコン", "デスクトップ"],
+      "notes": "Abbreviation of パーソナルコンピューター (paasonaru konpyuutaa)."
+    },
+    {
+      "id": "v009",
+      "kanji": "スマートフォン",
+      "kana": "スマートフォン",
+      "romaji": "sumaatofon",
+      "partOfSpeech": "noun",
+      "meaning": "smartphone",
+      "jlptLevel": "N2",
+      "exampleSentence": "スマートフォンなしの生活は考えられない。",
+      "exampleTranslation": "I can't imagine life without a smartphone.",
+      "relatedWords": ["スマホ", "携帯電話", "アプリ"],
+      "notes": "Often shortened to スマホ (sumaho)."
+    },
+    {
+      "id": "v010",
+      "kanji": "アプリ",
+      "kana": "アプリ",
+      "romaji": "apuri",
+      "partOfSpeech": "noun",
+      "meaning": "application, app",
+      "jlptLevel": "N2",
+      "exampleSentence": "便利なアプリがたくさんある。",
+      "exampleTranslation": "There are many useful apps.",
+      "relatedWords": ["アプリケーション", "ソフト", "ダウンロード"],
+      "notes": "Abbreviation of アプリケーション (apurikeeshon)."
+    },
+    {
+      "id": "v011",
+      "kanji": "ファイル",
+      "kana": "ファイル",
+      "romaji": "fairu",
+      "partOfSpeech": "noun",
+      "meaning": "file",
+      "jlptLevel": "N2",
+      "exampleSentence": "重要なファイルはバックアップを取っておくべきだ。",
+      "exampleTranslation": "You should back up important files.",
+      "relatedWords": ["データ", "保存", "フォルダ"],
+      "notes": "Can refer to a computer file or a physical folder for papers."
+    },
+    {
+      "id": "v012",
+      "kanji": "フォルダ",
+      "kana": "フォルダ",
+      "romaji": "foruda",
+      "partOfSpeech": "noun",
+      "meaning": "folder, directory",
+      "jlptLevel": "N2",
+      "exampleSentence": "写真を日付ごとのフォルダに整理した。",
+      "exampleTranslation": "I organized the photos into folders by date.",
+      "relatedWords": ["ファイル", "ディレクトリ", "整理"],
+      "notes": "A virtual container in a computer's file system."
+    },
+    {
+      "id": "v013",
+      "kanji": "保存",
+      "kana": "ほぞん",
+      "romaji": "hozon",
+      "partOfSpeech": "noun, suru verb",
+      "meaning": "save, preserve, store",
+      "jlptLevel": "N2",
+      "exampleSentence": "作業が終わったら、忘れずにファイルを保存してください。",
+      "exampleTranslation": "When you finish your work, please don't forget to save the file.",
+      "relatedWords": ["セーブ", "記録", "保管"],
+      "notes": "Used for saving data on a computer, as well as preserving food."
+    },
+    {
+      "id": "v014",
+      "kanji": "削除",
+      "kana": "さくじょ",
+      "romaji": "sakujo",
+      "partOfSpeech": "noun, suru verb",
+      "meaning": "delete, erase, eliminate",
+      "jlptLevel": "N2",
+      "exampleSentence": "不要なメールは削除してください。",
+      "exampleTranslation": "Please delete unnecessary emails.",
+      "relatedWords": ["消す", "除去", "消去"],
+      "notes": "The act of removing something, especially data."
+    },
+    {
+      "id": "v015",
+      "kanji": "コピー",
+      "kana": "コピー",
+      "romaji": "kopii",
+      "partOfSpeech": "noun, suru verb",
+      "meaning": "copy, duplicate",
+      "jlptLevel": "N2",
+      "exampleSentence": "この書類を3部コピーしてください。",
+      "exampleTranslation": "Please make three copies of this document.",
+      "relatedWords": ["複製", "写し", "ペースト"],
+      "notes": "Often used with ペースト (peesuto) for 'copy and paste'."
+    },
+    {
+      "id": "v016",
+      "kanji": "貼り付け",
+      "kana": "はりつけ",
+      "romaji": "haritsuke",
+      "partOfSpeech": "noun",
+      "meaning": "paste",
+      "jlptLevel": "N2",
+      "exampleSentence": "コピーしたテキストをここに貼り付けしてください。",
+      "exampleTranslation": "Please paste the copied text here.",
+      "relatedWords": ["ペースト", "コピー", "貼る"],
+      "notes": "The noun form of the verb 貼り付ける (haritsukeru). Often used as コピー＆ペースト (kopii ando peesuto)."
+    },
+    {
+      "id": "v017",
+      "kanji": "印刷",
+      "kana": "いんさつ",
+      "romaji": "insatsu",
+      "partOfSpeech": "noun, suru verb",
+      "meaning": "print, printing",
+      "jlptLevel": "N2",
+      "exampleSentence": "会議で使う資料を印刷する。",
+      "exampleTranslation": "I will print the materials to be used in the meeting.",
+      "relatedWords": ["プリント", "プリンター", "刷る"],
+      "notes": "The process of producing text or images on paper with a printer."
+    },
+    {
+      "id": "v018",
+      "kanji": "ダウンロード",
+      "kana": "ダウンロード",
+      "romaji": "daunroodo",
+      "partOfSpeech": "noun, suru verb",
+      "meaning": "download",
+      "jlptLevel": "N2",
+      "exampleSentence": "インターネットから音楽をダウンロードする。",
+      "exampleTranslation": "I download music from the internet.",
+      "relatedWords": ["アップロード", "受信", "落とす"],
+      "notes": "The opposite is アップロード (appuroodo), upload."
+    },
+    {
+      "id": "v019",
+      "kanji": "アップロード",
+      "kana": "アップロード",
+      "romaji": "appuroodo",
+      "partOfSpeech": "noun, suru verb",
+      "meaning": "upload",
+      "jlptLevel": "N2",
+      "exampleSentence": "旅行の写真をSNSにアップロードした。",
+      "exampleTranslation": "I uploaded my travel photos to social media.",
+      "relatedWords": ["ダウンロード", "送信", "上げる"],
+      "notes": "The opposite is ダウンロード (daunroodo), download."
+    },
+    {
+      "id": "v020",
+      "kanji": "設定",
+      "kana": "せってい",
+      "romaji": "settei",
+      "partOfSpeech": "noun, suru verb",
+      "meaning": "settings, options, configuration",
+      "jlptLevel": "N2",
+      "exampleSentence": "スマートフォンの初期設定を行う。",
+      "exampleTranslation": "I will perform the initial setup of the smartphone.",
+      "relatedWords": ["コンフィグ", "調整", "セット"],
+      "notes": "The act of deciding or arranging something."
+    },
+    {
+      "id": "v021",
+      "kanji": "人工知能",
+      "kana": "じんこうちのう",
+      "romaji": "jinkouchinou",
+      "partOfSpeech": "noun",
+      "meaning": "Artificial Intelligence (AI)",
+      "jlptLevel": "N2",
+      "exampleSentence": "人工知能の技術は急速に進歩している。",
+      "exampleTranslation": "Artificial intelligence technology is advancing rapidly.",
+      "relatedWords": ["AI", "機械学習", "深層学習"],
+      "notes": "Intelligent systems or machines that can perform tasks that typically require human intelligence."
+    },
+    {
+      "id": "v022",
+      "kanji": "仮想現実",
+      "kana": "かそうげんじつ",
+      "romaji": "kasougenjitsu",
+      "partOfSpeech": "noun",
+      "meaning": "Virtual Reality (VR)",
+      "jlptLevel": "N2",
+      "exampleSentence": "仮想現実のゲームは非常にリアルだ。",
+      "exampleTranslation": "Virtual reality games are extremely realistic.",
+      "relatedWords": ["VR", "没入型", "3D"],
+      "notes": "A simulated experience that can be similar to or completely different from the real world."
+    },
+    {
+      "id": "v023",
+      "kanji": "拡張現実",
+      "kana": "かくちょうげんじつ",
+      "romaji": "kakuchougenjitsu",
+      "partOfSpeech": "noun",
+      "meaning": "Augmented Reality (AR)",
+      "jlptLevel": "N2",
+      "exampleSentence": "拡張現実は、現実世界にデジタル情報を重ねて表示する技術だ。",
+      "exampleTranslation": "Augmented reality is a technology that overlays digital information onto the real world.",
+      "relatedWords": ["AR", "デジタル", "インタラクティブ"],
+      "notes": "An interactive experience where digital information is overlaid on the real world."
+    },
+    {
+      "id": "v024",
+      "kanji": "ビッグデータ",
+      "kana": "ビッグデータ",
+      "romaji": "biggu deeta",
+      "partOfSpeech": "noun",
+      "meaning": "Big Data",
+      "jlptLevel": "N2",
+      "exampleSentence": "ビッグデータを分析することで、新たな知見が得られる。",
+      "exampleTranslation": "By analyzing big data, new insights can be obtained.",
+      "relatedWords": ["データ解析", "情報", "統計"],
+      "notes": "Extremely large data sets that may be analyzed computationally to reveal patterns, trends, and associations."
+    },
+    {
+      "id": "v025",
+      "kanji": "クラウドコンピューティング",
+      "kana": "クラウドコンピューティング",
+      "romaji": "kuraudo konpyuuting",
+      "partOfSpeech": "noun",
+      "meaning": "Cloud Computing",
+      "jlptLevel": "N2",
+      "exampleSentence": "多くのサービスがクラウドコンピューティングを基盤にしている。",
+      "exampleTranslation": "Many services are based on cloud computing.",
+      "relatedWords": ["クラウド", "オンラインストレージ", "SaaS"],
+      "notes": "The delivery of computing services over the internet, including storage, processing, and software."
+    },
+    {
+      "id": "v026",
+      "kanji": "モノのインターネット",
+      "kana": "もののインターネット",
+      "romaji": "mono no intānetto",
+      "partOfSpeech": "noun",
+      "meaning": "Internet of Things (IoT)",
+      "jlptLevel": "N2",
+      "exampleSentence": "モノのインターネットによって、家電がインターネットに接続される。",
+      "exampleTranslation": "The Internet of Things connects home appliances to the internet.",
+      "relatedWords": ["IoT", "スマートデバイス", "接続"],
+      "notes": "The network of physical objects embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems."
+    },
+    {
+      "id": "v027",
+      "kanji": "ブロックチェーン",
+      "kana": "ブロックチェーン",
+      "romaji": "burokku chēn",
+      "partOfSpeech": "noun",
+      "meaning": "Blockchain",
+      "jlptLevel": "N2",
+      "exampleSentence": "ブロックチェーンは、仮想通貨の基盤技術だ。",
+      "exampleTranslation": "Blockchain is the underlying technology for cryptocurrencies.",
+      "relatedWords": ["分散型台帳", "暗号通貨", "スマートコントラクト"],
+      "notes": "A system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system."
+    },
+    {
+      "id": "v028",
+      "kanji": "サイバーセキュリティ",
+      "kana": "サイバーセキュリティ",
+      "romaji": "saibā sekyuriti",
+      "partOfSpeech": "noun",
+      "meaning": "Cybersecurity",
+      "jlptLevel": "N2",
+      "exampleSentence": "サイバーセキュリティ対策は、企業にとって不可欠だ。",
+      "exampleTranslation": "Cybersecurity measures are essential for companies.",
+      "relatedWords": ["情報セキュリティ", "ネットワークセキュリティ", "脅威"],
+      "notes": "The practice of protecting systems, networks, and programs from digital attacks."
+    },
+    {
+      "id": "v029",
+      "kanji": "ドローン",
+      "kana": "ドローン",
+      "romaji": "dorōn",
+      "partOfSpeech": "noun",
+      "meaning": "Drone",
+      "jlptLevel": "N2",
+      "exampleSentence": "ドローンを使って、空から写真を撮った。",
+      "exampleTranslation": "I took pictures from the sky using a drone.",
+      "relatedWords": ["無人航空機", "UAV", "空撮"],
+      "notes": "An unmanned aircraft that can fly autonomously or be controlled remotely."
+    },
+    {
+      "id": "v030",
+      "kanji": "生体認証",
+      "kana": "せいたいにんしょう",
+      "romaji": "seitai ninshō",
+      "partOfSpeech": "noun",
+      "meaning": "Biometric Authentication",
+      "jlptLevel": "N2",
+      "exampleSentence": "このスマートフォンは、指紋による生体認証に対応している。",
+      "exampleTranslation": "This smartphone supports biometric authentication by fingerprint.",
+      "relatedWords": ["バイオメトリクス", "指紋認証", "顔認証"],
+      "notes": "Authentication techniques that rely on unique biological characteristics of the user."
+    },
+    {
+      "id": "v031",
+      "kanji": "自動運転",
+      "kana": "じどううんてん",
+      "romaji": "jidō unten",
+      "partOfSpeech": "noun",
+      "meaning": "Autonomous Driving",
+      "jlptLevel": "N2",
+      "exampleSentence": "多くの自動車メーカーが自動運転技術を開発している。",
+      "exampleTranslation": "Many car manufacturers are developing autonomous driving technology.",
+      "relatedWords": ["自動車", "運転支援", "無人運転"],
+      "notes": "The capability of a vehicle to navigate without human input."
+    },
+    {
+      "id": "v032",
+      "kanji": "量子コンピュータ",
+      "kana": "りょうしコンピュータ",
+      "romaji": "ryoushi konpyuuta",
+      "partOfSpeech": "noun",
+      "meaning": "Quantum Computer",
+      "jlptLevel": "N2",
+      "exampleSentence": "量子コンピュータは、従来のコンピュータよりもはるかに高速に計算できる。",
+      "exampleTranslation": "Quantum computers can calculate much faster than conventional computers.",
+      "relatedWords": ["量子", "コンピュータ", "計算"],
+      "notes": "A type of computer that uses quantum bits (qubits) to perform calculations at high speed."
+    },
+    {
+      "id": "v033",
+      "kanji": "ウェアラブルデバイス",
+      "kana": "ウェアラブルデバイス",
+      "romaji": "wearable device",
+      "partOfSpeech": "noun",
+      "meaning": "Wearable Device",
+      "jlptLevel": "N2",
+      "exampleSentence": "スマートウォッチは、代表的なウェアラブルデバイスだ。",
+      "exampleTranslation": "Smartwatches are a typical example of wearable devices.",
+      "relatedWords": ["ウェアラブル", "健康管理", "フィットネス"],
+      "notes": "Electronic devices that are worn on the body, often used for tracking health and fitness data."
+    },
+    {
+      "id": "v034",
+      "kanji": "チャットボット",
+      "kana": "チャットボット",
+      "romaji": "chatbot",
+      "partOfSpeech": "noun",
+      "meaning": "Chatbot",
+      "jlptLevel": "N2",
+      "exampleSentence": "ウェブサイトの右下にあるアイコンをクリックすると、チャットボットと話せる。",
+      "exampleTranslation": "If you click the icon in the bottom right of the website, you can talk to a chatbot.",
+      "relatedWords": ["AI", "自動応答", "カスタマーサポート"],
+      "notes": "A computer program that simulates human conversation through voice commands or text chats."
+    },
+    {
+      "id": "v035",
+      "kanji": "フィンテック",
+      "kana": "フィンテック",
+      "romaji": "fintech",
+      "partOfSpeech": "noun",
+      "meaning": "FinTech (Financial Technology)",
+      "jlptLevel": "N2",
+      "exampleSentence": "フィンテックの登場により、金融サービスが大きく変わった。",
+      "exampleTranslation": "Financial services have changed significantly with the advent of FinTech.",
+      "relatedWords": ["金融", "テクノロジー", "スタートアップ"],
+      "notes": "Technological innovation in the financial sector, including mobile payments, online banking, and cryptocurrency."
+    },
+    {
+      "id": "v036",
+      "kanji": "エドテック",
+      "kana": "エドテック",
+      "romaji": "edtech",
+      "partOfSpeech": "noun",
+      "meaning": "EdTech (Educational Technology)",
+      "jlptLevel": "N2",
+      "exampleSentence": "エドテックは、教育分野に革新をもたらしている。",
+      "exampleTranslation": "EdTech is bringing innovation to the field of education.",
+      "relatedWords": ["教育", "テクノロジー", "オンライン学習"],
+      "notes": "The use of technology in education to improve learning outcomes."
+    },
+    {
+      "id": "v037",
+      "kanji": "サブスクリプション",
+      "kana": "サブスクリプション",
+      "romaji": "sabusucripushon",
+      "partOfSpeech": "noun",
+      "meaning": "Subscription",
+      "jlptLevel": "N2",
+      "exampleSentence": "このサービスは、月額のサブスクリプションモデルを採用している。",
+      "exampleTranslation": "This service uses a monthly subscription model.",
+      "relatedWords": ["定期購読", "会員制", "サービス"],
+      "notes": "A payment model where a customer pays a recurring price at regular intervals for access to a product or service."
+    },
+    {
+      "id": "v038",
+      "kanji": "ストリーミング",
+      "kana": "ストリーミング",
+      "romaji": "sutoriimingu",
+      "partOfSpeech": "noun",
+      "meaning": "Streaming",
+      "jlptLevel": "N2",
+      "exampleSentence": "ダウンロードせずに、ストリーミングで映画を観る。",
+      "exampleTranslation": "I watch movies by streaming them instead of downloading.",
+      "relatedWords": ["動画配信", "音楽ストリーミング", "リアルタイム"],
+      "notes": "The continuous transmission of audio or video files from a server to a client."
+    },
+    {
+      "id": "v039",
+      "kanji": "オープンソース",
+      "kana": "オープンソース",
+      "romaji": "ōpun sōsu",
+      "partOfSpeech": "noun",
+      "meaning": "Open Source",
+      "jlptLevel": "N2",
+      "exampleSentence": "このソフトウェアはオープンソースなので、誰でも自由に利用・改変できる。",
+      "exampleTranslation": "This software is open source, so anyone can freely use and modify it.",
+      "relatedWords": ["ソフトウェア", "開発", "共有"],
+      "notes": "Software for which the original source code is made available and may be redistributed and modified."
+    },
+    {
+      "id": "v040",
+      "kanji": "API",
+      "kana": "エーピーアイ",
+      "romaji": "ēpīai",
+      "partOfSpeech": "noun",
+      "meaning": "API (Application Programming Interface)",
+      "jlptLevel": "N2",
+      "exampleSentence": "このAPIを使えば、他のサービスと連携できる。",
+      "exampleTranslation": "Using this API, you can integrate with other services.",
+      "relatedWords": ["プログラミング", "インターフェース", "連携"],
+      "notes": "A set of rules and protocols for building and interacting with software applications."
+    },
+    {
+      "id": "v041",
+      "word": "機械学習",
+      "reading": "きかいがくしゅう",
+      "meaning": "Machine Learning",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "機械学習は、人工知能の一分野だ。",
+          "translation": "Machine learning is a field of artificial intelligence."
+        },
+        {
+          "sentence": "このモデルは、大量のデータから機械学習によって作られた。",
+          "translation": "This model was created by machine learning from a large amount of data."
+        }
+      ]
+    },
+    {
+      "id": "v042",
+      "word": "ディープラーニング",
+      "reading": "ディープラーニング",
+      "meaning": "Deep Learning",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "ディープラーニングは、画像認識の精度を飛躍的に向上させた。",
+          "translation": "Deep learning has dramatically improved the accuracy of image recognition."
+        },
+        {
+          "sentence": "彼はディープラーニングのアルゴリズムを研究している。",
+          "translation": "He is researching deep learning algorithms."
+        }
+      ]
+    },
+    {
+      "id": "v043",
+      "word": "ニューラルネットワーク",
+      "reading": "ニューラルネットワーク",
+      "meaning": "Neural Network",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "ニューラルネットワークは、人間の脳の神経回路を模倣したモデルだ。",
+          "translation": "A neural network is a model that mimics the neural circuits of the human brain."
+        },
+        {
+          "sentence": "このAIは、複雑なニューラルネットワークに基づいている。",
+          "translation": "This AI is based on a complex neural network."
+        }
+      ]
+    },
+    {
+      "id": "v044",
+      "word": "自然言語処理",
+      "reading": "しぜんげんごしょり",
+      "meaning": "Natural Language Processing (NLP)",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "自然言語処理技術は、機械翻訳や音声アシスタントに応用されている。",
+          "translation": "Natural language processing technology is applied in machine translation and voice assistants."
+        },
+        {
+          "sentence": "彼女は大学で自然言語処理を専攻している。",
+          "translation": "She is majoring in natural language processing at university."
+        }
+      ]
+    },
+    {
+      "id": "v045",
+      "word": "コンピュータビジョン",
+      "reading": "コンピュータビジョン",
+      "meaning": "Computer Vision",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "コンピュータビジョンは、コンピュータが画像を「見る」ための技術だ。",
+          "translation": "Computer vision is the technology that allows computers to 'see' images."
+        },
+        {
+          "sentence": "自動運転車は、コンピュータビジョンを使って周囲の状況を認識する。",
+          "translation": "Autonomous cars use computer vision to recognize their surroundings."
+        }
+      ]
+    },
+    {
+      "id": "v046",
+      "word": "データマイニング",
+      "reading": "データマイニング",
+      "meaning": "Data Mining",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "データマイニングによって、顧客の購買パターンを発見した。",
+          "translation": "We discovered customer purchasing patterns through data mining."
+        },
+        {
+          "sentence": "彼はデータマイニングの専門家として、コンサルティングを行っている。",
+          "translation": "He works as a data mining specialist, providing consulting."
+        }
+      ]
+    },
+    {
+      "id": "v047",
+      "word": "アルゴリズム",
+      "reading": "アルゴリズム",
+      "meaning": "Algorithm",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "この検索エンジンは、独自のアルゴリズムを使用している。",
+          "translation": "This search engine uses a proprietary algorithm."
+        },
+        {
+          "sentence": "効率的なアルゴリズムを設計することが重要だ。",
+          "translation": "It is important to design an efficient algorithm."
+        }
+      ]
+    },
+    {
+      "id": "v048",
+      "word": "データベース",
+      "reading": "データベース",
+      "meaning": "Database",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "顧客情報をデータベースで管理している。",
+          "translation": "We manage customer information in a database."
+        },
+        {
+          "sentence": "データベースから必要なデータを抽出する。",
+          "translation": "Extract the necessary data from the database."
+        }
+      ]
+    },
+    {
+      "id": "v049",
+      "word": "サーバー",
+      "reading": "サーバー",
+      "meaning": "Server",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "ウェブサイトのデータは、サーバーに保存されている。",
+          "translation": "The website's data is stored on a server."
+        },
+        {
+          "sentence": "アクセスが集中して、サーバーがダウンした。",
+          "translation": "The server went down due to a concentration of access."
+        }
+      ]
+    },
+    {
+      "id": "v050",
+      "word": "クライアント",
+      "reading": "クライアント",
+      "meaning": "Client",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "クライアントがサーバーにリクエストを送る。",
+          "translation": "The client sends a request to the server."
+        },
+        {
+          "sentence": "このアプリケーションは、クライアント側で動作する。",
+          "translation": "This application runs on the client side."
+        }
+      ]
+    },
+    {
+      "id": "v051",
+      "word": "ネットワーク",
+      "reading": "ネットワーク",
+      "meaning": "Network",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "社内ネットワークに接続できません。",
+          "translation": "I can't connect to the internal network."
+        },
+        {
+          "sentence": "彼は広範な人的ネットワークを持っている。",
+          "translation": "He has an extensive personal network."
+        }
+      ]
+    },
+    {
+      "id": "v052",
+      "word": "プロトコル",
+      "reading": "プロトコル",
+      "meaning": "Protocol",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "HTTPは、ウェブで使われる主要なプロトコルだ。",
+          "translation": "HTTP is the main protocol used on the web."
+        },
+        {
+          "sentence": "通信を行うためには、共通のプロトコルに従う必要がある。",
+          "translation": "In order to communicate, it is necessary to follow a common protocol."
+        }
+      ]
+    },
+    {
+      "id": "v053",
+      "word": "IPアドレス",
+      "reading": "アイピーアドレス",
+      "meaning": "IP Address",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "各デバイスには、一意のIPアドレスが割り当てられる。",
+          "translation": "Each device is assigned a unique IP address."
+        },
+        {
+          "sentence": "IPアドレスから、おおよその位置情報を特定できることがある。",
+          "translation": "It is sometimes possible to determine approximate location information from an IP address."
+        }
+      ]
+    },
+    {
+      "id": "v054",
+      "word": "ドメイン",
+      "reading": "ドメイン",
+      "meaning": "Domain",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "独自のドメイン名を取得して、ウェブサイトを公開した。",
+          "translation": "I acquired my own domain name and launched a website."
+        },
+        {
+          "sentence": "この会社のドメインは 'example.com' です。",
+          "translation": "This company's domain is 'example.com'."
+        }
+      ]
+    },
+    {
+      "id": "v055",
+      "word": "ホスティング",
+      "reading": "ホスティング",
+      "meaning": "Hosting",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "ウェブサイトを公開するには、ホスティングサービスが必要だ。",
+          "translation": "You need a hosting service to publish a website."
+        },
+        {
+          "sentence": "いくつかのホスティングプランを比較検討している。",
+          "translation": "I am comparing several hosting plans."
+        }
+      ]
+    },
+    {
+      "id": "v056",
+      "word": "ファイアウォール",
+      "reading": "ファイアウォール",
+      "meaning": "Firewall",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "ファイアウォールは、不正なアクセスからネットワークを保護する。",
+          "translation": "A firewall protects the network from unauthorized access."
+        },
+        {
+          "sentence": "セキュリティを強化するために、ファイアウォールの設定を見直した。",
+          "translation": "I reviewed the firewall settings to strengthen security."
+        }
+      ]
+    },
+    {
+      "id": "v057",
+      "word": "暗号化",
+      "reading": "あんごうか",
+      "meaning": "Encryption",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "個人情報を保護するために、データを暗号化する。",
+          "translation": "Encrypt data to protect personal information."
+        },
+        {
+          "sentence": "この通信は、SSLによって暗号化されている。",
+          "translation": "This communication is encrypted by SSL."
+        }
+      ]
+    },
+    {
+      "id": "v058",
+      "word": "復号",
+      "reading": "ふくごう",
+      "meaning": "Decryption",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "暗号化されたデータを復号するには、鍵が必要だ。",
+          "translation": "A key is required to decrypt encrypted data."
+        },
+        {
+          "sentence": "彼は、複雑な暗号の復号に成功した。",
+          "translation": "He succeeded in decrypting the complex cipher."
+        }
+      ]
+    },
+    {
+      "id": "v059",
+      "word": "認証",
+      "reading": "にんしょう",
+      "meaning": "Authentication",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "システムにログインするには、認証が必要です。",
+          "translation": "Authentication is required to log in to the system."
+        },
+        {
+          "sentence": "二要素認証を設定して、セキュリティを高める。",
+          "translation": "Set up two-factor authentication to increase security."
+        }
+      ]
+    },
+    {
+      "id": "v060",
+      "word": "認可",
+      "reading": "にんか",
+      "meaning": "Authorization",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "認証後、ユーザーに適切な認可が与えられる。",
+          "translation": "After authentication, the user is given appropriate authorization."
+        },
+        {
+          "sentence": "この操作を行うには、管理者からの認可が必要です。",
+          "translation": "Authorization from an administrator is required to perform this operation."
+        }
+      ]
+    },
+    {
+      "id": "v061",
+      "word": "APIエコノミー",
+      "reading": "エーピーアイエコノミー",
+      "meaning": "API Economy",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "APIエコノミーの拡大により、新しいビジネスが生まれている。",
+          "translation": "New businesses are emerging due to the expansion of the API economy."
+        },
+        {
+          "sentence": "多くの企業がAPIを公開し、APIエコノミーに参加している。",
+          "translation": "Many companies are participating in the API economy by publishing their APIs."
+        }
+      ]
+    },
+    {
+      "id": "v062",
+      "word": "UI (ユーザーインターフェース)",
+      "reading": "ユーザーインターフェース",
+      "meaning": "UI (User Interface)",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "このアプリは、直感的なUIで使いやすい。",
+          "translation": "This app is easy to use with its intuitive UI."
+        },
+        {
+          "sentence": "優れたUIデザインは、ユーザーの満足度を高める。",
+          "translation": "Good UI design increases user satisfaction."
+        }
+      ]
+    },
+    {
+      "id": "v063",
+      "word": "UX (ユーザーエクスペリエンス)",
+      "reading": "ユーザーエクスペリエンス",
+      "meaning": "UX (User Experience)",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "私たちは、最高のUXを提供することを目指している。",
+          "translation": "We aim to provide the best user experience."
+        },
+        {
+          "sentence": "UXデザイナーは、ユーザーが製品をどのように使うかを考える。",
+          "translation": "A UX designer considers how users will use a product."
+        }
+      ]
+    },
+    {
+      "id": "v064",
+      "word": "アジャイル開発",
+      "reading": "アジャイルかいはつ",
+      "meaning": "Agile Development",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "私たちチームは、アジャイル開発の手法を取り入れている。",
+          "translation": "Our team has adopted agile development methods."
+        },
+        {
+          "sentence": "アジャイル開発では、短いサイクルで開発とテストを繰り返す。",
+          "translation": "In agile development, development and testing are repeated in short cycles."
+        }
+      ]
+    },
+    {
+      "id": "v065",
+      "word": "スクラム",
+      "reading": "スクラム",
+      "meaning": "Scrum",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "スクラムは、アジャイル開発のフレームワークの一つだ。",
+          "translation": "Scrum is one of the frameworks for agile development."
+        },
+        {
+          "sentence": "毎朝、スクラムミーティングで進捗を確認する。",
+          "translation": "We check progress every morning in a scrum meeting."
+        }
+      ]
+    },
+    {
+      "id": "v066",
+      "word": "ウォーターフォール開発",
+      "reading": "ウォーターフォールかいはつ",
+      "meaning": "Waterfall Development",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "ウォーターフォール開発は、計画的に進める伝統的な手法だ。",
+          "translation": "Waterfall development is a traditional method that proceeds according to a plan."
+        },
+        {
+          "sentence": "大規模なプロジェクトでは、ウォーターフォール開発が適している場合がある。",
+          "translation": "Waterfall development may be suitable for large-scale projects."
+        }
+      ]
+    },
+    {
+      "id": "v067",
+      "word": "DevOps (デブオプス)",
+      "reading": "デブオプス",
+      "meaning": "DevOps",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "DevOpsは、開発と運用の連携を強化する考え方だ。",
+          "translation": "DevOps is a concept that strengthens the collaboration between development and operations."
+        },
+        {
+          "sentence": "DevOpsを導入することで、リリースの頻度を高めることができる。",
+          "translation": "By introducing DevOps, it is possible to increase the frequency of releases."
+        }
+      ]
+    },
+    {
+      "id": "v068",
+      "word": "CI/CD (継続的インテグレーション/継続的デリバリー)",
+      "reading": "けいぞくてきインテグレーション/けいぞくてきデリバリー",
+      "meaning": "CI/CD (Continuous Integration/Continuous Delivery)",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "CI/CDパイプラインを構築して、ビルドとデプロイを自動化した。",
+          "translation": "We built a CI/CD pipeline to automate builds and deployments."
+        },
+        {
+          "sentence": "CI/CDは、DevOpsを実現するための重要なプラクティスだ。",
+          "translation": "CI/CD is an important practice for achieving DevOps."
+        }
+      ]
+    },
+    {
+      "id": "v069",
+      "word": "バージョン管理",
+      "reading": "バージョンかんり",
+      "meaning": "Version Control",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "Gitは、最も人気のあるバージョン管理システムだ。",
+          "translation": "Git is the most popular version control system."
+        },
+        {
+          "sentence": "チームで開発する際には、バージョン管理が不可欠だ。",
+          "translation": "Version control is essential when developing in a team."
+        }
+      ]
+    },
+    {
+      "id": "v070",
+      "word": "リポジトリ",
+      "reading": "リポジトリ",
+      "meaning": "Repository",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "ソースコードは、GitHubのリポジトリで管理している。",
+          "translation": "The source code is managed in a repository on GitHub."
+        },
+        {
+          "sentence": "リモートリポジトリに変更をプッシュする。",
+          "translation": "Push changes to the remote repository."
+        }
+      ]
+    },
+    {
+      "id": "v071",
+      "word": "コミット",
+      "reading": "コミット",
+      "meaning": "Commit",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "変更内容をコミットメッセージに記述する。",
+          "translation": "Describe the changes in the commit message."
+        },
+        {
+          "sentence": "彼は1日に何度もコードをコミットする。",
+          "translation": "He commits code many times a day."
+        }
+      ]
+    },
+    {
+      "id": "v072",
+      "word": "ブランチ",
+      "reading": "ブランチ",
+      "meaning": "Branch",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "新しい機能を追加するために、新しいブランチを作成した。",
+          "translation": "I created a new branch to add a new feature."
+        },
+        {
+          "sentence": "開発ブランチをメインブランチにマージする。",
+          "translation": "Merge the development branch into the main branch."
+        }
+      ]
+    },
+    {
+      "id": "v073",
+      "word": "マージ",
+      "reading": "マージ",
+      "meaning": "Merge",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "コンフリクトを解決してから、ブランチをマージしてください。",
+          "translation": "Please resolve the conflicts before merging the branches."
+        },
+        {
+          "sentence": "プルリクエストが承認されたので、マージを実行した。",
+          "translation": "The pull request was approved, so I performed the merge."
+        }
+      ]
+    },
+    {
+      "id": "v074",
+      "word": "プルリクエスト",
+      "reading": "プルリクエスト",
+      "meaning": "Pull Request",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "変更内容を確認してもらうために、プルリクエストを作成した。",
+          "translation": "I created a pull request to have my changes reviewed."
+        },
+        {
+          "sentence": "同僚が私のプルリクエストをレビューしてくれた。",
+          "translation": "My colleague reviewed my pull request."
+        }
+      ]
+    },
+    {
+      "id": "v075",
+      "word": "コンテナ",
+      "reading": "コンテナ",
+      "meaning": "Container",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "Dockerは、コンテナ技術の代表的なプラットフォームだ。",
+          "translation": "Docker is a leading platform for container technology."
+        },
+        {
+          "sentence": "コンテナを使うと、アプリケーションをどこでも同じように実行できる。",
+          "translation": "Using containers, you can run applications the same way anywhere."
+        }
+      ]
+    },
+    {
+      "id": "v076",
+      "word": "マイクロサービス",
+      "reading": "マイクロサービス",
+      "meaning": "Microservices",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "私たちは、モノリシックなアプリケーションをマイクロサービスに分割している。",
+          "translation": "We are breaking down a monolithic application into microservices."
+        },
+        {
+          "sentence": "マイクロサービスアーキテクチャは、柔軟性と拡張性が高い。",
+          "translation": "Microservices architecture is highly flexible and scalable."
+        }
+      ]
+    },
+    {
+      "id": "v077",
+      "word": "サーバーレス",
+      "reading": "サーバーレス",
+      "meaning": "Serverless",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "サーバーレスアーキテクチャでは、サーバーの管理が不要になる。",
+          "translation": "In a serverless architecture, server management becomes unnecessary."
+        },
+        {
+          "sentence": "AWS Lambdaは、サーバーレスコンピューティングのサービスだ。",
+          "translation": "AWS Lambda is a serverless computing service."
+        }
+      ]
+    },
+    {
+      "id": "v078",
+      "word": "エッジコンピューティング",
+      "reading": "エッジコンピューティング",
+      "meaning": "Edge Computing",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "エッジコンピューティングは、データ処理をユーザーの近くで行う。",
+          "translation": "Edge computing performs data processing close to the user."
+        },
+        {
+          "sentence": "IoTデバイスでは、エッジコンピューティングが重要になる。",
+          "translation": "Edge computing is important for IoT devices."
+        }
+      ]
+    },
+    {
+      "id": "v079",
+      "word": "デジタルツイン",
+      "reading": "デジタルツイン",
+      "meaning": "Digital Twin",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "製造業では、デジタルツインを活用して製品のシミュレーションを行っている。",
+          "translation": "In the manufacturing industry, digital twins are used to simulate products."
+        },
+        {
+          "sentence": "デジタルツインは、現実世界の物理的なオブジェクトを仮想空間に再現したものだ。",
+          "translation": "A digital twin is a virtual representation of a physical object from the real world."
+        }
+      ]
+    },
+    {
+      "id": "v080",
+      "word": "5G (第5世代移動通信システム)",
+      "reading": "ファイブジー",
+      "meaning": "5G (5th Generation Mobile Communication System)",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "5Gは、超高速・大容量・低遅延の通信を実現する。",
+          "translation": "5G achieves ultra-high speed, large capacity, and low latency communication."
+        },
+        {
+          "sentence": "5Gの普及によって、様々な新しいサービスが期待されている。",
+          "translation": "With the spread of 5G, various new services are expected."
+        }
+      ]
+    },
+    {
+      "id": "v081",
+      "word": "Wi-Fi (ワイファイ)",
+      "reading": "ワイファイ",
+      "meaning": "Wi-Fi",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "このカフェでは、無料のWi-Fiが利用できる。",
+          "translation": "Free Wi-Fi is available at this cafe."
+        },
+        {
+          "sentence": "Wi-Fiのパスワードを教えてください。",
+          "translation": "Could you please tell me the Wi-Fi password?"
+        }
+      ]
+    },
+    {
+      "id": "v082",
+      "word": "Bluetooth (ブルートゥース)",
+      "reading": "ブルートゥース",
+      "meaning": "Bluetooth",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "Bluetoothイヤホンで音楽を聴く。",
+          "translation": "I listen to music with Bluetooth earphones."
+        },
+        {
+          "sentence": "スマートフォンとスピーカーをBluetoothで接続する。",
+          "translation": "Connect the smartphone and speaker via Bluetooth."
+        }
+      ]
+    },
+    {
+      "id": "v083",
+      "word": "NFC (近距離無線通信)",
+      "reading": "エヌエフシー / きんきょりむせんつうしん",
+      "meaning": "NFC (Near-field communication)",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "NFCを使えば、スマートフォンをかざすだけで支払いができる。",
+          "translation": "With NFC, you can make payments just by holding your smartphone over it."
+        },
+        {
+          "sentence": "このポスターにはNFCタグが埋め込まれている。",
+          "translation": "An NFC tag is embedded in this poster."
+        }
+      ]
+    },
+    {
+      "id": "v084",
+      "word": "QRコード",
+      "reading": "キューアールコード",
+      "meaning": "QR Code",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "スマートフォンのカメラでQRコードを読み取る。",
+          "translation": "Read the QR code with your smartphone's camera."
+        },
+        {
+          "sentence": "レストランのメニューは、QRコードをスキャンして見る形式だった。",
+          "translation": "The restaurant's menu was in a format where you scan a QR code to view it."
+        }
+      ]
+    },
+    {
+      "id": "v085",
+      "word": "GPS (全地球測位システム)",
+      "reading": "ジーピーエス / ぜんちきゅうそくいシステム",
+      "meaning": "GPS (Global Positioning System)",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "カーナビはGPSを利用して、現在地を表示する。",
+          "translation": "The car navigation system uses GPS to display the current location."
+        },
+        {
+          "sentence": "このスマートフォンにはGPS機能が搭載されている。",
+          "translation": "This smartphone is equipped with a GPS function."
+        }
+      ]
+    },
+    {
+      "id": "v086",
+      "word": "OS (オペレーティングシステム)",
+      "reading": "オーエス / オペレーティングシステム",
+      "meaning": "OS (Operating System)",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "パソコンのOSを最新バージョンにアップデートした。",
+          "translation": "I updated my computer's OS to the latest version."
+        },
+        {
+          "sentence": "WindowsとmacOSは、代表的なパソコンのOSだ。",
+          "translation": "Windows and macOS are major PC operating systems."
+        }
+      ]
+    },
+    {
+      "id": "v087",
+      "word": "アプリケーション",
+      "reading": "アプリケーション",
+      "meaning": "Application",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "スマートフォンに新しいアプリケーションをインストールした。",
+          "translation": "I installed a new application on my smartphone."
+        },
+        {
+          "sentence": "このアプリケーションは、写真の編集に便利だ。",
+          "translation": "This application is useful for editing photos."
+        }
+      ]
+    },
+    {
+      "id": "v088",
+      "word": "ソフトウェア",
+      "reading": "ソフトウェア",
+      "meaning": "Software",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "コンピュータは、ハードウェアとソフトウェアから構成される。",
+          "translation": "A computer consists of hardware and software."
+        },
+        {
+          "sentence": "会計ソフトウェアを導入して、業務を効率化した。",
+          "translation": "We introduced accounting software to improve business efficiency."
+        }
+      ]
+    },
+    {
+      "id": "v089",
+      "word": "ハードウェア",
+      "reading": "ハードウェア",
+      "meaning": "Hardware",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "彼はコンピュータのハードウェアに詳しい。",
+          "translation": "He is knowledgeable about computer hardware."
+        },
+        {
+          "sentence": "ハードウェアの故障が原因で、システムが停止した。",
+          "translation": "The system stopped due to a hardware failure."
+        }
+      ]
+    },
+    {
+      "id": "v090",
+      "word": "CPU (中央処理装置)",
+      "reading": "シーピーユー / ちゅうおうしょりそうち",
+      "meaning": "CPU (Central Processing Unit)",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "CPUは、コンピュータの「脳」に相当する部分だ。",
+          "translation": "The CPU is the part of a computer that corresponds to the 'brain'."
+        },
+        {
+          "sentence": "このパソコンは、高性能なCPUを搭載している。",
+          "translation": "This computer is equipped with a high-performance CPU."
+        }
+      ]
+    },
+    {
+      "id": "v091",
+      "word": "メモリ",
+      "reading": "メモリ",
+      "meaning": "Memory (RAM)",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "動画編集をするには、大容量のメモリが必要だ。",
+          "translation": "A large amount of memory is required for video editing."
+        },
+        {
+          "sentence": "メモリを増設したら、パソコンの動作が速くなった。",
+          "translation": "After I added more memory, my computer's performance became faster."
+        }
+      ]
+    },
+    {
+      "id": "v092",
+      "word": "ストレージ",
+      "reading": "ストレージ",
+      "meaning": "Storage",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "写真や動画で、スマートフォンのストレージがいっぱいになった。",
+          "translation": "My smartphone's storage is full with photos and videos."
+        },
+        {
+          "sentence": "外部ストレージにデータをバックアップする。",
+          "translation": "Back up data to external storage."
+        }
+      ]
+    },
+    {
+      "id": "v093",
+      "word": "SSD (ソリッドステートドライブ)",
+      "reading": "エスエスディー / ソリッドステートドライブ",
+      "meaning": "SSD (Solid State Drive)",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "SSDは、HDDよりもデータの読み書きが高速だ。",
+          "translation": "SSDs are faster at reading and writing data than HDDs."
+        },
+        {
+          "sentence": "OSをSSDにインストールすると、起動が速くなる。",
+          "translation": "If you install the OS on an SSD, the startup will be faster."
+        }
+      ]
+    },
+    {
+      "id": "v094",
+      "word": "クラウドストレージ",
+      "reading": "クラウドストレージ",
+      "meaning": "Cloud Storage",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "クラウドストレージにファイルを保存すれば、どのデバイスからでもアクセスできる。",
+          "translation": "If you save files to cloud storage, you can access them from any device."
+        },
+        {
+          "sentence": "Google DriveやDropboxは、人気のクラウドストレージサービスだ。",
+          "translation": "Google Drive and Dropbox are popular cloud storage services."
+        }
+      ]
+    },
+    {
+      "id": "v095",
+      "word": "バックアップ",
+      "reading": "バックアップ",
+      "meaning": "Backup",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "万が一に備えて、定期的にデータのバックアップを取っている。",
+          "translation": "I regularly back up my data just in case."
+        },
+        {
+          "sentence": "ハードディスクが壊れたが、バックアップがあったので助かった。",
+          "translation": "My hard disk broke, but I was saved because I had a backup."
+        }
+      ]
+    },
+    {
+      "id": "v096",
+      "word": "インストール",
+      "reading": "インストール",
+      "meaning": "Installation",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "新しいソフトウェアをパソコンにインストールする。",
+          "translation": "Install new software on the computer."
+        },
+        {
+          "sentence": "インストールには数分かかります。",
+          "translation": "Installation will take a few minutes."
+        }
+      ]
+    },
+    {
+      "id": "v097",
+      "word": "アンインストール",
+      "reading": "アンインストール",
+      "meaning": "Uninstallation",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "使わなくなったアプリケーションをアンインストールした。",
+          "translation": "I uninstalled the applications I no longer use."
+        },
+        {
+          "sentence": "プログラムをアンインストールしても、設定ファイルが残ることがある。",
+          "translation": "Even after uninstalling a program, configuration files may remain."
+        }
+      ]
+    },
+    {
+      "id": "v098",
+      "word": "アップデート",
+      "reading": "アップデート",
+      "meaning": "Update",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "セキュリティのために、ソフトウェアは常に最新の状態にアップデートしてください。",
+          "translation": "For security, please always update your software to the latest version."
+        },
+        {
+          "sentence": "OSのアップデートには、時間がかかる場合がある。",
+          "translation": "OS updates can sometimes take a long time."
+        }
+      ]
+    },
+    {
+      "id": "v099",
+      "word": "アップグレード",
+      "reading": "アップグレード",
+      "meaning": "Upgrade",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "無料版から有料版にアップグレードすると、全ての機能が使えるようになる。",
+          "translation": "If you upgrade from the free version to the paid version, you will be able to use all the features."
+        },
+        {
+          "sentence": "パソコンのハードウェアをアップグレードした。",
+          "translation": "I upgraded my computer's hardware."
+        }
+      ]
+    },
+    {
+      "id": "v100",
+      "word": "ダウングレード",
+      "reading": "ダウングレード",
+      "meaning": "Downgrade",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "新しいバージョンに問題があったので、前のバージョンにダウングレードした。",
+          "translation": "There was a problem with the new version, so I downgraded to the previous version."
+        },
+        {
+          "sentence": "プランをダウングレードすると、一部の機能が使えなくなる。",
+          "translation": "If you downgrade your plan, some features will become unavailable."
+        }
+      ]
+    }
+  ]
+}
