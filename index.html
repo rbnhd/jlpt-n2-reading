@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JLPT N2 Reading Practice</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header Navigation -->
+    <header class="site-header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <h1>JLPT N2 読解練習</h1>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="index.html" class="active">ホーム</a></li>
+                    <li><a href="pages/practice.html">練習</a></li>
+                    <li><a href="pages/vocabulary.html">単語</a></li>
+                    <li><a href="pages/grammar.html">文法</a></li>
+                    <li><a href="pages/progress.html">進捗</a></li>
+                    <li><a href="pages/about.html">説明</a></li>
+                </ul>
+                <div class="nav-toggle" id="navToggle">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h2 class="hero-title">JLPT N2 読解力を向上させよう</h2>
+            <p class="hero-subtitle">実際の試験形式で練習できる、15種類以上の読解問題</p>
+            <div class="hero-buttons">
+                <button class="btn btn-primary" onclick="location.href='pages/practice.html'">
+                    練習を始める
+                </button>
+                <button class="btn btn-secondary" onclick="randomPractice()">
+                    ランダム問題
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Statistics Dashboard -->
+    <section class="stats-section">
+        <div class="container">
+            <h2 class="section-title">学習進捗</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number" id="completedCount">0</div>
+                    <div class="stat-label">完了した問題</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="accuracyRate">0%</div>
+                    <div class="stat-label">正答率</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="totalTime">0分</div>
+                    <div class="stat-label">学習時間</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="streakDays">0日</div>
+                    <div class="stat-label">連続学習</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Categories Section -->
+    <section class="categories-section">
+        <div class="container">
+            <h2 class="section-title">カテゴリー別練習</h2>
+            <div class="category-grid">
+                <div class="category-card" data-category="news">
+                    <div class="category-icon">📰</div>
+                    <h3>ニュース</h3>
+                    <p>時事問題や社会的な話題</p>
+                    <span class="category-count">3問題</span>
+                    <button class="btn btn-small" onclick="practiceCategory('news')">練習する</button>
+                </div>
+                <div class="category-card" data-category="essay">
+                    <div class="category-icon">✍️</div>
+                    <h3>エッセイ</h3>
+                    <p>意見文や論説文</p>
+                    <span class="category-count">3問題</span>
+                    <button class="btn btn-small" onclick="practiceCategory('essay')">練習する</button>
+                </div>
+                <div class="category-card" data-category="story">
+                    <div class="category-icon">📖</div>
+                    <h3>物語</h3>
+                    <p>短編小説や体験談</p>
+                    <span class="category-count">3問題</span>
+                    <button class="btn btn-small" onclick="practiceCategory('story')">練習する</button>
+                </div>
+                <div class="category-card" data-category="business">
+                    <div class="category-icon">💼</div>
+                    <h3>ビジネス</h3>
+                    <p>ビジネス文書や広告</p>
+                    <span class="category-count">3問題</span>
+                    <button class="btn btn-small" onclick="practiceCategory('business')">練習する</button>
+                </div>
+                <div class="category-card" data-category="academic">
+                    <div class="category-icon">🎓</div>
+                    <h3>学術</h3>
+                    <p>学術的な文章や研究</p>
+                    <span class="category-count">3問題</span>
+                    <button class="btn btn-small" onclick="practiceCategory('academic')">練習する</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Study Resources Section -->
+    <section class="resources-section">
+        <div class="container">
+            <h2 class="section-title">学習リソース</h2>
+            <div class="resource-grid">
+                <div class="resource-card">
+                    <h3>📚 N2単語リスト</h3>
+                    <p>1,000以上の必須単語</p>
+                    <a href="pages/vocabulary.html" class="btn btn-outline">単語を学ぶ</a>
+                </div>
+                <div class="resource-card">
+                    <h3>📝 N2文法パターン</h3>
+                    <p>100以上の文法項目</p>
+                    <a href="pages/grammar.html" class="btn btn-outline">文法を学ぶ</a>
+                </div>
+                <div class="resource-card">
+                    <h3>🎯 学習のコツ</h3>
+                    <p>効果的な学習方法</p>
+                    <a href="pages/tips.html" class="btn btn-outline">コツを見る</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2025 JLPT N2 Reading Practice. Personal Study Platform.</p>
+                <p>
+                    <a href="pages/about.html">About</a> | 
+                    <a href="pages/privacy.html">Privacy</a> | 
+                    <a href="https://github.com/yourusername/jlpt-n2-reading" target="_blank">GitHub</a>
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/app.js" type="module"></script>
+</body>
+</html>

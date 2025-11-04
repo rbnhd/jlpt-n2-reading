@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>読解練習 - JLPT N2 Reading Practice</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/components.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header Navigation -->
+    <header class="site-header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <h1>JLPT N2 読解練習</h1>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="../index.html">ホーム</a></li>
+                    <li><a href="practice.html" class="active">練習</a></li>
+                    <li><a href="vocabulary.html">単語</a></li>
+                    <li><a href="grammar.html">文法</a></li>
+                    <li><a href="progress.html">進捗</a></li>
+                    <li><a href="about.html">説明</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Practice Controls -->
+    <section class="practice-controls">
+        <div class="container">
+            <div class="controls-bar">
+                <div class="passage-info">
+                    <span id="passageTitle">読解問題を選択してください</span>
+                    <span class="passage-meta">
+                        <span id="passageCategory"></span>
+                        <span id="passageDifficulty"></span>
+                        <span id="passageTime"></span>
+                    </span>
+                </div>
+                <div class="controls-actions">
+                    <button class="btn btn-small" onclick="selectPassage()">問題選択</button>
+                    <button class="btn btn-small" onclick="toggleFurigana()">ふりがな</button>
+                    <button class="btn btn-small" onclick="adjustFontSize('increase')">文字+</button>
+                    <button class="btn btn-small" onclick="adjustFontSize('decrease')">文字-</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Practice Area -->
+    <main class="practice-area">
+        <div class="container">
+            <div class="practice-layout">
+                <!-- Passage Display -->
+                <div class="passage-column">
+                    <div class="passage-container" id="passageContainer">
+                        <div class="passage-placeholder">
+                            <p>読解問題を選択してください。</p>
+                            <button class="btn btn-primary" onclick="loadRandomPassage()">
+                                ランダム問題を開始
+                            </button>
+                        </div>
+                        <div class="passage-content" id="passageContent" style="display:none;">
+                            <!-- Passage text will be inserted here -->
+                        </div>
+                    </div>
+
+                    <!-- Timer Display -->
+                    <div class="timer-container">
+                        <span class="timer-label">経過時間:</span>
+                        <span class="timer-display" id="timerDisplay">00:00</span>
+                    </div>
+                </div>
+
+                <!-- Questions Display -->
+                <div class="questions-column">
+                    <div class="questions-container" id="questionsContainer">
+                        <div class="questions-placeholder">
+                            <p>問題がここに表示されます。</p>
+                        </div>
+                        <div class="questions-content" id="questionsContent" style="display:none;">
+                            <!-- Questions will be inserted here -->
+                        </div>
+                        
+                        <!-- Submit and Navigation -->
+                        <div class="question-actions" id="questionActions" style="display:none;">
+                            <button class="btn btn-primary" onclick="submitAnswers()" id="submitBtn">
+                                答えを確認
+                            </button>
+                            <button class="btn btn-secondary" onclick="showExplanations()" id="explanationBtn" style="display:none;">
+                                解説を見る
+                            </button>
+                            <button class="btn btn-secondary" onclick="nextPassage()" id="nextBtn" style="display:none;">
+                                次の問題へ
+                            </button>
+                        </div>
+
+                        <!-- Score Display -->
+                        <div class="score-display" id="scoreDisplay" style="display:none;">
+                            <h3>結果</h3>
+                            <div class="score-result">
+                                <span class="score-text">得点: </span>
+                                <span class="score-value" id="scoreValue">0/0</span>
+                            </div>
+                            <div class="score-percentage" id="scorePercentage"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Vocabulary Helper (Hidden by default) -->
+    <div class="vocabulary-helper" id="vocabularyHelper" style="display:none;">
+        <h3>単語ヘルプ</h3>
+        <div class="vocab-list" id="vocabList">
+            <!-- Vocabulary items will be inserted here -->
+        </div>
+    </div>
+
+    <script src="../js/quiz-handler.js" type="module"></script>
+    <script src="../js/progress-tracker.js" type="module"></script>
+    <script src="../js/practice.js" type="module"></script>
+</body>
+</html>
