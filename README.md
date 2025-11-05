@@ -2,7 +2,7 @@
 
 A comprehensive static website for JLPT N2 reading comprehension practice, featuring authentic passages, extensive vocabulary and grammar resources, and progress tracking. Built with vanilla HTML/CSS/JavaScript for deployment on GitHub Pages.
 
-## 🎯 Features
+## Features
 
 - **15 Reading Passages**: Covering all 5 JLPT N2 question types (短文, 中文, 統合理解, 主張理解, 情報検索)
 - **1,600 Vocabulary Entries**: 8 thematic categories with example sentences and translations
@@ -12,7 +12,7 @@ A comprehensive static website for JLPT N2 reading comprehension practice, featu
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 - **Privacy-First**: All data stored locally in browser, no server-side tracking
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 jlpt-n2-reading/
@@ -41,7 +41,7 @@ jlpt-n2-reading/
     └── metadata/              # Content index and metadata
 ```
 
-## 📊 Content Overview
+## Content Overview
 
 ### Reading Passages (15 total)
 - **Short Passages (短文)**: 5 passages, 250-350 characters
@@ -64,7 +64,7 @@ jlpt-n2-reading/
 - Complete N2 grammar reference (g001-g100)
 - Formation rules, meanings, examples, and notes
 
-## 🚀 Setup & Deployment
+## Setup & Deployment
 
 ### Local Development
 
@@ -97,7 +97,7 @@ php -S localhost:8000
 5. Save and wait for deployment
 6. Access at: `https://yourusername.github.io/jlpt-n2-reading/`
 
-## 💾 Data Storage
+## Data Storage
 
 All user progress is stored in browser `localStorage` with key: `n2-reading-progress`
 
@@ -109,7 +109,7 @@ Stored data includes:
 
 **Note**: Data is stored locally in your browser only. Clearing browser data will reset progress.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6 modules)
 - **Fonts**: Noto Sans JP (Google Fonts)
@@ -117,7 +117,7 @@ Stored data includes:
 - **Hosting**: GitHub Pages (static site)
 - **No Dependencies**: Pure vanilla JS, no frameworks or libraries
 
-## 📖 Usage Guide
+## Usage Guide
 
 1. **Start Practice**: Click "練習を始める" on homepage or select a category
 2. **Answer Questions**: Read passage and select answers
@@ -125,7 +125,7 @@ Stored data includes:
 4. **Track Progress**: View statistics on Progress page
 5. **Study Resources**: Use Vocabulary and Grammar pages for review
 
-## 🎨 Customization
+## Customization
 
 ### Color Scheme
 Edit CSS variables in `css/style.css`:
@@ -143,7 +143,7 @@ Edit CSS variables in `css/style.css`:
 - **Vocabulary**: Add entries to vocabulary JSON files
 - **Grammar**: Add patterns to `grammar-n2-complete.json`
 
-## ✅ Verification & Quality
+## Verification & Quality
 
 - ✅ All 25 JSON files validated (passages, vocab, grammar, metadata)
 - ✅ All 8 HTML pages functional (home + 7 subpages)
@@ -152,22 +152,22 @@ Edit CSS variables in `css/style.css`:
 - ✅ LocalStorage persistence verified
 - ✅ All navigation links working
 
-## 📚 External Resources Referenced
+## External Resources Referenced
 
 - [Official JLPT Sample Questions (N2)](https://www.jlpt.jp/samples/pdf/N2-mondai.pdf)
 - [JLPT Sample 2012 Reading](https://www.jlpt.jp/samples/pdf/N2R.pdf)
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
 - Additional resources listed in Tips page
 
-## 📝 License
+## License
 
 This project is for personal educational use. Content is based on JLPT N2 standards but is not official JLPT material.
 
-## 🤝 Contributing
+## Contributing
 
 This is a personal project, but suggestions are welcome via Issues.
 
-## 📧 Contact
+## Contact
 
 For questions or feedback, please open an issue on GitHub.
 
