@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="JLPT N2 学習進捗 - あなたの学習記録と統計">
+  <title>学習進捗 - JLPT N2 読解練習</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/components.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <nav class="nav-bar">
+        <div class="nav-logo">
+          <a href="../index.html">N2 読解練習</a>
+        </div>
+        <button id="navToggle" class="nav-toggle" aria-label="メニューを開く">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <ul class="nav-menu">
+          <li><a href="../index.html">ホーム</a></li>
+          <li><a href="practice.html">練習問題</a></li>
+          <li><a href="vocabulary.html">語彙</a></li>
+          <li><a href="grammar.html">文法</a></li>
+          <li><a href="progress.html" class="active">進捗</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <section class="page-hero">
+      <div class="container">
+        <h1>学習進捗</h1>
+        <p>あなたの学習記録と統計を確認しましょう</p>
+      </div>
+    </section>
+
+    <section class="progress-section">
+      <div class="container">
+        <!-- Overall Stats -->
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-icon">📚</div>
+            <div class="stat-value" id="totalAttempts">0</div>
+            <div class="stat-label">解いた問題数</div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-icon">✅</div>
+            <div class="stat-value" id="correctAnswers">0</div>
+            <div class="stat-label">正解数</div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-icon">📊</div>
+            <div class="stat-value" id="accuracyRate">0%</div>
+            <div class="stat-label">正答率</div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-icon">🔥</div>
+            <div class="stat-value" id="currentStreak">0</div>
+            <div class="stat-label">連続学習日数</div>
+          </div>
+        </div>
+
+        <!-- Category Performance -->
+        <div class="section-card">
+          <h2>カテゴリー別成績</h2>
+          <div id="categoryStats" class="category-stats">
+            <div class="loading">読み込み中...</div>
+          </div>
+        </div>
+
+        <!-- Recent Activity -->
+        <div class="section-card">
+          <h2>最近の学習履歴</h2>
+          <div id="recentActivity" class="recent-activity">
+            <div class="loading">読み込み中...</div>
+          </div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="action-buttons">
+          <button onclick="exportProgress()" class="btn btn-secondary">
+            データをエクスポート
+          </button>
+          <button onclick="resetProgress()" class="btn btn-danger">
+            データをリセット
+          </button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2024 JLPT N2 読解練習サイト</p>
+      <nav class="footer-nav">
+        <a href="about.html">このサイトについて</a>
+        <a href="privacy.html">プライバシーポリシー</a>
+        <a href="tips.html">学習のコツ</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script type="module" src="../js/app.js"></script>
+  <script type="module">
+    import { getStats, initialiseStats } from '../js/progress-tracker.js';
+
+    function renderProgressPage() {
+      const stats = getStats();
+      
+      // Overall stats
+      document.getElementById('totalAttempts').textContent = stats.totalAttempts || 0;
+      document.getElementById('correctAnswers').textContent = stats.correctAnswers || 0;
+      
+      const accuracy = stats.totalAttempts > 0 
+        ? Math.round((stats.correctAnswers / stats.totalAttempts) * 100)
+        : 0;
+      document.getElementById('accuracyRate').textContent = accuracy + '%';
+      document.getElementById('currentStreak').textContent = stats.currentStreak || 0;
+
+      // Category stats
+      renderCategoryStats(stats);
+
+      // Recent activity
+      renderRecentActivity(stats);
+    }
+
+    function renderCategoryStats(stats) {
+      const container = document.getElementById('categoryStats');
+      const categories = stats.byCategory || {};
+
+      if (Object.keys(categories).length === 0) {
+        container.innerHTML = '<div class="no-data">まだ問題を解いていません</div>';
+        return;
+      }
+
+      const categoryNames = {
+        news: 'ニュース',
+        essay: 'エッセイ',
+        story: '物語',
+        business: 'ビジネス',
+        academic: '学術'
+      };
+
+      container.innerHTML = Object.entries(categories).map(([cat, data]) => {
+        const accuracy = data.attempts > 0 
+          ? Math.round((data.correct / data.attempts) * 100)
+          : 0;
+        
+        return `
+          <div class="category-stat-item">
+            <div class="category-name">${categoryNames[cat] || cat}</div>
+            <div class="category-details">
+              <span>解答数: ${data.attempts}</span>
+              <span>正答率: ${accuracy}%</span>
+            </div>
+            <div class="progress-bar">
+              <div class="progress-fill" style="width: ${accuracy}%"></div>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function renderRecentActivity(stats) {
+      const container = document.getElementById('recentActivity');
+      const history = stats.history || [];
+
+      if (history.length === 0) {
+        container.innerHTML = '<div class="no-data">まだ学習履歴がありません</div>';
+        return;
+      }
+
+      // Show last 10 activities
+      const recent = history.slice(-10).reverse();
+
+      container.innerHTML = recent.map(entry => {
+        const date = new Date(entry.timestamp);
+        const dateStr = date.toLocaleDateString('ja-JP');
+        const timeStr = date.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' });
+        const accuracy = entry.total > 0 
+          ? Math.round((entry.correct / entry.total) * 100)
+          : 0;
+
+        return `
+          <div class="activity-item">
+            <div class="activity-header">
+              <span class="activity-date">${dateStr} ${timeStr}</span>
+              <span class="activity-score ${accuracy >= 80 ? 'good' : accuracy >= 60 ? 'ok' : 'poor'}">
+                ${entry.correct}/${entry.total} (${accuracy}%)
+              </span>
+            </div>
+            <div class="activity-passage">${entry.passageId}</div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    window.exportProgress = function() {
+      const stats = getStats();
+      const dataStr = JSON.stringify(stats, null, 2);
+      const dataBlob = new Blob([dataStr], { type: 'application/json' });
+      const url = URL.createObjectURL(dataBlob);
+      
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = `n2-reading-progress-${Date.now()}.json`;
+      link.click();
+      
+      URL.revokeObjectURL(url);
+      alert('進捗データをエクスポートしました');
+    };
+
+    window.resetProgress = function() {
+      if (!confirm('本当に学習データをすべてリセットしますか？この操作は取り消せません。')) {
+        return;
+      }
+      
+      localStorage.removeItem('n2-reading-progress');
+      initialiseStats();
+      renderProgressPage();
+      alert('学習データをリセットしました');
+    };
+
+    // Initialize
+    initialiseStats();
+    renderProgressPage();
+  </script>
+</body>
+</html>

@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="JLPT N2 語彙学習 - 1600語の重要単語を分野別に学習">
+  <title>語彙学習 - JLPT N2 読解練習</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/components.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <nav class="nav-bar">
+        <div class="nav-logo">
+          <a href="../index.html">N2 読解練習</a>
+        </div>
+        <button id="navToggle" class="nav-toggle" aria-label="メニューを開く">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <ul class="nav-menu">
+          <li><a href="../index.html">ホーム</a></li>
+          <li><a href="practice.html">練習問題</a></li>
+          <li><a href="vocabulary.html" class="active">語彙</a></li>
+          <li><a href="grammar.html">文法</a></li>
+          <li><a href="progress.html">進捗</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <section class="page-hero">
+      <div class="container">
+        <h1>N2語彙学習</h1>
+        <p>JLPT N2レベルの重要単語1600語を分野別に学習しましょう</p>
+      </div>
+    </section>
+
+    <section class="vocabulary-section">
+      <div class="container">
+        <!-- Filters and Search -->
+        <div class="vocab-controls">
+          <div class="search-box">
+            <input 
+              type="text" 
+              id="vocabSearch" 
+              placeholder="単語を検索..."
+              aria-label="語彙を検索">
+          </div>
+          
+          <div class="filter-group">
+            <label for="categoryFilter">分野:</label>
+            <select id="categoryFilter">
+              <option value="all">すべて</option>
+              <option value="social">社会問題</option>
+              <option value="daily">日常生活</option>
+              <option value="business">ビジネス</option>
+              <option value="academic">学術</option>
+              <option value="abstract">抽象概念</option>
+              <option value="abstract-concepts">抽象的概念</option>
+              <option value="daily-life">日常生活詳細</option>
+              <option value="technology">技術</option>
+            </select>
+          </div>
+
+          <div class="vocab-stats">
+            <span id="vocabCount">0</span> 語表示中
+          </div>
+        </div>
+
+        <!-- Vocabulary List -->
+        <div id="vocabList" class="vocab-grid">
+          <div class="loading">読み込み中...</div>
+        </div>
+
+        <!-- Pagination -->
+        <div class="pagination" id="vocabPagination"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2024 JLPT N2 読解練習サイト</p>
+      <nav class="footer-nav">
+        <a href="about.html">このサイトについて</a>
+        <a href="privacy.html">プライバシーポリシー</a>
+        <a href="tips.html">学習のコツ</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script type="module" src="../js/app.js"></script>
+  <script type="module">
+    // Vocabulary page logic
+    let allVocabulary = [];
+    let filteredVocabulary = [];
+    const ITEMS_PER_PAGE = 50;
+    let currentPage = 1;
+
+    const vocabFiles = [
+      'social', 'daily', 'business', 'academic', 
+      'abstract', 'abstract-concepts', 'daily-life', 'technology'
+    ];
+
+    async function loadAllVocabulary() {
+      const promises = vocabFiles.map(async (category) => {
+        try {
+          const response = await fetch(`../data/vocabulary/vocab-${category}.json`);
+          const data = await response.json();
+          return data.items.map(item => ({
+            ...item,
+            category: category
+          }));
+        } catch (error) {
+          console.error(`Failed to load ${category} vocabulary:`, error);
+          return [];
+        }
+      });
+
+      const results = await Promise.all(promises);
+      allVocabulary = results.flat();
+      filteredVocabulary = [...allVocabulary];
+      renderVocabulary();
+    }
+
+    function filterVocabulary() {
+      const searchTerm = document.getElementById('vocabSearch').value.toLowerCase();
+      const category = document.getElementById('categoryFilter').value;
+
+      filteredVocabulary = allVocabulary.filter(item => {
+        const matchesSearch = !searchTerm || 
+          (item.kanji && item.kanji.includes(searchTerm)) ||
+          (item.kana && item.kana.includes(searchTerm)) ||
+          (item.word && item.word.includes(searchTerm)) ||
+          (item.reading && item.reading.includes(searchTerm)) ||
+          (item.meaning && item.meaning.toLowerCase().includes(searchTerm));
+        
+        const matchesCategory = category === 'all' || item.category === category;
+
+        return matchesSearch && matchesCategory;
+      });
+
+      currentPage = 1;
+      renderVocabulary();
+    }
+
+    function renderVocabulary() {
+      const container = document.getElementById('vocabList');
+      const countElement = document.getElementById('vocabCount');
+      
+      countElement.textContent = filteredVocabulary.length;
+
+      const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+      const endIndex = startIndex + ITEMS_PER_PAGE;
+      const pageItems = filteredVocabulary.slice(startIndex, endIndex);
+
+      if (pageItems.length === 0) {
+        container.innerHTML = '<div class="no-results">該当する語彙が見つかりませんでした</div>';
+        renderPagination();
+        return;
+      }
+
+      container.innerHTML = pageItems.map(item => {
+        const word = item.kanji || item.word || '';
+        const reading = item.kana || item.reading || '';
+        const meaning = item.meaning || '';
+        const example = item.exampleSentence || (item.examples && item.examples[0]?.sentence) || '';
+        const translation = item.exampleTranslation || (item.examples && item.examples[0]?.translation) || '';
+
+        return `
+          <div class="vocab-card">
+            <div class="vocab-header">
+              <div class="vocab-word">${word}</div>
+              <div class="vocab-reading">${reading}</div>
+            </div>
+            <div class="vocab-meaning">${meaning}</div>
+            ${example ? `
+              <div class="vocab-example">
+                <div class="example-sentence">${example}</div>
+                <div class="example-translation">${translation}</div>
+              </div>
+            ` : ''}
+          </div>
+        `;
+      }).join('');
+
+      renderPagination();
+    }
+
+    function renderPagination() {
+      const container = document.getElementById('vocabPagination');
+      const totalPages = Math.ceil(filteredVocabulary.length / ITEMS_PER_PAGE);
+
+      if (totalPages <= 1) {
+        container.innerHTML = '';
+        return;
+      }
+
+      let html = '<button onclick="goToPage(1)" ' + (currentPage === 1 ? 'disabled' : '') + '>最初</button>';
+      html += '<button onclick="goToPage(' + (currentPage - 1) + ')" ' + (currentPage === 1 ? 'disabled' : '') + '>前へ</button>';
+      
+      for (let i = Math.max(1, currentPage - 2); i <= Math.min(totalPages, currentPage + 2); i++) {
+        html += '<button onclick="goToPage(' + i + ')" ' + (i === currentPage ? 'class="active"' : '') + '>' + i + '</button>';
+      }
+
+      html += '<button onclick="goToPage(' + (currentPage + 1) + ')" ' + (currentPage === totalPages ? 'disabled' : '') + '>次へ</button>';
+      html += '<button onclick="goToPage(' + totalPages + ')" ' + (currentPage === totalPages ? 'disabled' : '') + '>最後</button>';
+
+      container.innerHTML = html;
+    }
+
+    window.goToPage = function(page) {
+      const totalPages = Math.ceil(filteredVocabulary.length / ITEMS_PER_PAGE);
+      if (page < 1 || page > totalPages) return;
+      currentPage = page;
+      renderVocabulary();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
+
+    // Event listeners
+    document.getElementById('vocabSearch').addEventListener('input', filterVocabulary);
+    document.getElementById('categoryFilter').addEventListener('change', filterVocabulary);
+
+    // Initialize
+    loadAllVocabulary();
+  </script>
+</body>
+</html>

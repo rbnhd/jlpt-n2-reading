@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="JLPT N2 文法学習 - 100の重要文法パターンを学習">
+  <title>文法学習 - JLPT N2 読解練習</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/components.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <nav class="nav-bar">
+        <div class="nav-logo">
+          <a href="../index.html">N2 読解練習</a>
+        </div>
+        <button id="navToggle" class="nav-toggle" aria-label="メニューを開く">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <ul class="nav-menu">
+          <li><a href="../index.html">ホーム</a></li>
+          <li><a href="practice.html">練習問題</a></li>
+          <li><a href="vocabulary.html">語彙</a></li>
+          <li><a href="grammar.html" class="active">文法</a></li>
+          <li><a href="progress.html">進捗</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <section class="page-hero">
+      <div class="container">
+        <h1>N2文法学習</h1>
+        <p>JLPT N2レベルの重要文法パターン100個を学習しましょう</p>
+      </div>
+    </section>
+
+    <section class="grammar-section">
+      <div class="container">
+        <!-- Filters and Search -->
+        <div class="grammar-controls">
+          <div class="search-box">
+            <input 
+              type="text" 
+              id="grammarSearch" 
+              placeholder="文法パターンを検索..."
+              aria-label="文法を検索">
+          </div>
+          
+          <div class="grammar-stats">
+            <span id="grammarCount">0</span> パターン表示中
+          </div>
+        </div>
+
+        <!-- Grammar List -->
+        <div id="grammarList" class="grammar-list">
+          <div class="loading">読み込み中...</div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2024 JLPT N2 読解練習サイト</p>
+      <nav class="footer-nav">
+        <a href="about.html">このサイトについて</a>
+        <a href="privacy.html">プライバシーポリシー</a>
+        <a href="tips.html">学習のコツ</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script type="module" src="../js/app.js"></script>
+  <script type="module">
+    // Grammar page logic
+    let allGrammar = [];
+    let filteredGrammar = [];
+
+    async function loadGrammar() {
+      try {
+        const response = await fetch('../data/grammar/grammar-n2-complete.json');
+        const data = await response.json();
+        allGrammar = data;
+        filteredGrammar = [...allGrammar];
+        renderGrammar();
+      } catch (error) {
+        console.error('Failed to load grammar:', error);
+        document.getElementById('grammarList').innerHTML = 
+          '<div class="error">文法データの読み込みに失敗しました</div>';
+      }
+    }
+
+    function filterGrammar() {
+      const searchTerm = document.getElementById('grammarSearch').value.toLowerCase();
+
+      filteredGrammar = allGrammar.filter(item => {
+        return !searchTerm ||
+          (item.pattern && item.pattern.toLowerCase().includes(searchTerm)) ||
+          (item.meaning && item.meaning.toLowerCase().includes(searchTerm)) ||
+          (item.formation && item.formation.toLowerCase().includes(searchTerm));
+      });
+
+      renderGrammar();
+    }
+
+    function renderGrammar() {
+      const container = document.getElementById('grammarList');
+      const countElement = document.getElementById('grammarCount');
+      
+      countElement.textContent = filteredGrammar.length;
+
+      if (filteredGrammar.length === 0) {
+        container.innerHTML = '<div class="no-results">該当する文法パターンが見つかりませんでした</div>';
+        return;
+      }
+
+      container.innerHTML = filteredGrammar.map(item => {
+        const examples = item.examples || [];
+        
+        return `
+          <div class="grammar-card">
+            <div class="grammar-header">
+              <h3 class="grammar-pattern">${item.pattern || ''}</h3>
+              <span class="grammar-id">${item.id || ''}</span>
+            </div>
+            
+            <div class="grammar-meaning">
+              <strong>意味:</strong> ${item.meaning || ''}
+            </div>
+
+            ${item.formation ? `
+              <div class="grammar-formation">
+                <strong>接続:</strong> ${item.formation}
+              </div>
+            ` : ''}
+
+            ${examples.length > 0 ? `
+              <div class="grammar-examples">
+                <strong>例文:</strong>
+                ${examples.map(ex => `
+                  <div class="example-item">
+                    <div class="example-sentence">${ex.sentence || ''}</div>
+                    <div class="example-translation">${ex.translation || ''}</div>
+                  </div>
+                `).join('')}
+              </div>
+            ` : ''}
+
+            ${item.notes ? `
+              <div class="grammar-notes">
+                <strong>注意:</strong> ${item.notes}
+              </div>
+            ` : ''}
+          </div>
+        `;
+      }).join('');
+    }
+
+    // Event listeners
+    document.getElementById('grammarSearch').addEventListener('input', filterGrammar);
+
+    // Initialize
+    loadGrammar();
+  </script>
+</body>
+</html>
