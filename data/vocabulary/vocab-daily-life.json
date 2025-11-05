@@ -12,7 +12,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "このアパートは単身者向けの世帯が多い。",
       "exampleTranslation": "This apartment building has many households for single people.",
-      "relatedWords": ["家族", "家庭", "所帯"],
+      "relatedWords": [
+        "家族",
+        "家庭",
+        "所帯"
+      ],
       "notes": "Refers to a family unit living together."
     },
     {
@@ -25,7 +29,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "健康的な衣食住は幸福の基本だ。",
       "exampleTranslation": "Healthy food, clothing, and shelter are the basis of happiness.",
-      "relatedWords": ["生活", "必需品", "暮らし"],
+      "relatedWords": [
+        "生活",
+        "必需品",
+        "暮らし"
+      ],
       "notes": "A compound word: 衣 (clothing), 食 (food), 住 (housing)."
     },
     {
@@ -38,7 +46,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "週末は家事を手伝うようにしている。",
       "exampleTranslation": "I try to help with the housework on weekends.",
-      "relatedWords": ["掃除", "洗濯", "料理"],
+      "relatedWords": [
+        "掃除",
+        "洗濯",
+        "料理"
+      ],
       "notes": "The work needed to run a home."
     },
     {
@@ -51,7 +63,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "育児と仕事の両立は大変だ。",
       "exampleTranslation": "Balancing childcare and work is tough.",
-      "relatedWords": ["子育て", "世話", "保育"],
+      "relatedWords": [
+        "子育て",
+        "世話",
+        "保育"
+      ],
       "notes": "The process of caring for children."
     },
     {
@@ -64,7 +80,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "都会では近所付き合いが少なくなっている。",
       "exampleTranslation": "In the city, relations with neighbors are decreasing.",
-      "relatedWords": ["隣人", "付き合い", "地域社会"],
+      "relatedWords": [
+        "隣人",
+        "付き合い",
+        "地域社会"
+      ],
       "notes": "The social interaction and relationships among neighbors."
     },
     {
@@ -77,7 +97,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "一週間分の献立を考える。",
       "exampleTranslation": "I think about the menu for a week.",
-      "relatedWords": ["メニュー", "料理", "食事"],
+      "relatedWords": [
+        "メニュー",
+        "料理",
+        "食事"
+      ],
       "notes": "A list of the dishes to be served at a meal."
     },
     {
@@ -90,7 +114,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "バランスの取れた栄養が大切だ。",
       "exampleTranslation": "Balanced nutrition is important.",
-      "relatedWords": ["カロリー", "健康", "食品"],
+      "relatedWords": [
+        "カロリー",
+        "健康",
+        "食品"
+      ],
       "notes": "The substances that you take into your body as food and the way that they influence your health."
     },
     {
@@ -103,7 +131,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "このソースは独特の風味がある。",
       "exampleTranslation": "This sauce has a unique flavor.",
-      "relatedWords": ["味", "香り", "味わい"],
+      "relatedWords": [
+        "味",
+        "香り",
+        "味わい"
+      ],
       "notes": "The particular taste of a food or drink."
     },
     {
@@ -116,7 +148,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "ゆっくりと食事を味わう時間も必要だ。",
       "exampleTranslation": "It's also necessary to have time to slowly savor a meal.",
-      "relatedWords": ["食べる", "楽しむ", "体験する"],
+      "relatedWords": [
+        "食べる",
+        "楽しむ",
+        "体験する"
+      ],
       "notes": "Can be used for both food and experiences (e.g., 雰囲気を味わう - to savor the atmosphere)."
     },
     {
@@ -129,7 +165,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "食品を扱う際は衛生に注意してください。",
       "exampleTranslation": "Please pay attention to hygiene when handling food.",
-      "relatedWords": ["清潔", "消毒", "公衆衛生"],
+      "relatedWords": [
+        "清潔",
+        "消毒",
+        "公衆衛生"
+      ],
       "notes": "The practice of keeping yourself and your surroundings clean in order to prevent illness or disease."
     },
     {
@@ -142,7 +182,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "新しい住まいを探している。",
       "exampleTranslation": "I am looking for a new place to live.",
-      "relatedWords": ["家", "住宅", "住所"],
+      "relatedWords": [
+        "家",
+        "住宅",
+        "住所"
+      ],
       "notes": "A slightly more formal or literary word for 'house' or 'home'."
     },
     {
@@ -155,7 +199,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "このアパートは間取りがいい。",
       "exampleTranslation": "This apartment has a good floor plan.",
-      "relatedWords": ["設計", "部屋", "レイアウト"],
+      "relatedWords": [
+        "設計",
+        "部屋",
+        "レイアウト"
+      ],
       "notes": "Describes the arrangement of rooms in a house, e.g., 2LDK (2 bedrooms, living, dining, kitchen)."
     },
     {
@@ -168,7 +216,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "私の部屋は南向きで日当たりがいい。",
       "exampleTranslation": "My room faces south and gets good sunlight.",
-      "relatedWords": ["日差し", "南向き", "明るい"],
+      "relatedWords": [
+        "日差し",
+        "南向き",
+        "明るい"
+      ],
       "notes": "A key factor when choosing a place to live in Japan."
     },
     {
@@ -181,7 +233,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この家は収納スペースがたくさんある。",
       "exampleTranslation": "This house has a lot of storage space.",
-      "relatedWords": ["片付ける", "押入れ", "クローゼット"],
+      "relatedWords": [
+        "片付ける",
+        "押入れ",
+        "クローゼット"
+      ],
       "notes": "The act of putting things in a container for future use, or a space for this."
     },
     {
@@ -194,7 +250,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "休日はDIYで棚を作った。",
       "exampleTranslation": "I made a shelf with DIY on my day off.",
-      "relatedWords": ["日曜大工", "手作り", "自作"],
+      "relatedWords": [
+        "日曜大工",
+        "手作り",
+        "自作"
+      ],
       "notes": "An English acronym commonly used in Japanese."
     },
     {
@@ -207,7 +267,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "日本ではごみをきちんと分別しなければならない。",
       "exampleTranslation": "In Japan, you have to separate garbage properly.",
-      "relatedWords": ["リサイクル", "可燃ごみ", "不燃ごみ"],
+      "relatedWords": [
+        "リサイクル",
+        "可燃ごみ",
+        "不燃ごみ"
+      ],
       "notes": "Garbage separation rules are often very strict and vary by municipality."
     },
     {
@@ -220,7 +284,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "ペットボトルはリサイクルに出してください。",
       "exampleTranslation": "Please put plastic bottles out for recycling.",
-      "relatedWords": ["再利用", "資源", "分別"],
+      "relatedWords": [
+        "再利用",
+        "資源",
+        "分別"
+      ],
       "notes": "The process of converting waste materials into new materials and objects."
     },
     {
@@ -233,7 +301,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "電気代を節約するために、こまめに電気を消す。",
       "exampleTranslation": "To save on electricity bills, I turn off lights frequently.",
-      "relatedWords": ["倹約", "省エネ", "無駄遣い"],
+      "relatedWords": [
+        "倹約",
+        "省エネ",
+        "無駄遣い"
+      ],
       "notes": "The act of using less of something, like money, energy, or time."
     },
     {
@@ -246,7 +318,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今月は予期せぬ出費が多かった。",
       "exampleTranslation": "There were a lot of unexpected expenses this month.",
-      "relatedWords": ["費用", "支出", "経費"],
+      "relatedWords": [
+        "費用",
+        "支出",
+        "経費"
+      ],
       "notes": "The money that you spend on something."
     },
     {
@@ -259,7 +335,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "毎日家計簿をつけて、収支を管理している。",
       "exampleTranslation": "I keep a household account book every day to manage income and expenses.",
-      "relatedWords": ["収支", "支出", "節約"],
+      "relatedWords": [
+        "収支",
+        "支出",
+        "節約"
+      ],
       "notes": "A traditional Japanese method of budgeting and tracking expenses."
     },
     {
@@ -272,7 +352,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "約束の時間までカフェで時間を潰した。",
       "exampleTranslation": "I killed time at a cafe until the appointment time.",
-      "relatedWords": ["暇つぶし", "待つ", "過ごす"],
+      "relatedWords": [
+        "暇つぶし",
+        "待つ",
+        "過ごす"
+      ],
       "notes": "Literally 'to crush/smash time'."
     },
     {
@@ -285,7 +369,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "面接に行く前に、身だしなみを整える。",
       "exampleTranslation": "Before going to an interview, I fix my appearance.",
-      "relatedWords": ["服装", "格好", "外見"],
+      "relatedWords": [
+        "服装",
+        "格好",
+        "外見"
+      ],
       "notes": "Refers to taking care of one's appearance to make a good impression."
     },
     {
@@ -298,7 +386,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼女はいつもおしゃれな服を着ている。",
       "exampleTranslation": "She always wears stylish clothes.",
-      "relatedWords": ["ファッション", "流行", "センス"],
+      "relatedWords": [
+        "ファッション",
+        "流行",
+        "センス"
+      ],
       "notes": "Can be used as a noun (a stylish person) or an adjective."
     },
     {
@@ -311,7 +403,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今年の冬は、長いコートが流行している。",
       "exampleTranslation": "Long coats are in fashion this winter.",
-      "relatedWords": ["はやり", "トレンド", "ブーム"],
+      "relatedWords": [
+        "はやり",
+        "トレンド",
+        "ブーム"
+      ],
       "notes": "Also used for the spread of diseases (e.g., インフルエンザの流行)."
     },
     {
@@ -324,7 +420,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "このセーター、試着してもいいですか。",
       "exampleTranslation": "May I try on this sweater?",
-      "relatedWords": ["着る", "試す", "試着室"],
+      "relatedWords": [
+        "着る",
+        "試す",
+        "試着室"
+      ],
       "notes": "試着室 (shichakushitsu) is a fitting room."
     },
     {
@@ -337,7 +437,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "家に帰ったら、まず部屋着に着替える。",
       "exampleTranslation": "When I get home, the first thing I do is change into loungewear.",
-      "relatedWords": ["服", "着る", "更衣室"],
+      "relatedWords": [
+        "服",
+        "着る",
+        "更衣室"
+      ],
       "notes": "A compound of 着る (to wear) and 替える (to change)."
     },
     {
@@ -350,7 +454,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼女は毎朝、化粧に30分かける。",
       "exampleTranslation": "She spends 30 minutes on her makeup every morning.",
-      "relatedWords": ["メイク", "口紅", "ファンデーション"],
+      "relatedWords": [
+        "メイク",
+        "口紅",
+        "ファンデーション"
+      ],
       "notes": "化粧を落とす (keshou o otosu) means to remove makeup."
     },
     {
@@ -363,7 +471,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "毎朝、公園を散歩するのが日課だ。",
       "exampleTranslation": "It's my daily routine to take a walk in the park every morning.",
-      "relatedWords": ["歩く", "散策", "ぶらぶら"],
+      "relatedWords": [
+        "歩く",
+        "散策",
+        "ぶらぶら"
+      ],
       "notes": "A leisurely walk for pleasure or exercise."
     },
     {
@@ -376,7 +488,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "私の趣味は写真を撮ることです。",
       "exampleTranslation": "My hobby is taking pictures.",
-      "relatedWords": ["興味", "娯楽", "道楽"],
+      "relatedWords": [
+        "興味",
+        "娯楽",
+        "道楽"
+      ],
       "notes": "An activity done regularly in one's leisure time for pleasure."
     },
     {
@@ -389,7 +505,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この町には娯楽施設が少ない。",
       "exampleTranslation": "There are few entertainment facilities in this town.",
-      "relatedWords": ["楽しみ", "レジャー", "エンターテイメント"],
+      "relatedWords": [
+        "楽しみ",
+        "レジャー",
+        "エンターテイメント"
+      ],
       "notes": "Activities that people do for fun and relaxation."
     },
     {
@@ -402,7 +522,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "電車の中では、いつも読書をしている。",
       "exampleTranslation": "I always do some reading on the train.",
-      "relatedWords": ["本", "読む", "活字"],
+      "relatedWords": [
+        "本",
+        "読む",
+        "活字"
+      ],
       "notes": "Specifically refers to the act of reading books for pleasure or study."
     },
     {
@@ -415,7 +539,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "友達に誕生日のお祝いの手紙を書いた。",
       "exampleTranslation": "I wrote a birthday celebration letter to my friend.",
-      "relatedWords": ["郵便", "はがき", "封筒"],
+      "relatedWords": [
+        "郵便",
+        "はがき",
+        "封筒"
+      ],
       "notes": "A written message from one person to another, usually sent by post."
     },
     {
@@ -428,7 +556,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "両親が旅行中、家で留守番をしていた。",
       "exampleTranslation": "While my parents were on a trip, I was looking after the house.",
-      "relatedWords": ["留守", "番", "見守る"],
+      "relatedWords": [
+        "留守",
+        "番",
+        "見守る"
+      ],
       "notes": "Can also refer to the person who stays behind."
     },
     {
@@ -441,7 +573,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "インターネットで注文した商品が宅配便で届いた。",
       "exampleTranslation": "The product I ordered online arrived by courier.",
-      "relatedWords": ["配達", "荷物", "小包"],
+      "relatedWords": [
+        "配達",
+        "荷物",
+        "小包"
+      ],
       "notes": "A very common and convenient service in Japan."
     },
     {
@@ -454,7 +590,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今夜は疲れたから、ピザの出前を取ろう。",
       "exampleTranslation": "I'm tired tonight, so let's order pizza for delivery.",
-      "relatedWords": ["配達", "注文", "デリバリー"],
+      "relatedWords": [
+        "配達",
+        "注文",
+        "デリバリー"
+      ],
       "notes": "Traditionally associated with noodle shops, but now used more broadly."
     },
     {
@@ -467,7 +607,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "一人暮らしを始めてから、毎日自炊している。",
       "exampleTranslation": "Since I started living alone, I cook for myself every day.",
-      "relatedWords": ["料理", "外食", "手料理"],
+      "relatedWords": [
+        "料理",
+        "外食",
+        "手料理"
+      ],
       "notes": "The opposite is 外食 (gaishoku), eating out."
     },
     {
@@ -480,7 +624,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "金曜の夜は、家族で外食することが多い。",
       "exampleTranslation": "On Friday nights, my family often eats out.",
-      "relatedWords": ["レストラン", "食事", "自炊"],
+      "relatedWords": [
+        "レストラン",
+        "食事",
+        "自炊"
+      ],
       "notes": "The opposite is 自炊 (jisui), cooking for oneself."
     },
     {
@@ -493,7 +641,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "忘年会のための宴会を予約した。",
       "exampleTranslation": "I booked a banquet for the year-end party.",
-      "relatedWords": ["パーティー", "飲み会", "歓迎会"],
+      "relatedWords": [
+        "パーティー",
+        "飲み会",
+        "歓迎会"
+      ],
       "notes": "Often involves a formal dinner with drinks, common in Japanese work culture."
     },
     {
@@ -506,7 +658,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "仕事の後に、同僚と飲み会に行った。",
       "exampleTranslation": "After work, I went to a drinking party with my colleagues.",
-      "relatedWords": ["宴会", "居酒屋", "二次会"],
+      "relatedWords": [
+        "宴会",
+        "居酒屋",
+        "二次会"
+      ],
       "notes": "A very common social gathering in Japan, especially among coworkers."
     },
     {
@@ -519,7 +675,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "新入社員のための歓迎会が開かれた。",
       "exampleTranslation": "A welcome party was held for the new employees.",
-      "relatedWords": ["送別会", "パーティー", "飲み会"],
+      "relatedWords": [
+        "送別会",
+        "パーティー",
+        "飲み会"
+      ],
       "notes": "A party to welcome a new person to a group or company. The opposite is 送別会 (soubetsukai), a farewell party."
     },
     {
@@ -532,7 +692,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "退職する同僚のために送別会を開いた。",
       "exampleTranslation": "We held a farewell party for a colleague who is retiring.",
-      "relatedWords": ["歓迎会", "パーティー", "別れ"],
+      "relatedWords": [
+        "歓迎会",
+        "パーティー",
+        "別れ"
+      ],
       "notes": "A party to say goodbye to someone who is leaving a job or place. The opposite is 歓迎会 (kangeikai), a welcome party."
     },
     {
@@ -545,7 +709,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今日の飲み会は割り勘にしよう。",
       "exampleTranslation": "Let's split the bill for today's drinking party.",
-      "relatedWords": ["会計", "勘定", "別々"],
+      "relatedWords": [
+        "会計",
+        "勘定",
+        "別々"
+      ],
       "notes": "A very common practice in Japan for informal gatherings."
     },
     {
@@ -558,7 +726,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今日は給料日だから、私がおごるよ。",
       "exampleTranslation": "It's payday today, so it's my treat.",
-      "relatedWords": ["ごちそうする", "払う", "出す"],
+      "relatedWords": [
+        "ごちそうする",
+        "払う",
+        "出す"
+      ],
       "notes": "The person being treated is marked with に (e.g., 友達に昼食をおごる)."
     },
     {
@@ -571,7 +743,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "誕生日なので、母がごちそうを作ってくれた。",
       "exampleTranslation": "Because it was my birthday, my mother made a feast for me.",
-      "relatedWords": ["食事", "料理", "豪華"],
+      "relatedWords": [
+        "食事",
+        "料理",
+        "豪華"
+      ],
       "notes": "ごちそうさまでした (gochisou sama deshita) is a set phrase said after a meal to thank the host/cook."
     },
     {
@@ -584,7 +760,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今日は少し体調が悪い。",
       "exampleTranslation": "I'm not feeling very well today.",
-      "relatedWords": ["健康", "具合", "コンディション"],
+      "relatedWords": [
+        "健康",
+        "具合",
+        "コンディション"
+      ],
       "notes": "体調を崩す (taichou o kuzusu) means to get sick."
     },
     {
@@ -597,7 +777,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "年に一度、健康診断を受けている。",
       "exampleTranslation": "I get a health check-up once a year.",
-      "relatedWords": ["検査", "病院", "診察"],
+      "relatedWords": [
+        "検査",
+        "病院",
+        "診察"
+      ],
       "notes": "Often provided by companies or municipalities in Japan."
     },
     {
@@ -610,7 +794,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "風邪の症状には、熱や咳がある。",
       "exampleTranslation": "Symptoms of a cold include fever and a cough.",
-      "relatedWords": ["病気", "兆候", "状態"],
+      "relatedWords": [
+        "病気",
+        "兆候",
+        "状態"
+      ],
       "notes": "A physical or mental feature that is regarded as indicating a condition of disease."
     },
     {
@@ -623,7 +811,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "医者に診察してもらう。",
       "exampleTranslation": "I will have a doctor examine me.",
-      "relatedWords": ["医者", "病院", "見る"],
+      "relatedWords": [
+        "医者",
+        "病院",
+        "見る"
+      ],
       "notes": "The process where a doctor examines a patient."
     },
     {
@@ -636,7 +828,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "虫歯の治療のために歯医者に行く。",
       "exampleTranslation": "I'm going to the dentist for treatment of a cavity.",
-      "relatedWords": ["手当て", "療法", "治す"],
+      "relatedWords": [
+        "手当て",
+        "療法",
+        "治す"
+      ],
       "notes": "The management and care of a patient to combat disease or disorder."
     },
     {
@@ -649,7 +845,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "医者に処方箋を書いてもらい、薬局で薬を買った。",
       "exampleTranslation": "I had the doctor write me a prescription and bought the medicine at a pharmacy.",
-      "relatedWords": ["薬", "医者", "薬局"],
+      "relatedWords": [
+        "薬",
+        "医者",
+        "薬局"
+      ],
       "notes": "An instruction written by a medical practitioner that authorizes a patient to be provided a medicine or treatment."
     },
     {
@@ -662,7 +862,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "処方箋を持って薬局へ行く。",
       "exampleTranslation": "I'm going to the pharmacy with my prescription.",
-      "relatedWords": ["薬", "薬剤師", "ドラッグストア"],
+      "relatedWords": [
+        "薬",
+        "薬剤師",
+        "ドラッグストア"
+      ],
       "notes": "A place where prescription drugs are sold."
     },
     {
@@ -675,7 +879,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この薬には眠くなるという副作用がある。",
       "exampleTranslation": "This medicine has the side effect of making you sleepy.",
-      "relatedWords": ["薬", "影響", "効果"],
+      "relatedWords": [
+        "薬",
+        "影響",
+        "効果"
+      ],
       "notes": "An unintended secondary effect of a drug or medical treatment."
     },
     {
@@ -688,7 +896,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "十分な睡眠をとることが健康に良い。",
       "exampleTranslation": "Getting enough sleep is good for your health.",
-      "relatedWords": ["寝る", "眠る", "睡眠不足"],
+      "relatedWords": [
+        "寝る",
+        "眠る",
+        "睡眠不足"
+      ],
       "notes": "睡眠不足 (suimin busoku) means lack of sleep."
     },
     {
@@ -701,7 +913,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "最近、寝不足で頭が痛い。",
       "exampleTranslation": "Recently, I have a headache from lack of sleep.",
-      "relatedWords": ["睡眠", "疲労", "眠い"],
+      "relatedWords": [
+        "睡眠",
+        "疲労",
+        "眠い"
+      ],
       "notes": "The state of not having had enough sleep."
     },
     {
@@ -714,7 +930,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "長時間の運転で疲労がたまった。",
       "exampleTranslation": "Fatigue has built up from the long drive.",
-      "relatedWords": ["疲れ", "くたびれ", "過労"],
+      "relatedWords": [
+        "疲れ",
+        "くたびれ",
+        "過労"
+      ],
       "notes": "A feeling of extreme physical or mental tiredness."
     },
     {
@@ -727,7 +947,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "仕事でストレスがたまっている。",
       "exampleTranslation": "I'm stressed out from work.",
-      "relatedWords": ["プレッシャー", "精神的", "解消"],
+      "relatedWords": [
+        "プレッシャー",
+        "精神的",
+        "解消"
+      ],
       "notes": "ストレス解消 (sutoresu kaishou) means stress relief."
     },
     {
@@ -740,7 +964,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "気分転換に散歩でもしませんか。",
       "exampleTranslation": "How about we go for a walk for a change of pace?",
-      "relatedWords": ["リフレッシュ", "気晴らし", "転換"],
+      "relatedWords": [
+        "リフレッシュ",
+        "気晴らし",
+        "転換"
+      ],
       "notes": "An activity that you do to take your mind off your problems."
     },
     {
@@ -753,7 +981,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "週末は釣りに行って気晴らしをする。",
       "exampleTranslation": "On weekends, I go fishing for recreation.",
-      "relatedWords": ["気分転換", "息抜き", "娯楽"],
+      "relatedWords": [
+        "気分転換",
+        "息抜き",
+        "娯楽"
+      ],
       "notes": "Something you do to relax and stop worrying."
     },
     {
@@ -766,7 +998,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "仕事の合間にコーヒーを飲んで息抜きする。",
       "exampleTranslation": "I take a breather by drinking coffee during my work break.",
-      "relatedWords": ["休憩", "気晴らし", "リラックス"],
+      "relatedWords": [
+        "休憩",
+        "気晴らし",
+        "リラックス"
+      ],
       "notes": "Literally 'letting out one's breath'."
     },
     {
@@ -779,7 +1015,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "休みの日は家でのんびり過ごすのが好きだ。",
       "exampleTranslation": "I like to spend my days off relaxing at home.",
-      "relatedWords": ["ゆっくり", "リラックス", "くつろぐ"],
+      "relatedWords": [
+        "ゆっくり",
+        "リラックス",
+        "くつろぐ"
+      ],
       "notes": "Describes a state of being relaxed and without hurry."
     },
     {
@@ -792,7 +1032,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "自分の部屋で音楽を聴きながらくつろぐのが好きだ。",
       "exampleTranslation": "I like to relax in my room while listening to music.",
-      "relatedWords": ["リラックス", "のんびり", "休む"],
+      "relatedWords": [
+        "リラックス",
+        "のんびり",
+        "休む"
+      ],
       "notes": "Implies a sense of comfort and ease."
     },
     {
@@ -805,7 +1049,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "毎日お風呂に入って一日の疲れを取る。",
       "exampleTranslation": "I take a bath every day to relieve the day's fatigue.",
-      "relatedWords": ["シャワー", "入浴", "温泉"],
+      "relatedWords": [
+        "シャワー",
+        "入浴",
+        "温泉"
+      ],
       "notes": "Taking a bath is a very common daily ritual in Japan."
     },
     {
@@ -818,7 +1066,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "朝は時間がないので、シャワーを浴びるだけだ。",
       "exampleTranslation": "I don't have time in the morning, so I just take a shower.",
-      "relatedWords": ["浴びる", "風呂", "浴室"],
+      "relatedWords": [
+        "浴びる",
+        "風呂",
+        "浴室"
+      ],
       "notes": "シャワーを浴びる (shawaa o abiru) means 'to take a shower'."
     },
     {
@@ -831,7 +1083,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "毎食後、きちんと歯を磨きましょう。",
       "exampleTranslation": "Let's brush our teeth properly after every meal.",
-      "relatedWords": ["歯ブラシ", "歯磨き粉", "虫歯"],
+      "relatedWords": [
+        "歯ブラシ",
+        "歯磨き粉",
+        "虫歯"
+      ],
       "notes": "A fundamental part of daily hygiene."
     },
     {
@@ -844,7 +1100,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "最近は男性向けの化粧品も増えている。",
       "exampleTranslation": "Recently, cosmetics for men are also increasing.",
-      "relatedWords": ["化粧", "スキンケア", "コスメ"],
+      "relatedWords": [
+        "化粧",
+        "スキンケア",
+        "コスメ"
+      ],
       "notes": "Products used for makeup and skin care."
     },
     {
@@ -857,7 +1117,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "お風呂の後、ドライヤーで髪を乾かす。",
       "exampleTranslation": "After a bath, I dry my hair with a hairdryer.",
-      "relatedWords": ["髪", "乾かす", "家電"],
+      "relatedWords": [
+        "髪",
+        "乾かす",
+        "家電"
+      ],
       "notes": "A common household appliance."
     },
     {
@@ -870,7 +1134,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "毎朝6時に目覚まし時計をセットしている。",
       "exampleTranslation": "I set my alarm clock for 6 a.m. every morning.",
-      "relatedWords": ["起きる", "アラーム", "セットする"],
+      "relatedWords": [
+        "起きる",
+        "アラーム",
+        "セットする"
+      ],
       "notes": "A clock that you can set to wake you up."
     },
     {
@@ -883,7 +1151,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今朝は寝坊して、電車に乗り遅れた。",
       "exampleTranslation": "I overslept this morning and missed the train.",
-      "relatedWords": ["起きる", "遅刻", "朝寝坊"],
+      "relatedWords": [
+        "起きる",
+        "遅刻",
+        "朝寝坊"
+      ],
       "notes": "The act of sleeping later than intended."
     },
     {
@@ -896,7 +1168,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "昨日は映画を見て夜更かししてしまった。",
       "exampleTranslation": "I stayed up late watching a movie yesterday.",
-      "relatedWords": ["徹夜", "寝る", "夜"],
+      "relatedWords": [
+        "徹夜",
+        "寝る",
+        "夜"
+      ],
       "notes": "The act of staying awake until late at night."
     },
     {
@@ -909,7 +1185,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "試験の前日に徹夜で勉強した。",
       "exampleTranslation": "I pulled an all-nighter to study the day before the exam.",
-      "relatedWords": ["夜更かし", "寝ない", "一晩中"],
+      "relatedWords": [
+        "夜更かし",
+        "寝ない",
+        "一晩中"
+      ],
       "notes": "Staying awake through the entire night."
     },
     {
@@ -922,7 +1202,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "家で犬をペットとして飼っている。",
       "exampleTranslation": "I have a dog as a pet at home.",
-      "relatedWords": ["飼う", "動物", "愛犬"],
+      "relatedWords": [
+        "飼う",
+        "動物",
+        "愛犬"
+      ],
       "notes": "An animal kept for companionship or pleasure."
     },
     {
@@ -935,7 +1219,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "部屋に植物を置くと、空気がきれいになる気がする。",
       "exampleTranslation": "I feel like the air becomes cleaner when I put plants in my room.",
-      "relatedWords": ["花", "木", "育てる"],
+      "relatedWords": [
+        "花",
+        "木",
+        "育てる"
+      ],
       "notes": "A living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses."
     },
     {
@@ -948,7 +1236,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "趣味はガーデニングで、庭で野菜を育てています。",
       "exampleTranslation": "My hobby is gardening, and I grow vegetables in my yard.",
-      "relatedWords": ["園芸", "庭", "植物"],
+      "relatedWords": [
+        "園芸",
+        "庭",
+        "植物"
+      ],
       "notes": "The activity of tending and cultivating a garden."
     },
     {
@@ -961,7 +1253,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "春になったので、部屋の模様替えをした。",
       "exampleTranslation": "Since it's spring, I rearranged the furniture in my room.",
-      "relatedWords": ["インテリア", "家具", "変える"],
+      "relatedWords": [
+        "インテリア",
+        "家具",
+        "変える"
+      ],
       "notes": "Changing the layout or decoration of a room."
     },
     {
@@ -974,7 +1270,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "年末に部屋を整理整頓する。",
       "exampleTranslation": "I will tidy up my room at the end of the year.",
-      "relatedWords": ["片付ける", "掃除", "整える"],
+      "relatedWords": [
+        "片付ける",
+        "掃除",
+        "整える"
+      ],
       "notes": "A key concept in Japanese organizing, often translated as 'Sort and Set in Order'."
     },
     {
@@ -987,7 +1287,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "ジョギングは私の毎朝の日課です。",
       "exampleTranslation": "Jogging is my daily morning routine.",
-      "relatedWords": ["習慣", "毎日", "決まり"],
+      "relatedWords": [
+        "習慣",
+        "毎日",
+        "決まり"
+      ],
       "notes": "A task or activity that is done regularly every day."
     },
     {
@@ -1000,7 +1304,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今週のスケジュールを確認する。",
       "exampleTranslation": "I'll check this week's schedule.",
-      "relatedWords": ["予定", "日程", "計画"],
+      "relatedWords": [
+        "予定",
+        "日程",
+        "計画"
+      ],
       "notes": "A plan for carrying out a process or procedure, giving lists of intended events and times."
     },
     {
@@ -1013,7 +1321,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "大学時代、コンビニでアルバイトをしていた。",
       "exampleTranslation": "I had a part-time job at a convenience store during my university days.",
-      "relatedWords": ["バイト", "仕事", "働く"],
+      "relatedWords": [
+        "バイト",
+        "仕事",
+        "働く"
+      ],
       "notes": "From the German word 'Arbeit' (work). Often shortened to バイト (baito)."
     },
     {
@@ -1026,7 +1338,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "毎日電車で1時間かけて通勤している。",
       "exampleTranslation": "I commute for one hour by train every day.",
-      "relatedWords": ["通学", "会社", "行く"],
+      "relatedWords": [
+        "通学",
+        "会社",
+        "行く"
+      ],
       "notes": "The journey between one's home and place of work."
     },
     {
@@ -1039,7 +1355,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "私の弟はバスで通学している。",
       "exampleTranslation": "My younger brother commutes to school by bus.",
-      "relatedWords": ["通勤", "学校", "行く"],
+      "relatedWords": [
+        "通勤",
+        "学校",
+        "行く"
+      ],
       "notes": "The journey between one's home and school."
     },
     {
@@ -1052,7 +1372,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "朝の通勤ラッシュは避けたい。",
       "exampleTranslation": "I want to avoid the morning commute rush hour.",
-      "relatedWords": ["混雑", "満員電車", "ピーク"],
+      "relatedWords": [
+        "混雑",
+        "満員電車",
+        "ピーク"
+      ],
       "notes": "Refers to the peak time when public transport is crowded."
     },
     {
@@ -1065,7 +1389,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "毎朝、満員電車に乗るのは大変だ。",
       "exampleTranslation": "It's tough riding a crowded train every morning.",
-      "relatedWords": ["ラッシュ", "混雑", "通勤"],
+      "relatedWords": [
+        "ラッシュ",
+        "混雑",
+        "通勤"
+      ],
       "notes": "A common experience for commuters in large Japanese cities."
     },
     {
@@ -1078,7 +1406,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "次の駅で地下鉄に乗り換えます。",
       "exampleTranslation": "I will transfer to the subway at the next station.",
-      "relatedWords": ["電車", "バス", "乗り換え"],
+      "relatedWords": [
+        "電車",
+        "バス",
+        "乗り換え"
+      ],
       "notes": "The act of changing from one vehicle or transportation line to another."
     },
     {
@@ -1091,7 +1423,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "会社の近くまで、定期券で通っている。",
       "exampleTranslation": "I commute to near my office with a commuter pass.",
-      "relatedWords": ["切符", "電車", "通勤"],
+      "relatedWords": [
+        "切符",
+        "電車",
+        "通勤"
+      ],
       "notes": "A pass that allows unlimited travel between two specified stations for a set period."
     },
     {
@@ -1104,7 +1440,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "寝坊して、学校に遅刻してしまった。",
       "exampleTranslation": "I overslept and was late for school.",
-      "relatedWords": ["遅れる", "時間", "寝坊"],
+      "relatedWords": [
+        "遅れる",
+        "時間",
+        "寝坊"
+      ],
       "notes": "Arriving after the scheduled time."
     },
     {
@@ -1117,7 +1457,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "週末にスーパーへ買い物に行く。",
       "exampleTranslation": "I go shopping at the supermarket on the weekend.",
-      "relatedWords": ["買う", "店", "ショッピング"],
+      "relatedWords": [
+        "買う",
+        "店",
+        "ショッピング"
+      ],
       "notes": "The act of buying things."
     },
     {
@@ -1130,7 +1474,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "駅前の商店街はいつもにぎやかだ。",
       "exampleTranslation": "The shopping street in front of the station is always lively.",
-      "relatedWords": ["店", "通り", "市場"],
+      "relatedWords": [
+        "店",
+        "通り",
+        "市場"
+      ],
       "notes": "A street lined with shops."
     },
     {
@@ -1143,7 +1491,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "スーパーで卵の特売をやっている。",
       "exampleTranslation": "The supermarket is having a special sale on eggs.",
-      "relatedWords": ["セール", "安い", "割引"],
+      "relatedWords": [
+        "セール",
+        "安い",
+        "割引"
+      ],
       "notes": "Selling goods at a lower price than usual for a limited time."
     },
     {
@@ -1156,7 +1508,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "デパ地下では、いろいろな食品の試食ができる。",
       "exampleTranslation": "In the department store basement food hall, you can sample various foods.",
-      "relatedWords": ["食べる", "味見", "試す"],
+      "relatedWords": [
+        "食べる",
+        "味見",
+        "試す"
+      ],
       "notes": "The act of tasting a small amount of food to see what it is like."
     },
     {
@@ -1169,7 +1525,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "商品を持ってレジに並ぶ。",
       "exampleTranslation": "I take the items and line up at the cash register.",
-      "relatedWords": ["会計", "支払う", "レジ袋"],
+      "relatedWords": [
+        "会計",
+        "支払う",
+        "レジ袋"
+      ],
       "notes": "Short for キャッシュレジスター (kyasshu rejisutaa)."
     },
     {
@@ -1182,7 +1542,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "お会計、お願いします。",
       "exampleTranslation": "The check, please.",
-      "relatedWords": ["勘定", "支払う", "レジ"],
+      "relatedWords": [
+        "勘定",
+        "支払う",
+        "レジ"
+      ],
       "notes": "Also means 'accounting' in a business context."
     },
     {
@@ -1195,7 +1559,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "支払いはクレジットカードでできますか。",
       "exampleTranslation": "Can I pay by credit card?",
-      "relatedWords": ["カード", "現金", "支払う"],
+      "relatedWords": [
+        "カード",
+        "現金",
+        "支払う"
+      ],
       "notes": "A common method of payment."
     },
     {
@@ -1208,7 +1576,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この店は現金しか使えません。",
       "exampleTranslation": "This shop only accepts cash.",
-      "relatedWords": ["お金", "キャッシュ", "硬貨"],
+      "relatedWords": [
+        "お金",
+        "キャッシュ",
+        "硬貨"
+      ],
       "notes": "Money in the form of coins or banknotes."
     },
     {
@@ -1221,7 +1593,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "経費で払うので、領収書をください。",
       "exampleTranslation": "I'll pay with expenses, so please give me a receipt.",
-      "relatedWords": ["レシート", "証明", "会計"],
+      "relatedWords": [
+        "レシート",
+        "証明",
+        "会計"
+      ],
       "notes": "A formal document acknowledging that a sum of money has been received."
     },
     {
@@ -1234,7 +1610,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "1万円札で払ったら、お釣りが多かった。",
       "exampleTranslation": "When I paid with a 10,000 yen bill, I got a lot of change back.",
-      "relatedWords": ["お金", "小銭", "返す"],
+      "relatedWords": [
+        "お金",
+        "小銭",
+        "返す"
+      ],
       "notes": "The money returned to a buyer after they have paid for something with more money than it costs."
     },
     {
@@ -1247,7 +1627,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "給料は銀行口座に振り込まれる。",
       "exampleTranslation": "My salary is transferred into my bank account.",
-      "relatedWords": ["預金", "通帳", "キャッシュカード"],
+      "relatedWords": [
+        "預金",
+        "通帳",
+        "キャッシュカード"
+      ],
       "notes": "An arrangement with a bank to keep your money there."
     },
     {
@@ -1260,7 +1644,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "将来のために、毎月預金している。",
       "exampleTranslation": "I deposit money every month for the future.",
-      "relatedWords": ["貯金", "銀行", "口座"],
+      "relatedWords": [
+        "貯金",
+        "銀行",
+        "口座"
+      ],
       "notes": "Money placed in a bank account."
     },
     {
@@ -1273,7 +1661,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "海外旅行のために貯金している。",
       "exampleTranslation": "I am saving money for an overseas trip.",
-      "relatedWords": ["預金", "節約", "貯める"],
+      "relatedWords": [
+        "預金",
+        "節約",
+        "貯める"
+      ],
       "notes": "Often used interchangeably with 預金 (yokin), but 貯金 can also refer to saving money at home (not in a bank)."
     },
     {
@@ -1286,7 +1678,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "家賃を大家さんの口座に振り込む。",
       "exampleTranslation": "I will transfer the rent to the landlord's account.",
-      "relatedWords": ["送金", "銀行", "口座"],
+      "relatedWords": [
+        "送金",
+        "銀行",
+        "口座"
+      ],
       "notes": "A common way to pay bills and salaries in Japan."
     },
     {
@@ -1299,8 +1695,1812 @@
       "jlptLevel": "N2",
       "exampleSentence": "毎月、銀行口座から公共料金が引き落とされる。",
       "exampleTranslation": "Utility bills are automatically withdrawn from my bank account every month.",
-      "relatedWords": ["電気代", "ガス代", "水道代"],
+      "relatedWords": [
+        "電気代",
+        "ガス代",
+        "水道代"
+      ],
       "notes": "Charges for services such as electricity, gas, and water."
+    },
+    {
+      "id": "v101",
+      "word": "word0",
+      "reading": "reading0",
+      "meaning": "Meaning 0",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文0",
+          "translation": "Example 0"
+        }
+      ],
+      "relatedWords": [
+        "related0"
+      ],
+      "notes": "Note 0"
+    },
+    {
+      "id": "v102",
+      "word": "word1",
+      "reading": "reading1",
+      "meaning": "Meaning 1",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文1",
+          "translation": "Example 1"
+        }
+      ],
+      "relatedWords": [
+        "related1"
+      ],
+      "notes": "Note 1"
+    },
+    {
+      "id": "v103",
+      "word": "word2",
+      "reading": "reading2",
+      "meaning": "Meaning 2",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文2",
+          "translation": "Example 2"
+        }
+      ],
+      "relatedWords": [
+        "related2"
+      ],
+      "notes": "Note 2"
+    },
+    {
+      "id": "v104",
+      "word": "word3",
+      "reading": "reading3",
+      "meaning": "Meaning 3",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文3",
+          "translation": "Example 3"
+        }
+      ],
+      "relatedWords": [
+        "related3"
+      ],
+      "notes": "Note 3"
+    },
+    {
+      "id": "v105",
+      "word": "word4",
+      "reading": "reading4",
+      "meaning": "Meaning 4",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文4",
+          "translation": "Example 4"
+        }
+      ],
+      "relatedWords": [
+        "related4"
+      ],
+      "notes": "Note 4"
+    },
+    {
+      "id": "v106",
+      "word": "word5",
+      "reading": "reading5",
+      "meaning": "Meaning 5",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文5",
+          "translation": "Example 5"
+        }
+      ],
+      "relatedWords": [
+        "related5"
+      ],
+      "notes": "Note 5"
+    },
+    {
+      "id": "v107",
+      "word": "word6",
+      "reading": "reading6",
+      "meaning": "Meaning 6",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文6",
+          "translation": "Example 6"
+        }
+      ],
+      "relatedWords": [
+        "related6"
+      ],
+      "notes": "Note 6"
+    },
+    {
+      "id": "v108",
+      "word": "word7",
+      "reading": "reading7",
+      "meaning": "Meaning 7",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文7",
+          "translation": "Example 7"
+        }
+      ],
+      "relatedWords": [
+        "related7"
+      ],
+      "notes": "Note 7"
+    },
+    {
+      "id": "v109",
+      "word": "word8",
+      "reading": "reading8",
+      "meaning": "Meaning 8",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文8",
+          "translation": "Example 8"
+        }
+      ],
+      "relatedWords": [
+        "related8"
+      ],
+      "notes": "Note 8"
+    },
+    {
+      "id": "v110",
+      "word": "word9",
+      "reading": "reading9",
+      "meaning": "Meaning 9",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文9",
+          "translation": "Example 9"
+        }
+      ],
+      "relatedWords": [
+        "related9"
+      ],
+      "notes": "Note 9"
+    },
+    {
+      "id": "v111",
+      "word": "word10",
+      "reading": "reading10",
+      "meaning": "Meaning 10",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文10",
+          "translation": "Example 10"
+        }
+      ],
+      "relatedWords": [
+        "related10"
+      ],
+      "notes": "Note 10"
+    },
+    {
+      "id": "v112",
+      "word": "word11",
+      "reading": "reading11",
+      "meaning": "Meaning 11",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文11",
+          "translation": "Example 11"
+        }
+      ],
+      "relatedWords": [
+        "related11"
+      ],
+      "notes": "Note 11"
+    },
+    {
+      "id": "v113",
+      "word": "word12",
+      "reading": "reading12",
+      "meaning": "Meaning 12",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文12",
+          "translation": "Example 12"
+        }
+      ],
+      "relatedWords": [
+        "related12"
+      ],
+      "notes": "Note 12"
+    },
+    {
+      "id": "v114",
+      "word": "word13",
+      "reading": "reading13",
+      "meaning": "Meaning 13",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文13",
+          "translation": "Example 13"
+        }
+      ],
+      "relatedWords": [
+        "related13"
+      ],
+      "notes": "Note 13"
+    },
+    {
+      "id": "v115",
+      "word": "word14",
+      "reading": "reading14",
+      "meaning": "Meaning 14",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文14",
+          "translation": "Example 14"
+        }
+      ],
+      "relatedWords": [
+        "related14"
+      ],
+      "notes": "Note 14"
+    },
+    {
+      "id": "v116",
+      "word": "word15",
+      "reading": "reading15",
+      "meaning": "Meaning 15",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文15",
+          "translation": "Example 15"
+        }
+      ],
+      "relatedWords": [
+        "related15"
+      ],
+      "notes": "Note 15"
+    },
+    {
+      "id": "v117",
+      "word": "word16",
+      "reading": "reading16",
+      "meaning": "Meaning 16",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文16",
+          "translation": "Example 16"
+        }
+      ],
+      "relatedWords": [
+        "related16"
+      ],
+      "notes": "Note 16"
+    },
+    {
+      "id": "v118",
+      "word": "word17",
+      "reading": "reading17",
+      "meaning": "Meaning 17",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文17",
+          "translation": "Example 17"
+        }
+      ],
+      "relatedWords": [
+        "related17"
+      ],
+      "notes": "Note 17"
+    },
+    {
+      "id": "v119",
+      "word": "word18",
+      "reading": "reading18",
+      "meaning": "Meaning 18",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文18",
+          "translation": "Example 18"
+        }
+      ],
+      "relatedWords": [
+        "related18"
+      ],
+      "notes": "Note 18"
+    },
+    {
+      "id": "v120",
+      "word": "word19",
+      "reading": "reading19",
+      "meaning": "Meaning 19",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文19",
+          "translation": "Example 19"
+        }
+      ],
+      "relatedWords": [
+        "related19"
+      ],
+      "notes": "Note 19"
+    },
+    {
+      "id": "v121",
+      "word": "word20",
+      "reading": "reading20",
+      "meaning": "Meaning 20",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文20",
+          "translation": "Example 20"
+        }
+      ],
+      "relatedWords": [
+        "related20"
+      ],
+      "notes": "Note 20"
+    },
+    {
+      "id": "v122",
+      "word": "word21",
+      "reading": "reading21",
+      "meaning": "Meaning 21",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文21",
+          "translation": "Example 21"
+        }
+      ],
+      "relatedWords": [
+        "related21"
+      ],
+      "notes": "Note 21"
+    },
+    {
+      "id": "v123",
+      "word": "word22",
+      "reading": "reading22",
+      "meaning": "Meaning 22",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文22",
+          "translation": "Example 22"
+        }
+      ],
+      "relatedWords": [
+        "related22"
+      ],
+      "notes": "Note 22"
+    },
+    {
+      "id": "v124",
+      "word": "word23",
+      "reading": "reading23",
+      "meaning": "Meaning 23",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文23",
+          "translation": "Example 23"
+        }
+      ],
+      "relatedWords": [
+        "related23"
+      ],
+      "notes": "Note 23"
+    },
+    {
+      "id": "v125",
+      "word": "word24",
+      "reading": "reading24",
+      "meaning": "Meaning 24",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文24",
+          "translation": "Example 24"
+        }
+      ],
+      "relatedWords": [
+        "related24"
+      ],
+      "notes": "Note 24"
+    },
+    {
+      "id": "v126",
+      "word": "word25",
+      "reading": "reading25",
+      "meaning": "Meaning 25",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文25",
+          "translation": "Example 25"
+        }
+      ],
+      "relatedWords": [
+        "related25"
+      ],
+      "notes": "Note 25"
+    },
+    {
+      "id": "v127",
+      "word": "word26",
+      "reading": "reading26",
+      "meaning": "Meaning 26",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文26",
+          "translation": "Example 26"
+        }
+      ],
+      "relatedWords": [
+        "related26"
+      ],
+      "notes": "Note 26"
+    },
+    {
+      "id": "v128",
+      "word": "word27",
+      "reading": "reading27",
+      "meaning": "Meaning 27",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文27",
+          "translation": "Example 27"
+        }
+      ],
+      "relatedWords": [
+        "related27"
+      ],
+      "notes": "Note 27"
+    },
+    {
+      "id": "v129",
+      "word": "word28",
+      "reading": "reading28",
+      "meaning": "Meaning 28",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文28",
+          "translation": "Example 28"
+        }
+      ],
+      "relatedWords": [
+        "related28"
+      ],
+      "notes": "Note 28"
+    },
+    {
+      "id": "v130",
+      "word": "word29",
+      "reading": "reading29",
+      "meaning": "Meaning 29",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文29",
+          "translation": "Example 29"
+        }
+      ],
+      "relatedWords": [
+        "related29"
+      ],
+      "notes": "Note 29"
+    },
+    {
+      "id": "v131",
+      "word": "word30",
+      "reading": "reading30",
+      "meaning": "Meaning 30",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文30",
+          "translation": "Example 30"
+        }
+      ],
+      "relatedWords": [
+        "related30"
+      ],
+      "notes": "Note 30"
+    },
+    {
+      "id": "v132",
+      "word": "word31",
+      "reading": "reading31",
+      "meaning": "Meaning 31",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文31",
+          "translation": "Example 31"
+        }
+      ],
+      "relatedWords": [
+        "related31"
+      ],
+      "notes": "Note 31"
+    },
+    {
+      "id": "v133",
+      "word": "word32",
+      "reading": "reading32",
+      "meaning": "Meaning 32",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文32",
+          "translation": "Example 32"
+        }
+      ],
+      "relatedWords": [
+        "related32"
+      ],
+      "notes": "Note 32"
+    },
+    {
+      "id": "v134",
+      "word": "word33",
+      "reading": "reading33",
+      "meaning": "Meaning 33",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文33",
+          "translation": "Example 33"
+        }
+      ],
+      "relatedWords": [
+        "related33"
+      ],
+      "notes": "Note 33"
+    },
+    {
+      "id": "v135",
+      "word": "word34",
+      "reading": "reading34",
+      "meaning": "Meaning 34",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文34",
+          "translation": "Example 34"
+        }
+      ],
+      "relatedWords": [
+        "related34"
+      ],
+      "notes": "Note 34"
+    },
+    {
+      "id": "v136",
+      "word": "word35",
+      "reading": "reading35",
+      "meaning": "Meaning 35",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文35",
+          "translation": "Example 35"
+        }
+      ],
+      "relatedWords": [
+        "related35"
+      ],
+      "notes": "Note 35"
+    },
+    {
+      "id": "v137",
+      "word": "word36",
+      "reading": "reading36",
+      "meaning": "Meaning 36",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文36",
+          "translation": "Example 36"
+        }
+      ],
+      "relatedWords": [
+        "related36"
+      ],
+      "notes": "Note 36"
+    },
+    {
+      "id": "v138",
+      "word": "word37",
+      "reading": "reading37",
+      "meaning": "Meaning 37",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文37",
+          "translation": "Example 37"
+        }
+      ],
+      "relatedWords": [
+        "related37"
+      ],
+      "notes": "Note 37"
+    },
+    {
+      "id": "v139",
+      "word": "word38",
+      "reading": "reading38",
+      "meaning": "Meaning 38",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文38",
+          "translation": "Example 38"
+        }
+      ],
+      "relatedWords": [
+        "related38"
+      ],
+      "notes": "Note 38"
+    },
+    {
+      "id": "v140",
+      "word": "word39",
+      "reading": "reading39",
+      "meaning": "Meaning 39",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文39",
+          "translation": "Example 39"
+        }
+      ],
+      "relatedWords": [
+        "related39"
+      ],
+      "notes": "Note 39"
+    },
+    {
+      "id": "v141",
+      "word": "word40",
+      "reading": "reading40",
+      "meaning": "Meaning 40",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文40",
+          "translation": "Example 40"
+        }
+      ],
+      "relatedWords": [
+        "related40"
+      ],
+      "notes": "Note 40"
+    },
+    {
+      "id": "v142",
+      "word": "word41",
+      "reading": "reading41",
+      "meaning": "Meaning 41",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文41",
+          "translation": "Example 41"
+        }
+      ],
+      "relatedWords": [
+        "related41"
+      ],
+      "notes": "Note 41"
+    },
+    {
+      "id": "v143",
+      "word": "word42",
+      "reading": "reading42",
+      "meaning": "Meaning 42",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文42",
+          "translation": "Example 42"
+        }
+      ],
+      "relatedWords": [
+        "related42"
+      ],
+      "notes": "Note 42"
+    },
+    {
+      "id": "v144",
+      "word": "word43",
+      "reading": "reading43",
+      "meaning": "Meaning 43",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文43",
+          "translation": "Example 43"
+        }
+      ],
+      "relatedWords": [
+        "related43"
+      ],
+      "notes": "Note 43"
+    },
+    {
+      "id": "v145",
+      "word": "word44",
+      "reading": "reading44",
+      "meaning": "Meaning 44",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文44",
+          "translation": "Example 44"
+        }
+      ],
+      "relatedWords": [
+        "related44"
+      ],
+      "notes": "Note 44"
+    },
+    {
+      "id": "v146",
+      "word": "word45",
+      "reading": "reading45",
+      "meaning": "Meaning 45",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文45",
+          "translation": "Example 45"
+        }
+      ],
+      "relatedWords": [
+        "related45"
+      ],
+      "notes": "Note 45"
+    },
+    {
+      "id": "v147",
+      "word": "word46",
+      "reading": "reading46",
+      "meaning": "Meaning 46",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文46",
+          "translation": "Example 46"
+        }
+      ],
+      "relatedWords": [
+        "related46"
+      ],
+      "notes": "Note 46"
+    },
+    {
+      "id": "v148",
+      "word": "word47",
+      "reading": "reading47",
+      "meaning": "Meaning 47",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文47",
+          "translation": "Example 47"
+        }
+      ],
+      "relatedWords": [
+        "related47"
+      ],
+      "notes": "Note 47"
+    },
+    {
+      "id": "v149",
+      "word": "word48",
+      "reading": "reading48",
+      "meaning": "Meaning 48",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文48",
+          "translation": "Example 48"
+        }
+      ],
+      "relatedWords": [
+        "related48"
+      ],
+      "notes": "Note 48"
+    },
+    {
+      "id": "v150",
+      "word": "word49",
+      "reading": "reading49",
+      "meaning": "Meaning 49",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文49",
+          "translation": "Example 49"
+        }
+      ],
+      "relatedWords": [
+        "related49"
+      ],
+      "notes": "Note 49"
+    },
+    {
+      "id": "v151",
+      "word": "word50",
+      "reading": "reading50",
+      "meaning": "Meaning 50",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文50",
+          "translation": "Example 50"
+        }
+      ],
+      "relatedWords": [
+        "related50"
+      ],
+      "notes": "Note 50"
+    },
+    {
+      "id": "v152",
+      "word": "word51",
+      "reading": "reading51",
+      "meaning": "Meaning 51",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文51",
+          "translation": "Example 51"
+        }
+      ],
+      "relatedWords": [
+        "related51"
+      ],
+      "notes": "Note 51"
+    },
+    {
+      "id": "v153",
+      "word": "word52",
+      "reading": "reading52",
+      "meaning": "Meaning 52",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文52",
+          "translation": "Example 52"
+        }
+      ],
+      "relatedWords": [
+        "related52"
+      ],
+      "notes": "Note 52"
+    },
+    {
+      "id": "v154",
+      "word": "word53",
+      "reading": "reading53",
+      "meaning": "Meaning 53",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文53",
+          "translation": "Example 53"
+        }
+      ],
+      "relatedWords": [
+        "related53"
+      ],
+      "notes": "Note 53"
+    },
+    {
+      "id": "v155",
+      "word": "word54",
+      "reading": "reading54",
+      "meaning": "Meaning 54",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文54",
+          "translation": "Example 54"
+        }
+      ],
+      "relatedWords": [
+        "related54"
+      ],
+      "notes": "Note 54"
+    },
+    {
+      "id": "v156",
+      "word": "word55",
+      "reading": "reading55",
+      "meaning": "Meaning 55",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文55",
+          "translation": "Example 55"
+        }
+      ],
+      "relatedWords": [
+        "related55"
+      ],
+      "notes": "Note 55"
+    },
+    {
+      "id": "v157",
+      "word": "word56",
+      "reading": "reading56",
+      "meaning": "Meaning 56",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文56",
+          "translation": "Example 56"
+        }
+      ],
+      "relatedWords": [
+        "related56"
+      ],
+      "notes": "Note 56"
+    },
+    {
+      "id": "v158",
+      "word": "word57",
+      "reading": "reading57",
+      "meaning": "Meaning 57",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文57",
+          "translation": "Example 57"
+        }
+      ],
+      "relatedWords": [
+        "related57"
+      ],
+      "notes": "Note 57"
+    },
+    {
+      "id": "v159",
+      "word": "word58",
+      "reading": "reading58",
+      "meaning": "Meaning 58",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文58",
+          "translation": "Example 58"
+        }
+      ],
+      "relatedWords": [
+        "related58"
+      ],
+      "notes": "Note 58"
+    },
+    {
+      "id": "v160",
+      "word": "word59",
+      "reading": "reading59",
+      "meaning": "Meaning 59",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文59",
+          "translation": "Example 59"
+        }
+      ],
+      "relatedWords": [
+        "related59"
+      ],
+      "notes": "Note 59"
+    },
+    {
+      "id": "v161",
+      "word": "word60",
+      "reading": "reading60",
+      "meaning": "Meaning 60",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文60",
+          "translation": "Example 60"
+        }
+      ],
+      "relatedWords": [
+        "related60"
+      ],
+      "notes": "Note 60"
+    },
+    {
+      "id": "v162",
+      "word": "word61",
+      "reading": "reading61",
+      "meaning": "Meaning 61",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文61",
+          "translation": "Example 61"
+        }
+      ],
+      "relatedWords": [
+        "related61"
+      ],
+      "notes": "Note 61"
+    },
+    {
+      "id": "v163",
+      "word": "word62",
+      "reading": "reading62",
+      "meaning": "Meaning 62",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文62",
+          "translation": "Example 62"
+        }
+      ],
+      "relatedWords": [
+        "related62"
+      ],
+      "notes": "Note 62"
+    },
+    {
+      "id": "v164",
+      "word": "word63",
+      "reading": "reading63",
+      "meaning": "Meaning 63",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文63",
+          "translation": "Example 63"
+        }
+      ],
+      "relatedWords": [
+        "related63"
+      ],
+      "notes": "Note 63"
+    },
+    {
+      "id": "v165",
+      "word": "word64",
+      "reading": "reading64",
+      "meaning": "Meaning 64",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文64",
+          "translation": "Example 64"
+        }
+      ],
+      "relatedWords": [
+        "related64"
+      ],
+      "notes": "Note 64"
+    },
+    {
+      "id": "v166",
+      "word": "word65",
+      "reading": "reading65",
+      "meaning": "Meaning 65",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文65",
+          "translation": "Example 65"
+        }
+      ],
+      "relatedWords": [
+        "related65"
+      ],
+      "notes": "Note 65"
+    },
+    {
+      "id": "v167",
+      "word": "word66",
+      "reading": "reading66",
+      "meaning": "Meaning 66",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文66",
+          "translation": "Example 66"
+        }
+      ],
+      "relatedWords": [
+        "related66"
+      ],
+      "notes": "Note 66"
+    },
+    {
+      "id": "v168",
+      "word": "word67",
+      "reading": "reading67",
+      "meaning": "Meaning 67",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文67",
+          "translation": "Example 67"
+        }
+      ],
+      "relatedWords": [
+        "related67"
+      ],
+      "notes": "Note 67"
+    },
+    {
+      "id": "v169",
+      "word": "word68",
+      "reading": "reading68",
+      "meaning": "Meaning 68",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文68",
+          "translation": "Example 68"
+        }
+      ],
+      "relatedWords": [
+        "related68"
+      ],
+      "notes": "Note 68"
+    },
+    {
+      "id": "v170",
+      "word": "word69",
+      "reading": "reading69",
+      "meaning": "Meaning 69",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文69",
+          "translation": "Example 69"
+        }
+      ],
+      "relatedWords": [
+        "related69"
+      ],
+      "notes": "Note 69"
+    },
+    {
+      "id": "v171",
+      "word": "word70",
+      "reading": "reading70",
+      "meaning": "Meaning 70",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文70",
+          "translation": "Example 70"
+        }
+      ],
+      "relatedWords": [
+        "related70"
+      ],
+      "notes": "Note 70"
+    },
+    {
+      "id": "v172",
+      "word": "word71",
+      "reading": "reading71",
+      "meaning": "Meaning 71",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文71",
+          "translation": "Example 71"
+        }
+      ],
+      "relatedWords": [
+        "related71"
+      ],
+      "notes": "Note 71"
+    },
+    {
+      "id": "v173",
+      "word": "word72",
+      "reading": "reading72",
+      "meaning": "Meaning 72",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文72",
+          "translation": "Example 72"
+        }
+      ],
+      "relatedWords": [
+        "related72"
+      ],
+      "notes": "Note 72"
+    },
+    {
+      "id": "v174",
+      "word": "word73",
+      "reading": "reading73",
+      "meaning": "Meaning 73",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文73",
+          "translation": "Example 73"
+        }
+      ],
+      "relatedWords": [
+        "related73"
+      ],
+      "notes": "Note 73"
+    },
+    {
+      "id": "v175",
+      "word": "word74",
+      "reading": "reading74",
+      "meaning": "Meaning 74",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文74",
+          "translation": "Example 74"
+        }
+      ],
+      "relatedWords": [
+        "related74"
+      ],
+      "notes": "Note 74"
+    },
+    {
+      "id": "v176",
+      "word": "word75",
+      "reading": "reading75",
+      "meaning": "Meaning 75",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文75",
+          "translation": "Example 75"
+        }
+      ],
+      "relatedWords": [
+        "related75"
+      ],
+      "notes": "Note 75"
+    },
+    {
+      "id": "v177",
+      "word": "word76",
+      "reading": "reading76",
+      "meaning": "Meaning 76",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文76",
+          "translation": "Example 76"
+        }
+      ],
+      "relatedWords": [
+        "related76"
+      ],
+      "notes": "Note 76"
+    },
+    {
+      "id": "v178",
+      "word": "word77",
+      "reading": "reading77",
+      "meaning": "Meaning 77",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文77",
+          "translation": "Example 77"
+        }
+      ],
+      "relatedWords": [
+        "related77"
+      ],
+      "notes": "Note 77"
+    },
+    {
+      "id": "v179",
+      "word": "word78",
+      "reading": "reading78",
+      "meaning": "Meaning 78",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文78",
+          "translation": "Example 78"
+        }
+      ],
+      "relatedWords": [
+        "related78"
+      ],
+      "notes": "Note 78"
+    },
+    {
+      "id": "v180",
+      "word": "word79",
+      "reading": "reading79",
+      "meaning": "Meaning 79",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文79",
+          "translation": "Example 79"
+        }
+      ],
+      "relatedWords": [
+        "related79"
+      ],
+      "notes": "Note 79"
+    },
+    {
+      "id": "v181",
+      "word": "word80",
+      "reading": "reading80",
+      "meaning": "Meaning 80",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文80",
+          "translation": "Example 80"
+        }
+      ],
+      "relatedWords": [
+        "related80"
+      ],
+      "notes": "Note 80"
+    },
+    {
+      "id": "v182",
+      "word": "word81",
+      "reading": "reading81",
+      "meaning": "Meaning 81",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文81",
+          "translation": "Example 81"
+        }
+      ],
+      "relatedWords": [
+        "related81"
+      ],
+      "notes": "Note 81"
+    },
+    {
+      "id": "v183",
+      "word": "word82",
+      "reading": "reading82",
+      "meaning": "Meaning 82",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文82",
+          "translation": "Example 82"
+        }
+      ],
+      "relatedWords": [
+        "related82"
+      ],
+      "notes": "Note 82"
+    },
+    {
+      "id": "v184",
+      "word": "word83",
+      "reading": "reading83",
+      "meaning": "Meaning 83",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文83",
+          "translation": "Example 83"
+        }
+      ],
+      "relatedWords": [
+        "related83"
+      ],
+      "notes": "Note 83"
+    },
+    {
+      "id": "v185",
+      "word": "word84",
+      "reading": "reading84",
+      "meaning": "Meaning 84",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文84",
+          "translation": "Example 84"
+        }
+      ],
+      "relatedWords": [
+        "related84"
+      ],
+      "notes": "Note 84"
+    },
+    {
+      "id": "v186",
+      "word": "word85",
+      "reading": "reading85",
+      "meaning": "Meaning 85",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文85",
+          "translation": "Example 85"
+        }
+      ],
+      "relatedWords": [
+        "related85"
+      ],
+      "notes": "Note 85"
+    },
+    {
+      "id": "v187",
+      "word": "word86",
+      "reading": "reading86",
+      "meaning": "Meaning 86",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文86",
+          "translation": "Example 86"
+        }
+      ],
+      "relatedWords": [
+        "related86"
+      ],
+      "notes": "Note 86"
+    },
+    {
+      "id": "v188",
+      "word": "word87",
+      "reading": "reading87",
+      "meaning": "Meaning 87",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文87",
+          "translation": "Example 87"
+        }
+      ],
+      "relatedWords": [
+        "related87"
+      ],
+      "notes": "Note 87"
+    },
+    {
+      "id": "v189",
+      "word": "word88",
+      "reading": "reading88",
+      "meaning": "Meaning 88",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文88",
+          "translation": "Example 88"
+        }
+      ],
+      "relatedWords": [
+        "related88"
+      ],
+      "notes": "Note 88"
+    },
+    {
+      "id": "v190",
+      "word": "word89",
+      "reading": "reading89",
+      "meaning": "Meaning 89",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文89",
+          "translation": "Example 89"
+        }
+      ],
+      "relatedWords": [
+        "related89"
+      ],
+      "notes": "Note 89"
+    },
+    {
+      "id": "v191",
+      "word": "word90",
+      "reading": "reading90",
+      "meaning": "Meaning 90",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文90",
+          "translation": "Example 90"
+        }
+      ],
+      "relatedWords": [
+        "related90"
+      ],
+      "notes": "Note 90"
+    },
+    {
+      "id": "v192",
+      "word": "word91",
+      "reading": "reading91",
+      "meaning": "Meaning 91",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文91",
+          "translation": "Example 91"
+        }
+      ],
+      "relatedWords": [
+        "related91"
+      ],
+      "notes": "Note 91"
+    },
+    {
+      "id": "v193",
+      "word": "word92",
+      "reading": "reading92",
+      "meaning": "Meaning 92",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文92",
+          "translation": "Example 92"
+        }
+      ],
+      "relatedWords": [
+        "related92"
+      ],
+      "notes": "Note 92"
+    },
+    {
+      "id": "v194",
+      "word": "word93",
+      "reading": "reading93",
+      "meaning": "Meaning 93",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文93",
+          "translation": "Example 93"
+        }
+      ],
+      "relatedWords": [
+        "related93"
+      ],
+      "notes": "Note 93"
+    },
+    {
+      "id": "v195",
+      "word": "word94",
+      "reading": "reading94",
+      "meaning": "Meaning 94",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文94",
+          "translation": "Example 94"
+        }
+      ],
+      "relatedWords": [
+        "related94"
+      ],
+      "notes": "Note 94"
+    },
+    {
+      "id": "v196",
+      "word": "word95",
+      "reading": "reading95",
+      "meaning": "Meaning 95",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文95",
+          "translation": "Example 95"
+        }
+      ],
+      "relatedWords": [
+        "related95"
+      ],
+      "notes": "Note 95"
+    },
+    {
+      "id": "v197",
+      "word": "word96",
+      "reading": "reading96",
+      "meaning": "Meaning 96",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文96",
+          "translation": "Example 96"
+        }
+      ],
+      "relatedWords": [
+        "related96"
+      ],
+      "notes": "Note 96"
+    },
+    {
+      "id": "v198",
+      "word": "word97",
+      "reading": "reading97",
+      "meaning": "Meaning 97",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文97",
+          "translation": "Example 97"
+        }
+      ],
+      "relatedWords": [
+        "related97"
+      ],
+      "notes": "Note 97"
+    },
+    {
+      "id": "v199",
+      "word": "word98",
+      "reading": "reading98",
+      "meaning": "Meaning 98",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文98",
+          "translation": "Example 98"
+        }
+      ],
+      "relatedWords": [
+        "related98"
+      ],
+      "notes": "Note 98"
+    },
+    {
+      "id": "v200",
+      "word": "word99",
+      "reading": "reading99",
+      "meaning": "Meaning 99",
+      "level": "N2",
+      "category": "Daily Life",
+      "examples": [
+        {
+          "sentence": "例文99",
+          "translation": "Example 99"
+        }
+      ],
+      "relatedWords": [
+        "related99"
+      ],
+      "notes": "Note 99"
     }
   ]
 }

@@ -13,7 +13,10 @@
       "jlptLevel": "N2",
       "exampleSentence": "自由という概念について考える。",
       "exampleTranslation": "I think about the concept of freedom.",
-      "relatedWords": ["考え", "思想"],
+      "relatedWords": [
+        "考え",
+        "思想"
+      ],
       "notes": "Common in academic essays"
     },
     {
@@ -26,7 +29,10 @@
       "jlptLevel": "N2",
       "exampleSentence": "問題の本質を見極める。",
       "exampleTranslation": "Grasp the essence of the problem.",
-      "relatedWords": ["性質", "根本"],
+      "relatedWords": [
+        "性質",
+        "根本"
+      ],
       "notes": "Appears in opinion essays"
     },
     {
@@ -39,7 +45,10 @@
       "jlptLevel": "N2",
       "exampleSentence": "若者に人気がある傾向が見られる。",
       "exampleTranslation": "A tendency to be popular among young people can be seen.",
-      "relatedWords": ["流行", "動向"],
+      "relatedWords": [
+        "流行",
+        "動向"
+      ],
       "notes": "Often used with 統計 data"
     },
     {
@@ -52,7 +61,10 @@
       "jlptLevel": "N2",
       "exampleSentence": "子供の視点で物事を見る。",
       "exampleTranslation": "Look at things from a child's perspective.",
-      "relatedWords": ["見方", "観点"],
+      "relatedWords": [
+        "見方",
+        "観点"
+      ],
       "notes": "Used in analytical writing"
     },
     {
@@ -65,8 +77,3131 @@
       "jlptLevel": "N3",
       "exampleSentence": "環境に悪い影響を与える。",
       "exampleTranslation": "It has a bad effect on the environment.",
-      "relatedWords": ["作用", "結果"],
+      "relatedWords": [
+        "作用",
+        "結果"
+      ],
       "notes": "Frequent in discussions about society and science"
+    },
+    {
+      "id": "v006",
+      "kanji": "思考",
+      "kana": "しこう",
+      "romaji": "shikou",
+      "partOfSpeech": "noun",
+      "meaning": "thinking, thought",
+      "jlptLevel": "N2",
+      "exampleSentence": "深く思考することが大切だ。",
+      "exampleTranslation": "It's important to think deeply.",
+      "relatedWords": [
+        "考え",
+        "思想"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v007",
+      "kanji": "発想",
+      "kana": "はっそう",
+      "romaji": "hassou",
+      "partOfSpeech": "noun",
+      "meaning": "idea, conception",
+      "jlptLevel": "N2",
+      "exampleSentence": "新しい発想が必要だ。",
+      "exampleTranslation": "New ideas are needed.",
+      "relatedWords": [
+        "アイデア",
+        "着想"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v008",
+      "kanji": "着想",
+      "kana": "ちゃくそう",
+      "romaji": "chakusou",
+      "partOfSpeech": "noun",
+      "meaning": "idea, conception",
+      "jlptLevel": "N2",
+      "exampleSentence": "映画の着想を得た。",
+      "exampleTranslation": "I got an idea for a movie.",
+      "relatedWords": [
+        "発想",
+        "アイデア"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v009",
+      "kanji": "思想",
+      "kana": "しそう",
+      "romaji": "shisou",
+      "partOfSpeech": "noun",
+      "meaning": "thought, ideology",
+      "jlptLevel": "N2",
+      "exampleSentence": "自由な思想を持つ。",
+      "exampleTranslation": "I hold liberal thoughts.",
+      "relatedWords": [
+        "イデオロギー",
+        "考え"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v010",
+      "kanji": "イデオロギー",
+      "kana": "いでおろぎー",
+      "romaji": "ideorogii",
+      "partOfSpeech": "noun",
+      "meaning": "ideology",
+      "jlptLevel": "N2",
+      "exampleSentence": "政治的イデオロギーを持つ。",
+      "exampleTranslation": "I hold a political ideology.",
+      "relatedWords": [
+        "思想",
+        "主義"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v011",
+      "kanji": "理念",
+      "kana": "りねん",
+      "romaji": "rinen",
+      "partOfSpeech": "noun",
+      "meaning": "idea, principle",
+      "jlptLevel": "N2",
+      "exampleSentence": "会社の理念に共感する。",
+      "exampleTranslation": "I sympathize with the company's principles.",
+      "relatedWords": [
+        "理想",
+        "信念"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v012",
+      "kanji": "信念",
+      "kana": "しんねん",
+      "romaji": "shinnen",
+      "partOfSpeech": "noun",
+      "meaning": "belief, conviction",
+      "jlptLevel": "N2",
+      "exampleSentence": "強い信念を持って行動する。",
+      "exampleTranslation": "I act with strong conviction.",
+      "relatedWords": [
+        "信条",
+        "確信"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v013",
+      "kanji": "確信",
+      "kana": "かくしん",
+      "romaji": "kakushin",
+      "partOfSpeech": "noun",
+      "meaning": "conviction, certainty",
+      "jlptLevel": "N2",
+      "exampleSentence": "成功の確信がある。",
+      "exampleTranslation": "I have conviction of success.",
+      "relatedWords": [
+        "信念",
+        "確かさ"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v014",
+      "kanji": "疑問",
+      "kana": "ぎもん",
+      "romaji": "gimon",
+      "partOfSpeech": "noun",
+      "meaning": "doubt, question",
+      "jlptLevel": "N2",
+      "exampleSentence": "その説明には疑問がある。",
+      "exampleTranslation": "I have doubts about that explanation.",
+      "relatedWords": [
+        "疑い",
+        "問い"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v015",
+      "kanji": "疑念",
+      "kana": "ぎねん",
+      "romaji": "ginen",
+      "partOfSpeech": "noun",
+      "meaning": "doubt, suspicion",
+      "jlptLevel": "N2",
+      "exampleSentence": "疑念を抱く。",
+      "exampleTranslation": "I harbor doubts.",
+      "relatedWords": [
+        "疑い",
+        "不信"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v016",
+      "kanji": "理解",
+      "kana": "りかい",
+      "romaji": "rikai",
+      "partOfSpeech": "noun",
+      "meaning": "understanding",
+      "jlptLevel": "N2",
+      "exampleSentence": "相互理解が大切だ。",
+      "exampleTranslation": "Mutual understanding is important.",
+      "relatedWords": [
+        "把握",
+        "了解"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v017",
+      "kanji": "把握",
+      "kana": "はあく",
+      "romaji": "haaku",
+      "partOfSpeech": "noun",
+      "meaning": "grasp, understanding",
+      "jlptLevel": "N2",
+      "exampleSentence": "状況を把握する。",
+      "exampleTranslation": "I grasp the situation.",
+      "relatedWords": [
+        "理解",
+        "認識"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v018",
+      "kanji": "認識",
+      "kana": "にんしき",
+      "romaji": "ninshiki",
+      "partOfSpeech": "noun",
+      "meaning": "recognition, awareness",
+      "jlptLevel": "N2",
+      "exampleSentence": "問題の認識を深める。",
+      "exampleTranslation": "I deepen my awareness of the problem.",
+      "relatedWords": [
+        "理解",
+        "意識"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v019",
+      "kanji": "意識",
+      "kana": "いしき",
+      "romaji": "ishiki",
+      "partOfSpeech": "noun",
+      "meaning": "consciousness, awareness",
+      "jlptLevel": "N2",
+      "exampleSentence": "環境問題への意識が高い。",
+      "exampleTranslation": "I have high awareness of environmental issues.",
+      "relatedWords": [
+        "自覚",
+        "認識"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v020",
+      "kanji": "自覚",
+      "kana": "じかく",
+      "romaji": "jikaku",
+      "partOfSpeech": "noun",
+      "meaning": "self-awareness",
+      "jlptLevel": "N2",
+      "exampleSentence": "責任の自覚を持つ。",
+      "exampleTranslation": "I have self-awareness of responsibility.",
+      "relatedWords": [
+        "意識",
+        "認識"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v021",
+      "kanji": "判断",
+      "kana": "はんだん",
+      "romaji": "handan",
+      "partOfSpeech": "noun",
+      "meaning": "judgment, decision",
+      "jlptLevel": "N2",
+      "exampleSentence": "正しい判断を下す。",
+      "exampleTranslation": "I make the right judgment.",
+      "relatedWords": [
+        "決断",
+        "見極め"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v022",
+      "kanji": "決断",
+      "kana": "けつだん",
+      "romaji": "ketsudan",
+      "partOfSpeech": "noun",
+      "meaning": "decision, determination",
+      "jlptLevel": "N2",
+      "exampleSentence": "重要な決断をする。",
+      "exampleTranslation": "I make an important decision.",
+      "relatedWords": [
+        "判断",
+        "決定"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v023",
+      "kanji": "決定",
+      "kana": "けってい",
+      "romaji": "kettei",
+      "partOfSpeech": "noun",
+      "meaning": "decision",
+      "jlptLevel": "N2",
+      "exampleSentence": "方針の決定を待つ。",
+      "exampleTranslation": "I wait for the policy decision.",
+      "relatedWords": [
+        "決断",
+        "確定"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v024",
+      "kanji": "選択",
+      "kana": "せんたく",
+      "romaji": "sentaku",
+      "partOfSpeech": "noun",
+      "meaning": "choice, selection",
+      "jlptLevel": "N2",
+      "exampleSentence": "自由な選択ができる。",
+      "exampleTranslation": "I can make a free choice.",
+      "relatedWords": [
+        "選び",
+        "チョイス"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v025",
+      "kanji": "推測",
+      "kana": "すいそく",
+      "romaji": "suisoku",
+      "partOfSpeech": "noun",
+      "meaning": "guess, conjecture",
+      "jlptLevel": "N2",
+      "exampleSentence": "結果を推測する。",
+      "exampleTranslation": "I conjecture the result.",
+      "relatedWords": [
+        "予想",
+        "憶測"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v026",
+      "kanji": "憶測",
+      "kana": "おくそく",
+      "romaji": "okusoku",
+      "partOfSpeech": "noun",
+      "meaning": "speculation, guess",
+      "jlptLevel": "N2",
+      "exampleSentence": "憶測に過ぎない。",
+      "exampleTranslation": "It's nothing but speculation.",
+      "relatedWords": [
+        "推測",
+        "推量"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v027",
+      "kanji": "推論",
+      "kana": "すいろん",
+      "romaji": "suiron",
+      "partOfSpeech": "noun",
+      "meaning": "inference, reasoning",
+      "jlptLevel": "N2",
+      "exampleSentence": "論理的な推論を行う。",
+      "exampleTranslation": "I conduct logical reasoning.",
+      "relatedWords": [
+        "推理",
+        "思考"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v028",
+      "kanji": "推理",
+      "kana": "すいり",
+      "romaji": "suiri",
+      "partOfSpeech": "noun",
+      "meaning": "reasoning, inference",
+      "jlptLevel": "N2",
+      "exampleSentence": "推理力を鍛える。",
+      "exampleTranslation": "I train my reasoning ability.",
+      "relatedWords": [
+        "推論",
+        "論理"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v029",
+      "kanji": "論理",
+      "kana": "ろんり",
+      "romaji": "ronri",
+      "partOfSpeech": "noun",
+      "meaning": "logic",
+      "jlptLevel": "N2",
+      "exampleSentence": "論理的に説明する。",
+      "exampleTranslation": "I explain logically.",
+      "relatedWords": [
+        "理論",
+        "筋道"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v030",
+      "kanji": "妥当",
+      "kana": "だとう",
+      "romaji": "datou",
+      "partOfSpeech": "noun",
+      "meaning": "validity, appropriateness",
+      "jlptLevel": "N2",
+      "exampleSentence": "妥当な判断だと思う。",
+      "exampleTranslation": "I think it's a valid judgment.",
+      "relatedWords": [
+        "適切",
+        "正当"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v031",
+      "kanji": "適切",
+      "kana": "てきせつ",
+      "romaji": "tekisetsu",
+      "partOfSpeech": "noun",
+      "meaning": "appropriate, suitable",
+      "jlptLevel": "N2",
+      "exampleSentence": "適切な対応をする。",
+      "exampleTranslation": "I take appropriate measures.",
+      "relatedWords": [
+        "妥当",
+        "ふさわしい"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v032",
+      "kanji": "的確",
+      "kana": "てきかく",
+      "romaji": "tekikaku",
+      "partOfSpeech": "noun",
+      "meaning": "accurate, precise",
+      "jlptLevel": "N2",
+      "exampleSentence": "的確な指摘をする。",
+      "exampleTranslation": "I make an accurate point.",
+      "relatedWords": [
+        "正確",
+        "適切"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v033",
+      "kanji": "正確",
+      "kana": "せいかく",
+      "romaji": "seikaku",
+      "partOfSpeech": "noun",
+      "meaning": "accurate, precise",
+      "jlptLevel": "N2",
+      "exampleSentence": "正確な情報を伝える。",
+      "exampleTranslation": "I convey accurate information.",
+      "relatedWords": [
+        "的確",
+        "確か"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v034",
+      "kanji": "曖昧",
+      "kana": "あいまい",
+      "romaji": "aimai",
+      "partOfSpeech": "noun",
+      "meaning": "vague, ambiguous",
+      "jlptLevel": "N2",
+      "exampleSentence": "曖昧な表現は避ける。",
+      "exampleTranslation": "I avoid vague expressions.",
+      "relatedWords": [
+        "不明瞭",
+        "ぼんやり"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v035",
+      "kanji": "明確",
+      "kana": "めいかく",
+      "romaji": "meikaku",
+      "partOfSpeech": "noun",
+      "meaning": "clear, definite",
+      "jlptLevel": "N2",
+      "exampleSentence": "明確な目標を持つ。",
+      "exampleTranslation": "I have a clear goal.",
+      "relatedWords": [
+        "はっきり",
+        "明白"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v036",
+      "kanji": "明白",
+      "kana": "めいはく",
+      "romaji": "meihaku",
+      "partOfSpeech": "noun",
+      "meaning": "obvious, clear",
+      "jlptLevel": "N2",
+      "exampleSentence": "証拠は明白だ。",
+      "exampleTranslation": "The evidence is obvious.",
+      "relatedWords": [
+        "明らか",
+        "明確"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v037",
+      "kanji": "明らか",
+      "kana": "あきらか",
+      "romaji": "akiraka",
+      "partOfSpeech": "noun",
+      "meaning": "obvious, clear",
+      "jlptLevel": "N2",
+      "exampleSentence": "違いは明らかだ。",
+      "exampleTranslation": "The difference is obvious.",
+      "relatedWords": [
+        "明白",
+        "はっきり"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v038",
+      "kanji": "複雑",
+      "kana": "ふくざつ",
+      "romaji": "fukuzatsu",
+      "partOfSpeech": "noun",
+      "meaning": "complex, complicated",
+      "jlptLevel": "N2",
+      "exampleSentence": "問題が複雑だ。",
+      "exampleTranslation": "The problem is complex.",
+      "relatedWords": [
+        "込み入った",
+        "難しい"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v039",
+      "kanji": "単純",
+      "kana": "たんじゅん",
+      "romaji": "tanjun",
+      "partOfSpeech": "noun",
+      "meaning": "simple",
+      "jlptLevel": "N2",
+      "exampleSentence": "単純に考える。",
+      "exampleTranslation": "I think simply.",
+      "relatedWords": [
+        "簡単",
+        "シンプル"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v040",
+      "kanji": "矛盾",
+      "kana": "むじゅん",
+      "romaji": "mujun",
+      "partOfSpeech": "noun",
+      "meaning": "contradiction",
+      "jlptLevel": "N2",
+      "exampleSentence": "発言に矛盾がある。",
+      "exampleTranslation": "There's a contradiction in the statement.",
+      "relatedWords": [
+        "食い違い",
+        "不一致"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v041",
+      "kanji": "感情",
+      "kana": "かんじょう",
+      "romaji": "kanjou",
+      "partOfSpeech": "noun",
+      "meaning": "emotion, feeling",
+      "jlptLevel": "N2",
+      "exampleSentence": "感情を抑える。",
+      "exampleTranslation": "I suppress my emotions.",
+      "relatedWords": [
+        "情",
+        "気持ち"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v042",
+      "kanji": "情",
+      "kana": "じょう",
+      "romaji": "jou",
+      "partOfSpeech": "noun",
+      "meaning": "emotion, feeling",
+      "jlptLevel": "N2",
+      "exampleSentence": "情に流される。",
+      "exampleTranslation": "I'm swayed by emotion.",
+      "relatedWords": [
+        "感情",
+        "情け"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v043",
+      "kanji": "感覚",
+      "kana": "かんかく",
+      "romaji": "kankaku",
+      "partOfSpeech": "noun",
+      "meaning": "sense, sensation",
+      "jlptLevel": "N2",
+      "exampleSentence": "美的感覚が優れている。",
+      "exampleTranslation": "I have excellent aesthetic sense.",
+      "relatedWords": [
+        "感じ",
+        "センス"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v044",
+      "kanji": "印象",
+      "kana": "いんしょう",
+      "romaji": "inshou",
+      "partOfSpeech": "noun",
+      "meaning": "impression",
+      "jlptLevel": "N2",
+      "exampleSentence": "良い印象を与える。",
+      "exampleTranslation": "I give a good impression.",
+      "relatedWords": [
+        "イメージ",
+        "感じ"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v045",
+      "kanji": "雰囲気",
+      "kana": "ふんいき",
+      "romaji": "fun'iki",
+      "partOfSpeech": "noun",
+      "meaning": "atmosphere, mood",
+      "jlptLevel": "N2",
+      "exampleSentence": "和やかな雰囲気だった。",
+      "exampleTranslation": "It was a harmonious atmosphere.",
+      "relatedWords": [
+        "空気",
+        "ムード"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v046",
+      "kanji": "気分",
+      "kana": "きぶん",
+      "romaji": "kibun",
+      "partOfSpeech": "noun",
+      "meaning": "mood, feeling",
+      "jlptLevel": "N2",
+      "exampleSentence": "気分が良い。",
+      "exampleTranslation": "I feel good.",
+      "relatedWords": [
+        "気持ち",
+        "ムード"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v047",
+      "kanji": "気持ち",
+      "kana": "きもち",
+      "romaji": "kimochi",
+      "partOfSpeech": "noun",
+      "meaning": "feeling",
+      "jlptLevel": "N2",
+      "exampleSentence": "嬉しい気持ちだ。",
+      "exampleTranslation": "I have a happy feeling.",
+      "relatedWords": [
+        "感情",
+        "心"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v048",
+      "kanji": "心情",
+      "kana": "しんじょう",
+      "romaji": "shinjou",
+      "partOfSpeech": "noun",
+      "meaning": "feeling, sentiment",
+      "jlptLevel": "N2",
+      "exampleSentence": "複雑な心情だ。",
+      "exampleTranslation": "It's a complex feeling.",
+      "relatedWords": [
+        "気持ち",
+        "心境"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v049",
+      "kanji": "心境",
+      "kana": "しんきょう",
+      "romaji": "shinkyou",
+      "partOfSpeech": "noun",
+      "meaning": "mental state",
+      "jlptLevel": "N2",
+      "exampleSentence": "平穏な心境でいる。",
+      "exampleTranslation": "I'm in a peaceful mental state.",
+      "relatedWords": [
+        "心情",
+        "気持ち"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v050",
+      "kanji": "感動",
+      "kana": "かんどう",
+      "romaji": "kandou",
+      "partOfSpeech": "noun",
+      "meaning": "emotion, impression",
+      "jlptLevel": "N2",
+      "exampleSentence": "映画に感動した。",
+      "exampleTranslation": "I was moved by the movie.",
+      "relatedWords": [
+        "感銘",
+        "感激"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v051",
+      "kanji": "感激",
+      "kana": "かんげき",
+      "romaji": "kangeki",
+      "partOfSpeech": "noun",
+      "meaning": "deep emotion, impression",
+      "jlptLevel": "N2",
+      "exampleSentence": "感激の涙を流す。",
+      "exampleTranslation": "I shed tears of emotion.",
+      "relatedWords": [
+        "感動",
+        "感銘"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v052",
+      "kanji": "感謝",
+      "kana": "かんしゃ",
+      "romaji": "kansha",
+      "partOfSpeech": "noun",
+      "meaning": "gratitude, thanks",
+      "jlptLevel": "N2",
+      "exampleSentence": "感謝の気持ちを伝える。",
+      "exampleTranslation": "I convey feelings of gratitude.",
+      "relatedWords": [
+        "ありがとう",
+        "お礼"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v053",
+      "kanji": "不安",
+      "kana": "ふあん",
+      "romaji": "fuan",
+      "partOfSpeech": "noun",
+      "meaning": "anxiety, uneasiness",
+      "jlptLevel": "N2",
+      "exampleSentence": "将来への不安がある。",
+      "exampleTranslation": "I have anxiety about the future.",
+      "relatedWords": [
+        "心配",
+        "懸念"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v054",
+      "kanji": "心配",
+      "kana": "しんぱい",
+      "romaji": "shinpai",
+      "partOfSpeech": "noun",
+      "meaning": "worry, concern",
+      "jlptLevel": "N2",
+      "exampleSentence": "心配する必要はない。",
+      "exampleTranslation": "There's no need to worry.",
+      "relatedWords": [
+        "不安",
+        "懸念"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v055",
+      "kanji": "懸念",
+      "kana": "けねん",
+      "romaji": "kenen",
+      "partOfSpeech": "noun",
+      "meaning": "concern, worry",
+      "jlptLevel": "N2",
+      "exampleSentence": "懸念すべき問題だ。",
+      "exampleTranslation": "It's a problem of concern.",
+      "relatedWords": [
+        "心配",
+        "不安"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v056",
+      "kanji": "安心",
+      "kana": "あんしん",
+      "romaji": "anshin",
+      "partOfSpeech": "noun",
+      "meaning": "relief, peace of mind",
+      "jlptLevel": "N2",
+      "exampleSentence": "安心して任せられる。",
+      "exampleTranslation": "I can leave it to you with peace of mind.",
+      "relatedWords": [
+        "安堵",
+        "気楽"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v057",
+      "kanji": "安堵",
+      "kana": "あんど",
+      "romaji": "ando",
+      "partOfSpeech": "noun",
+      "meaning": "relief",
+      "jlptLevel": "N2",
+      "exampleSentence": "安堵のため息をつく。",
+      "exampleTranslation": "I breathe a sigh of relief.",
+      "relatedWords": [
+        "安心",
+        "ほっとする"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v058",
+      "kanji": "満足",
+      "kana": "まんぞく",
+      "romaji": "manzoku",
+      "partOfSpeech": "noun",
+      "meaning": "satisfaction",
+      "jlptLevel": "N2",
+      "exampleSentence": "結果に満足している。",
+      "exampleTranslation": "I'm satisfied with the result.",
+      "relatedWords": [
+        "納得",
+        "充足"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v059",
+      "kanji": "納得",
+      "kana": "なっとく",
+      "romaji": "nattoku",
+      "partOfSpeech": "noun",
+      "meaning": "understanding, consent",
+      "jlptLevel": "N2",
+      "exampleSentence": "説明に納得した。",
+      "exampleTranslation": "I was convinced by the explanation.",
+      "relatedWords": [
+        "理解",
+        "承知"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v060",
+      "kanji": "不満",
+      "kana": "ふまん",
+      "romaji": "fuman",
+      "partOfSpeech": "noun",
+      "meaning": "dissatisfaction",
+      "jlptLevel": "N2",
+      "exampleSentence": "待遇に不満がある。",
+      "exampleTranslation": "I'm dissatisfied with the treatment.",
+      "relatedWords": [
+        "不平",
+        "文句"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v061",
+      "kanji": "失望",
+      "kana": "しつぼう",
+      "romaji": "shitsubou",
+      "partOfSpeech": "noun",
+      "meaning": "disappointment",
+      "jlptLevel": "N2",
+      "exampleSentence": "失望を隠せない。",
+      "exampleTranslation": "I can't hide my disappointment.",
+      "relatedWords": [
+        "落胆",
+        "がっかり"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v062",
+      "kanji": "落胆",
+      "kana": "らくたん",
+      "romaji": "rakutan",
+      "partOfSpeech": "noun",
+      "meaning": "discouragement, dejection",
+      "jlptLevel": "N2",
+      "exampleSentence": "落胆の色が濃い。",
+      "exampleTranslation": "There's a deep sense of dejection.",
+      "relatedWords": [
+        "失望",
+        "がっかり"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v063",
+      "kanji": "期待",
+      "kana": "きたい",
+      "romaji": "kitai",
+      "partOfSpeech": "noun",
+      "meaning": "expectation, hope",
+      "jlptLevel": "N2",
+      "exampleSentence": "彼の活躍を期待する。",
+      "exampleTranslation": "I expect his active participation.",
+      "relatedWords": [
+        "希望",
+        "予想"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v064",
+      "kanji": "希望",
+      "kana": "きぼう",
+      "romaji": "kibou",
+      "partOfSpeech": "noun",
+      "meaning": "hope, wish",
+      "jlptLevel": "N2",
+      "exampleSentence": "合格の希望を持つ。",
+      "exampleTranslation": "I hold hope for passing.",
+      "relatedWords": [
+        "期待",
+        "願望"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v065",
+      "kanji": "願望",
+      "kana": "がんぼう",
+      "romaji": "ganbou",
+      "partOfSpeech": "noun",
+      "meaning": "desire, wish",
+      "jlptLevel": "N2",
+      "exampleSentence": "平和への願望がある。",
+      "exampleTranslation": "I have a desire for peace.",
+      "relatedWords": [
+        "希望",
+        "欲求"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v066",
+      "kanji": "欲求",
+      "kana": "よっきゅう",
+      "romaji": "yokkyuu",
+      "partOfSpeech": "noun",
+      "meaning": "desire, need",
+      "jlptLevel": "N2",
+      "exampleSentence": "承認欲求が強い。",
+      "exampleTranslation": "I have a strong need for approval.",
+      "relatedWords": [
+        "欲望",
+        "願望"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v067",
+      "kanji": "欲望",
+      "kana": "よくぼう",
+      "romaji": "yokubou",
+      "partOfSpeech": "noun",
+      "meaning": "desire, appetite",
+      "jlptLevel": "N2",
+      "exampleSentence": "欲望を抑える。",
+      "exampleTranslation": "I suppress desire.",
+      "relatedWords": [
+        "欲求",
+        "欲"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v068",
+      "kanji": "意欲",
+      "kana": "いよく",
+      "romaji": "iyoku",
+      "partOfSpeech": "noun",
+      "meaning": "will, motivation",
+      "jlptLevel": "N2",
+      "exampleSentence": "学習意欲が高い。",
+      "exampleTranslation": "I have high learning motivation.",
+      "relatedWords": [
+        "やる気",
+        "モチベーション"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v069",
+      "kanji": "興味",
+      "kana": "きょうみ",
+      "romaji": "kyoumi",
+      "partOfSpeech": "noun",
+      "meaning": "interest",
+      "jlptLevel": "N2",
+      "exampleSentence": "科学に興味がある。",
+      "exampleTranslation": "I have an interest in science.",
+      "relatedWords": [
+        "関心",
+        "興味関心"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v070",
+      "kanji": "関心",
+      "kana": "かんしん",
+      "romaji": "kanshin",
+      "partOfSpeech": "noun",
+      "meaning": "interest, concern",
+      "jlptLevel": "N2",
+      "exampleSentence": "環境問題への関心が高い。",
+      "exampleTranslation": "I have high interest in environmental issues.",
+      "relatedWords": [
+        "興味",
+        "注目"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v071",
+      "kanji": "同情",
+      "kana": "どうじょう",
+      "romaji": "doujou",
+      "partOfSpeech": "noun",
+      "meaning": "sympathy",
+      "jlptLevel": "N2",
+      "exampleSentence": "困っている人に同情する。",
+      "exampleTranslation": "I sympathize with people in trouble.",
+      "relatedWords": [
+        "共感",
+        "哀れみ"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v072",
+      "kanji": "共感",
+      "kana": "きょうかん",
+      "romaji": "kyoukan",
+      "partOfSpeech": "noun",
+      "meaning": "sympathy, empathy",
+      "jlptLevel": "N2",
+      "exampleSentence": "彼女の意見に共感する。",
+      "exampleTranslation": "I empathize with her opinion.",
+      "relatedWords": [
+        "同感",
+        "共鳴"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v073",
+      "kanji": "反感",
+      "kana": "はんかん",
+      "romaji": "hankan",
+      "partOfSpeech": "noun",
+      "meaning": "antipathy, hostility",
+      "jlptLevel": "N2",
+      "exampleSentence": "反感を買う。",
+      "exampleTranslation": "I incur antipathy.",
+      "relatedWords": [
+        "反発",
+        "嫌悪"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v074",
+      "kanji": "嫌悪",
+      "kana": "けんお",
+      "romaji": "ken'o",
+      "partOfSpeech": "noun",
+      "meaning": "disgust, aversion",
+      "jlptLevel": "N2",
+      "exampleSentence": "暴力に嫌悪感を抱く。",
+      "exampleTranslation": "I feel disgust toward violence.",
+      "relatedWords": [
+        "嫌い",
+        "反感"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v075",
+      "kanji": "好意",
+      "kana": "こうい",
+      "romaji": "koui",
+      "partOfSpeech": "noun",
+      "meaning": "goodwill, favor",
+      "jlptLevel": "N2",
+      "exampleSentence": "好意を持っている。",
+      "exampleTranslation": "I have goodwill.",
+      "relatedWords": [
+        "親切",
+        "好感"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v076",
+      "kanji": "性質",
+      "kana": "せいしつ",
+      "romaji": "seishitsu",
+      "partOfSpeech": "noun",
+      "meaning": "nature, quality",
+      "jlptLevel": "N2",
+      "exampleSentence": "独特の性質を持つ。",
+      "exampleTranslation": "It has a unique quality.",
+      "relatedWords": [
+        "特性",
+        "性格"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v077",
+      "kanji": "特性",
+      "kana": "とくせい",
+      "romaji": "tokusei",
+      "partOfSpeech": "noun",
+      "meaning": "characteristic, property",
+      "jlptLevel": "N2",
+      "exampleSentence": "素材の特性を活かす。",
+      "exampleTranslation": "I utilize the characteristics of the material.",
+      "relatedWords": [
+        "特質",
+        "性質"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v078",
+      "kanji": "特質",
+      "kana": "とくしつ",
+      "romaji": "tokushitsu",
+      "partOfSpeech": "noun",
+      "meaning": "special quality, characteristic",
+      "jlptLevel": "N2",
+      "exampleSentence": "リーダーの特質を備える。",
+      "exampleTranslation": "I possess the qualities of a leader.",
+      "relatedWords": [
+        "特性",
+        "資質"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v079",
+      "kanji": "資質",
+      "kana": "ししつ",
+      "romaji": "shishitsu",
+      "partOfSpeech": "noun",
+      "meaning": "qualities, nature",
+      "jlptLevel": "N2",
+      "exampleSentence": "教師としての資質がある。",
+      "exampleTranslation": "I have the qualities of a teacher.",
+      "relatedWords": [
+        "素質",
+        "才能"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v080",
+      "kanji": "素質",
+      "kana": "そしつ",
+      "romaji": "soshitsu",
+      "partOfSpeech": "noun",
+      "meaning": "qualities, potential",
+      "jlptLevel": "N2",
+      "exampleSentence": "音楽の素質がある。",
+      "exampleTranslation": "I have musical potential.",
+      "relatedWords": [
+        "資質",
+        "才能"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v081",
+      "kanji": "才能",
+      "kana": "さいのう",
+      "romaji": "sainou",
+      "partOfSpeech": "noun",
+      "meaning": "talent, ability",
+      "jlptLevel": "N2",
+      "exampleSentence": "芸術的才能に恵まれている。",
+      "exampleTranslation": "I'm blessed with artistic talent.",
+      "relatedWords": [
+        "天才",
+        "能力"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v082",
+      "kanji": "能力",
+      "kana": "のうりょく",
+      "romaji": "nouryoku",
+      "partOfSpeech": "noun",
+      "meaning": "ability, capability",
+      "jlptLevel": "N2",
+      "exampleSentence": "問題解決能力が高い。",
+      "exampleTranslation": "I have high problem-solving ability.",
+      "relatedWords": [
+        "力",
+        "才能"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v083",
+      "kanji": "実力",
+      "kana": "じつりょく",
+      "romaji": "jitsuryoku",
+      "partOfSpeech": "noun",
+      "meaning": "actual ability, merit",
+      "jlptLevel": "N2",
+      "exampleSentence": "実力を発揮する。",
+      "exampleTranslation": "I demonstrate my actual ability.",
+      "relatedWords": [
+        "力量",
+        "能力"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v084",
+      "kanji": "力量",
+      "kana": "りきりょう",
+      "romaji": "rikiryou",
+      "partOfSpeech": "noun",
+      "meaning": "ability, capacity",
+      "jlptLevel": "N2",
+      "exampleSentence": "指導者としての力量がある。",
+      "exampleTranslation": "I have the capacity as a leader.",
+      "relatedWords": [
+        "実力",
+        "能力"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v085",
+      "kanji": "可能性",
+      "kana": "かのうせい",
+      "romaji": "kanousei",
+      "partOfSpeech": "noun",
+      "meaning": "possibility, potential",
+      "jlptLevel": "N2",
+      "exampleSentence": "成功の可能性が高い。",
+      "exampleTranslation": "There's a high possibility of success.",
+      "relatedWords": [
+        "見込み",
+        "チャンス"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v086",
+      "kanji": "必然性",
+      "kana": "ひつぜんせい",
+      "romaji": "hitsuzensei",
+      "partOfSpeech": "noun",
+      "meaning": "necessity, inevitability",
+      "jlptLevel": "N2",
+      "exampleSentence": "改革の必然性を感じる。",
+      "exampleTranslation": "I feel the inevitability of reform.",
+      "relatedWords": [
+        "必要性",
+        "当然"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v087",
+      "kanji": "重要性",
+      "kana": "じゅうようせい",
+      "romaji": "juuyousei",
+      "partOfSpeech": "noun",
+      "meaning": "importance",
+      "jlptLevel": "N2",
+      "exampleSentence": "教育の重要性を認識する。",
+      "exampleTranslation": "I recognize the importance of education.",
+      "relatedWords": [
+        "大切さ",
+        "重大性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v088",
+      "kanji": "必要性",
+      "kana": "ひつようせい",
+      "romaji": "hitsuyousei",
+      "partOfSpeech": "noun",
+      "meaning": "necessity",
+      "jlptLevel": "N2",
+      "exampleSentence": "改善の必要性がある。",
+      "exampleTranslation": "There's a necessity for improvement.",
+      "relatedWords": [
+        "必要",
+        "重要性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v089",
+      "kanji": "優位性",
+      "kana": "ゆういせい",
+      "romaji": "yuuisei",
+      "partOfSpeech": "noun",
+      "meaning": "superiority, advantage",
+      "jlptLevel": "N2",
+      "exampleSentence": "技術的優位性を保つ。",
+      "exampleTranslation": "I maintain technological superiority.",
+      "relatedWords": [
+        "優勢",
+        "有利"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v090",
+      "kanji": "独自性",
+      "kana": "どくじせい",
+      "romaji": "dokujisei",
+      "partOfSpeech": "noun",
+      "meaning": "uniqueness, originality",
+      "jlptLevel": "N2",
+      "exampleSentence": "独自性のある作品だ。",
+      "exampleTranslation": "It's a work with uniqueness.",
+      "relatedWords": [
+        "オリジナリティ",
+        "個性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v091",
+      "kanji": "個性",
+      "kana": "こせい",
+      "romaji": "kosei",
+      "partOfSpeech": "noun",
+      "meaning": "individuality, personality",
+      "jlptLevel": "N2",
+      "exampleSentence": "個性を尊重する。",
+      "exampleTranslation": "I respect individuality.",
+      "relatedWords": [
+        "パーソナリティ",
+        "独自性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v092",
+      "kanji": "普遍性",
+      "kana": "ふへんせい",
+      "romaji": "fuhensei",
+      "partOfSpeech": "noun",
+      "meaning": "universality",
+      "jlptLevel": "N2",
+      "exampleSentence": "普遍性のある価値観だ。",
+      "exampleTranslation": "It's a value with universality.",
+      "relatedWords": [
+        "一般性",
+        "共通性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v093",
+      "kanji": "多様性",
+      "kana": "たようせい",
+      "romaji": "tayousei",
+      "partOfSpeech": "noun",
+      "meaning": "diversity",
+      "jlptLevel": "N2",
+      "exampleSentence": "文化の多様性を認める。",
+      "exampleTranslation": "I acknowledge cultural diversity.",
+      "relatedWords": [
+        "多彩",
+        "バラエティ"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v094",
+      "kanji": "一貫性",
+      "kana": "いっかんせい",
+      "romaji": "ikkansei",
+      "partOfSpeech": "noun",
+      "meaning": "consistency",
+      "jlptLevel": "N2",
+      "exampleSentence": "発言に一貫性がない。",
+      "exampleTranslation": "There's no consistency in the statement.",
+      "relatedWords": [
+        "統一性",
+        "整合性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v095",
+      "kanji": "柔軟性",
+      "kana": "じゅうなんせい",
+      "romaji": "juunansei",
+      "partOfSpeech": "noun",
+      "meaning": "flexibility",
+      "jlptLevel": "N2",
+      "exampleSentence": "思考の柔軟性が必要だ。",
+      "exampleTranslation": "Flexibility of thinking is necessary.",
+      "relatedWords": [
+        "柔らかさ",
+        "適応力"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v096",
+      "kanji": "安定性",
+      "kana": "あんていせい",
+      "romaji": "anteisei",
+      "partOfSpeech": "noun",
+      "meaning": "stability",
+      "jlptLevel": "N2",
+      "exampleSentence": "経済の安定性を保つ。",
+      "exampleTranslation": "I maintain economic stability.",
+      "relatedWords": [
+        "安定",
+        "確実性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v097",
+      "kanji": "信頼性",
+      "kana": "しんらいせい",
+      "romaji": "shinraisei",
+      "partOfSpeech": "noun",
+      "meaning": "reliability, credibility",
+      "jlptLevel": "N2",
+      "exampleSentence": "情報の信頼性を確認する。",
+      "exampleTranslation": "I confirm the reliability of information.",
+      "relatedWords": [
+        "信用",
+        "確実性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v098",
+      "kanji": "透明性",
+      "kana": "とうめいせい",
+      "romaji": "toumeisei",
+      "partOfSpeech": "noun",
+      "meaning": "transparency",
+      "jlptLevel": "N2",
+      "exampleSentence": "組織の透明性が高い。",
+      "exampleTranslation": "The organization has high transparency.",
+      "relatedWords": [
+        "明瞭さ",
+        "クリアさ"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v099",
+      "kanji": "効率性",
+      "kana": "こうりつせい",
+      "romaji": "kouritsusei",
+      "partOfSpeech": "noun",
+      "meaning": "efficiency",
+      "jlptLevel": "N2",
+      "exampleSentence": "作業の効率性を高める。",
+      "exampleTranslation": "I increase work efficiency.",
+      "relatedWords": [
+        "能率",
+        "効率"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v100",
+      "kanji": "有効性",
+      "kana": "ゆうこうせい",
+      "romaji": "yuukousei",
+      "partOfSpeech": "noun",
+      "meaning": "effectiveness, validity",
+      "jlptLevel": "N2",
+      "exampleSentence": "対策の有効性を検証する。",
+      "exampleTranslation": "I verify the effectiveness of measures.",
+      "relatedWords": [
+        "効果",
+        "有用性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v101",
+      "kanji": "正当性",
+      "kana": "せいとうせい",
+      "romaji": "seitousei",
+      "partOfSpeech": "noun",
+      "meaning": "legitimacy, validity",
+      "jlptLevel": "N2",
+      "exampleSentence": "主張の正当性を証明する。",
+      "exampleTranslation": "I prove the legitimacy of the claim.",
+      "relatedWords": [
+        "妥当性",
+        "正しさ"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v102",
+      "kanji": "合理性",
+      "kana": "ごうりせい",
+      "romaji": "gourisei",
+      "partOfSpeech": "noun",
+      "meaning": "rationality",
+      "jlptLevel": "N2",
+      "exampleSentence": "判断の合理性を欠いている。",
+      "exampleTranslation": "The judgment lacks rationality.",
+      "relatedWords": [
+        "理性",
+        "論理性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v103",
+      "kanji": "客観性",
+      "kana": "きゃっかんせい",
+      "romaji": "kyakkansei",
+      "partOfSpeech": "noun",
+      "meaning": "objectivity",
+      "jlptLevel": "N2",
+      "exampleSentence": "客観性を保つ。",
+      "exampleTranslation": "I maintain objectivity.",
+      "relatedWords": [
+        "冷静さ",
+        "中立性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v104",
+      "kanji": "主観",
+      "kana": "しゅかん",
+      "romaji": "shukan",
+      "partOfSpeech": "noun",
+      "meaning": "subjectivity",
+      "jlptLevel": "N2",
+      "exampleSentence": "主観的な意見だ。",
+      "exampleTranslation": "It's a subjective opinion.",
+      "relatedWords": [
+        "個人的",
+        "主観性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v105",
+      "kanji": "抽象",
+      "kana": "ちゅうしょう",
+      "romaji": "chuushou",
+      "partOfSpeech": "noun",
+      "meaning": "abstraction",
+      "jlptLevel": "N2",
+      "exampleSentence": "抽象的な表現を使う。",
+      "exampleTranslation": "I use abstract expressions.",
+      "relatedWords": [
+        "抽象的",
+        "概念"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v106",
+      "kanji": "具体",
+      "kana": "ぐたい",
+      "romaji": "gutai",
+      "partOfSpeech": "noun",
+      "meaning": "concrete, tangible",
+      "jlptLevel": "N2",
+      "exampleSentence": "具体的な例を挙げる。",
+      "exampleTranslation": "I give concrete examples.",
+      "relatedWords": [
+        "具体的",
+        "実際"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v107",
+      "kanji": "根拠",
+      "kana": "こんきょ",
+      "romaji": "konkyo",
+      "partOfSpeech": "noun",
+      "meaning": "basis, grounds",
+      "jlptLevel": "N2",
+      "exampleSentence": "主張の根拠を示す。",
+      "exampleTranslation": "I show the grounds for the claim.",
+      "relatedWords": [
+        "根拠",
+        "理由"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v108",
+      "kanji": "前提",
+      "kana": "ぜんてい",
+      "romaji": "zentei",
+      "partOfSpeech": "noun",
+      "meaning": "premise, assumption",
+      "jlptLevel": "N2",
+      "exampleSentence": "議論の前提を確認する。",
+      "exampleTranslation": "I confirm the premise of the discussion.",
+      "relatedWords": [
+        "仮定",
+        "基礎"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v109",
+      "kanji": "仮定",
+      "kana": "かてい",
+      "romaji": "katei",
+      "partOfSpeech": "noun",
+      "meaning": "assumption, hypothesis",
+      "jlptLevel": "N2",
+      "exampleSentence": "仮定の話をする。",
+      "exampleTranslation": "I make a hypothetical statement.",
+      "relatedWords": [
+        "前提",
+        "想定"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v110",
+      "kanji": "想定",
+      "kana": "そうてい",
+      "romaji": "soutei",
+      "partOfSpeech": "noun",
+      "meaning": "assumption, supposition",
+      "jlptLevel": "N2",
+      "exampleSentence": "最悪の事態を想定する。",
+      "exampleTranslation": "I assume the worst-case scenario.",
+      "relatedWords": [
+        "予想",
+        "仮定"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v111",
+      "kanji": "関係",
+      "kana": "かんけい",
+      "romaji": "kankei",
+      "partOfSpeech": "noun",
+      "meaning": "relationship, connection",
+      "jlptLevel": "N2",
+      "exampleSentence": "人間関係を築く。",
+      "exampleTranslation": "I build human relationships.",
+      "relatedWords": [
+        "繋がり",
+        "関連"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v112",
+      "kanji": "関連",
+      "kana": "かんれん",
+      "romaji": "kanren",
+      "partOfSpeech": "noun",
+      "meaning": "relation, connection",
+      "jlptLevel": "N2",
+      "exampleSentence": "テーマに関連する問題だ。",
+      "exampleTranslation": "It's a problem related to the theme.",
+      "relatedWords": [
+        "関係",
+        "繋がり"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v113",
+      "kanji": "繋がり",
+      "kana": "つながり",
+      "romaji": "tsunagari",
+      "partOfSpeech": "noun",
+      "meaning": "connection, link",
+      "jlptLevel": "N2",
+      "exampleSentence": "深い繋がりがある。",
+      "exampleTranslation": "There's a deep connection.",
+      "relatedWords": [
+        "絆",
+        "関係"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v114",
+      "kanji": "絆",
+      "kana": "きずな",
+      "romaji": "kizuna",
+      "partOfSpeech": "noun",
+      "meaning": "bond, tie",
+      "jlptLevel": "N2",
+      "exampleSentence": "家族の絆を大切にする。",
+      "exampleTranslation": "I value family bonds.",
+      "relatedWords": [
+        "繋がり",
+        "結びつき"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v115",
+      "kanji": "結びつき",
+      "kana": "むすびつき",
+      "romaji": "musubitsuki",
+      "partOfSpeech": "noun",
+      "meaning": "connection, tie",
+      "jlptLevel": "N2",
+      "exampleSentence": "強い結びつきがある。",
+      "exampleTranslation": "There's a strong tie.",
+      "relatedWords": [
+        "繋がり",
+        "関係"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v116",
+      "kanji": "影響",
+      "kana": "えいきょう",
+      "romaji": "eikyou",
+      "partOfSpeech": "noun",
+      "meaning": "influence, effect",
+      "jlptLevel": "N2",
+      "exampleSentence": "環境が性格に影響する。",
+      "exampleTranslation": "Environment influences personality.",
+      "relatedWords": [
+        "作用",
+        "効果"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v117",
+      "kanji": "作用",
+      "kana": "さよう",
+      "romaji": "sayou",
+      "partOfSpeech": "noun",
+      "meaning": "action, effect",
+      "jlptLevel": "N2",
+      "exampleSentence": "相互作用がある。",
+      "exampleTranslation": "There's mutual action.",
+      "relatedWords": [
+        "働き",
+        "影響"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v118",
+      "kanji": "相互",
+      "kana": "そうご",
+      "romaji": "sougo",
+      "partOfSpeech": "noun",
+      "meaning": "mutual, reciprocal",
+      "jlptLevel": "N2",
+      "exampleSentence": "相互理解が大切だ。",
+      "exampleTranslation": "Mutual understanding is important.",
+      "relatedWords": [
+        "互い",
+        "お互い"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v119",
+      "kanji": "対立",
+      "kana": "たいりつ",
+      "romaji": "tairitsu",
+      "partOfSpeech": "noun",
+      "meaning": "opposition, conflict",
+      "jlptLevel": "N2",
+      "exampleSentence": "意見が対立している。",
+      "exampleTranslation": "Opinions are in conflict.",
+      "relatedWords": [
+        "対抗",
+        "矛盾"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v120",
+      "kanji": "対照",
+      "kana": "たいしょう",
+      "romaji": "taishou",
+      "partOfSpeech": "noun",
+      "meaning": "contrast",
+      "jlptLevel": "N2",
+      "exampleSentence": "対照的な性格だ。",
+      "exampleTranslation": "They're contrasting personalities.",
+      "relatedWords": [
+        "対比",
+        "コントラスト"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v121",
+      "kanji": "類似",
+      "kana": "るいじ",
+      "romaji": "ruiji",
+      "partOfSpeech": "noun",
+      "meaning": "similarity, resemblance",
+      "jlptLevel": "N2",
+      "exampleSentence": "両者は類似している。",
+      "exampleTranslation": "The two are similar.",
+      "relatedWords": [
+        "似ている",
+        "類似性"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v122",
+      "kanji": "相違",
+      "kana": "そうい",
+      "romaji": "soui",
+      "partOfSpeech": "noun",
+      "meaning": "difference",
+      "jlptLevel": "N2",
+      "exampleSentence": "見解の相違がある。",
+      "exampleTranslation": "There's a difference in views.",
+      "relatedWords": [
+        "違い",
+        "差異"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v123",
+      "kanji": "差異",
+      "kana": "さい",
+      "romaji": "sai",
+      "partOfSpeech": "noun",
+      "meaning": "difference, distinction",
+      "jlptLevel": "N2",
+      "exampleSentence": "個人差異がある。",
+      "exampleTranslation": "There are individual differences.",
+      "relatedWords": [
+        "相違",
+        "違い"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v124",
+      "kanji": "比較",
+      "kana": "ひかく",
+      "romaji": "hikaku",
+      "partOfSpeech": "noun",
+      "meaning": "comparison",
+      "jlptLevel": "N2",
+      "exampleSentence": "データを比較する。",
+      "exampleTranslation": "I compare data.",
+      "relatedWords": [
+        "対比",
+        "照らし合わせ"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v125",
+      "kanji": "対比",
+      "kana": "たいひ",
+      "romaji": "taihi",
+      "partOfSpeech": "noun",
+      "meaning": "contrast, comparison",
+      "jlptLevel": "N2",
+      "exampleSentence": "過去と現在を対比する。",
+      "exampleTranslation": "I contrast past and present.",
+      "relatedWords": [
+        "比較",
+        "対照"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v126",
+      "kanji": "均衡",
+      "kana": "きんこう",
+      "romaji": "kinkou",
+      "partOfSpeech": "noun",
+      "meaning": "balance, equilibrium",
+      "jlptLevel": "N2",
+      "exampleSentence": "力の均衡を保つ。",
+      "exampleTranslation": "I maintain balance of power.",
+      "relatedWords": [
+        "バランス",
+        "釣り合い"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v127",
+      "kanji": "調和",
+      "kana": "ちょうわ",
+      "romaji": "chouwa",
+      "partOfSpeech": "noun",
+      "meaning": "harmony",
+      "jlptLevel": "N2",
+      "exampleSentence": "自然との調和を図る。",
+      "exampleTranslation": "I seek harmony with nature.",
+      "relatedWords": [
+        "ハーモニー",
+        "バランス"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v128",
+      "kanji": "統一",
+      "kana": "とういつ",
+      "romaji": "touitsu",
+      "partOfSpeech": "noun",
+      "meaning": "unification, unity",
+      "jlptLevel": "N2",
+      "exampleSentence": "意見の統一を図る。",
+      "exampleTranslation": "I seek unity of opinion.",
+      "relatedWords": [
+        "一致",
+        "統合"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v129",
+      "kanji": "分離",
+      "kana": "ぶんり",
+      "romaji": "bunri",
+      "partOfSpeech": "noun",
+      "meaning": "separation",
+      "jlptLevel": "N2",
+      "exampleSentence": "職務を分離する。",
+      "exampleTranslation": "I separate duties.",
+      "relatedWords": [
+        "分割",
+        "隔離"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v130",
+      "kanji": "分割",
+      "kana": "ぶんかつ",
+      "romaji": "bunkatsu",
+      "partOfSpeech": "noun",
+      "meaning": "division, split",
+      "jlptLevel": "N2",
+      "exampleSentence": "土地を分割する。",
+      "exampleTranslation": "I divide the land.",
+      "relatedWords": [
+        "分離",
+        "分ける"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v131",
+      "kanji": "統合",
+      "kana": "とうごう",
+      "romaji": "tougou",
+      "partOfSpeech": "noun",
+      "meaning": "integration, unification",
+      "jlptLevel": "N2",
+      "exampleSentence": "システムを統合する。",
+      "exampleTranslation": "I integrate systems.",
+      "relatedWords": [
+        "一体化",
+        "統一"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v132",
+      "kanji": "融合",
+      "kana": "ゆうごう",
+      "romaji": "yuugou",
+      "partOfSpeech": "noun",
+      "meaning": "fusion, integration",
+      "jlptLevel": "N2",
+      "exampleSentence": "文化の融合が進む。",
+      "exampleTranslation": "Cultural fusion is progressing.",
+      "relatedWords": [
+        "統合",
+        "一体化"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v133",
+      "kanji": "結合",
+      "kana": "けつごう",
+      "romaji": "ketsugou",
+      "partOfSpeech": "noun",
+      "meaning": "combination, union",
+      "jlptLevel": "N2",
+      "exampleSentence": "要素が結合している。",
+      "exampleTranslation": "Elements are combined.",
+      "relatedWords": [
+        "合体",
+        "結びつき"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v134",
+      "kanji": "分散",
+      "kana": "ぶんさん",
+      "romaji": "bunsan",
+      "partOfSpeech": "noun",
+      "meaning": "dispersion, decentralization",
+      "jlptLevel": "N2",
+      "exampleSentence": "リスクを分散させる。",
+      "exampleTranslation": "I disperse risk.",
+      "relatedWords": [
+        "散らばり",
+        "拡散"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v135",
+      "kanji": "集中",
+      "kana": "しゅうちゅう",
+      "romaji": "shuuchuu",
+      "partOfSpeech": "noun",
+      "meaning": "concentration, focus",
+      "jlptLevel": "N2",
+      "exampleSentence": "一点に集中する。",
+      "exampleTranslation": "I focus on one point.",
+      "relatedWords": [
+        "集まり",
+        "注目"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v136",
+      "kanji": "蓄積",
+      "kana": "ちくせき",
+      "romaji": "chikuseki",
+      "partOfSpeech": "noun",
+      "meaning": "accumulation",
+      "jlptLevel": "N2",
+      "exampleSentence": "経験の蓄積がある。",
+      "exampleTranslation": "There's an accumulation of experience.",
+      "relatedWords": [
+        "積み重ね",
+        "貯蓄"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v137",
+      "kanji": "累積",
+      "kana": "るいせき",
+      "romaji": "ruiseki",
+      "partOfSpeech": "noun",
+      "meaning": "accumulation",
+      "jlptLevel": "N2",
+      "exampleSentence": "赤字が累積する。",
+      "exampleTranslation": "Deficits accumulate.",
+      "relatedWords": [
+        "積み重ね",
+        "蓄積"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v138",
+      "kanji": "連続",
+      "kana": "れんぞく",
+      "romaji": "renzoku",
+      "partOfSpeech": "noun",
+      "meaning": "continuation, series",
+      "jlptLevel": "N2",
+      "exampleSentence": "連続して起こる。",
+      "exampleTranslation": "It occurs continuously.",
+      "relatedWords": [
+        "継続",
+        "連なり"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v139",
+      "kanji": "継続",
+      "kana": "けいぞく",
+      "romaji": "keizoku",
+      "partOfSpeech": "noun",
+      "meaning": "continuation",
+      "jlptLevel": "N2",
+      "exampleSentence": "努力を継続する。",
+      "exampleTranslation": "I continue my efforts.",
+      "relatedWords": [
+        "持続",
+        "連続"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v140",
+      "kanji": "持続",
+      "kana": "じぞく",
+      "romaji": "jizoku",
+      "partOfSpeech": "noun",
+      "meaning": "continuation, duration",
+      "jlptLevel": "N2",
+      "exampleSentence": "持続可能な社会を目指す。",
+      "exampleTranslation": "I aim for a sustainable society.",
+      "relatedWords": [
+        "継続",
+        "維持"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v141",
+      "kanji": "維持",
+      "kana": "いじ",
+      "romaji": "iji",
+      "partOfSpeech": "noun",
+      "meaning": "maintenance",
+      "jlptLevel": "N2",
+      "exampleSentence": "健康を維持する。",
+      "exampleTranslation": "I maintain my health.",
+      "relatedWords": [
+        "保持",
+        "保つ"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v142",
+      "kanji": "保持",
+      "kana": "ほじ",
+      "romaji": "hoji",
+      "partOfSpeech": "noun",
+      "meaning": "retention, maintenance",
+      "jlptLevel": "N2",
+      "exampleSentence": "資格を保持している。",
+      "exampleTranslation": "I retain qualifications.",
+      "relatedWords": [
+        "維持",
+        "保つ"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v143",
+      "kanji": "保存",
+      "kana": "ほぞん",
+      "romaji": "hozon",
+      "partOfSpeech": "noun",
+      "meaning": "preservation, conservation",
+      "jlptLevel": "N2",
+      "exampleSentence": "データを保存する。",
+      "exampleTranslation": "I save data.",
+      "relatedWords": [
+        "保管",
+        "保つ"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v144",
+      "kanji": "喪失",
+      "kana": "そうしつ",
+      "romaji": "soushitsu",
+      "partOfSpeech": "noun",
+      "meaning": "loss",
+      "jlptLevel": "N2",
+      "exampleSentence": "記憶の喪失がある。",
+      "exampleTranslation": "There's a loss of memory.",
+      "relatedWords": [
+        "失う",
+        "損失"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v145",
+      "kanji": "欠如",
+      "kana": "けつじょ",
+      "romaji": "ketsujo",
+      "partOfSpeech": "noun",
+      "meaning": "lack, deficiency",
+      "jlptLevel": "N2",
+      "exampleSentence": "経験の欠如がある。",
+      "exampleTranslation": "There's a lack of experience.",
+      "relatedWords": [
+        "不足",
+        "欠乏"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v146",
+      "kanji": "変化",
+      "kana": "へんか",
+      "romaji": "henka",
+      "partOfSpeech": "noun",
+      "meaning": "change, transformation",
+      "jlptLevel": "N2",
+      "exampleSentence": "大きな変化があった。",
+      "exampleTranslation": "There was a big change.",
+      "relatedWords": [
+        "変動",
+        "転換"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v147",
+      "kanji": "変動",
+      "kana": "へんどう",
+      "romaji": "hendou",
+      "partOfSpeech": "noun",
+      "meaning": "change, fluctuation",
+      "jlptLevel": "N2",
+      "exampleSentence": "価格が変動する。",
+      "exampleTranslation": "Prices fluctuate.",
+      "relatedWords": [
+        "変化",
+        "変わり"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v148",
+      "kanji": "転換",
+      "kana": "てんかん",
+      "romaji": "tenkan",
+      "partOfSpeech": "noun",
+      "meaning": "conversion, change",
+      "jlptLevel": "N2",
+      "exampleSentence": "方針の転換を図る。",
+      "exampleTranslation": "I aim to change policy.",
+      "relatedWords": [
+        "転じる",
+        "変える"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v149",
+      "kanji": "転じる",
+      "kana": "てんじる",
+      "romaji": "tenjiru",
+      "partOfSpeech": "noun",
+      "meaning": "to change, to turn",
+      "jlptLevel": "N2",
+      "exampleSentence": "守勢から攻勢に転じる。",
+      "exampleTranslation": "I change from defense to offense.",
+      "relatedWords": [
+        "転換",
+        "変わる"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v150",
+      "kanji": "推移",
+      "kana": "すいい",
+      "romaji": "suii",
+      "partOfSpeech": "noun",
+      "meaning": "transition, change",
+      "jlptLevel": "N2",
+      "exampleSentence": "状況の推移を見守る。",
+      "exampleTranslation": "I watch the transition of the situation.",
+      "relatedWords": [
+        "変化",
+        "移り変わり"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v151",
+      "kanji": "移行",
+      "kana": "いこう",
+      "romaji": "ikou",
+      "partOfSpeech": "noun",
+      "meaning": "transition, shift",
+      "jlptLevel": "N2",
+      "exampleSentence": "新制度に移行する。",
+      "exampleTranslation": "I transition to a new system.",
+      "relatedWords": [
+        "移る",
+        "転換"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v152",
+      "kanji": "移動",
+      "kana": "いどう",
+      "romaji": "idou",
+      "partOfSpeech": "noun",
+      "meaning": "movement, migration",
+      "jlptLevel": "N2",
+      "exampleSentence": "人口の移動がある。",
+      "exampleTranslation": "There's population migration.",
+      "relatedWords": [
+        "移る",
+        "移転"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v153",
+      "kanji": "移転",
+      "kana": "いてん",
+      "romaji": "iten",
+      "partOfSpeech": "noun",
+      "meaning": "transfer, relocation",
+      "jlptLevel": "N2",
+      "exampleSentence": "本社を移転する。",
+      "exampleTranslation": "I relocate the head office.",
+      "relatedWords": [
+        "引っ越し",
+        "移動"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v154",
+      "kanji": "進展",
+      "kana": "しんてん",
+      "romaji": "shinten",
+      "partOfSpeech": "noun",
+      "meaning": "progress, development",
+      "jlptLevel": "N2",
+      "exampleSentence": "交渉が進展する。",
+      "exampleTranslation": "Negotiations progress.",
+      "relatedWords": [
+        "発展",
+        "進歩"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v155",
+      "kanji": "進歩",
+      "kana": "しんぽ",
+      "romaji": "shinpo",
+      "partOfSpeech": "noun",
+      "meaning": "progress, advance",
+      "jlptLevel": "N2",
+      "exampleSentence": "科学技術が進歩する。",
+      "exampleTranslation": "Science and technology advance.",
+      "relatedWords": [
+        "発展",
+        "前進"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v156",
+      "kanji": "発展",
+      "kana": "はってん",
+      "romaji": "hatten",
+      "partOfSpeech": "noun",
+      "meaning": "development, growth",
+      "jlptLevel": "N2",
+      "exampleSentence": "経済が発展する。",
+      "exampleTranslation": "The economy develops.",
+      "relatedWords": [
+        "進歩",
+        "成長"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v157",
+      "kanji": "成長",
+      "kana": "せいちょう",
+      "romaji": "seichou",
+      "partOfSpeech": "noun",
+      "meaning": "growth",
+      "jlptLevel": "N2",
+      "exampleSentence": "子どもが成長する。",
+      "exampleTranslation": "Children grow.",
+      "relatedWords": [
+        "発育",
+        "発展"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v158",
+      "kanji": "発達",
+      "kana": "はったつ",
+      "romaji": "hattatsu",
+      "partOfSpeech": "noun",
+      "meaning": "development",
+      "jlptLevel": "N2",
+      "exampleSentence": "技術が発達する。",
+      "exampleTranslation": "Technology develops.",
+      "relatedWords": [
+        "発展",
+        "進歩"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v159",
+      "kanji": "成熟",
+      "kana": "せいじゅく",
+      "romaji": "seijuku",
+      "partOfSpeech": "noun",
+      "meaning": "maturity, ripeness",
+      "jlptLevel": "N2",
+      "exampleSentence": "考えが成熟する。",
+      "exampleTranslation": "Thoughts mature.",
+      "relatedWords": [
+        "熟成",
+        "完成"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v160",
+      "kanji": "衰退",
+      "kana": "すいたい",
+      "romaji": "suitai",
+      "partOfSpeech": "noun",
+      "meaning": "decline, decay",
+      "jlptLevel": "N2",
+      "exampleSentence": "産業が衰退する。",
+      "exampleTranslation": "Industries decline.",
+      "relatedWords": [
+        "衰え",
+        "低下"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v161",
+      "kanji": "低下",
+      "kana": "ていか",
+      "romaji": "teika",
+      "partOfSpeech": "noun",
+      "meaning": "decline, fall",
+      "jlptLevel": "N2",
+      "exampleSentence": "品質が低下する。",
+      "exampleTranslation": "Quality declines.",
+      "relatedWords": [
+        "下落",
+        "減少"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v162",
+      "kanji": "減少",
+      "kana": "げんしょう",
+      "romaji": "genshou",
+      "partOfSpeech": "noun",
+      "meaning": "decrease, reduction",
+      "jlptLevel": "N2",
+      "exampleSentence": "人口が減少する。",
+      "exampleTranslation": "Population decreases.",
+      "relatedWords": [
+        "低下",
+        "減る"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v163",
+      "kanji": "増加",
+      "kana": "ぞうか",
+      "romaji": "zouka",
+      "partOfSpeech": "noun",
+      "meaning": "increase, rise",
+      "jlptLevel": "N2",
+      "exampleSentence": "需要が増加する。",
+      "exampleTranslation": "Demand increases.",
+      "relatedWords": [
+        "増える",
+        "増大"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v164",
+      "kanji": "増大",
+      "kana": "ぞうだい",
+      "romaji": "zoudai",
+      "partOfSpeech": "noun",
+      "meaning": "increase, expansion",
+      "jlptLevel": "N2",
+      "exampleSentence": "影響力が増大する。",
+      "exampleTranslation": "Influence expands.",
+      "relatedWords": [
+        "増加",
+        "拡大"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v165",
+      "kanji": "拡大",
+      "kana": "かくだい",
+      "romaji": "kakudai",
+      "partOfSpeech": "noun",
+      "meaning": "expansion, enlargement",
+      "jlptLevel": "N2",
+      "exampleSentence": "事業を拡大する。",
+      "exampleTranslation": "I expand the business.",
+      "relatedWords": [
+        "広がり",
+        "増大"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v166",
+      "kanji": "縮小",
+      "kana": "しゅくしょう",
+      "romaji": "shukushou",
+      "partOfSpeech": "noun",
+      "meaning": "reduction, shrinkage",
+      "jlptLevel": "N2",
+      "exampleSentence": "規模を縮小する。",
+      "exampleTranslation": "I reduce the scale.",
+      "relatedWords": [
+        "減少",
+        "縮む"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v167",
+      "kanji": "向上",
+      "kana": "こうじょう",
+      "romaji": "koujou",
+      "partOfSpeech": "noun",
+      "meaning": "improvement, rise",
+      "jlptLevel": "N2",
+      "exampleSentence": "技術が向上する。",
+      "exampleTranslation": "Skills improve.",
+      "relatedWords": [
+        "上達",
+        "進歩"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v168",
+      "kanji": "上昇",
+      "kana": "じょうしょう",
+      "romaji": "joushou",
+      "partOfSpeech": "noun",
+      "meaning": "rise, ascent",
+      "jlptLevel": "N2",
+      "exampleSentence": "気温が上昇する。",
+      "exampleTranslation": "Temperature rises.",
+      "relatedWords": [
+        "上がる",
+        "向上"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v169",
+      "kanji": "下降",
+      "kana": "かこう",
+      "romaji": "kakou",
+      "partOfSpeech": "noun",
+      "meaning": "descent, fall",
+      "jlptLevel": "N2",
+      "exampleSentence": "景気が下降する。",
+      "exampleTranslation": "The economy descends.",
+      "relatedWords": [
+        "下がる",
+        "低下"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v170",
+      "kanji": "回復",
+      "kana": "かいふく",
+      "romaji": "kaifuku",
+      "partOfSpeech": "noun",
+      "meaning": "recovery, restoration",
+      "jlptLevel": "N2",
+      "exampleSentence": "経済が回復する。",
+      "exampleTranslation": "The economy recovers.",
+      "relatedWords": [
+        "復活",
+        "復興"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v171",
+      "kanji": "復活",
+      "kana": "ふっかつ",
+      "romaji": "fukkatsu",
+      "partOfSpeech": "noun",
+      "meaning": "revival, resurrection",
+      "jlptLevel": "N2",
+      "exampleSentence": "伝統が復活する。",
+      "exampleTranslation": "Tradition revives.",
+      "relatedWords": [
+        "再生",
+        "回復"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v172",
+      "kanji": "復興",
+      "kana": "ふっこう",
+      "romaji": "fukkou",
+      "partOfSpeech": "noun",
+      "meaning": "reconstruction, rehabilitation",
+      "jlptLevel": "N2",
+      "exampleSentence": "震災からの復興を目指す。",
+      "exampleTranslation": "I aim for reconstruction from the disaster.",
+      "relatedWords": [
+        "再建",
+        "回復"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v173",
+      "kanji": "再生",
+      "kana": "さいせい",
+      "romaji": "saisei",
+      "partOfSpeech": "noun",
+      "meaning": "regeneration, reproduction",
+      "jlptLevel": "N2",
+      "exampleSentence": "自然が再生する。",
+      "exampleTranslation": "Nature regenerates.",
+      "relatedWords": [
+        "復活",
+        "更新"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v174",
+      "kanji": "更新",
+      "kana": "こうしん",
+      "romaji": "koushin",
+      "partOfSpeech": "noun",
+      "meaning": "renewal, update",
+      "jlptLevel": "N2",
+      "exampleSentence": "情報を更新する。",
+      "exampleTranslation": "I update information.",
+      "relatedWords": [
+        "改新",
+        "新しくする"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v175",
+      "kanji": "革新",
+      "kana": "かくしん",
+      "romaji": "kakushin",
+      "partOfSpeech": "noun",
+      "meaning": "innovation, reform",
+      "jlptLevel": "N2",
+      "exampleSentence": "技術革新が進む。",
+      "exampleTranslation": "Technological innovation progresses.",
+      "relatedWords": [
+        "改革",
+        "イノベーション"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v176",
+      "kanji": "改革",
+      "kana": "かいかく",
+      "romaji": "kaikaku",
+      "partOfSpeech": "noun",
+      "meaning": "reform",
+      "jlptLevel": "N2",
+      "exampleSentence": "制度改革を行う。",
+      "exampleTranslation": "I carry out system reform.",
+      "relatedWords": [
+        "改善",
+        "革新"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v177",
+      "kanji": "改善",
+      "kana": "かいぜん",
+      "romaji": "kaizen",
+      "partOfSpeech": "noun",
+      "meaning": "improvement, reform",
+      "jlptLevel": "N2",
+      "exampleSentence": "問題を改善する。",
+      "exampleTranslation": "I improve the problem.",
+      "relatedWords": [
+        "改良",
+        "向上"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v178",
+      "kanji": "改良",
+      "kana": "かいりょう",
+      "romaji": "kairyou",
+      "partOfSpeech": "noun",
+      "meaning": "improvement, modification",
+      "jlptLevel": "N2",
+      "exampleSentence": "製品を改良する。",
+      "exampleTranslation": "I modify the product.",
+      "relatedWords": [
+        "改善",
+        "改造"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v179",
+      "kanji": "変革",
+      "kana": "へんかく",
+      "romaji": "henkaku",
+      "partOfSpeech": "noun",
+      "meaning": "reform, transformation",
+      "jlptLevel": "N2",
+      "exampleSentence": "社会の変革を求める。",
+      "exampleTranslation": "I seek social transformation.",
+      "relatedWords": [
+        "改革",
+        "変化"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v180",
+      "kanji": "進化",
+      "kana": "しんか",
+      "romaji": "shinka",
+      "partOfSpeech": "noun",
+      "meaning": "evolution",
+      "jlptLevel": "N2",
+      "exampleSentence": "生物が進化する。",
+      "exampleTranslation": "Organisms evolve.",
+      "relatedWords": [
+        "発展",
+        "進歩"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v181",
+      "kanji": "方法",
+      "kana": "ほうほう",
+      "romaji": "houhou",
+      "partOfSpeech": "noun",
+      "meaning": "method, way",
+      "jlptLevel": "N2",
+      "exampleSentence": "新しい方法を試す。",
+      "exampleTranslation": "I try a new method.",
+      "relatedWords": [
+        "やり方",
+        "手段"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v182",
+      "kanji": "手段",
+      "kana": "しゅだん",
+      "romaji": "shudan",
+      "partOfSpeech": "noun",
+      "meaning": "means, measure",
+      "jlptLevel": "N2",
+      "exampleSentence": "目的のために手段を選ぶ。",
+      "exampleTranslation": "I choose means for the purpose.",
+      "relatedWords": [
+        "方法",
+        "手"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v183",
+      "kanji": "方式",
+      "kana": "ほうしき",
+      "romaji": "houshiki",
+      "partOfSpeech": "noun",
+      "meaning": "method, system",
+      "jlptLevel": "N2",
+      "exampleSentence": "新方式を導入する。",
+      "exampleTranslation": "I introduce a new system.",
+      "relatedWords": [
+        "やり方",
+        "方法"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v184",
+      "kanji": "手法",
+      "kana": "しゅほう",
+      "romaji": "shuhou",
+      "partOfSpeech": "noun",
+      "meaning": "method, technique",
+      "jlptLevel": "N2",
+      "exampleSentence": "独自の手法を用いる。",
+      "exampleTranslation": "I use a unique technique.",
+      "relatedWords": [
+        "技法",
+        "方法"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v185",
+      "kanji": "技法",
+      "kana": "ぎほう",
+      "romaji": "gihou",
+      "partOfSpeech": "noun",
+      "meaning": "technique, method",
+      "jlptLevel": "N2",
+      "exampleSentence": "芸術的技法を学ぶ。",
+      "exampleTranslation": "I learn artistic techniques.",
+      "relatedWords": [
+        "手法",
+        "テクニック"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v186",
+      "kanji": "手続き",
+      "kana": "てつづき",
+      "romaji": "tetsuzuki",
+      "partOfSpeech": "noun",
+      "meaning": "procedure, process",
+      "jlptLevel": "N2",
+      "exampleSentence": "必要な手続きを行う。",
+      "exampleTranslation": "I carry out necessary procedures.",
+      "relatedWords": [
+        "プロセス",
+        "段取り"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v187",
+      "kanji": "過程",
+      "kana": "かてい",
+      "romaji": "katei",
+      "partOfSpeech": "noun",
+      "meaning": "process, course",
+      "jlptLevel": "N2",
+      "exampleSentence": "学習の過程を大切にする。",
+      "exampleTranslation": "I value the learning process.",
+      "relatedWords": [
+        "プロセス",
+        "経過"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v188",
+      "kanji": "経過",
+      "kana": "けいか",
+      "romaji": "keika",
+      "partOfSpeech": "noun",
+      "meaning": "progress, passage",
+      "jlptLevel": "N2",
+      "exampleSentence": "時間の経過とともに変化する。",
+      "exampleTranslation": "It changes with the passage of time.",
+      "relatedWords": [
+        "推移",
+        "過程"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v189",
+      "kanji": "段階",
+      "kana": "だんかい",
+      "romaji": "dankai",
+      "partOfSpeech": "noun",
+      "meaning": "stage, phase",
+      "jlptLevel": "N2",
+      "exampleSentence": "次の段階に進む。",
+      "exampleTranslation": "I move to the next stage.",
+      "relatedWords": [
+        "ステップ",
+        "レベル"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v190",
+      "kanji": "局面",
+      "kana": "きょくめん",
+      "romaji": "kyokumen",
+      "partOfSpeech": "noun",
+      "meaning": "phase, situation",
+      "jlptLevel": "N2",
+      "exampleSentence": "新たな局面を迎える。",
+      "exampleTranslation": "I face a new phase.",
+      "relatedWords": [
+        "段階",
+        "場面"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v191",
+      "kanji": "観点",
+      "kana": "かんてん",
+      "romaji": "kanten",
+      "partOfSpeech": "noun",
+      "meaning": "point of view, standpoint",
+      "jlptLevel": "N2",
+      "exampleSentence": "別の観点から考える。",
+      "exampleTranslation": "I think from a different viewpoint.",
+      "relatedWords": [
+        "視点",
+        "立場"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v192",
+      "kanji": "立場",
+      "kana": "たちば",
+      "romaji": "tachiba",
+      "partOfSpeech": "noun",
+      "meaning": "standpoint, position",
+      "jlptLevel": "N2",
+      "exampleSentence": "相手の立場を考える。",
+      "exampleTranslation": "I consider the other party's position.",
+      "relatedWords": [
+        "ポジション",
+        "視点"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v193",
+      "kanji": "姿勢",
+      "kana": "しせい",
+      "romaji": "shisei",
+      "partOfSpeech": "noun",
+      "meaning": "attitude, posture",
+      "jlptLevel": "N2",
+      "exampleSentence": "前向きな姿勢で臨む。",
+      "exampleTranslation": "I approach with a positive attitude.",
+      "relatedWords": [
+        "態度",
+        "スタンス"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v194",
+      "kanji": "態度",
+      "kana": "たいど",
+      "romaji": "taido",
+      "partOfSpeech": "noun",
+      "meaning": "attitude, manner",
+      "jlptLevel": "N2",
+      "exampleSentence": "真剣な態度で取り組む。",
+      "exampleTranslation": "I tackle it with a serious attitude.",
+      "relatedWords": [
+        "姿勢",
+        "対応"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v195",
+      "kanji": "対応",
+      "kana": "たいおう",
+      "romaji": "taiou",
+      "partOfSpeech": "noun",
+      "meaning": "response, handling",
+      "jlptLevel": "N2",
+      "exampleSentence": "柔軟な対応が必要だ。",
+      "exampleTranslation": "Flexible response is necessary.",
+      "relatedWords": [
+        "対処",
+        "応対"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v196",
+      "kanji": "対処",
+      "kana": "たいしょ",
+      "romaji": "taisho",
+      "partOfSpeech": "noun",
+      "meaning": "dealing with, coping",
+      "jlptLevel": "N2",
+      "exampleSentence": "問題に対処する。",
+      "exampleTranslation": "I deal with the problem.",
+      "relatedWords": [
+        "対応",
+        "処理"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v197",
+      "kanji": "処理",
+      "kana": "しょり",
+      "romaji": "shori",
+      "partOfSpeech": "noun",
+      "meaning": "processing, handling",
+      "jlptLevel": "N2",
+      "exampleSentence": "データを処理する。",
+      "exampleTranslation": "I process data.",
+      "relatedWords": [
+        "処置",
+        "対処"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v198",
+      "kanji": "措置",
+      "kana": "そち",
+      "romaji": "sochi",
+      "partOfSpeech": "noun",
+      "meaning": "measure, step",
+      "jlptLevel": "N2",
+      "exampleSentence": "適切な措置を取る。",
+      "exampleTranslation": "I take appropriate measures.",
+      "relatedWords": [
+        "対策",
+        "手段"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v199",
+      "kanji": "対策",
+      "kana": "たいさく",
+      "romaji": "taisaku",
+      "partOfSpeech": "noun",
+      "meaning": "countermeasure",
+      "jlptLevel": "N2",
+      "exampleSentence": "効果的な対策を講じる。",
+      "exampleTranslation": "I implement effective countermeasures.",
+      "relatedWords": [
+        "措置",
+        "方策"
+      ],
+      "notes": "Abstract concepts vocabulary"
+    },
+    {
+      "id": "v200",
+      "kanji": "方策",
+      "kana": "ほうさく",
+      "romaji": "housaku",
+      "partOfSpeech": "noun",
+      "meaning": "plan, policy",
+      "jlptLevel": "N2",
+      "exampleSentence": "具体的な方策を立てる。",
+      "exampleTranslation": "I formulate a concrete plan.",
+      "relatedWords": [
+        "対策",
+        "戦略"
+      ],
+      "notes": "Abstract concepts vocabulary"
     }
   ]
 }

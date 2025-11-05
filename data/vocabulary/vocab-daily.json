@@ -13,7 +13,10 @@
       "jlptLevel": "N2",
       "exampleSentence": "通勤時間を読書に使っている。",
       "exampleTranslation": "I use my commute time for reading.",
-      "relatedWords": ["通学", "出社"],
+      "relatedWords": [
+        "通学",
+        "出社"
+      ],
       "notes": "Appears in lifestyle passages"
     },
     {
@@ -26,7 +29,10 @@
       "jlptLevel": "N2",
       "exampleSentence": "光熱費を節約するためにLEDライトを使う。",
       "exampleTranslation": "I use LED lights to save on utility costs.",
-      "relatedWords": ["倹約", "無駄遣い"],
+      "relatedWords": [
+        "倹約",
+        "無駄遣い"
+      ],
       "notes": "Common with 家計 topics"
     },
     {
@@ -39,7 +45,10 @@
       "jlptLevel": "N3",
       "exampleSentence": "週末に掃除機をかける。",
       "exampleTranslation": "I vacuum on weekends.",
-      "relatedWords": ["掃除", "片付け"],
+      "relatedWords": [
+        "掃除",
+        "片付け"
+      ],
       "notes": "Lower level but appears in daily routine contexts"
     },
     {
@@ -52,7 +61,10 @@
       "jlptLevel": "N2",
       "exampleSentence": "朝一番に窓を開けて部屋を換気する。",
       "exampleTranslation": "I open the windows first thing in the morning to ventilate the room.",
-      "relatedWords": ["空気", "新鮮"],
+      "relatedWords": [
+        "空気",
+        "新鮮"
+      ],
       "notes": "Frequently appears in health-related advice"
     },
     {
@@ -65,8 +77,3132 @@
       "jlptLevel": "N2",
       "exampleSentence": "スープを保温できる容器を持ち歩く。",
       "exampleTranslation": "I carry a container that keeps my soup warm.",
-      "relatedWords": ["保冷", "温度"],
+      "relatedWords": [
+        "保冷",
+        "温度"
+      ],
       "notes": "Useful for household and lifestyle passages"
+    },
+    {
+      "id": "v006",
+      "kanji": "家事",
+      "kana": "かじ",
+      "romaji": "kaji",
+      "partOfSpeech": "noun",
+      "meaning": "housework, household chores",
+      "jlptLevel": "N2",
+      "exampleSentence": "毎日家事に追われている。",
+      "exampleTranslation": "I'm busy with housework every day.",
+      "relatedWords": [
+        "掃除",
+        "洗濯",
+        "料理"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v007",
+      "kanji": "洗濯",
+      "kana": "せんたく",
+      "romaji": "sentaku",
+      "partOfSpeech": "noun",
+      "meaning": "laundry, washing",
+      "jlptLevel": "N2",
+      "exampleSentence": "週末にまとめて洗濯する。",
+      "exampleTranslation": "I do laundry all at once on weekends.",
+      "relatedWords": [
+        "洗濯物",
+        "干す"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v008",
+      "kanji": "アイロン",
+      "kana": "あいろん",
+      "romaji": "airon",
+      "partOfSpeech": "noun",
+      "meaning": "iron (for clothes)",
+      "jlptLevel": "N2",
+      "exampleSentence": "シャツにアイロンをかける。",
+      "exampleTranslation": "I iron my shirts.",
+      "relatedWords": [
+        "アイロンがけ",
+        "洗濯"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v009",
+      "kanji": "ゴミ出し",
+      "kana": "ごみだし",
+      "romaji": "gomi dashi",
+      "partOfSpeech": "noun",
+      "meaning": "taking out trash",
+      "jlptLevel": "N2",
+      "exampleSentence": "朝、ゴミ出しをする。",
+      "exampleTranslation": "I take out the trash in the morning.",
+      "relatedWords": [
+        "ゴミ",
+        "分別"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v010",
+      "kanji": "分別",
+      "kana": "ぶんべつ",
+      "romaji": "bunbetsu",
+      "partOfSpeech": "noun",
+      "meaning": "sorting, separation",
+      "jlptLevel": "N2",
+      "exampleSentence": "ゴミの分別をきちんとする。",
+      "exampleTranslation": "I properly sort trash.",
+      "relatedWords": [
+        "ゴミ",
+        "リサイクル"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v011",
+      "kanji": "片付け",
+      "kana": "かたづけ",
+      "romaji": "katazuke",
+      "partOfSpeech": "noun",
+      "meaning": "tidying up, cleaning up",
+      "jlptLevel": "N2",
+      "exampleSentence": "部屋の片付けをする。",
+      "exampleTranslation": "I tidy up my room.",
+      "relatedWords": [
+        "整理",
+        "掃除"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v012",
+      "kanji": "整理整頓",
+      "kana": "せいりせいとん",
+      "romaji": "seiri seiton",
+      "partOfSpeech": "noun",
+      "meaning": "organizing and tidying",
+      "jlptLevel": "N2",
+      "exampleSentence": "机の上を整理整頓する。",
+      "exampleTranslation": "I organize and tidy my desk.",
+      "relatedWords": [
+        "片付け",
+        "整理"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v013",
+      "kanji": "大掃除",
+      "kana": "おおそうじ",
+      "romaji": "oosouji",
+      "partOfSpeech": "noun",
+      "meaning": "thorough cleaning",
+      "jlptLevel": "N2",
+      "exampleSentence": "年末に大掃除をした。",
+      "exampleTranslation": "I did a thorough cleaning at year-end.",
+      "relatedWords": [
+        "掃除",
+        "年末"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v014",
+      "kanji": "模様替え",
+      "kana": "もようがえ",
+      "romaji": "moyougae",
+      "partOfSpeech": "noun",
+      "meaning": "room rearrangement",
+      "jlptLevel": "N2",
+      "exampleSentence": "部屋の模様替えをする。",
+      "exampleTranslation": "I'll rearrange my room.",
+      "relatedWords": [
+        "インテリア",
+        "配置"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v015",
+      "kanji": "買い物",
+      "kana": "かいもの",
+      "romaji": "kaimono",
+      "partOfSpeech": "noun",
+      "meaning": "shopping",
+      "jlptLevel": "N2",
+      "exampleSentence": "週末にまとめて買い物をする。",
+      "exampleTranslation": "I do shopping all at once on weekends.",
+      "relatedWords": [
+        "ショッピング",
+        "購入"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v016",
+      "kanji": "食材",
+      "kana": "しょくざい",
+      "romaji": "shokuzai",
+      "partOfSpeech": "noun",
+      "meaning": "ingredients, foodstuffs",
+      "jlptLevel": "N2",
+      "exampleSentence": "新鮮な食材を選ぶ。",
+      "exampleTranslation": "I choose fresh ingredients.",
+      "relatedWords": [
+        "材料",
+        "食品"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v017",
+      "kanji": "調味料",
+      "kana": "ちょうみりょう",
+      "romaji": "choumiryou",
+      "partOfSpeech": "noun",
+      "meaning": "seasoning, condiment",
+      "jlptLevel": "N2",
+      "exampleSentence": "料理に調味料を加える。",
+      "exampleTranslation": "I add seasonings to the dish.",
+      "relatedWords": [
+        "調味",
+        "スパイス"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v018",
+      "kanji": "賞味期限",
+      "kana": "しょうみきげん",
+      "romaji": "shoumi kigen",
+      "partOfSpeech": "noun",
+      "meaning": "best before date, expiry date",
+      "jlptLevel": "N2",
+      "exampleSentence": "賞味期限を確認して買う。",
+      "exampleTranslation": "I check the expiry date before buying.",
+      "relatedWords": [
+        "期限",
+        "消費期限"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v019",
+      "kanji": "消費期限",
+      "kana": "しょうひきげん",
+      "romaji": "shouhi kigen",
+      "partOfSpeech": "noun",
+      "meaning": "use-by date",
+      "jlptLevel": "N2",
+      "exampleSentence": "消費期限が近い食品から使う。",
+      "exampleTranslation": "I use foods approaching their use-by date first.",
+      "relatedWords": [
+        "期限",
+        "賞味期限"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v020",
+      "kanji": "冷凍食品",
+      "kana": "れいとうしょくひん",
+      "romaji": "reitou shokuhin",
+      "partOfSpeech": "noun",
+      "meaning": "frozen food",
+      "jlptLevel": "N2",
+      "exampleSentence": "忙しい時は冷凍食品を利用する。",
+      "exampleTranslation": "I use frozen foods when busy.",
+      "relatedWords": [
+        "冷凍",
+        "食品"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v021",
+      "kanji": "インスタント食品",
+      "kana": "いんすたんとしょくひん",
+      "romaji": "insutanto shokuhin",
+      "partOfSpeech": "noun",
+      "meaning": "instant food",
+      "jlptLevel": "N2",
+      "exampleSentence": "インスタント食品ばかり食べるのは良くない。",
+      "exampleTranslation": "It's not good to eat only instant foods.",
+      "relatedWords": [
+        "即席",
+        "加工食品"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v022",
+      "kanji": "レトルト食品",
+      "kana": "れとるとしょくひん",
+      "romaji": "retoruto shokuhin",
+      "partOfSpeech": "noun",
+      "meaning": "retort pouch food",
+      "jlptLevel": "N2",
+      "exampleSentence": "レトルト食品を常備している。",
+      "exampleTranslation": "I keep retort pouch foods on hand.",
+      "relatedWords": [
+        "保存食",
+        "食品"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v023",
+      "kanji": "缶詰",
+      "kana": "かんづめ",
+      "romaji": "kanzume",
+      "partOfSpeech": "noun",
+      "meaning": "canned food",
+      "jlptLevel": "N2",
+      "exampleSentence": "非常食として缶詰を備蓄する。",
+      "exampleTranslation": "I stock canned foods as emergency supplies.",
+      "relatedWords": [
+        "保存食",
+        "缶"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v024",
+      "kanji": "残り物",
+      "kana": "のこりもの",
+      "romaji": "nokorimono",
+      "partOfSpeech": "noun",
+      "meaning": "leftovers",
+      "jlptLevel": "N2",
+      "exampleSentence": "残り物で料理を作る。",
+      "exampleTranslation": "I make a dish from leftovers.",
+      "relatedWords": [
+        "食べ残し",
+        "余り"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v025",
+      "kanji": "作り置き",
+      "kana": "つくりおき",
+      "romaji": "tsukurioki",
+      "partOfSpeech": "noun",
+      "meaning": "make-ahead food, meal prep",
+      "jlptLevel": "N2",
+      "exampleSentence": "週末に作り置きをする。",
+      "exampleTranslation": "I do meal prep on weekends.",
+      "relatedWords": [
+        "常備菜",
+        "準備"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v026",
+      "kanji": "お弁当",
+      "kana": "おべんとう",
+      "romaji": "obentou",
+      "partOfSpeech": "noun",
+      "meaning": "boxed lunch, lunchbox",
+      "jlptLevel": "N2",
+      "exampleSentence": "毎日お弁当を作っている。",
+      "exampleTranslation": "I make a boxed lunch every day.",
+      "relatedWords": [
+        "弁当",
+        "昼食"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v027",
+      "kanji": "朝食",
+      "kana": "ちょうしょく",
+      "romaji": "choushoku",
+      "partOfSpeech": "noun",
+      "meaning": "breakfast",
+      "jlptLevel": "N2",
+      "exampleSentence": "朝食はパンとコーヒーです。",
+      "exampleTranslation": "My breakfast is bread and coffee.",
+      "relatedWords": [
+        "朝ご飯",
+        "食事"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v028",
+      "kanji": "昼食",
+      "kana": "ちゅうしょく",
+      "romaji": "chuushoku",
+      "partOfSpeech": "noun",
+      "meaning": "lunch",
+      "jlptLevel": "N2",
+      "exampleSentence": "昼食は外で食べることが多い。",
+      "exampleTranslation": "I often eat lunch outside.",
+      "relatedWords": [
+        "昼ご飯",
+        "ランチ"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v029",
+      "kanji": "夕食",
+      "kana": "ゆうしょく",
+      "romaji": "yuushoku",
+      "partOfSpeech": "noun",
+      "meaning": "dinner",
+      "jlptLevel": "N2",
+      "exampleSentence": "家族揃って夕食を食べる。",
+      "exampleTranslation": "The family eats dinner together.",
+      "relatedWords": [
+        "夕飯",
+        "晩ご飯"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v030",
+      "kanji": "間食",
+      "kana": "かんしょく",
+      "romaji": "kanshoku",
+      "partOfSpeech": "noun",
+      "meaning": "snacking between meals",
+      "jlptLevel": "N2",
+      "exampleSentence": "間食を控えている。",
+      "exampleTranslation": "I'm refraining from snacking.",
+      "relatedWords": [
+        "おやつ",
+        "スナック"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v031",
+      "kanji": "起床",
+      "kana": "きしょう",
+      "romaji": "kishou",
+      "partOfSpeech": "noun",
+      "meaning": "waking up, getting up",
+      "jlptLevel": "N2",
+      "exampleSentence": "毎朝6時に起床する。",
+      "exampleTranslation": "I wake up at 6 AM every morning.",
+      "relatedWords": [
+        "目覚め",
+        "起きる"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v032",
+      "kanji": "就寝",
+      "kana": "しゅうしん",
+      "romaji": "shuushin",
+      "partOfSpeech": "noun",
+      "meaning": "going to bed",
+      "jlptLevel": "N2",
+      "exampleSentence": "11時には就寝するようにしている。",
+      "exampleTranslation": "I try to go to bed by 11 PM.",
+      "relatedWords": [
+        "寝る",
+        "就眠"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v033",
+      "kanji": "寝坊",
+      "kana": "ねぼう",
+      "romaji": "nebou",
+      "partOfSpeech": "noun",
+      "meaning": "oversleeping",
+      "jlptLevel": "N2",
+      "exampleSentence": "寝坊して遅刻しそうになった。",
+      "exampleTranslation": "I overslept and almost was late.",
+      "relatedWords": [
+        "朝寝坊",
+        "遅起き"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v034",
+      "kanji": "早起き",
+      "kana": "はやおき",
+      "romaji": "hayaoki",
+      "partOfSpeech": "noun",
+      "meaning": "early rising",
+      "jlptLevel": "N2",
+      "exampleSentence": "健康のために早起きを心がけている。",
+      "exampleTranslation": "I try to wake up early for my health.",
+      "relatedWords": [
+        "朝型",
+        "起床"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v035",
+      "kanji": "夜更かし",
+      "kana": "よふかし",
+      "romaji": "yofukashi",
+      "partOfSpeech": "noun",
+      "meaning": "staying up late",
+      "jlptLevel": "N2",
+      "exampleSentence": "夜更かしは体に悪い。",
+      "exampleTranslation": "Staying up late is bad for your health.",
+      "relatedWords": [
+        "夜型",
+        "遅寝"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v036",
+      "kanji": "身支度",
+      "kana": "みじたく",
+      "romaji": "mijitaku",
+      "partOfSpeech": "noun",
+      "meaning": "getting ready, preparing oneself",
+      "jlptLevel": "N2",
+      "exampleSentence": "朝の身支度に30分かかる。",
+      "exampleTranslation": "It takes me 30 minutes to get ready in the morning.",
+      "relatedWords": [
+        "支度",
+        "準備"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v037",
+      "kanji": "洗顔",
+      "kana": "せんがん",
+      "romaji": "sengan",
+      "partOfSpeech": "noun",
+      "meaning": "face washing",
+      "jlptLevel": "N2",
+      "exampleSentence": "朝晩、洗顔をする。",
+      "exampleTranslation": "I wash my face morning and night.",
+      "relatedWords": [
+        "顔を洗う",
+        "洗う"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v038",
+      "kanji": "歯磨き",
+      "kana": "はみがき",
+      "romaji": "hamigaki",
+      "partOfSpeech": "noun",
+      "meaning": "tooth brushing",
+      "jlptLevel": "N2",
+      "exampleSentence": "食後に歯磨きをする。",
+      "exampleTranslation": "I brush my teeth after meals.",
+      "relatedWords": [
+        "歯を磨く",
+        "歯ブラシ"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v039",
+      "kanji": "髭剃り",
+      "kana": "ひげそり",
+      "romaji": "higesori",
+      "partOfSpeech": "noun",
+      "meaning": "shaving",
+      "jlptLevel": "N2",
+      "exampleSentence": "毎朝髭剃りをする。",
+      "exampleTranslation": "I shave every morning.",
+      "relatedWords": [
+        "剃る",
+        "シェービング"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v040",
+      "kanji": "化粧",
+      "kana": "けしょう",
+      "romaji": "keshou",
+      "partOfSpeech": "noun",
+      "meaning": "makeup",
+      "jlptLevel": "N2",
+      "exampleSentence": "化粧に時間がかかる。",
+      "exampleTranslation": "Makeup takes time.",
+      "relatedWords": [
+        "メイク",
+        "お化粧"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v041",
+      "kanji": "着替え",
+      "kana": "きがえ",
+      "romaji": "kigae",
+      "partOfSpeech": "noun",
+      "meaning": "changing clothes",
+      "jlptLevel": "N2",
+      "exampleSentence": "運動の後で着替える。",
+      "exampleTranslation": "I change clothes after exercising.",
+      "relatedWords": [
+        "服を着替える",
+        "更衣"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v042",
+      "kanji": "身だしなみ",
+      "kana": "みだしなみ",
+      "romaji": "midashinami",
+      "partOfSpeech": "noun",
+      "meaning": "personal appearance, grooming",
+      "jlptLevel": "N2",
+      "exampleSentence": "身だしなみを整える。",
+      "exampleTranslation": "I groom my appearance.",
+      "relatedWords": [
+        "服装",
+        "清潔"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v043",
+      "kanji": "外出",
+      "kana": "がいしゅつ",
+      "romaji": "gaishutsu",
+      "partOfSpeech": "noun",
+      "meaning": "going out",
+      "jlptLevel": "N2",
+      "exampleSentence": "休日は外出することが多い。",
+      "exampleTranslation": "I often go out on holidays.",
+      "relatedWords": [
+        "出かける",
+        "お出かけ"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v044",
+      "kanji": "帰宅",
+      "kana": "きたく",
+      "romaji": "kitaku",
+      "partOfSpeech": "noun",
+      "meaning": "returning home",
+      "jlptLevel": "N2",
+      "exampleSentence": "毎日7時頃に帰宅する。",
+      "exampleTranslation": "I return home around 7 PM every day.",
+      "relatedWords": [
+        "家に帰る",
+        "帰り"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v045",
+      "kanji": "留守",
+      "kana": "るす",
+      "romaji": "rusu",
+      "partOfSpeech": "noun",
+      "meaning": "absence from home",
+      "jlptLevel": "N2",
+      "exampleSentence": "留守中に宅配便が来た。",
+      "exampleTranslation": "A delivery came while I was out.",
+      "relatedWords": [
+        "不在",
+        "家を空ける"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v046",
+      "kanji": "鍵",
+      "kana": "かぎ",
+      "romaji": "kagi",
+      "partOfSpeech": "noun",
+      "meaning": "key, lock",
+      "jlptLevel": "N2",
+      "exampleSentence": "家の鍵を忘れた。",
+      "exampleTranslation": "I forgot my house key.",
+      "relatedWords": [
+        "施錠",
+        "ロック"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v047",
+      "kanji": "戸締まり",
+      "kana": "とじまり",
+      "romaji": "tojimari",
+      "partOfSpeech": "noun",
+      "meaning": "locking up",
+      "jlptLevel": "N2",
+      "exampleSentence": "外出前に戸締まりを確認する。",
+      "exampleTranslation": "I check that everything is locked before going out.",
+      "relatedWords": [
+        "施錠",
+        "鍵"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v048",
+      "kanji": "宅配便",
+      "kana": "たくはいびん",
+      "romaji": "takuhaibin",
+      "partOfSpeech": "noun",
+      "meaning": "home delivery",
+      "jlptLevel": "N2",
+      "exampleSentence": "宅配便で荷物を送る。",
+      "exampleTranslation": "I send packages by delivery service.",
+      "relatedWords": [
+        "配達",
+        "宅急便"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v049",
+      "kanji": "再配達",
+      "kana": "さいはいたつ",
+      "romaji": "saihaitatsu",
+      "partOfSpeech": "noun",
+      "meaning": "redelivery",
+      "jlptLevel": "N2",
+      "exampleSentence": "不在だったので再配達を依頼した。",
+      "exampleTranslation": "I was out, so I requested redelivery.",
+      "relatedWords": [
+        "配達",
+        "二度目"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v050",
+      "kanji": "郵便",
+      "kana": "ゆうびん",
+      "romaji": "yuubin",
+      "partOfSpeech": "noun",
+      "meaning": "mail, postal service",
+      "jlptLevel": "N2",
+      "exampleSentence": "郵便物をポストに入れる。",
+      "exampleTranslation": "I put mail in the mailbox.",
+      "relatedWords": [
+        "手紙",
+        "郵便局"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v051",
+      "kanji": "料金",
+      "kana": "りょうきん",
+      "romaji": "ryoukin",
+      "partOfSpeech": "noun",
+      "meaning": "fee, charge",
+      "jlptLevel": "N2",
+      "exampleSentence": "入場料金は500円です。",
+      "exampleTranslation": "The admission fee is 500 yen.",
+      "relatedWords": [
+        "代金",
+        "費用"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v052",
+      "kanji": "割引",
+      "kana": "わりびき",
+      "romaji": "waribiki",
+      "partOfSpeech": "noun",
+      "meaning": "discount",
+      "jlptLevel": "N2",
+      "exampleSentence": "学生割引が適用される。",
+      "exampleTranslation": "A student discount is applied.",
+      "relatedWords": [
+        "値引き",
+        "ディスカウント"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v053",
+      "kanji": "ポイント",
+      "kana": "ぽいんと",
+      "romaji": "pointo",
+      "partOfSpeech": "noun",
+      "meaning": "point (reward)",
+      "jlptLevel": "N2",
+      "exampleSentence": "買い物でポイントを貯める。",
+      "exampleTranslation": "I accumulate points from shopping.",
+      "relatedWords": [
+        "ポイントカード",
+        "特典"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v054",
+      "kanji": "現金",
+      "kana": "げんきん",
+      "romaji": "genkin",
+      "partOfSpeech": "noun",
+      "meaning": "cash",
+      "jlptLevel": "N2",
+      "exampleSentence": "現金で支払う。",
+      "exampleTranslation": "I pay in cash.",
+      "relatedWords": [
+        "お金",
+        "紙幣"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v055",
+      "kanji": "クレジットカード",
+      "kana": "くれじっとかーど",
+      "romaji": "kurejitto kaado",
+      "partOfSpeech": "noun",
+      "meaning": "credit card",
+      "jlptLevel": "N2",
+      "exampleSentence": "クレジットカードで決済する。",
+      "exampleTranslation": "I pay with a credit card.",
+      "relatedWords": [
+        "カード",
+        "カード決済"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v056",
+      "kanji": "電子マネー",
+      "kana": "でんしまねー",
+      "romaji": "denshi manee",
+      "partOfSpeech": "noun",
+      "meaning": "electronic money",
+      "jlptLevel": "N2",
+      "exampleSentence": "電子マネーが普及している。",
+      "exampleTranslation": "Electronic money is widespread.",
+      "relatedWords": [
+        "キャッシュレス",
+        "電子決済"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v057",
+      "kanji": "キャッシュレス",
+      "kana": "きゃっしゅれす",
+      "romaji": "kyasshuuresu",
+      "partOfSpeech": "noun",
+      "meaning": "cashless",
+      "jlptLevel": "N2",
+      "exampleSentence": "キャッシュレス決済が便利だ。",
+      "exampleTranslation": "Cashless payment is convenient.",
+      "relatedWords": [
+        "電子決済",
+        "カード"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v058",
+      "kanji": "領収書",
+      "kana": "りょうしゅうしょ",
+      "romaji": "ryoushuusho",
+      "partOfSpeech": "noun",
+      "meaning": "receipt",
+      "jlptLevel": "N2",
+      "exampleSentence": "領収書をもらう。",
+      "exampleTranslation": "I receive a receipt.",
+      "relatedWords": [
+        "レシート",
+        "受取"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v059",
+      "kanji": "レシート",
+      "kana": "れしーと",
+      "romaji": "reshiito",
+      "partOfSpeech": "noun",
+      "meaning": "receipt (for shopping)",
+      "jlptLevel": "N2",
+      "exampleSentence": "レシートを保管する。",
+      "exampleTranslation": "I keep receipts.",
+      "relatedWords": [
+        "領収書",
+        "明細"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v060",
+      "kanji": "おつり",
+      "kana": "おつり",
+      "romaji": "otsuri",
+      "partOfSpeech": "noun",
+      "meaning": "change (money)",
+      "jlptLevel": "N2",
+      "exampleSentence": "おつりを受け取る。",
+      "exampleTranslation": "I receive change.",
+      "relatedWords": [
+        "釣り銭",
+        "小銭"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v061",
+      "kanji": "健康管理",
+      "kana": "けんこうかんり",
+      "romaji": "kenkou kanri",
+      "partOfSpeech": "noun",
+      "meaning": "health management",
+      "jlptLevel": "N2",
+      "exampleSentence": "日頃から健康管理に気をつけている。",
+      "exampleTranslation": "I pay attention to health management on a daily basis.",
+      "relatedWords": [
+        "健康",
+        "管理"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v062",
+      "kanji": "体調",
+      "kana": "たいちょう",
+      "romaji": "taichou",
+      "partOfSpeech": "noun",
+      "meaning": "physical condition",
+      "jlptLevel": "N2",
+      "exampleSentence": "今日は体調が良くない。",
+      "exampleTranslation": "I don't feel well today.",
+      "relatedWords": [
+        "体の調子",
+        "健康状態"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v063",
+      "kanji": "体調不良",
+      "kana": "たいちょうふりょう",
+      "romaji": "taichou furyou",
+      "partOfSpeech": "noun",
+      "meaning": "poor physical condition",
+      "jlptLevel": "N2",
+      "exampleSentence": "体調不良で会社を休んだ。",
+      "exampleTranslation": "I took time off work due to poor health.",
+      "relatedWords": [
+        "不調",
+        "具合が悪い"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v064",
+      "kanji": "風邪",
+      "kana": "かぜ",
+      "romaji": "kaze",
+      "partOfSpeech": "noun",
+      "meaning": "cold, flu",
+      "jlptLevel": "N2",
+      "exampleSentence": "風邪をひいて熱が出た。",
+      "exampleTranslation": "I caught a cold and have a fever.",
+      "relatedWords": [
+        "感冒",
+        "インフルエンザ"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v065",
+      "kanji": "インフルエンザ",
+      "kana": "いんふるえんざ",
+      "romaji": "infuruenza",
+      "partOfSpeech": "noun",
+      "meaning": "influenza",
+      "jlptLevel": "N2",
+      "exampleSentence": "インフルエンザの予防接種を受ける。",
+      "exampleTranslation": "I get an influenza vaccination.",
+      "relatedWords": [
+        "流感",
+        "風邪"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v066",
+      "kanji": "予防接種",
+      "kana": "よぼうせっしゅ",
+      "romaji": "yobou sesshu",
+      "partOfSpeech": "noun",
+      "meaning": "vaccination",
+      "jlptLevel": "N2",
+      "exampleSentence": "子どもに予防接種を受けさせる。",
+      "exampleTranslation": "I have my child get vaccinations.",
+      "relatedWords": [
+        "ワクチン",
+        "注射"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v067",
+      "kanji": "症状",
+      "kana": "しょうじょう",
+      "romaji": "shoujou",
+      "partOfSpeech": "noun",
+      "meaning": "symptom",
+      "jlptLevel": "N2",
+      "exampleSentence": "どんな症状がありますか。",
+      "exampleTranslation": "What symptoms do you have?",
+      "relatedWords": [
+        "病状",
+        "兆候"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v068",
+      "kanji": "診察",
+      "kana": "しんさつ",
+      "romaji": "shinsatsu",
+      "partOfSpeech": "noun",
+      "meaning": "medical examination",
+      "jlptLevel": "N2",
+      "exampleSentence": "病院で診察を受ける。",
+      "exampleTranslation": "I receive a medical examination at the hospital.",
+      "relatedWords": [
+        "診療",
+        "受診"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v069",
+      "kanji": "処方箋",
+      "kana": "しょほうせん",
+      "romaji": "shohousen",
+      "partOfSpeech": "noun",
+      "meaning": "prescription",
+      "jlptLevel": "N2",
+      "exampleSentence": "医師から処方箋をもらう。",
+      "exampleTranslation": "I receive a prescription from the doctor.",
+      "relatedWords": [
+        "処方",
+        "薬"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v070",
+      "kanji": "薬局",
+      "kana": "やっきょく",
+      "romaji": "yakkyoku",
+      "partOfSpeech": "noun",
+      "meaning": "pharmacy",
+      "jlptLevel": "N2",
+      "exampleSentence": "薬局で薬を買う。",
+      "exampleTranslation": "I buy medicine at the pharmacy.",
+      "relatedWords": [
+        "ドラッグストア",
+        "調剤薬局"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v071",
+      "kanji": "市販薬",
+      "kana": "しはんやく",
+      "romaji": "shihan'yaku",
+      "partOfSpeech": "noun",
+      "meaning": "over-the-counter medicine",
+      "jlptLevel": "N2",
+      "exampleSentence": "市販薬で様子を見る。",
+      "exampleTranslation": "I'll see how things go with over-the-counter medicine.",
+      "relatedWords": [
+        "薬",
+        "常備薬"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v072",
+      "kanji": "副作用",
+      "kana": "ふくさよう",
+      "romaji": "fukusayou",
+      "partOfSpeech": "noun",
+      "meaning": "side effect",
+      "jlptLevel": "N2",
+      "exampleSentence": "この薬は副作用が少ない。",
+      "exampleTranslation": "This medicine has few side effects.",
+      "relatedWords": [
+        "薬",
+        "影響"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v073",
+      "kanji": "定期健診",
+      "kana": "ていきけんしん",
+      "romaji": "teiki kenshin",
+      "partOfSpeech": "noun",
+      "meaning": "regular checkup",
+      "jlptLevel": "N2",
+      "exampleSentence": "年に一度、定期健診を受ける。",
+      "exampleTranslation": "I have a regular checkup once a year.",
+      "relatedWords": [
+        "健康診断",
+        "検診"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v074",
+      "kanji": "人間ドック",
+      "kana": "にんげんどっく",
+      "romaji": "ningen dokku",
+      "partOfSpeech": "noun",
+      "meaning": "comprehensive medical checkup",
+      "jlptLevel": "N2",
+      "exampleSentence": "人間ドックで精密検査を受けた。",
+      "exampleTranslation": "I had a detailed examination with a comprehensive checkup.",
+      "relatedWords": [
+        "健診",
+        "検査"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v075",
+      "kanji": "血圧",
+      "kana": "けつあつ",
+      "romaji": "ketsuatsu",
+      "partOfSpeech": "noun",
+      "meaning": "blood pressure",
+      "jlptLevel": "N2",
+      "exampleSentence": "血圧を測る。",
+      "exampleTranslation": "I measure my blood pressure.",
+      "relatedWords": [
+        "高血圧",
+        "低血圧"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v076",
+      "kanji": "血液検査",
+      "kana": "けつえきけんさ",
+      "romaji": "ketsueki kensa",
+      "partOfSpeech": "noun",
+      "meaning": "blood test",
+      "jlptLevel": "N2",
+      "exampleSentence": "血液検査の結果を待つ。",
+      "exampleTranslation": "I wait for the blood test results.",
+      "relatedWords": [
+        "検査",
+        "採血"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v077",
+      "kanji": "レントゲン",
+      "kana": "れんとげん",
+      "romaji": "rentogen",
+      "partOfSpeech": "noun",
+      "meaning": "X-ray",
+      "jlptLevel": "N2",
+      "exampleSentence": "レントゲン写真を撮る。",
+      "exampleTranslation": "I have an X-ray taken.",
+      "relatedWords": [
+        "エックス線",
+        "撮影"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v078",
+      "kanji": "CT",
+      "kana": "シーティー",
+      "romaji": "shiitii",
+      "partOfSpeech": "noun",
+      "meaning": "CT scan",
+      "jlptLevel": "N2",
+      "exampleSentence": "CT検査を受ける。",
+      "exampleTranslation": "I undergo a CT scan.",
+      "relatedWords": [
+        "検査",
+        "画像診断"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v079",
+      "kanji": "MRI",
+      "kana": "エムアールアイ",
+      "romaji": "emuaaruai",
+      "partOfSpeech": "noun",
+      "meaning": "MRI",
+      "jlptLevel": "N2",
+      "exampleSentence": "MRIで詳しく調べる。",
+      "exampleTranslation": "I get a detailed examination with an MRI.",
+      "relatedWords": [
+        "検査",
+        "画像診断"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v080",
+      "kanji": "入院",
+      "kana": "にゅういん",
+      "romaji": "nyuuin",
+      "partOfSpeech": "noun",
+      "meaning": "hospitalization",
+      "jlptLevel": "N2",
+      "exampleSentence": "手術のために入院する。",
+      "exampleTranslation": "I'm hospitalized for surgery.",
+      "relatedWords": [
+        "病院",
+        "治療"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v081",
+      "kanji": "退院",
+      "kana": "たいいん",
+      "romaji": "taiin",
+      "partOfSpeech": "noun",
+      "meaning": "discharge from hospital",
+      "jlptLevel": "N2",
+      "exampleSentence": "来週、退院する予定だ。",
+      "exampleTranslation": "I'm scheduled to be discharged next week.",
+      "relatedWords": [
+        "退院",
+        "帰宅"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v082",
+      "kanji": "通院",
+      "kana": "つういん",
+      "romaji": "tsuuin",
+      "partOfSpeech": "noun",
+      "meaning": "hospital visits",
+      "jlptLevel": "N2",
+      "exampleSentence": "定期的に通院している。",
+      "exampleTranslation": "I regularly visit the hospital.",
+      "relatedWords": [
+        "通う",
+        "外来"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v083",
+      "kanji": "手術",
+      "kana": "しゅじゅつ",
+      "romaji": "shujutsu",
+      "partOfSpeech": "noun",
+      "meaning": "surgery, operation",
+      "jlptLevel": "N2",
+      "exampleSentence": "来月、手術を受けることになった。",
+      "exampleTranslation": "I'm going to have surgery next month.",
+      "relatedWords": [
+        "オペ",
+        "外科"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v084",
+      "kanji": "リハビリ",
+      "kana": "りはびり",
+      "romaji": "rihabiri",
+      "partOfSpeech": "noun",
+      "meaning": "rehabilitation",
+      "jlptLevel": "N2",
+      "exampleSentence": "怪我の後、リハビリをする。",
+      "exampleTranslation": "I do rehabilitation after the injury.",
+      "relatedWords": [
+        "リハビリテーション",
+        "回復"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v085",
+      "kanji": "ストレス",
+      "kana": "すとれす",
+      "romaji": "sutoresu",
+      "partOfSpeech": "noun",
+      "meaning": "stress",
+      "jlptLevel": "N2",
+      "exampleSentence": "ストレスを溜め込まないようにする。",
+      "exampleTranslation": "I try not to build up stress.",
+      "relatedWords": [
+        "精神的負担",
+        "プレッシャー"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v086",
+      "kanji": "リフレッシュ",
+      "kana": "りふれっしゅ",
+      "romaji": "rifuresshu",
+      "partOfSpeech": "noun",
+      "meaning": "refresh",
+      "jlptLevel": "N2",
+      "exampleSentence": "休日はリフレッシュのために出かける。",
+      "exampleTranslation": "I go out on holidays to refresh.",
+      "relatedWords": [
+        "気分転換",
+        "リラックス"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v087",
+      "kanji": "リラックス",
+      "kana": "りらっくす",
+      "romaji": "rirakkusu",
+      "partOfSpeech": "noun",
+      "meaning": "relax",
+      "jlptLevel": "N2",
+      "exampleSentence": "音楽を聴いてリラックスする。",
+      "exampleTranslation": "I relax by listening to music.",
+      "relatedWords": [
+        "くつろぐ",
+        "休息"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v088",
+      "kanji": "睡眠",
+      "kana": "すいみん",
+      "romaji": "suimin",
+      "partOfSpeech": "noun",
+      "meaning": "sleep",
+      "jlptLevel": "N2",
+      "exampleSentence": "十分な睡眠を取ることが大切だ。",
+      "exampleTranslation": "It's important to get adequate sleep.",
+      "relatedWords": [
+        "眠り",
+        "就寝"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v089",
+      "kanji": "睡眠不足",
+      "kana": "すいみんぶそく",
+      "romaji": "suimin busoku",
+      "partOfSpeech": "noun",
+      "meaning": "lack of sleep",
+      "jlptLevel": "N2",
+      "exampleSentence": "睡眠不足で疲れが取れない。",
+      "exampleTranslation": "I can't recover from fatigue due to lack of sleep.",
+      "relatedWords": [
+        "寝不足",
+        "睡眠"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v090",
+      "kanji": "不眠症",
+      "kana": "ふみんしょう",
+      "romaji": "fuminshou",
+      "partOfSpeech": "noun",
+      "meaning": "insomnia",
+      "jlptLevel": "N2",
+      "exampleSentence": "不眠症に悩まされている。",
+      "exampleTranslation": "I'm troubled by insomnia.",
+      "relatedWords": [
+        "睡眠障害",
+        "眠れない"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v091",
+      "kanji": "運動",
+      "kana": "うんどう",
+      "romaji": "undou",
+      "partOfSpeech": "noun",
+      "meaning": "exercise",
+      "jlptLevel": "N2",
+      "exampleSentence": "健康のために毎日運動する。",
+      "exampleTranslation": "I exercise every day for my health.",
+      "relatedWords": [
+        "スポーツ",
+        "体を動かす"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v092",
+      "kanji": "ジョギング",
+      "kana": "じょぎんぐ",
+      "romaji": "jogingu",
+      "partOfSpeech": "noun",
+      "meaning": "jogging",
+      "jlptLevel": "N2",
+      "exampleSentence": "朝、公園でジョギングをする。",
+      "exampleTranslation": "I jog in the park in the morning.",
+      "relatedWords": [
+        "ランニング",
+        "走る"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v093",
+      "kanji": "ウォーキング",
+      "kana": "うぉーきんぐ",
+      "romaji": "wookingu",
+      "partOfSpeech": "noun",
+      "meaning": "walking",
+      "jlptLevel": "N2",
+      "exampleSentence": "毎日30分ウォーキングする。",
+      "exampleTranslation": "I walk for 30 minutes every day.",
+      "relatedWords": [
+        "散歩",
+        "歩く"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v094",
+      "kanji": "筋トレ",
+      "kana": "きんとれ",
+      "romaji": "kintore",
+      "partOfSpeech": "noun",
+      "meaning": "muscle training",
+      "jlptLevel": "N2",
+      "exampleSentence": "ジムで筋トレをする。",
+      "exampleTranslation": "I do muscle training at the gym.",
+      "relatedWords": [
+        "筋力トレーニング",
+        "運動"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v095",
+      "kanji": "ストレッチ",
+      "kana": "すとれっち",
+      "romaji": "sutorecchi",
+      "partOfSpeech": "noun",
+      "meaning": "stretching",
+      "jlptLevel": "N2",
+      "exampleSentence": "運動前にストレッチをする。",
+      "exampleTranslation": "I stretch before exercising.",
+      "relatedWords": [
+        "柔軟体操",
+        "準備運動"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v096",
+      "kanji": "ヨガ",
+      "kana": "よが",
+      "romaji": "yoga",
+      "partOfSpeech": "noun",
+      "meaning": "yoga",
+      "jlptLevel": "N2",
+      "exampleSentence": "ヨガで心身をリラックスさせる。",
+      "exampleTranslation": "I relax my mind and body with yoga.",
+      "relatedWords": [
+        "ヨガ教室",
+        "体操"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v097",
+      "kanji": "フィットネス",
+      "kana": "ふぃっとねす",
+      "romaji": "fittunesu",
+      "partOfSpeech": "noun",
+      "meaning": "fitness",
+      "jlptLevel": "N2",
+      "exampleSentence": "フィットネスクラブに通っている。",
+      "exampleTranslation": "I go to a fitness club.",
+      "relatedWords": [
+        "運動",
+        "ジム"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v098",
+      "kanji": "ダイエット",
+      "kana": "だいえっと",
+      "romaji": "daietto",
+      "partOfSpeech": "noun",
+      "meaning": "diet",
+      "jlptLevel": "N2",
+      "exampleSentence": "ダイエットのために食事制限をしている。",
+      "exampleTranslation": "I'm restricting my diet to lose weight.",
+      "relatedWords": [
+        "減量",
+        "痩せる"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v099",
+      "kanji": "カロリー",
+      "kana": "かろりー",
+      "romaji": "karorii",
+      "partOfSpeech": "noun",
+      "meaning": "calorie",
+      "jlptLevel": "N2",
+      "exampleSentence": "カロリーを気にして食べる。",
+      "exampleTranslation": "I eat while being mindful of calories.",
+      "relatedWords": [
+        "熱量",
+        "栄養"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v100",
+      "kanji": "栄養",
+      "kana": "えいよう",
+      "romaji": "eiyou",
+      "partOfSpeech": "noun",
+      "meaning": "nutrition",
+      "jlptLevel": "N2",
+      "exampleSentence": "バランスの良い栄養を摂る。",
+      "exampleTranslation": "I take well-balanced nutrition.",
+      "relatedWords": [
+        "栄養素",
+        "栄養価"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v101",
+      "kanji": "趣味",
+      "kana": "しゅみ",
+      "romaji": "shumi",
+      "partOfSpeech": "noun",
+      "meaning": "hobby",
+      "jlptLevel": "N2",
+      "exampleSentence": "趣味は読書と映画鑑賞です。",
+      "exampleTranslation": "My hobbies are reading and watching movies.",
+      "relatedWords": [
+        "娯楽",
+        "余暇"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v102",
+      "kanji": "読書",
+      "kana": "どくしょ",
+      "romaji": "dokusho",
+      "partOfSpeech": "noun",
+      "meaning": "reading",
+      "jlptLevel": "N2",
+      "exampleSentence": "休日は読書を楽しむ。",
+      "exampleTranslation": "I enjoy reading on holidays.",
+      "relatedWords": [
+        "本を読む",
+        "読む"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v103",
+      "kanji": "映画鑑賞",
+      "kana": "えいがかんしょう",
+      "romaji": "eiga kanshou",
+      "partOfSpeech": "noun",
+      "meaning": "movie watching",
+      "jlptLevel": "N2",
+      "exampleSentence": "映画鑑賞が好きだ。",
+      "exampleTranslation": "I like watching movies.",
+      "relatedWords": [
+        "映画",
+        "鑑賞"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v104",
+      "kanji": "音楽鑑賞",
+      "kana": "おんがくかんしょう",
+      "romaji": "ongaku kanshou",
+      "partOfSpeech": "noun",
+      "meaning": "music appreciation",
+      "jlptLevel": "N2",
+      "exampleSentence": "クラシック音楽鑑賞が趣味だ。",
+      "exampleTranslation": "My hobby is classical music appreciation.",
+      "relatedWords": [
+        "音楽",
+        "聴く"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v105",
+      "kanji": "楽器",
+      "kana": "がっき",
+      "romaji": "gakki",
+      "partOfSpeech": "noun",
+      "meaning": "musical instrument",
+      "jlptLevel": "N2",
+      "exampleSentence": "楽器を演奏できるようになりたい。",
+      "exampleTranslation": "I want to be able to play a musical instrument.",
+      "relatedWords": [
+        "ピアノ",
+        "ギター"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v106",
+      "kanji": "絵画",
+      "kana": "かいが",
+      "romaji": "kaiga",
+      "partOfSpeech": "noun",
+      "meaning": "painting",
+      "jlptLevel": "N2",
+      "exampleSentence": "休日は絵画を描く。",
+      "exampleTranslation": "I paint on holidays.",
+      "relatedWords": [
+        "絵",
+        "美術"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v107",
+      "kanji": "写真撮影",
+      "kana": "しゃしんさつえい",
+      "romaji": "shashin satsuei",
+      "partOfSpeech": "noun",
+      "meaning": "photography",
+      "jlptLevel": "N2",
+      "exampleSentence": "写真撮影が趣味だ。",
+      "exampleTranslation": "Photography is my hobby.",
+      "relatedWords": [
+        "写真",
+        "撮る"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v108",
+      "kanji": "旅行",
+      "kana": "りょこう",
+      "romaji": "ryokou",
+      "partOfSpeech": "noun",
+      "meaning": "travel",
+      "jlptLevel": "N2",
+      "exampleSentence": "夏休みに旅行に行く。",
+      "exampleTranslation": "I go on a trip during summer vacation.",
+      "relatedWords": [
+        "観光",
+        "旅"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v109",
+      "kanji": "観光",
+      "kana": "かんこう",
+      "romaji": "kankou",
+      "partOfSpeech": "noun",
+      "meaning": "sightseeing, tourism",
+      "jlptLevel": "N2",
+      "exampleSentence": "京都で観光を楽しむ。",
+      "exampleTranslation": "I enjoy sightseeing in Kyoto.",
+      "relatedWords": [
+        "観光地",
+        "旅行"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v110",
+      "kanji": "温泉",
+      "kana": "おんせん",
+      "romaji": "onsen",
+      "partOfSpeech": "noun",
+      "meaning": "hot spring",
+      "jlptLevel": "N2",
+      "exampleSentence": "温泉でゆっくりする。",
+      "exampleTranslation": "I relax at a hot spring.",
+      "relatedWords": [
+        "温泉旅行",
+        "温泉地"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v111",
+      "kanji": "キャンプ",
+      "kana": "きゃんぷ",
+      "romaji": "kyanpu",
+      "partOfSpeech": "noun",
+      "meaning": "camping",
+      "jlptLevel": "N2",
+      "exampleSentence": "夏はキャンプに行く。",
+      "exampleTranslation": "I go camping in summer.",
+      "relatedWords": [
+        "アウトドア",
+        "野営"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v112",
+      "kanji": "釣り",
+      "kana": "つり",
+      "romaji": "tsuri",
+      "partOfSpeech": "noun",
+      "meaning": "fishing",
+      "jlptLevel": "N2",
+      "exampleSentence": "週末に釣りに行く。",
+      "exampleTranslation": "I go fishing on weekends.",
+      "relatedWords": [
+        "魚釣り",
+        "フィッシング"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v113",
+      "kanji": "登山",
+      "kana": "とざん",
+      "romaji": "tozan",
+      "partOfSpeech": "noun",
+      "meaning": "mountain climbing",
+      "jlptLevel": "N2",
+      "exampleSentence": "秋は登山が気持ちいい。",
+      "exampleTranslation": "Mountain climbing feels good in autumn.",
+      "relatedWords": [
+        "ハイキング",
+        "山登り"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v114",
+      "kanji": "ハイキング",
+      "kana": "はいきんぐ",
+      "romaji": "haikingu",
+      "partOfSpeech": "noun",
+      "meaning": "hiking",
+      "jlptLevel": "N2",
+      "exampleSentence": "家族でハイキングを楽しむ。",
+      "exampleTranslation": "The family enjoys hiking.",
+      "relatedWords": [
+        "登山",
+        "散策"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v115",
+      "kanji": "サイクリング",
+      "kana": "さいくりんぐ",
+      "romaji": "saikuringu",
+      "partOfSpeech": "noun",
+      "meaning": "cycling",
+      "jlptLevel": "N2",
+      "exampleSentence": "休日はサイクリングに出かける。",
+      "exampleTranslation": "I go cycling on holidays.",
+      "relatedWords": [
+        "自転車",
+        "ツーリング"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v116",
+      "kanji": "ドライブ",
+      "kana": "どらいぶ",
+      "romaji": "doraibu",
+      "partOfSpeech": "noun",
+      "meaning": "drive",
+      "jlptLevel": "N2",
+      "exampleSentence": "海沿いをドライブする。",
+      "exampleTranslation": "I drive along the coast.",
+      "relatedWords": [
+        "車",
+        "運転"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v117",
+      "kanji": "ゲーム",
+      "kana": "げーむ",
+      "romaji": "geemu",
+      "partOfSpeech": "noun",
+      "meaning": "game",
+      "jlptLevel": "N2",
+      "exampleSentence": "暇な時はゲームをする。",
+      "exampleTranslation": "I play games when I have free time.",
+      "relatedWords": [
+        "ビデオゲーム",
+        "ゲーム機"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v118",
+      "kanji": "スマホ",
+      "kana": "すまほ",
+      "romaji": "sumaho",
+      "partOfSpeech": "noun",
+      "meaning": "smartphone",
+      "jlptLevel": "N2",
+      "exampleSentence": "スマホで SNSをチェックする。",
+      "exampleTranslation": "I check SNS on my smartphone.",
+      "relatedWords": [
+        "スマートフォン",
+        "携帯"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v119",
+      "kanji": "パソコン",
+      "kana": "ぱそこん",
+      "romaji": "pasokon",
+      "partOfSpeech": "noun",
+      "meaning": "personal computer",
+      "jlptLevel": "N2",
+      "exampleSentence": "パソコンで仕事をする。",
+      "exampleTranslation": "I work on a computer.",
+      "relatedWords": [
+        "PC",
+        "コンピューター"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v120",
+      "kanji": "ネットサーフィン",
+      "kana": "ねっとさーふぃん",
+      "romaji": "netto saafin",
+      "partOfSpeech": "noun",
+      "meaning": "web surfing",
+      "jlptLevel": "N2",
+      "exampleSentence": "休憩中にネットサーフィンをする。",
+      "exampleTranslation": "I surf the web during breaks.",
+      "relatedWords": [
+        "ネット",
+        "インターネット"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v121",
+      "kanji": "友達付き合い",
+      "kana": "ともだちづきあい",
+      "romaji": "tomodachi zukiai",
+      "partOfSpeech": "noun",
+      "meaning": "friendship, socializing with friends",
+      "jlptLevel": "N2",
+      "exampleSentence": "友達付き合いを大切にする。",
+      "exampleTranslation": "I value friendships.",
+      "relatedWords": [
+        "交友",
+        "付き合い"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v122",
+      "kanji": "人付き合い",
+      "kana": "ひとづきあい",
+      "romaji": "hito zukiai",
+      "partOfSpeech": "noun",
+      "meaning": "personal relations, socializing",
+      "jlptLevel": "N2",
+      "exampleSentence": "人付き合いが苦手だ。",
+      "exampleTranslation": "I'm not good at socializing.",
+      "relatedWords": [
+        "交際",
+        "付き合い"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v123",
+      "kanji": "ご近所付き合い",
+      "kana": "ごきんじょづきあい",
+      "romaji": "gokinjo zukiai",
+      "partOfSpeech": "noun",
+      "meaning": "neighborhood relations",
+      "jlptLevel": "N2",
+      "exampleSentence": "ご近所付き合いを円滑にする。",
+      "exampleTranslation": "I maintain smooth neighborhood relations.",
+      "relatedWords": [
+        "近所",
+        "付き合い"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v124",
+      "kanji": "交流",
+      "kana": "こうりゅう",
+      "romaji": "kouryuu",
+      "partOfSpeech": "noun",
+      "meaning": "exchange, interaction",
+      "jlptLevel": "N2",
+      "exampleSentence": "地域の人々と交流する。",
+      "exampleTranslation": "I interact with local people.",
+      "relatedWords": [
+        "交際",
+        "付き合い"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v125",
+      "kanji": "飲み会",
+      "kana": "のみかい",
+      "romaji": "nomikai",
+      "partOfSpeech": "noun",
+      "meaning": "drinking party",
+      "jlptLevel": "N2",
+      "exampleSentence": "会社の飲み会に参加する。",
+      "exampleTranslation": "I participate in company drinking parties.",
+      "relatedWords": [
+        "宴会",
+        "飲み"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v126",
+      "kanji": "ランチ",
+      "kana": "らんち",
+      "romaji": "ranchi",
+      "partOfSpeech": "noun",
+      "meaning": "lunch",
+      "jlptLevel": "N2",
+      "exampleSentence": "同僚とランチに行く。",
+      "exampleTranslation": "I go to lunch with colleagues.",
+      "relatedWords": [
+        "昼食",
+        "ランチタイム"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v127",
+      "kanji": "お茶",
+      "kana": "おちゃ",
+      "romaji": "ocha",
+      "partOfSpeech": "noun",
+      "meaning": "tea, having tea",
+      "jlptLevel": "N2",
+      "exampleSentence": "友達とお茶をする。",
+      "exampleTranslation": "I have tea with friends.",
+      "relatedWords": [
+        "カフェ",
+        "お茶会"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v128",
+      "kanji": "デート",
+      "kana": "でーと",
+      "romaji": "deeto",
+      "partOfSpeech": "noun",
+      "meaning": "date",
+      "jlptLevel": "N2",
+      "exampleSentence": "週末にデートする。",
+      "exampleTranslation": "I go on a date on the weekend.",
+      "relatedWords": [
+        "デイト",
+        "会う"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v129",
+      "kanji": "連絡",
+      "kana": "れんらく",
+      "romaji": "renraku",
+      "partOfSpeech": "noun",
+      "meaning": "contact, communication",
+      "jlptLevel": "N2",
+      "exampleSentence": "友達に連絡を取る。",
+      "exampleTranslation": "I get in touch with a friend.",
+      "relatedWords": [
+        "連絡を取る",
+        "コンタクト"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v130",
+      "kanji": "約束",
+      "kana": "やくそく",
+      "romaji": "yakusoku",
+      "partOfSpeech": "noun",
+      "meaning": "promise, appointment",
+      "jlptLevel": "N2",
+      "exampleSentence": "友達と会う約束をする。",
+      "exampleTranslation": "I make an appointment to meet a friend.",
+      "relatedWords": [
+        "待ち合わせ",
+        "予定"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v131",
+      "kanji": "待ち合わせ",
+      "kana": "まちあわせ",
+      "romaji": "machiawase",
+      "partOfSpeech": "noun",
+      "meaning": "meeting up, rendezvous",
+      "jlptLevel": "N2",
+      "exampleSentence": "駅前で待ち合わせる。",
+      "exampleTranslation": "We'll meet up in front of the station.",
+      "relatedWords": [
+        "集合",
+        "約束"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v132",
+      "kanji": "遅刻",
+      "kana": "ちこく",
+      "romaji": "chikoku",
+      "partOfSpeech": "noun",
+      "meaning": "being late, tardiness",
+      "jlptLevel": "N2",
+      "exampleSentence": "遅刻しないように気をつける。",
+      "exampleTranslation": "I'm careful not to be late.",
+      "relatedWords": [
+        "遅れる",
+        "遅い"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v133",
+      "kanji": "時間厳守",
+      "kana": "じかんげんしゅ",
+      "romaji": "jikan genshu",
+      "partOfSpeech": "noun",
+      "meaning": "punctuality",
+      "jlptLevel": "N2",
+      "exampleSentence": "時間厳守でお願いします。",
+      "exampleTranslation": "Please be punctual.",
+      "relatedWords": [
+        "時間",
+        "守る"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v134",
+      "kanji": "キャンセル",
+      "kana": "きゃんせる",
+      "romaji": "kyanseru",
+      "partOfSpeech": "noun",
+      "meaning": "cancel",
+      "jlptLevel": "N2",
+      "exampleSentence": "予定をキャンセルする。",
+      "exampleTranslation": "I cancel the plan.",
+      "relatedWords": [
+        "取り消し",
+        "中止"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v135",
+      "kanji": "延期",
+      "kana": "えんき",
+      "romaji": "enki",
+      "partOfSpeech": "noun",
+      "meaning": "postponement",
+      "jlptLevel": "N2",
+      "exampleSentence": "会議を来週に延期する。",
+      "exampleTranslation": "We'll postpone the meeting to next week.",
+      "relatedWords": [
+        "先延ばし",
+        "後回し"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v136",
+      "kanji": "お礼",
+      "kana": "おれい",
+      "romaji": "orei",
+      "partOfSpeech": "noun",
+      "meaning": "thanks, gratitude",
+      "jlptLevel": "N2",
+      "exampleSentence": "お礼の言葉を述べる。",
+      "exampleTranslation": "I express words of thanks.",
+      "relatedWords": [
+        "感謝",
+        "ありがとう"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v137",
+      "kanji": "お詫び",
+      "kana": "おわび",
+      "romaji": "owabi",
+      "partOfSpeech": "noun",
+      "meaning": "apology",
+      "jlptLevel": "N2",
+      "exampleSentence": "お詫びの言葉を述べる。",
+      "exampleTranslation": "I express words of apology.",
+      "relatedWords": [
+        "謝罪",
+        "すみません"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v138",
+      "kanji": "お見舞い",
+      "kana": "おみまい",
+      "romaji": "omimai",
+      "partOfSpeech": "noun",
+      "meaning": "visit to a sick person",
+      "jlptLevel": "N2",
+      "exampleSentence": "入院している友人をお見舞いする。",
+      "exampleTranslation": "I visit my hospitalized friend.",
+      "relatedWords": [
+        "見舞い",
+        "訪問"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v139",
+      "kanji": "お祝い",
+      "kana": "おいわい",
+      "romaji": "oiwai",
+      "partOfSpeech": "noun",
+      "meaning": "celebration, congratulations",
+      "jlptLevel": "N2",
+      "exampleSentence": "誕生日のお祝いをする。",
+      "exampleTranslation": "We celebrate a birthday.",
+      "relatedWords": [
+        "祝い",
+        "祝う"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v140",
+      "kanji": "贈り物",
+      "kana": "おくりもの",
+      "romaji": "okurimono",
+      "partOfSpeech": "noun",
+      "meaning": "gift, present",
+      "jlptLevel": "N2",
+      "exampleSentence": "友達に贈り物をする。",
+      "exampleTranslation": "I give a gift to a friend.",
+      "relatedWords": [
+        "プレゼント",
+        "贈答"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v141",
+      "kanji": "お土産",
+      "kana": "おみやげ",
+      "romaji": "omiyage",
+      "partOfSpeech": "noun",
+      "meaning": "souvenir",
+      "jlptLevel": "N2",
+      "exampleSentence": "旅行のお土産を買う。",
+      "exampleTranslation": "I buy souvenirs from the trip.",
+      "relatedWords": [
+        "土産",
+        "贈り物"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v142",
+      "kanji": "手紙",
+      "kana": "てがみ",
+      "romaji": "tegami",
+      "partOfSpeech": "noun",
+      "meaning": "letter",
+      "jlptLevel": "N2",
+      "exampleSentence": "友人に手紙を書く。",
+      "exampleTranslation": "I write a letter to a friend.",
+      "relatedWords": [
+        "便り",
+        "手書き"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v143",
+      "kanji": "メール",
+      "kana": "めーる",
+      "romaji": "meeru",
+      "partOfSpeech": "noun",
+      "meaning": "email",
+      "jlptLevel": "N2",
+      "exampleSentence": "メールで連絡する。",
+      "exampleTranslation": "I contact by email.",
+      "relatedWords": [
+        "電子メール",
+        "Eメール"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v144",
+      "kanji": "電話",
+      "kana": "でんわ",
+      "romaji": "denwa",
+      "partOfSpeech": "noun",
+      "meaning": "telephone",
+      "jlptLevel": "N2",
+      "exampleSentence": "友達に電話をかける。",
+      "exampleTranslation": "I call a friend.",
+      "relatedWords": [
+        "電話をかける",
+        "通話"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v145",
+      "kanji": "LINE",
+      "kana": "らいん",
+      "romaji": "rain",
+      "partOfSpeech": "noun",
+      "meaning": "LINE (messaging app)",
+      "jlptLevel": "N2",
+      "exampleSentence": "LINEでメッセージを送る。",
+      "exampleTranslation": "I send a message via LINE.",
+      "relatedWords": [
+        "メッセージアプリ",
+        "連絡"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v146",
+      "kanji": "既読",
+      "kana": "きどく",
+      "romaji": "kidoku",
+      "partOfSpeech": "noun",
+      "meaning": "read (message status)",
+      "jlptLevel": "N2",
+      "exampleSentence": "既読になっているのに返信がない。",
+      "exampleTranslation": "It shows as read but there's no reply.",
+      "relatedWords": [
+        "LINE",
+        "メッセージ"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v147",
+      "kanji": "未読",
+      "kana": "みどく",
+      "romaji": "midoku",
+      "partOfSpeech": "noun",
+      "meaning": "unread",
+      "jlptLevel": "N2",
+      "exampleSentence": "未読のメッセージが溜まっている。",
+      "exampleTranslation": "Unread messages are piling up.",
+      "relatedWords": [
+        "読んでいない",
+        "メッセージ"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v148",
+      "kanji": "返信",
+      "kana": "へんしん",
+      "romaji": "henshin",
+      "partOfSpeech": "noun",
+      "meaning": "reply",
+      "jlptLevel": "N2",
+      "exampleSentence": "メールに返信する。",
+      "exampleTranslation": "I reply to the email.",
+      "relatedWords": [
+        "返事",
+        "レスポンス"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v149",
+      "kanji": "スタンプ",
+      "kana": "すたんぷ",
+      "romaji": "sutanpu",
+      "partOfSpeech": "noun",
+      "meaning": "stamp (messaging)",
+      "jlptLevel": "N2",
+      "exampleSentence": "LINEでスタンプを送る。",
+      "exampleTranslation": "I send a stamp on LINE.",
+      "relatedWords": [
+        "絵文字",
+        "エモ"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v150",
+      "kanji": "絵文字",
+      "kana": "えもじ",
+      "romaji": "emoji",
+      "partOfSpeech": "noun",
+      "meaning": "emoji",
+      "jlptLevel": "N2",
+      "exampleSentence": "メッセージに絵文字を付ける。",
+      "exampleTranslation": "I add emojis to messages.",
+      "relatedWords": [
+        "スタンプ",
+        "顔文字"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v151",
+      "kanji": "住まい",
+      "kana": "すまい",
+      "romaji": "sumai",
+      "partOfSpeech": "noun",
+      "meaning": "residence, housing",
+      "jlptLevel": "N2",
+      "exampleSentence": "快適な住まいを探している。",
+      "exampleTranslation": "I'm looking for comfortable housing.",
+      "relatedWords": [
+        "住居",
+        "家"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v152",
+      "kanji": "一人暮らし",
+      "kana": "ひとりぐらし",
+      "romaji": "hitori gurashi",
+      "partOfSpeech": "noun",
+      "meaning": "living alone",
+      "jlptLevel": "N2",
+      "exampleSentence": "大学から一人暮らしを始めた。",
+      "exampleTranslation": "I started living alone since university.",
+      "relatedWords": [
+        "独り暮らし",
+        "単身"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v153",
+      "kanji": "同居",
+      "kana": "どうきょ",
+      "romaji": "doukyo",
+      "partOfSpeech": "noun",
+      "meaning": "living together",
+      "jlptLevel": "N2",
+      "exampleSentence": "両親と同居している。",
+      "exampleTranslation": "I live together with my parents.",
+      "relatedWords": [
+        "共同生活",
+        "一緒に住む"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v154",
+      "kanji": "ルームシェア",
+      "kana": "るーむしぇあ",
+      "romaji": "ruumu shea",
+      "partOfSpeech": "noun",
+      "meaning": "room sharing",
+      "jlptLevel": "N2",
+      "exampleSentence": "友達とルームシェアをしている。",
+      "exampleTranslation": "I'm sharing a room with a friend.",
+      "relatedWords": [
+        "共同生活",
+        "シェアハウス"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v155",
+      "kanji": "シェアハウス",
+      "kana": "しぇあはうす",
+      "romaji": "shea hausu",
+      "partOfSpeech": "noun",
+      "meaning": "share house",
+      "jlptLevel": "N2",
+      "exampleSentence": "シェアハウスに住んでいる。",
+      "exampleTranslation": "I live in a share house.",
+      "relatedWords": [
+        "共同住宅",
+        "ルームシェア"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v156",
+      "kanji": "引っ越し",
+      "kana": "ひっこし",
+      "romaji": "hikkoshi",
+      "partOfSpeech": "noun",
+      "meaning": "moving (residence)",
+      "jlptLevel": "N2",
+      "exampleSentence": "来月、引っ越しをする。",
+      "exampleTranslation": "I'm moving next month.",
+      "relatedWords": [
+        "転居",
+        "移転"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v157",
+      "kanji": "引っ越し業者",
+      "kana": "ひっこしぎょうしゃ",
+      "romaji": "hikkoshi gyousha",
+      "partOfSpeech": "noun",
+      "meaning": "moving company",
+      "jlptLevel": "N2",
+      "exampleSentence": "引っ越し業者に依頼する。",
+      "exampleTranslation": "I request a moving company.",
+      "relatedWords": [
+        "引越し",
+        "業者"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v158",
+      "kanji": "荷造り",
+      "kana": "にづくり",
+      "romaji": "nizukuri",
+      "partOfSpeech": "noun",
+      "meaning": "packing",
+      "jlptLevel": "N2",
+      "exampleSentence": "引っ越しの荷造りをする。",
+      "exampleTranslation": "I pack for the move.",
+      "relatedWords": [
+        "梱包",
+        "準備"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v159",
+      "kanji": "荷解き",
+      "kana": "にほどき",
+      "romaji": "nihodoki",
+      "partOfSpeech": "noun",
+      "meaning": "unpacking",
+      "jlptLevel": "N2",
+      "exampleSentence": "新居で荷解きをする。",
+      "exampleTranslation": "I unpack at the new residence.",
+      "relatedWords": [
+        "片付け",
+        "整理"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v160",
+      "kanji": "不動産",
+      "kana": "ふどうさん",
+      "romaji": "fudousan",
+      "partOfSpeech": "noun",
+      "meaning": "real estate",
+      "jlptLevel": "N2",
+      "exampleSentence": "不動産屋で物件を探す。",
+      "exampleTranslation": "I look for properties at a real estate agency.",
+      "relatedWords": [
+        "不動産会社",
+        "物件"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v161",
+      "kanji": "物件",
+      "kana": "ぶっけん",
+      "romaji": "bukken",
+      "partOfSpeech": "noun",
+      "meaning": "property (real estate)",
+      "jlptLevel": "N2",
+      "exampleSentence": "条件に合う物件を探す。",
+      "exampleTranslation": "I search for a property that meets my conditions.",
+      "relatedWords": [
+        "賃貸物件",
+        "住宅"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v162",
+      "kanji": "間取り",
+      "kana": "まどり",
+      "romaji": "madori",
+      "partOfSpeech": "noun",
+      "meaning": "floor plan",
+      "jlptLevel": "N2",
+      "exampleSentence": "2LDKの間取りがいい。",
+      "exampleTranslation": "A 2LDK floor plan is good.",
+      "relatedWords": [
+        "部屋の配置",
+        "レイアウト"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v163",
+      "kanji": "敷金",
+      "kana": "しききん",
+      "romaji": "shikikin",
+      "partOfSpeech": "noun",
+      "meaning": "deposit",
+      "jlptLevel": "N2",
+      "exampleSentence": "入居時に敷金を払う。",
+      "exampleTranslation": "I pay a deposit when moving in.",
+      "relatedWords": [
+        "保証金",
+        "初期費用"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v164",
+      "kanji": "礼金",
+      "kana": "れいきん",
+      "romaji": "reikin",
+      "partOfSpeech": "noun",
+      "meaning": "key money",
+      "jlptLevel": "N2",
+      "exampleSentence": "礼金なしの物件を探す。",
+      "exampleTranslation": "I look for properties without key money.",
+      "relatedWords": [
+        "契約金",
+        "初期費用"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v165",
+      "kanji": "仲介手数料",
+      "kana": "ちゅうかいてすうりょう",
+      "romaji": "chuukai tesuuryou",
+      "partOfSpeech": "noun",
+      "meaning": "brokerage fee",
+      "jlptLevel": "N2",
+      "exampleSentence": "仲介手数料がかかる。",
+      "exampleTranslation": "A brokerage fee applies.",
+      "relatedWords": [
+        "手数料",
+        "費用"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v166",
+      "kanji": "更新料",
+      "kana": "こうしんりょう",
+      "romaji": "koushinryou",
+      "partOfSpeech": "noun",
+      "meaning": "renewal fee",
+      "jlptLevel": "N2",
+      "exampleSentence": "2年ごとに更新料を払う。",
+      "exampleTranslation": "I pay a renewal fee every two years.",
+      "relatedWords": [
+        "契約更新",
+        "費用"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v167",
+      "kanji": "管理費",
+      "kana": "かんりひ",
+      "romaji": "kanrihi",
+      "partOfSpeech": "noun",
+      "meaning": "management fee",
+      "jlptLevel": "N2",
+      "exampleSentence": "家賃とは別に管理費がかかる。",
+      "exampleTranslation": "There's a management fee separate from rent.",
+      "relatedWords": [
+        "共益費",
+        "費用"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v168",
+      "kanji": "共益費",
+      "kana": "きょうえきひ",
+      "romaji": "kyouekihi",
+      "partOfSpeech": "noun",
+      "meaning": "common service fee",
+      "jlptLevel": "N2",
+      "exampleSentence": "共益費込みで家賃を払う。",
+      "exampleTranslation": "I pay rent including the common service fee.",
+      "relatedWords": [
+        "管理費",
+        "費用"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v169",
+      "kanji": "駐車場",
+      "kana": "ちゅうしゃじょう",
+      "romaji": "chuushajou",
+      "partOfSpeech": "noun",
+      "meaning": "parking lot",
+      "jlptLevel": "N2",
+      "exampleSentence": "マンションに駐車場がある。",
+      "exampleTranslation": "The apartment has a parking lot.",
+      "relatedWords": [
+        "駐車",
+        "パーキング"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v170",
+      "kanji": "駐輪場",
+      "kana": "ちゅうりんじょう",
+      "romaji": "chuurinjou",
+      "partOfSpeech": "noun",
+      "meaning": "bicycle parking",
+      "jlptLevel": "N2",
+      "exampleSentence": "駐輪場に自転車を止める。",
+      "exampleTranslation": "I park my bicycle in the bicycle parking.",
+      "relatedWords": [
+        "自転車置き場",
+        "駐車"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v171",
+      "kanji": "ゴミ置き場",
+      "kana": "ごみおきば",
+      "romaji": "gomi okiba",
+      "partOfSpeech": "noun",
+      "meaning": "garbage disposal area",
+      "jlptLevel": "N2",
+      "exampleSentence": "ゴミ置き場にゴミを出す。",
+      "exampleTranslation": "I put trash in the garbage disposal area.",
+      "relatedWords": [
+        "ゴミ捨て場",
+        "ゴミ"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v172",
+      "kanji": "宅配ボックス",
+      "kana": "たくはいぼっくす",
+      "romaji": "takuhai bokkusu",
+      "partOfSpeech": "noun",
+      "meaning": "delivery box",
+      "jlptLevel": "N2",
+      "exampleSentence": "不在時は宅配ボックスに入れてもらう。",
+      "exampleTranslation": "When I'm out, I have deliveries put in the delivery box.",
+      "relatedWords": [
+        "宅配",
+        "ポスト"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v173",
+      "kanji": "オートロック",
+      "kana": "おーとろっく",
+      "romaji": "ooto rokku",
+      "partOfSpeech": "noun",
+      "meaning": "automatic lock",
+      "jlptLevel": "N2",
+      "exampleSentence": "セキュリティのためオートロック付きの物件を選ぶ。",
+      "exampleTranslation": "I choose a property with an automatic lock for security.",
+      "relatedWords": [
+        "自動ロック",
+        "セキュリティ"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v174",
+      "kanji": "防犯",
+      "kana": "ぼうはん",
+      "romaji": "bouhan",
+      "partOfSpeech": "noun",
+      "meaning": "crime prevention",
+      "jlptLevel": "N2",
+      "exampleSentence": "防犯対策をしっかりする。",
+      "exampleTranslation": "I take thorough crime prevention measures.",
+      "relatedWords": [
+        "セキュリティ",
+        "安全"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v175",
+      "kanji": "防音",
+      "kana": "ぼうおん",
+      "romaji": "bouon",
+      "partOfSpeech": "noun",
+      "meaning": "soundproofing",
+      "jlptLevel": "N2",
+      "exampleSentence": "防音がしっかりした部屋を選ぶ。",
+      "exampleTranslation": "I choose a room with good soundproofing.",
+      "relatedWords": [
+        "騒音対策",
+        "遮音"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v176",
+      "kanji": "日当たり",
+      "kana": "ひあたり",
+      "romaji": "hiatari",
+      "partOfSpeech": "noun",
+      "meaning": "sunlight exposure",
+      "jlptLevel": "N2",
+      "exampleSentence": "日当たりの良い部屋がいい。",
+      "exampleTranslation": "A room with good sunlight exposure is good.",
+      "relatedWords": [
+        "日光",
+        "南向き"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v177",
+      "kanji": "眺め",
+      "kana": "ながめ",
+      "romaji": "nagame",
+      "partOfSpeech": "noun",
+      "meaning": "view",
+      "jlptLevel": "N2",
+      "exampleSentence": "部屋からの眺めが素晴らしい。",
+      "exampleTranslation": "The view from the room is wonderful.",
+      "relatedWords": [
+        "景色",
+        "眺望"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v178",
+      "kanji": "最寄り駅",
+      "kana": "もよりえき",
+      "romaji": "moyori eki",
+      "partOfSpeech": "noun",
+      "meaning": "nearest station",
+      "jlptLevel": "N2",
+      "exampleSentence": "最寄り駅まで徒歩5分です。",
+      "exampleTranslation": "It's a 5-minute walk to the nearest station.",
+      "relatedWords": [
+        "最寄り",
+        "駅"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v179",
+      "kanji": "徒歩",
+      "kana": "とほ",
+      "romaji": "toho",
+      "partOfSpeech": "noun",
+      "meaning": "on foot, walking",
+      "jlptLevel": "N2",
+      "exampleSentence": "駅まで徒歩10分かかる。",
+      "exampleTranslation": "It takes 10 minutes on foot to the station.",
+      "relatedWords": [
+        "歩いて",
+        "歩行"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v180",
+      "kanji": "通勤時間",
+      "kana": "つうきんじかん",
+      "romaji": "tsuukin jikan",
+      "partOfSpeech": "noun",
+      "meaning": "commuting time",
+      "jlptLevel": "N2",
+      "exampleSentence": "通勤時間が30分以内がいい。",
+      "exampleTranslation": "A commuting time within 30 minutes is good.",
+      "relatedWords": [
+        "通勤",
+        "時間"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v181",
+      "kanji": "日課",
+      "kana": "にっか",
+      "romaji": "nikka",
+      "partOfSpeech": "noun",
+      "meaning": "daily routine",
+      "jlptLevel": "N2",
+      "exampleSentence": "毎朝のジョギングが日課だ。",
+      "exampleTranslation": "Morning jogging is my daily routine.",
+      "relatedWords": [
+        "日常",
+        "習慣"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v182",
+      "kanji": "習慣",
+      "kana": "しゅうかん",
+      "romaji": "shuukan",
+      "partOfSpeech": "noun",
+      "meaning": "habit, custom",
+      "jlptLevel": "N2",
+      "exampleSentence": "良い習慣を身につける。",
+      "exampleTranslation": "I acquire good habits.",
+      "relatedWords": [
+        "慣習",
+        "癖"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v183",
+      "kanji": "生活リズム",
+      "kana": "せいかつりずむ",
+      "romaji": "seikatsu rizumu",
+      "partOfSpeech": "noun",
+      "meaning": "daily rhythm, lifestyle rhythm",
+      "jlptLevel": "N2",
+      "exampleSentence": "規則正しい生活リズムを保つ。",
+      "exampleTranslation": "I maintain a regular daily rhythm.",
+      "relatedWords": [
+        "生活",
+        "リズム"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v184",
+      "kanji": "規則正しい",
+      "kana": "きそくただしい",
+      "romaji": "kisoku tadashii",
+      "partOfSpeech": "noun",
+      "meaning": "regular, orderly",
+      "jlptLevel": "N2",
+      "exampleSentence": "規則正しい生活を送る。",
+      "exampleTranslation": "I lead a regular life.",
+      "relatedWords": [
+        "整った",
+        "正しい"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v185",
+      "kanji": "不規則",
+      "kana": "ふきそく",
+      "romaji": "fukisoku",
+      "partOfSpeech": "noun",
+      "meaning": "irregular",
+      "jlptLevel": "N2",
+      "exampleSentence": "不規則な生活は体に悪い。",
+      "exampleTranslation": "An irregular lifestyle is bad for your health.",
+      "relatedWords": [
+        "不規則な",
+        "乱れた"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v186",
+      "kanji": "昼夜逆転",
+      "kana": "ちゅうやぎゃくてん",
+      "romaji": "chuuya gyakuten",
+      "partOfSpeech": "noun",
+      "meaning": "day-night reversal",
+      "jlptLevel": "N2",
+      "exampleSentence": "昼夜逆転の生活を直す。",
+      "exampleTranslation": "I correct my day-night reversed lifestyle.",
+      "relatedWords": [
+        "生活",
+        "逆転"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v187",
+      "kanji": "生活費",
+      "kana": "せいかつひ",
+      "romaji": "seikatsuhi",
+      "partOfSpeech": "noun",
+      "meaning": "living expenses",
+      "jlptLevel": "N2",
+      "exampleSentence": "生活費を節約する。",
+      "exampleTranslation": "I economize on living expenses.",
+      "relatedWords": [
+        "費用",
+        "生活"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v188",
+      "kanji": "家計",
+      "kana": "かけい",
+      "romaji": "kakei",
+      "partOfSpeech": "noun",
+      "meaning": "household budget",
+      "jlptLevel": "N2",
+      "exampleSentence": "家計を管理する。",
+      "exampleTranslation": "I manage the household budget.",
+      "relatedWords": [
+        "家計簿",
+        "生活費"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v189",
+      "kanji": "家計簿",
+      "kana": "かけいぼ",
+      "romaji": "kakeibo",
+      "partOfSpeech": "noun",
+      "meaning": "household account book",
+      "jlptLevel": "N2",
+      "exampleSentence": "家計簿をつけて支出を管理する。",
+      "exampleTranslation": "I keep a household account book to manage expenses.",
+      "relatedWords": [
+        "家計",
+        "帳簿"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v190",
+      "kanji": "光熱費",
+      "kana": "こうねつひ",
+      "romaji": "kounetsuhi",
+      "partOfSpeech": "noun",
+      "meaning": "utility costs",
+      "jlptLevel": "N2",
+      "exampleSentence": "冬は光熱費が高くなる。",
+      "exampleTranslation": "Utility costs increase in winter.",
+      "relatedWords": [
+        "電気代",
+        "ガス代"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v191",
+      "kanji": "水道代",
+      "kana": "すいどうだい",
+      "romaji": "suidoudai",
+      "partOfSpeech": "noun",
+      "meaning": "water bill",
+      "jlptLevel": "N2",
+      "exampleSentence": "節水して水道代を減らす。",
+      "exampleTranslation": "I reduce my water bill by conserving water.",
+      "relatedWords": [
+        "水道",
+        "料金"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v192",
+      "kanji": "電気代",
+      "kana": "でんきだい",
+      "romaji": "denkidai",
+      "partOfSpeech": "noun",
+      "meaning": "electricity bill",
+      "jlptLevel": "N2",
+      "exampleSentence": "エアコンで電気代がかかる。",
+      "exampleTranslation": "The air conditioner costs me in electricity.",
+      "relatedWords": [
+        "電気",
+        "料金"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v193",
+      "kanji": "ガス代",
+      "kana": "がすだい",
+      "romaji": "gasudai",
+      "partOfSpeech": "noun",
+      "meaning": "gas bill",
+      "jlptLevel": "N2",
+      "exampleSentence": "ガス代を節約する。",
+      "exampleTranslation": "I economize on the gas bill.",
+      "relatedWords": [
+        "ガス",
+        "料金"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v194",
+      "kanji": "通信費",
+      "kana": "つうしんひ",
+      "romaji": "tsuushinhi",
+      "partOfSpeech": "noun",
+      "meaning": "communication expenses",
+      "jlptLevel": "N2",
+      "exampleSentence": "スマホの通信費を見直す。",
+      "exampleTranslation": "I review my smartphone communication expenses.",
+      "relatedWords": [
+        "通信",
+        "費用"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v195",
+      "kanji": "保険料",
+      "kana": "ほけんりょう",
+      "romaji": "hokenryou",
+      "partOfSpeech": "noun",
+      "meaning": "insurance premium",
+      "jlptLevel": "N2",
+      "exampleSentence": "毎月保険料を払う。",
+      "exampleTranslation": "I pay insurance premiums every month.",
+      "relatedWords": [
+        "保険",
+        "料金"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v196",
+      "kanji": "税金",
+      "kana": "ぜいきん",
+      "romaji": "zeikin",
+      "partOfSpeech": "noun",
+      "meaning": "tax",
+      "jlptLevel": "N2",
+      "exampleSentence": "税金を納める。",
+      "exampleTranslation": "I pay taxes.",
+      "relatedWords": [
+        "課税",
+        "納税"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v197",
+      "kanji": "住民税",
+      "kana": "じゅうみんぜい",
+      "romaji": "juuminzei",
+      "partOfSpeech": "noun",
+      "meaning": "resident tax",
+      "jlptLevel": "N2",
+      "exampleSentence": "住民税の通知が来た。",
+      "exampleTranslation": "A resident tax notice arrived.",
+      "relatedWords": [
+        "税金",
+        "地方税"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v198",
+      "kanji": "所得税",
+      "kana": "しょとくぜい",
+      "romaji": "shotokuzei",
+      "partOfSpeech": "noun",
+      "meaning": "income tax",
+      "jlptLevel": "N2",
+      "exampleSentence": "所得税が給料から天引きされる。",
+      "exampleTranslation": "Income tax is deducted from my salary.",
+      "relatedWords": [
+        "税金",
+        "国税"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v199",
+      "kanji": "年末調整",
+      "kana": "ねんまつちょうせい",
+      "romaji": "nenmatsu chousei",
+      "partOfSpeech": "noun",
+      "meaning": "year-end tax adjustment",
+      "jlptLevel": "N2",
+      "exampleSentence": "会社で年末調整の手続きをする。",
+      "exampleTranslation": "I do the year-end tax adjustment procedures at the company.",
+      "relatedWords": [
+        "税金",
+        "調整"
+      ],
+      "notes": "Daily life vocabulary"
+    },
+    {
+      "id": "v200",
+      "kanji": "確定申告",
+      "kana": "かくていしんこく",
+      "romaji": "kakutei shinkoku",
+      "partOfSpeech": "noun",
+      "meaning": "final tax return",
+      "jlptLevel": "N2",
+      "exampleSentence": "フリーランスなので確定申告をする。",
+      "exampleTranslation": "I file a final tax return because I'm freelance.",
+      "relatedWords": [
+        "税金",
+        "申告"
+      ],
+      "notes": "Daily life vocabulary"
     }
   ]
 }

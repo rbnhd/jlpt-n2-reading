@@ -13,7 +13,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "新しい企画を提案しました。",
       "exampleTranslation": "I proposed a new project.",
-      "relatedWords": ["計画", "案", "提案"],
+      "relatedWords": [
+        "計画",
+        "案",
+        "提案"
+      ],
       "notes": "Common in business contexts"
     },
     {
@@ -26,7 +30,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "営業部で働いています。",
       "exampleTranslation": "I work in the sales department.",
-      "relatedWords": ["販売", "商売", "営業マン"],
+      "relatedWords": [
+        "販売",
+        "商売",
+        "営業マン"
+      ],
       "notes": "Can also mean business hours when used as 営業時間"
     },
     {
@@ -39,7 +47,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "その会社との取引は順調です。",
       "exampleTranslation": "Business dealings with that company are going smoothly.",
-      "relatedWords": ["商談", "契約", "交渉"],
+      "relatedWords": [
+        "商談",
+        "契約",
+        "交渉"
+      ],
       "notes": "取引先 means business partner/client"
     },
     {
@@ -52,7 +64,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今年の業績は良好です。",
       "exampleTranslation": "This year's business performance is good.",
-      "relatedWords": ["成績", "実績", "成果"],
+      "relatedWords": [
+        "成績",
+        "実績",
+        "成果"
+      ],
       "notes": "Often used in financial reports"
     },
     {
@@ -65,7 +81,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "経営状態が改善しました。",
       "exampleTranslation": "The management situation has improved.",
-      "relatedWords": ["運営", "管理", "経営者"],
+      "relatedWords": [
+        "運営",
+        "管理",
+        "経営者"
+      ],
       "notes": "経営者 means manager/executive"
     },
     {
@@ -78,7 +98,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "新しい契約を結びました。",
       "exampleTranslation": "I signed a new contract.",
-      "relatedWords": ["取引", "合意", "条約"],
+      "relatedWords": [
+        "取引",
+        "合意",
+        "条約"
+      ],
       "notes": "契約書 (keiyakusho) means contract document."
     },
     {
@@ -91,7 +115,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この事業は大きな利益を生んだ。",
       "exampleTranslation": "This business generated a large profit.",
-      "relatedWords": ["儲け", "収益", "損失"],
+      "relatedWords": [
+        "儲け",
+        "収益",
+        "損失"
+      ],
       "notes": "The opposite is 損失 (sonshitsu), meaning loss."
     },
     {
@@ -104,7 +132,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "旅行の費用はいくらですか。",
       "exampleTranslation": "How much is the cost of the trip?",
-      "relatedWords": ["コスト", "経費", "出費"],
+      "relatedWords": [
+        "コスト",
+        "経費",
+        "出費"
+      ],
       "notes": "Often used for project or production costs."
     },
     {
@@ -117,7 +149,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "本社の決定に従います。",
       "exampleTranslation": "We will follow the decision of the head office.",
-      "relatedWords": ["支社", "本店", "本部"],
+      "relatedWords": [
+        "支社",
+        "本店",
+        "本部"
+      ],
       "notes": "The opposite is 支社 (shisha), meaning branch office."
     },
     {
@@ -130,7 +166,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "顧客の満足度を向上させることが重要です。",
       "exampleTranslation": "It is important to improve customer satisfaction.",
-      "relatedWords": ["客", "得意先", "クライアント"],
+      "relatedWords": [
+        "客",
+        "得意先",
+        "クライアント"
+      ],
       "notes": "A more formal term than お客さん (okyakusan)."
     },
     {
@@ -143,7 +183,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "不動産への投資を考えています。",
       "exampleTranslation": "I am considering investing in real estate.",
-      "relatedWords": ["出資", "資金", "投資家"],
+      "relatedWords": [
+        "出資",
+        "資金",
+        "投資家"
+      ],
       "notes": "投資家 (toushika) means investor."
     },
     {
@@ -156,7 +200,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "新しいソフトウェアを開発中です。",
       "exampleTranslation": "We are currently developing new software.",
-      "relatedWords": ["発展", "研究", "製品開発"],
+      "relatedWords": [
+        "発展",
+        "研究",
+        "製品開発"
+      ],
       "notes": "Used for product development, resource development, etc."
     },
     {
@@ -169,7 +217,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "海外市場に進出する計画です。",
       "exampleTranslation": "We plan to expand into overseas markets.",
-      "relatedWords": ["マーケット", "株式市場", "需要"],
+      "relatedWords": [
+        "マーケット",
+        "株式市場",
+        "需要"
+      ],
       "notes": "Can refer to a physical market (ichiba) or an economic market (shijou)."
     },
     {
@@ -182,7 +234,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "市場での競争は激しいです。",
       "exampleTranslation": "The competition in the market is fierce.",
-      "relatedWords": ["争い", "競合", "ライバル"],
+      "relatedWords": [
+        "争い",
+        "競合",
+        "ライバル"
+      ],
       "notes": "競合 (kyougou) is a common synonym in business."
     },
     {
@@ -195,7 +251,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "テレビで新しい製品の広告を見た。",
       "exampleTranslation": "I saw an advertisement for the new product on TV.",
-      "relatedWords": ["宣伝", "CM", "広告代理店"],
+      "relatedWords": [
+        "宣伝",
+        "CM",
+        "広告代理店"
+      ],
       "notes": "広告代理店 (koukoku dairiten) is an advertising agency."
     },
     {
@@ -208,7 +268,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この失敗は私の責任です。",
       "exampleTranslation": "This failure is my responsibility.",
-      "relatedWords": ["義務", "担当", "無責任"],
+      "relatedWords": [
+        "義務",
+        "担当",
+        "無責任"
+      ],
       "notes": "責任感 (sekininkan) means sense of responsibility."
     },
     {
@@ -221,7 +285,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "価格について交渉する余地があります。",
       "exampleTranslation": "There is room to negotiate the price.",
-      "relatedWords": ["話し合い", "商談", "取引"],
+      "relatedWords": [
+        "話し合い",
+        "商談",
+        "取引"
+      ],
       "notes": "Often used in diplomacy and business deals."
     },
     {
@@ -234,7 +302,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "会議の結果を上司に報告した。",
       "exampleTranslation": "I reported the results of the meeting to my boss.",
-      "relatedWords": ["連絡", "相談", "報告書"],
+      "relatedWords": [
+        "連絡",
+        "相談",
+        "報告書"
+      ],
       "notes": "報告書 (houkokusho) is a written report."
     },
     {
@@ -247,7 +319,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "明日の午後は会議の予定です。",
       "exampleTranslation": "There is a meeting scheduled for tomorrow afternoon.",
-      "relatedWords": ["打ち合わせ", "ミーティング", "議事録"],
+      "relatedWords": [
+        "打ち合わせ",
+        "ミーティング",
+        "議事録"
+      ],
       "notes": "議事録 (gijiroku) are the minutes of a meeting."
     },
     {
@@ -260,7 +336,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "会議で使う資料を準備してください。",
       "exampleTranslation": "Please prepare the materials for the meeting.",
-      "relatedWords": ["データ", "書類", "文献"],
+      "relatedWords": [
+        "データ",
+        "書類",
+        "文献"
+      ],
       "notes": "A very general term for documents or data for reference."
     },
     {
@@ -273,7 +353,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "給料が上がって嬉しいです。",
       "exampleTranslation": "I'm happy my salary went up.",
-      "relatedWords": ["賃金", "月給", "ボーナス"],
+      "relatedWords": [
+        "賃金",
+        "月給",
+        "ボーナス"
+      ],
       "notes": "月給 (gekkyuu) is monthly salary."
     },
     {
@@ -286,7 +370,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼は課長に昇進した。",
       "exampleTranslation": "He was promoted to section manager.",
-      "relatedWords": ["出世", "昇格", "降格"],
+      "relatedWords": [
+        "出世",
+        "昇格",
+        "降格"
+      ],
       "notes": "The opposite is 降格 (koukaku), demotion."
     },
     {
@@ -299,7 +387,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今月の売上目標を達成した。",
       "exampleTranslation": "I achieved this month's sales target.",
-      "relatedWords": ["目的", "ゴール", "目指す"],
+      "relatedWords": [
+        "目的",
+        "ゴール",
+        "目指す"
+      ],
       "notes": "目的 (mokuteki) is a broader 'purpose', while 目標 is a concrete 'target'."
     },
     {
@@ -312,7 +404,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この会社は高品質な製品で有名です。",
       "exampleTranslation": "This company is famous for its high-quality products.",
-      "relatedWords": ["商品", "グッズ", "製造"],
+      "relatedWords": [
+        "商品",
+        "グッズ",
+        "製造"
+      ],
       "notes": "商品 (shouhin) is 'merchandise' for sale, while 製品 is 'manufactured goods'."
     },
     {
@@ -325,7 +421,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "私たちは製品の品質を保証します。",
       "exampleTranslation": "We guarantee the quality of our products.",
-      "relatedWords": ["質", "クオリティ", "品質管理"],
+      "relatedWords": [
+        "質",
+        "クオリティ",
+        "品質管理"
+      ],
       "notes": "品質管理 (hinshitsu kanri) is quality control."
     },
     {
@@ -338,7 +438,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "新しいビジネスモデルを提案します。",
       "exampleTranslation": "I propose a new business model.",
-      "relatedWords": ["企画", "案", "申し出"],
+      "relatedWords": [
+        "企画",
+        "案",
+        "申し出"
+      ],
       "notes": "Often used in the context of suggesting a new idea or plan."
     },
     {
@@ -351,7 +455,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "来年度の予算を立てる必要があります。",
       "exampleTranslation": "We need to create the budget for the next fiscal year.",
-      "relatedWords": ["費用", "経費", "予算案"],
+      "relatedWords": [
+        "費用",
+        "経費",
+        "予算案"
+      ],
       "notes": "予算案 (yosan'an) is a budget proposal."
     },
     {
@@ -364,7 +472,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "長期的な経営戦略を見直す。",
       "exampleTranslation": "We will review our long-term management strategy.",
-      "relatedWords": ["戦術", "計画", "マーケティング戦略"],
+      "relatedWords": [
+        "戦術",
+        "計画",
+        "マーケティング戦略"
+      ],
       "notes": "Originally a military term, now widely used in business."
     },
     {
@@ -377,7 +489,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "市場のデータを分析して、次の手を考える。",
       "exampleTranslation": "We will analyze the market data and consider our next move.",
-      "relatedWords": ["解析", "検討", "調査"],
+      "relatedWords": [
+        "解析",
+        "検討",
+        "調査"
+      ],
       "notes": "データ分析 (deeta bunseki) is data analysis."
     },
     {
@@ -390,7 +506,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この製品に対する需要が高い。",
       "exampleTranslation": "There is high demand for this product.",
-      "relatedWords": ["供給", "ニーズ", "要求"],
+      "relatedWords": [
+        "供給",
+        "ニーズ",
+        "要求"
+      ],
       "notes": "The opposite is 供給 (kyoukyuu), supply. (需要と供給 - demand and supply)"
     },
     {
@@ -403,7 +523,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "電力の供給が追いつかない。",
       "exampleTranslation": "The electricity supply cannot keep up.",
-      "relatedWords": ["需要", "提供", "配給"],
+      "relatedWords": [
+        "需要",
+        "提供",
+        "配給"
+      ],
       "notes": "The opposite is 需要 (juyou), demand."
     },
     {
@@ -416,7 +540,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この工場では自動車部品を製造している。",
       "exampleTranslation": "This factory manufactures automobile parts.",
-      "relatedWords": ["生産", "製作", "メーカー"],
+      "relatedWords": [
+        "生産",
+        "製作",
+        "メーカー"
+      ],
       "notes": "製造業 (seizougyou) is the manufacturing industry."
     },
     {
@@ -429,7 +557,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "日本は多くの自動車を輸出している。",
       "exampleTranslation": "Japan exports many cars.",
-      "relatedWords": ["輸入", "貿易", "海外"],
+      "relatedWords": [
+        "輸入",
+        "貿易",
+        "海外"
+      ],
       "notes": "The opposite is 輸入 (yunyuu), import."
     },
     {
@@ -442,7 +574,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "多くの食料を海外から輸入している。",
       "exampleTranslation": "We import a lot of food from overseas.",
-      "relatedWords": ["輸出", "貿易", "国内"],
+      "relatedWords": [
+        "輸出",
+        "貿易",
+        "国内"
+      ],
       "notes": "The opposite is 輸出 (yushutsu), export."
     },
     {
@@ -455,7 +591,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼は財務の専門家だ。",
       "exampleTranslation": "He is a specialist in financial affairs.",
-      "relatedWords": ["会計", "経理", "財政"],
+      "relatedWords": [
+        "会計",
+        "経理",
+        "財政"
+      ],
       "notes": "財務省 (zaimushou) is the Ministry of Finance."
     },
     {
@@ -468,7 +608,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "人事部が新しい社員の採用を担当する。",
       "exampleTranslation": "The HR department is in charge of hiring new employees.",
-      "relatedWords": ["人材", "採用", "異動"],
+      "relatedWords": [
+        "人材",
+        "採用",
+        "異動"
+      ],
       "notes": "人事異動 (jinji idou) is personnel transfer/reshuffle."
     },
     {
@@ -481,7 +625,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "会社の総資産を計算する。",
       "exampleTranslation": "We will calculate the company's total assets.",
-      "relatedWords": ["財産", "負債", "不動産"],
+      "relatedWords": [
+        "財産",
+        "負債",
+        "不動産"
+      ],
       "notes": "The opposite is 負債 (fusai), liabilities/debt."
     },
     {
@@ -494,7 +642,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "その会社は多額の負債を抱えている。",
       "exampleTranslation": "That company has a large amount of debt.",
-      "relatedWords": ["借金", "資産", "債務"],
+      "relatedWords": [
+        "借金",
+        "資産",
+        "債務"
+      ],
       "notes": "The opposite is 資産 (shisan), assets."
     },
     {
@@ -507,7 +659,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "その会社の株価が急上昇した。",
       "exampleTranslation": "That company's stock price soared.",
-      "relatedWords": ["株式", "株主", "証券"],
+      "relatedWords": [
+        "株式",
+        "株主",
+        "証券"
+      ],
       "notes": "株主 (kabunushi) is a shareholder."
     },
     {
@@ -520,7 +676,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "最近、景気が少しずつ回復している。",
       "exampleTranslation": "Recently, the economy has been recovering little by little.",
-      "relatedWords": ["経済", "好況", "不況"],
+      "relatedWords": [
+        "経済",
+        "好況",
+        "不況"
+      ],
       "notes": "好景気 (koukeiki) means good economy/boom, 不景気 (fukeiki) means bad economy/recession."
     },
     {
@@ -533,7 +693,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "物流システムを改善してコストを削減する。",
       "exampleTranslation": "We will improve the logistics system to reduce costs.",
-      "relatedWords": ["輸送", "配送", "倉庫"],
+      "relatedWords": [
+        "輸送",
+        "配送",
+        "倉庫"
+      ],
       "notes": "A key component of supply chain management."
     },
     {
@@ -546,7 +710,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "小売業の競争は厳しい。",
       "exampleTranslation": "Competition in the retail industry is tough.",
-      "relatedWords": ["卸売", "販売", "店舗"],
+      "relatedWords": [
+        "卸売",
+        "販売",
+        "店舗"
+      ],
       "notes": "The opposite is 卸売 (oroshiuri), wholesale."
     },
     {
@@ -559,7 +727,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "卸売価格で商品を仕入れる。",
       "exampleTranslation": "We purchase products at a wholesale price.",
-      "relatedWords": ["小売", "問屋", "業者"],
+      "relatedWords": [
+        "小売",
+        "問屋",
+        "業者"
+      ],
       "notes": "The opposite is 小売 (kouri), retail."
     },
     {
@@ -572,7 +744,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "最近、IT業界でM&Aが活発だ。",
       "exampleTranslation": "Recently, M&A has been active in the IT industry.",
-      "relatedWords": ["合併", "買収", "企業"],
+      "relatedWords": [
+        "合併",
+        "買収",
+        "企業"
+      ],
       "notes": "Stands for Mergers and Acquisitions."
     },
     {
@@ -585,7 +761,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "海外企業との合弁会社を設立した。",
       "exampleTranslation": "We established a joint venture with a foreign company.",
-      "relatedWords": ["共同", "提携", "合弁事業"],
+      "relatedWords": [
+        "共同",
+        "提携",
+        "合弁事業"
+      ],
       "notes": "Often as 合弁会社 (gouben gaisha) or 合弁事業 (gouben jigyou)."
     },
     {
@@ -598,7 +778,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "新しい技術で特許を取得した。",
       "exampleTranslation": "We obtained a patent for the new technology.",
-      "relatedWords": ["発明", "権利", "知的財産"],
+      "relatedWords": [
+        "発明",
+        "権利",
+        "知的財産"
+      ],
       "notes": "特許庁 (tokkyochou) is the Patent Office."
     },
     {
@@ -611,7 +795,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この会社は福利厚生が充実している。",
       "exampleTranslation": "This company has a good employee benefits package.",
-      "relatedWords": ["手当", "社会保険", "有給休暇"],
+      "relatedWords": [
+        "手当",
+        "社会保険",
+        "有給休暇"
+      ],
       "notes": "A key factor for job seekers in Japan."
     },
     {
@@ -624,7 +812,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "会社に履歴書を送付した。",
       "exampleTranslation": "I sent my resume to the company.",
-      "relatedWords": ["職務経歴書", "応募", "面接"],
+      "relatedWords": [
+        "職務経歴書",
+        "応募",
+        "面接"
+      ],
       "notes": "職務経歴書 (shokumu keirekisho) is a detailed work history, often submitted with the 履歴書."
     },
     {
@@ -637,7 +829,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "明日は第一志望の会社の面接がある。",
       "exampleTranslation": "Tomorrow I have an interview with my first-choice company.",
-      "relatedWords": ["採用", "履歴書", "志望動機"],
+      "relatedWords": [
+        "採用",
+        "履歴書",
+        "志望動機"
+      ],
       "notes": "A crucial part of the Japanese job-hunting process (就活)."
     },
     {
@@ -650,7 +846,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "新卒を10名採用する予定だ。",
       "exampleTranslation": "We plan to hire 10 new graduates.",
-      "relatedWords": ["雇用", "募集", "不採用"],
+      "relatedWords": [
+        "雇用",
+        "募集",
+        "不採用"
+      ],
       "notes": "The opposite is 不採用 (fusaiyou), non-adoption/rejection."
     },
     {
@@ -663,7 +863,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "来月末で会社を退職することにした。",
       "exampleTranslation": "I have decided to resign from the company at the end of next month.",
-      "relatedWords": ["辞職", "定年", "退職金"],
+      "relatedWords": [
+        "辞職",
+        "定年",
+        "退職金"
+      ],
       "notes": "定年退職 (teinen taishoku) is mandatory retirement at a certain age."
     },
     {
@@ -676,7 +880,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "来週、大阪へ出張します。",
       "exampleTranslation": "I will go on a business trip to Osaka next week.",
-      "relatedWords": ["赴任", "海外出張", "日帰り"],
+      "relatedWords": [
+        "赴任",
+        "海外出張",
+        "日帰り"
+      ],
       "notes": "A common activity for Japanese salarymen."
     },
     {
@@ -689,7 +897,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "勤務時間は午前9時から午後5時までです。",
       "exampleTranslation": "Working hours are from 9 AM to 5 PM.",
-      "relatedWords": ["労働", "仕事", "勤務地"],
+      "relatedWords": [
+        "労働",
+        "仕事",
+        "勤務地"
+      ],
       "notes": "勤務地 (kinmuchi) means place of work."
     },
     {
@@ -702,7 +914,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この仕事には十分な報酬が支払われる。",
       "exampleTranslation": "This job pays adequate remuneration.",
-      "relatedWords": ["給料", "対価", "ボーナス"],
+      "relatedWords": [
+        "給料",
+        "対価",
+        "ボーナス"
+      ],
       "notes": "A more formal term than 給料, can include bonuses and other compensation."
     },
     {
@@ -715,7 +931,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "注文された商品を明日納品します。",
       "exampleTranslation": "We will deliver the ordered products tomorrow.",
-      "relatedWords": ["配達", "出荷", "納期"],
+      "relatedWords": [
+        "配達",
+        "出荷",
+        "納期"
+      ],
       "notes": "納期 (nouki) is the delivery deadline."
     },
     {
@@ -728,7 +948,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "請求書を発行していただけますか。",
       "exampleTranslation": "Could you please issue an invoice?",
-      "relatedWords": ["領収書", "支払い", "会計"],
+      "relatedWords": [
+        "領収書",
+        "支払い",
+        "会計"
+      ],
       "notes": "領収書 (ryoushuusho) is a receipt."
     },
     {
@@ -741,7 +965,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "経費で精算するために領収書が必要です。",
       "exampleTranslation": "I need a receipt to get reimbursed for the expense.",
-      "relatedWords": ["請求書", "レシート", "証明"],
+      "relatedWords": [
+        "請求書",
+        "レシート",
+        "証明"
+      ],
       "notes": "Often requested for business expense claims."
     },
     {
@@ -754,7 +982,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "年に一度、株主総会が開かれます。",
       "exampleTranslation": "A general shareholders' meeting is held once a year.",
-      "relatedWords": ["株主", "取締役会", "決議"],
+      "relatedWords": [
+        "株主",
+        "取締役会",
+        "決議"
+      ],
       "notes": "An important event for publicly traded companies."
     },
     {
@@ -767,7 +999,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "重要な方針は取締役会で決定される。",
       "exampleTranslation": "Important policies are decided at the board of directors meeting.",
-      "relatedWords": ["役員", "経営陣", "議長"],
+      "relatedWords": [
+        "役員",
+        "経営陣",
+        "議長"
+      ],
       "notes": "The top decision-making body in a company."
     },
     {
@@ -780,7 +1016,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "A社と業務提携を結ぶことになった。",
       "exampleTranslation": "We have decided to form a business alliance with Company A.",
-      "relatedWords": ["協力", "連携", "合弁"],
+      "relatedWords": [
+        "協力",
+        "連携",
+        "合弁"
+      ],
       "notes": "業務提携 (gyoumu teikei) is a business alliance."
     },
     {
@@ -793,7 +1033,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "クレジットカードで決済できますか。",
       "exampleTranslation": "Can I make a payment with a credit card?",
-      "relatedWords": ["支払い", "清算", "電子決済"],
+      "relatedWords": [
+        "支払い",
+        "清算",
+        "電子決済"
+      ],
       "notes": "電子決済 (denshi kessai) is electronic payment."
     },
     {
@@ -806,7 +1050,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼は金融業界で働いている。",
       "exampleTranslation": "He works in the financial industry.",
-      "relatedWords": ["銀行", "証券", "保険"],
+      "relatedWords": [
+        "銀行",
+        "証券",
+        "保険"
+      ],
       "notes": "金融機関 (kin'yuu kikan) is a financial institution."
     },
     {
@@ -819,7 +1067,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "不動産投資にはリスクが伴う。",
       "exampleTranslation": "Real estate investment comes with risks.",
-      "relatedWords": ["物件", "家賃", "土地"],
+      "relatedWords": [
+        "物件",
+        "家賃",
+        "土地"
+      ],
       "notes": "不動産屋 (fudousan'ya) is a real estate agent."
     },
     {
@@ -832,7 +1084,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "万一に備えて、生命保険に加入した。",
       "exampleTranslation": "I took out life insurance just in case.",
-      "relatedWords": ["生命保険", "損害保険", "保険金"],
+      "relatedWords": [
+        "生命保険",
+        "損害保険",
+        "保険金"
+      ],
       "notes": "保険金 (hokenkin) is insurance money/payout."
     },
     {
@@ -845,7 +1101,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "所得に応じて税金を納める義務がある。",
       "exampleTranslation": "There is an obligation to pay taxes according to your income.",
-      "relatedWords": ["消費税", "所得税", "納税"],
+      "relatedWords": [
+        "消費税",
+        "所得税",
+        "納税"
+      ],
       "notes": "消費税 (shouhizei) is consumption tax, 所得税 (shotokuzei) is income tax."
     },
     {
@@ -858,7 +1118,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "専門家に資産運用を任せている。",
       "exampleTranslation": "I have entrusted my asset management to a professional.",
-      "relatedWords": ["投資", "ポートフォリオ", "金融商品"],
+      "relatedWords": [
+        "投資",
+        "ポートフォリオ",
+        "金融商品"
+      ],
       "notes": "A broad term for managing investments."
     },
     {
@@ -871,7 +1135,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "企業はコンプライアンスを遵守しなければならない。",
       "exampleTranslation": "Companies must adhere to compliance.",
-      "relatedWords": ["法令遵守", "規則", "倫理"],
+      "relatedWords": [
+        "法令遵守",
+        "規則",
+        "倫理"
+      ],
       "notes": "Refers to following laws, regulations, and internal rules."
     },
     {
@@ -884,7 +1152,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "新しいマーケティング戦略を立てる。",
       "exampleTranslation": "We will create a new marketing strategy.",
-      "relatedWords": ["市場調査", "広告", "販売促進"],
+      "relatedWords": [
+        "市場調査",
+        "広告",
+        "販売促進"
+      ],
       "notes": "Covers all activities to promote the buying or selling of a product or service."
     },
     {
@@ -897,7 +1169,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "そのブランドは高い信頼を得ている。",
       "exampleTranslation": "That brand has earned high trust.",
-      "relatedWords": ["商標", "イメージ", "高級ブランド"],
+      "relatedWords": [
+        "商標",
+        "イメージ",
+        "高級ブランド"
+      ],
       "notes": "Refers to the name, term, design, or symbol that identifies a seller's goods or services."
     },
     {
@@ -910,7 +1186,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "知的財産権を保護することが重要だ。",
       "exampleTranslation": "It is important to protect intellectual property rights.",
-      "relatedWords": ["特許", "著作権", "商標"],
+      "relatedWords": [
+        "特許",
+        "著作権",
+        "商標"
+      ],
       "notes": "Often abbreviated as 知財 (chizai)."
     },
     {
@@ -923,7 +1203,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この画像は著作権で保護されています。",
       "exampleTranslation": "This image is protected by copyright.",
-      "relatedWords": ["知的財産", "権利", "侵害"],
+      "relatedWords": [
+        "知的財産",
+        "権利",
+        "侵害"
+      ],
       "notes": "著作権侵害 (chosakuken shingai) is copyright infringement."
     },
     {
@@ -936,7 +1220,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼はIT分野で起業した。",
       "exampleTranslation": "He started a business in the IT field.",
-      "relatedWords": ["創業", "ベンチャー", "起業家"],
+      "relatedWords": [
+        "創業",
+        "ベンチャー",
+        "起業家"
+      ],
       "notes": "起業家 (kigyouka) is an entrepreneur."
     },
     {
@@ -949,7 +1237,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "ベンチャー企業への投資が増えている。",
       "exampleTranslation": "Investment in venture companies is increasing.",
-      "relatedWords": ["スタートアップ", "起業", "新興企業"],
+      "relatedWords": [
+        "スタートアップ",
+        "起業",
+        "新興企業"
+      ],
       "notes": "Refers to a new business with high growth potential."
     },
     {
@@ -962,7 +1254,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "新しいプロジェクトのために資金調達が必要だ。",
       "exampleTranslation": "We need to raise funds for the new project.",
-      "relatedWords": ["投資", "融資", "クラウドファンディング"],
+      "relatedWords": [
+        "投資",
+        "融資",
+        "クラウドファンディング"
+      ],
       "notes": "A critical step for startups."
     },
     {
@@ -975,7 +1271,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "銀行から事業拡大のための融資を受けた。",
       "exampleTranslation": "We received a loan from the bank for business expansion.",
-      "relatedWords": ["貸付", "ローン", "資金"],
+      "relatedWords": [
+        "貸付",
+        "ローン",
+        "資金"
+      ],
       "notes": "Typically refers to loans from financial institutions."
     },
     {
@@ -988,7 +1288,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "3月末に年度末決算を発表する。",
       "exampleTranslation": "We will announce the fiscal year-end financial results at the end of March.",
-      "relatedWords": ["会計報告", "財務諸表", "赤字決算"],
+      "relatedWords": [
+        "会計報告",
+        "財務諸表",
+        "赤字決算"
+      ],
       "notes": "決算セール (kessan seeru) is a clearance sale at the end of a fiscal period."
     },
     {
@@ -1001,7 +1305,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今期は赤字になる見込みだ。",
       "exampleTranslation": "We expect to be in the red this fiscal period.",
-      "relatedWords": ["黒字", "損失", "不振"],
+      "relatedWords": [
+        "黒字",
+        "損失",
+        "不振"
+      ],
       "notes": "The opposite is 黒字 (kuroji), surplus/'in the black'."
     },
     {
@@ -1014,7 +1322,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "努力の結果、会社は黒字に転じた。",
       "exampleTranslation": "As a result of our efforts, the company turned a profit.",
-      "relatedWords": ["赤字", "利益", "好調"],
+      "relatedWords": [
+        "赤字",
+        "利益",
+        "好調"
+      ],
       "notes": "The opposite is 赤字 (akaji), deficit/'in the red'."
     },
     {
@@ -1027,7 +1339,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "為替相場は常に変動している。",
       "exampleTranslation": "The exchange rate is always fluctuating.",
-      "relatedWords": ["価格", "レート", "株式相場"],
+      "relatedWords": [
+        "価格",
+        "レート",
+        "株式相場"
+      ],
       "notes": "Can refer to stock market, currency market, or even the 'going rate' for something."
     },
     {
@@ -1040,7 +1356,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "海外送金は為替レートに注意が必要だ。",
       "exampleTranslation": "You need to be careful about the exchange rate for overseas remittances.",
-      "relatedWords": ["円高", "円安", "外貨"],
+      "relatedWords": [
+        "円高",
+        "円安",
+        "外貨"
+      ],
       "notes": "Often as 外国為替 (gaikoku kawase)."
     },
     {
@@ -1053,7 +1373,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "円高は輸出企業にとって不利だ。",
       "exampleTranslation": "A strong yen is disadvantageous for exporting companies.",
-      "relatedWords": ["円安", "為替", "経済"],
+      "relatedWords": [
+        "円安",
+        "為替",
+        "経済"
+      ],
       "notes": "The opposite is 円安 (en'yasu), weak yen."
     },
     {
@@ -1066,7 +1390,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "円安のため、輸入品の価格が上がった。",
       "exampleTranslation": "The price of imported goods has risen due to the weak yen.",
-      "relatedWords": ["円高", "為替", "物価"],
+      "relatedWords": [
+        "円高",
+        "為替",
+        "物価"
+      ],
       "notes": "The opposite is 円高 (endaka), strong yen."
     },
     {
@@ -1079,7 +1407,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "インフレが進行し、物価が上昇している。",
       "exampleTranslation": "Inflation is progressing, and prices are rising.",
-      "relatedWords": ["デフレ", "物価", "経済"],
+      "relatedWords": [
+        "デフレ",
+        "物価",
+        "経済"
+      ],
       "notes": "Short for インフレーション (infureeshon). The opposite is デフレ (defure)."
     },
     {
@@ -1092,7 +1424,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "長引くデフレが経済に影響を与えている。",
       "exampleTranslation": "Prolonged deflation is affecting the economy.",
-      "relatedWords": ["インフレ", "物価", "不況"],
+      "relatedWords": [
+        "インフレ",
+        "物価",
+        "不況"
+      ],
       "notes": "Short for デフレーション (defureeshon). The opposite is インフレ (infure)."
     },
     {
@@ -1105,7 +1441,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "徹底したリスク管理がプロジェクトの成功につながる。",
       "exampleTranslation": "Thorough risk management leads to project success.",
-      "relatedWords": ["危機管理", "安全", "対策"],
+      "relatedWords": [
+        "危機管理",
+        "安全",
+        "対策"
+      ],
       "notes": "An essential part of modern business strategy."
     },
     {
@@ -1118,7 +1458,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "コスト削減のため、一部の業務をアウトソーシングしている。",
       "exampleTranslation": "We are outsourcing some of our operations to reduce costs.",
-      "relatedWords": ["外部委託", "委託", "業務"],
+      "relatedWords": [
+        "外部委託",
+        "委託",
+        "業務"
+      ],
       "notes": "The practice of hiring an outside party to perform services."
     },
     {
@@ -1131,7 +1475,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "両社は戦略的アライアンスを結んだ。",
       "exampleTranslation": "The two companies formed a strategic alliance.",
-      "relatedWords": ["提携", "協力", "パートナーシップ"],
+      "relatedWords": [
+        "提携",
+        "協力",
+        "パートナーシップ"
+      ],
       "notes": "Similar to 提携 (teikei) but often implies a closer, more strategic relationship."
     },
     {
@@ -1144,7 +1492,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "明日の会議で新製品のプレゼンテーションを行う。",
       "exampleTranslation": "I will give a presentation on the new product at tomorrow's meeting.",
-      "relatedWords": ["発表", "説明", "プレゼン"],
+      "relatedWords": [
+        "発表",
+        "説明",
+        "プレゼン"
+      ],
       "notes": "Often shortened to プレゼン (purezen)."
     },
     {
@@ -1157,7 +1509,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この製品は市場で高いシェアを誇っている。",
       "exampleTranslation": "This product boasts a high share in the market.",
-      "relatedWords": ["市場占有率", "割合", "占める"],
+      "relatedWords": [
+        "市場占有率",
+        "割合",
+        "占める"
+      ],
       "notes": "Almost always refers to market share (市場シェア)."
     },
     {
@@ -1170,7 +1526,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "顧客のニーズに応えることが我々の使命だ。",
       "exampleTranslation": "It is our mission to meet the needs of our customers.",
-      "relatedWords": ["需要", "要求", "要望"],
+      "relatedWords": [
+        "需要",
+        "要求",
+        "要望"
+      ],
       "notes": "Refers to the desires or requirements of a customer."
     },
     {
@@ -1183,7 +1543,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "我々には長年培った製造ノウハウがある。",
       "exampleTranslation": "We have manufacturing know-how cultivated over many years.",
-      "relatedWords": ["技術", "知識", "専門知識"],
+      "relatedWords": [
+        "技術",
+        "知識",
+        "専門知識"
+      ],
       "notes": "Practical knowledge and skills required to do something."
     },
     {
@@ -1196,7 +1560,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼は競合他社からヘッドハンティングされた。",
       "exampleTranslation": "He was headhunted from a rival company.",
-      "relatedWords": ["引き抜き", "スカウト", "人材"],
+      "relatedWords": [
+        "引き抜き",
+        "スカウト",
+        "人材"
+      ],
       "notes": "The practice of recruiting senior executives from other companies."
     },
     {
@@ -1209,7 +1577,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "不況のため、会社はリストラを余儀なくされた。",
       "exampleTranslation": "Due to the recession, the company was forced to restructure.",
-      "relatedWords": ["再構築", "人員削減", "解雇"],
+      "relatedWords": [
+        "再構築",
+        "人員削減",
+        "解雇"
+      ],
       "notes": "Short for リストラクチャリング (risutorakucharingu). In Japan, it strongly implies layoffs."
     },
     {
@@ -1222,7 +1594,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "特許の使用料としてロイヤルティーを支払う。",
       "exampleTranslation": "We pay royalties as a usage fee for the patent.",
-      "relatedWords": ["使用料", "権利金", "印税"],
+      "relatedWords": [
+        "使用料",
+        "権利金",
+        "印税"
+      ],
       "notes": "Payment made for the use of a patent, copyright, or franchise."
     },
     {
@@ -1235,7 +1611,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "会議の前に、関係者に根回しをしておいた。",
       "exampleTranslation": "Before the meeting, I did some groundwork with the people involved.",
-      "relatedWords": ["下準備", "交渉", "調整"],
+      "relatedWords": [
+        "下準備",
+        "交渉",
+        "調整"
+      ],
       "notes": "A unique Japanese business practice of informal consensus-building before a formal decision is made."
     },
     {
@@ -1248,7 +1628,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "新しいPCを購入するために稟議書を回した。",
       "exampleTranslation": "I circulated a request for approval to purchase a new PC.",
-      "relatedWords": ["決裁", "承認", "申請"],
+      "relatedWords": [
+        "決裁",
+        "承認",
+        "申請"
+      ],
       "notes": "A document used in the 'ringi' system, where a proposal is passed around to relevant managers for their stamps of approval."
     },
     {
@@ -1261,7 +1645,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今夜は大切な取引先を接待する予定だ。",
       "exampleTranslation": "Tonight, I plan to entertain an important client.",
-      "relatedWords": ["もてなし", "会食", "ゴルフ接待"],
+      "relatedWords": [
+        "もてなし",
+        "会食",
+        "ゴルフ接待"
+      ],
       "notes": "Entertaining clients, often involving dinner, drinks, or golf."
     },
     {
@@ -1274,7 +1662,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "建設業界の談合が問題になっている。",
       "exampleTranslation": "Bid-rigging in the construction industry has become a problem.",
-      "relatedWords": ["不正", "カルテル", "入札"],
+      "relatedWords": [
+        "不正",
+        "カルテル",
+        "入札"
+      ],
       "notes": "An illegal practice where competitors conspire to fix prices or bids."
     },
     {
@@ -1287,7 +1679,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この仕事は下請けの会社に発注した。",
       "exampleTranslation": "We placed an order for this job with a subcontractor.",
-      "relatedWords": ["外注", "委託", "元請け"],
+      "relatedWords": [
+        "外注",
+        "委託",
+        "元請け"
+      ],
       "notes": "The main contractor is called 元請け (motouke)."
     },
     {
@@ -1300,8 +1696,1612 @@
       "jlptLevel": "N2",
       "exampleSentence": "会社が早期退職者を募集している。",
       "exampleTranslation": "The company is looking for applicants for early retirement.",
-      "relatedWords": ["希望退職", "リストラ", "定年"],
+      "relatedWords": [
+        "希望退職",
+        "リストラ",
+        "定年"
+      ],
       "notes": "Often a voluntary program offered by companies during restructuring."
+    },
+    {
+      "id": "v101",
+      "kanji": "決算",
+      "kana": "けっさん",
+      "romaji": "kessan",
+      "partOfSpeech": "noun",
+      "meaning": "settlement of accounts, closing",
+      "jlptLevel": "N2",
+      "exampleSentence": "年度末に決算を行う。",
+      "exampleTranslation": "We conduct account settlement at fiscal year-end.",
+      "relatedWords": [
+        "会計",
+        "計算"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v102",
+      "kanji": "収益",
+      "kana": "しゅうえき",
+      "romaji": "shuueki",
+      "partOfSpeech": "noun",
+      "meaning": "revenue, earnings",
+      "jlptLevel": "N2",
+      "exampleSentence": "今期の収益が増加した。",
+      "exampleTranslation": "This period's revenue increased.",
+      "relatedWords": [
+        "利益",
+        "収入"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v103",
+      "kanji": "支出",
+      "kana": "ししゅつ",
+      "romaji": "shishutsu",
+      "partOfSpeech": "noun",
+      "meaning": "expenditure, spending",
+      "jlptLevel": "N2",
+      "exampleSentence": "支出を抑える必要がある。",
+      "exampleTranslation": "It's necessary to control expenditures.",
+      "relatedWords": [
+        "出費",
+        "経費"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v104",
+      "kanji": "資産",
+      "kana": "しさん",
+      "romaji": "shisan",
+      "partOfSpeech": "noun",
+      "meaning": "assets, property",
+      "jlptLevel": "N2",
+      "exampleSentence": "会社の資産を管理する。",
+      "exampleTranslation": "I manage the company's assets.",
+      "relatedWords": [
+        "財産",
+        "保有"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v105",
+      "kanji": "負債",
+      "kana": "ふさい",
+      "romaji": "fusai",
+      "partOfSpeech": "noun",
+      "meaning": "debt, liability",
+      "jlptLevel": "N2",
+      "exampleSentence": "負債を返済する。",
+      "exampleTranslation": "I repay debts.",
+      "relatedWords": [
+        "借金",
+        "債務"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v106",
+      "kanji": "債務",
+      "kana": "さいむ",
+      "romaji": "saimu",
+      "partOfSpeech": "noun",
+      "meaning": "debt, obligation",
+      "jlptLevel": "N2",
+      "exampleSentence": "債務を履行する。",
+      "exampleTranslation": "I fulfill obligations.",
+      "relatedWords": [
+        "負債",
+        "義務"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v107",
+      "kanji": "融資",
+      "kana": "ゆうし",
+      "romaji": "yuushi",
+      "partOfSpeech": "noun",
+      "meaning": "financing, loan",
+      "jlptLevel": "N2",
+      "exampleSentence": "銀行から融資を受ける。",
+      "exampleTranslation": "I receive financing from the bank.",
+      "relatedWords": [
+        "貸付",
+        "ローン"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v108",
+      "kanji": "貸付",
+      "kana": "かしつけ",
+      "romaji": "kashitsuke",
+      "partOfSpeech": "noun",
+      "meaning": "loan, lending",
+      "jlptLevel": "N2",
+      "exampleSentence": "貸付金の回収をする。",
+      "exampleTranslation": "I collect loans.",
+      "relatedWords": [
+        "融資",
+        "貸出"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v109",
+      "kanji": "借入",
+      "kana": "かりいれ",
+      "romaji": "kariire",
+      "partOfSpeech": "noun",
+      "meaning": "borrowing, loan",
+      "jlptLevel": "N2",
+      "exampleSentence": "新規に借入をする。",
+      "exampleTranslation": "I take out a new loan.",
+      "relatedWords": [
+        "借金",
+        "融資"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v110",
+      "kanji": "担保",
+      "kana": "たんぽ",
+      "romaji": "tanpo",
+      "partOfSpeech": "noun",
+      "meaning": "collateral, security",
+      "jlptLevel": "N2",
+      "exampleSentence": "不動産を担保に入れる。",
+      "exampleTranslation": "I put up real estate as collateral.",
+      "relatedWords": [
+        "保証",
+        "抵当"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v111",
+      "kanji": "保証",
+      "kana": "ほしょう",
+      "romaji": "hoshou",
+      "partOfSpeech": "noun",
+      "meaning": "guarantee, warranty",
+      "jlptLevel": "N2",
+      "exampleSentence": "品質を保証する。",
+      "exampleTranslation": "I guarantee quality.",
+      "relatedWords": [
+        "担保",
+        "補償"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v112",
+      "kanji": "補償",
+      "kana": "ほしょう",
+      "romaji": "hoshou",
+      "partOfSpeech": "noun",
+      "meaning": "compensation, indemnity",
+      "jlptLevel": "N2",
+      "exampleSentence": "損害を補償する。",
+      "exampleTranslation": "I compensate for damages.",
+      "relatedWords": [
+        "賠償",
+        "保証"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v113",
+      "kanji": "賠償",
+      "kana": "ばいしょう",
+      "romaji": "baishou",
+      "partOfSpeech": "noun",
+      "meaning": "compensation, reparation",
+      "jlptLevel": "N2",
+      "exampleSentence": "賠償金を支払う。",
+      "exampleTranslation": "I pay reparations.",
+      "relatedWords": [
+        "補償",
+        "弁償"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v114",
+      "kanji": "税務",
+      "kana": "ぜいむ",
+      "romaji": "zeimu",
+      "partOfSpeech": "noun",
+      "meaning": "tax affairs",
+      "jlptLevel": "N2",
+      "exampleSentence": "税務処理を行う。",
+      "exampleTranslation": "I handle tax affairs.",
+      "relatedWords": [
+        "税金",
+        "納税"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v115",
+      "kanji": "納税",
+      "kana": "のうぜい",
+      "romaji": "nouzei",
+      "partOfSpeech": "noun",
+      "meaning": "tax payment",
+      "jlptLevel": "N2",
+      "exampleSentence": "期限内に納税する。",
+      "exampleTranslation": "I pay taxes within the deadline.",
+      "relatedWords": [
+        "税金",
+        "税務"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v116",
+      "kanji": "免税",
+      "kana": "めんぜい",
+      "romaji": "menzei",
+      "partOfSpeech": "noun",
+      "meaning": "tax exemption",
+      "jlptLevel": "N2",
+      "exampleSentence": "免税措置を受ける。",
+      "exampleTranslation": "I receive tax exemption.",
+      "relatedWords": [
+        "非課税",
+        "税金"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v117",
+      "kanji": "課税",
+      "kana": "かぜい",
+      "romaji": "kazei",
+      "partOfSpeech": "noun",
+      "meaning": "taxation",
+      "jlptLevel": "N2",
+      "exampleSentence": "所得に課税される。",
+      "exampleTranslation": "Income is taxed.",
+      "relatedWords": [
+        "税金",
+        "徴税"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v118",
+      "kanji": "控除",
+      "kana": "こうじょ",
+      "romaji": "koujo",
+      "partOfSpeech": "noun",
+      "meaning": "deduction",
+      "jlptLevel": "N2",
+      "exampleSentence": "経費を控除する。",
+      "exampleTranslation": "I deduct expenses.",
+      "relatedWords": [
+        "差し引き",
+        "減額"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v119",
+      "kanji": "還付",
+      "kana": "かんぷ",
+      "romaji": "kanpu",
+      "partOfSpeech": "noun",
+      "meaning": "refund, return",
+      "jlptLevel": "N2",
+      "exampleSentence": "税金の還付を受ける。",
+      "exampleTranslation": "I receive a tax refund.",
+      "relatedWords": [
+        "払い戻し",
+        "返還"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v120",
+      "kanji": "監査",
+      "kana": "かんさ",
+      "romaji": "kansa",
+      "partOfSpeech": "noun",
+      "meaning": "audit, inspection",
+      "jlptLevel": "N2",
+      "exampleSentence": "会計監査を実施する。",
+      "exampleTranslation": "I conduct an accounting audit.",
+      "relatedWords": [
+        "検査",
+        "査察"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v121",
+      "kanji": "査察",
+      "kana": "ささつ",
+      "romaji": "sasatsu",
+      "partOfSpeech": "noun",
+      "meaning": "inspection, investigation",
+      "jlptLevel": "N2",
+      "exampleSentence": "税務署の査察が入る。",
+      "exampleTranslation": "The tax office conducts an inspection.",
+      "relatedWords": [
+        "監査",
+        "検査"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v122",
+      "kanji": "評価",
+      "kana": "ひょうか",
+      "romaji": "hyouka",
+      "partOfSpeech": "noun",
+      "meaning": "evaluation, assessment",
+      "jlptLevel": "N2",
+      "exampleSentence": "業績を評価する。",
+      "exampleTranslation": "I evaluate performance.",
+      "relatedWords": [
+        "査定",
+        "判定"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v123",
+      "kanji": "査定",
+      "kana": "さてい",
+      "romaji": "satei",
+      "partOfSpeech": "noun",
+      "meaning": "assessment, evaluation",
+      "jlptLevel": "N2",
+      "exampleSentence": "給与の査定を行う。",
+      "exampleTranslation": "I conduct salary assessment.",
+      "relatedWords": [
+        "評価",
+        "審査"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v124",
+      "kanji": "審査",
+      "kana": "しんさ",
+      "romaji": "shinsa",
+      "partOfSpeech": "noun",
+      "meaning": "examination, review",
+      "jlptLevel": "N2",
+      "exampleSentence": "書類の審査をする。",
+      "exampleTranslation": "I review documents.",
+      "relatedWords": [
+        "審議",
+        "査定"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v125",
+      "kanji": "申請",
+      "kana": "しんせい",
+      "romaji": "shinsei",
+      "partOfSpeech": "noun",
+      "meaning": "application, request",
+      "jlptLevel": "N2",
+      "exampleSentence": "補助金を申請する。",
+      "exampleTranslation": "I apply for subsidies.",
+      "relatedWords": [
+        "請求",
+        "願い出"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v126",
+      "kanji": "請求",
+      "kana": "せいきゅう",
+      "romaji": "seikyuu",
+      "partOfSpeech": "noun",
+      "meaning": "claim, billing",
+      "jlptLevel": "N2",
+      "exampleSentence": "代金を請求する。",
+      "exampleTranslation": "I bill for payment.",
+      "relatedWords": [
+        "要求",
+        "申請"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v127",
+      "kanji": "徴収",
+      "kana": "ちょうしゅう",
+      "romaji": "choushuu",
+      "partOfSpeech": "noun",
+      "meaning": "collection, levy",
+      "jlptLevel": "N2",
+      "exampleSentence": "税金を徴収する。",
+      "exampleTranslation": "I collect taxes.",
+      "relatedWords": [
+        "取り立て",
+        "回収"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v128",
+      "kanji": "回収",
+      "kana": "かいしゅう",
+      "romaji": "kaishuuuu",
+      "partOfSpeech": "noun",
+      "meaning": "collection, recovery",
+      "jlptLevel": "N2",
+      "exampleSentence": "売掛金を回収する。",
+      "exampleTranslation": "I collect accounts receivable.",
+      "relatedWords": [
+        "取り立て",
+        "徴収"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v129",
+      "kanji": "督促",
+      "kana": "とくそく",
+      "romaji": "tokusoku",
+      "partOfSpeech": "noun",
+      "meaning": "reminder, demand",
+      "jlptLevel": "N2",
+      "exampleSentence": "支払いを督促する。",
+      "exampleTranslation": "I send a payment reminder.",
+      "relatedWords": [
+        "催促",
+        "請求"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v130",
+      "kanji": "滞納",
+      "kana": "たいのう",
+      "romaji": "tainou",
+      "partOfSpeech": "noun",
+      "meaning": "non-payment, arrears",
+      "jlptLevel": "N2",
+      "exampleSentence": "税金の滞納がある。",
+      "exampleTranslation": "There are tax arrears.",
+      "relatedWords": [
+        "未払い",
+        "延滞"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v131",
+      "kanji": "運営",
+      "kana": "うんえい",
+      "romaji": "un'ei",
+      "partOfSpeech": "noun",
+      "meaning": "operation, management",
+      "jlptLevel": "N2",
+      "exampleSentence": "効率的な運営を目指す。",
+      "exampleTranslation": "I aim for efficient operation.",
+      "relatedWords": [
+        "経営",
+        "管理"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v132",
+      "kanji": "統括",
+      "kana": "とうかつ",
+      "romaji": "toukatsu",
+      "partOfSpeech": "noun",
+      "meaning": "overall control, supervision",
+      "jlptLevel": "N2",
+      "exampleSentence": "全体を統括する。",
+      "exampleTranslation": "I supervise the whole.",
+      "relatedWords": [
+        "統制",
+        "管理"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v133",
+      "kanji": "統制",
+      "kana": "とうせい",
+      "romaji": "tousei",
+      "partOfSpeech": "noun",
+      "meaning": "control, regulation",
+      "jlptLevel": "N2",
+      "exampleSentence": "組織を統制する。",
+      "exampleTranslation": "I control the organization.",
+      "relatedWords": [
+        "統括",
+        "管理"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v134",
+      "kanji": "監督",
+      "kana": "かんとく",
+      "romaji": "kantoku",
+      "partOfSpeech": "noun",
+      "meaning": "supervision, director",
+      "jlptLevel": "N2",
+      "exampleSentence": "作業を監督する。",
+      "exampleTranslation": "I supervise work.",
+      "relatedWords": [
+        "監視",
+        "指導"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v135",
+      "kanji": "監視",
+      "kana": "かんし",
+      "romaji": "kanshi",
+      "partOfSpeech": "noun",
+      "meaning": "monitoring, surveillance",
+      "jlptLevel": "N2",
+      "exampleSentence": "品質を監視する。",
+      "exampleTranslation": "I monitor quality.",
+      "relatedWords": [
+        "監督",
+        "観察"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v136",
+      "kanji": "点検",
+      "kana": "てんけん",
+      "romaji": "tenken",
+      "partOfSpeech": "noun",
+      "meaning": "inspection, check",
+      "jlptLevel": "N2",
+      "exampleSentence": "設備を点検する。",
+      "exampleTranslation": "I inspect equipment.",
+      "relatedWords": [
+        "検査",
+        "チェック"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v137",
+      "kanji": "整備",
+      "kana": "せいび",
+      "romaji": "seibi",
+      "partOfSpeech": "noun",
+      "meaning": "maintenance, preparation",
+      "jlptLevel": "N2",
+      "exampleSentence": "システムを整備する。",
+      "exampleTranslation": "I maintain the system.",
+      "relatedWords": [
+        "整理",
+        "準備"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v138",
+      "kanji": "保守",
+      "kana": "ほしゅ",
+      "romaji": "hoshu",
+      "partOfSpeech": "noun",
+      "meaning": "maintenance, conservation",
+      "jlptLevel": "N2",
+      "exampleSentence": "機器の保守を行う。",
+      "exampleTranslation": "I perform equipment maintenance.",
+      "relatedWords": [
+        "保全",
+        "整備"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v139",
+      "kanji": "修繕",
+      "kana": "しゅうぜん",
+      "romaji": "shuuzen",
+      "partOfSpeech": "noun",
+      "meaning": "repair, maintenance",
+      "jlptLevel": "N2",
+      "exampleSentence": "建物の修繕をする。",
+      "exampleTranslation": "I repair the building.",
+      "relatedWords": [
+        "修理",
+        "補修"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v140",
+      "kanji": "更改",
+      "kana": "こうかい",
+      "romaji": "koukai",
+      "partOfSpeech": "noun",
+      "meaning": "renewal, reform",
+      "jlptLevel": "N2",
+      "exampleSentence": "契約を更改する。",
+      "exampleTranslation": "I renew the contract.",
+      "relatedWords": [
+        "改定",
+        "変更"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v141",
+      "kanji": "改定",
+      "kana": "かいてい",
+      "romaji": "kaitei",
+      "partOfSpeech": "noun",
+      "meaning": "revision, amendment",
+      "jlptLevel": "N2",
+      "exampleSentence": "規定を改定する。",
+      "exampleTranslation": "I revise regulations.",
+      "relatedWords": [
+        "改正",
+        "変更"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v142",
+      "kanji": "改正",
+      "kana": "かいせい",
+      "romaji": "kaisei",
+      "partOfSpeech": "noun",
+      "meaning": "revision, amendment",
+      "jlptLevel": "N2",
+      "exampleSentence": "法律を改正する。",
+      "exampleTranslation": "I amend the law.",
+      "relatedWords": [
+        "改定",
+        "修正"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v143",
+      "kanji": "撤回",
+      "kana": "てっかい",
+      "romaji": "tekkai",
+      "partOfSpeech": "noun",
+      "meaning": "withdrawal, retraction",
+      "jlptLevel": "N2",
+      "exampleSentence": "発言を撤回する。",
+      "exampleTranslation": "I withdraw my statement.",
+      "relatedWords": [
+        "取り消し",
+        "撤廃"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v144",
+      "kanji": "撤廃",
+      "kana": "てっぱい",
+      "romaji": "teppai",
+      "partOfSpeech": "noun",
+      "meaning": "abolition, repeal",
+      "jlptLevel": "N2",
+      "exampleSentence": "規制を撤廃する。",
+      "exampleTranslation": "I abolish regulations.",
+      "relatedWords": [
+        "撤回",
+        "廃止"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v145",
+      "kanji": "廃止",
+      "kana": "はいし",
+      "romaji": "haishi",
+      "partOfSpeech": "noun",
+      "meaning": "abolition, discontinuation",
+      "jlptLevel": "N2",
+      "exampleSentence": "制度を廃止する。",
+      "exampleTranslation": "I discontinue the system.",
+      "relatedWords": [
+        "撤廃",
+        "取り消し"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v146",
+      "kanji": "施行",
+      "kana": "しこう",
+      "romaji": "shikou",
+      "partOfSpeech": "noun",
+      "meaning": "enforcement, implementation",
+      "jlptLevel": "N2",
+      "exampleSentence": "法律が施行される。",
+      "exampleTranslation": "The law is enforced.",
+      "relatedWords": [
+        "実施",
+        "実行"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v147",
+      "kanji": "遵守",
+      "kana": "じゅんしゅ",
+      "romaji": "junshu",
+      "partOfSpeech": "noun",
+      "meaning": "observance, compliance",
+      "jlptLevel": "N2",
+      "exampleSentence": "規則を遵守する。",
+      "exampleTranslation": "I comply with regulations.",
+      "relatedWords": [
+        "順守",
+        "従う"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v148",
+      "kanji": "順守",
+      "kana": "じゅんしゅ",
+      "romaji": "junshu",
+      "partOfSpeech": "noun",
+      "meaning": "compliance, adherence",
+      "jlptLevel": "N2",
+      "exampleSentence": "法令を順守する。",
+      "exampleTranslation": "I adhere to laws.",
+      "relatedWords": [
+        "遵守",
+        "従う"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v149",
+      "kanji": "違反",
+      "kana": "いはん",
+      "romaji": "ihan",
+      "partOfSpeech": "noun",
+      "meaning": "violation, infringement",
+      "jlptLevel": "N2",
+      "exampleSentence": "規則に違反する。",
+      "exampleTranslation": "I violate rules.",
+      "relatedWords": [
+        "侵害",
+        "破る"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v150",
+      "kanji": "侵害",
+      "kana": "しんがい",
+      "romaji": "shingai",
+      "partOfSpeech": "noun",
+      "meaning": "infringement, violation",
+      "jlptLevel": "N2",
+      "exampleSentence": "権利を侵害する。",
+      "exampleTranslation": "I infringe rights.",
+      "relatedWords": [
+        "違反",
+        "侵犯"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v151",
+      "kanji": "措置",
+      "kana": "そち",
+      "romaji": "sochi",
+      "partOfSpeech": "noun",
+      "meaning": "measure, step",
+      "jlptLevel": "N2",
+      "exampleSentence": "緊急措置を取る。",
+      "exampleTranslation": "I take emergency measures.",
+      "relatedWords": [
+        "処置",
+        "対応"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v152",
+      "kanji": "方針",
+      "kana": "ほうしん",
+      "romaji": "houshin",
+      "partOfSpeech": "noun",
+      "meaning": "policy, principle",
+      "jlptLevel": "N2",
+      "exampleSentence": "新方針を打ち出す。",
+      "exampleTranslation": "I present a new policy.",
+      "relatedWords": [
+        "指針",
+        "ポリシー"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v153",
+      "kanji": "指針",
+      "kana": "ししん",
+      "romaji": "shishin",
+      "partOfSpeech": "noun",
+      "meaning": "guideline, policy",
+      "jlptLevel": "N2",
+      "exampleSentence": "行動指針を定める。",
+      "exampleTranslation": "I establish action guidelines.",
+      "relatedWords": [
+        "方針",
+        "ガイドライン"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v154",
+      "kanji": "基準",
+      "kana": "きじゅん",
+      "romaji": "kijun",
+      "partOfSpeech": "noun",
+      "meaning": "standard, criterion",
+      "jlptLevel": "N2",
+      "exampleSentence": "品質基準を設ける。",
+      "exampleTranslation": "I set quality standards.",
+      "relatedWords": [
+        "標準",
+        "規準"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v155",
+      "kanji": "規準",
+      "kana": "きじゅん",
+      "romaji": "kijun",
+      "partOfSpeech": "noun",
+      "meaning": "standard, norm",
+      "jlptLevel": "N2",
+      "exampleSentence": "規準に従う。",
+      "exampleTranslation": "I follow standards.",
+      "relatedWords": [
+        "基準",
+        "標準"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v156",
+      "kanji": "標準",
+      "kana": "ひょうじゅん",
+      "romaji": "hyoujun",
+      "partOfSpeech": "noun",
+      "meaning": "standard, norm",
+      "jlptLevel": "N2",
+      "exampleSentence": "標準仕様を決める。",
+      "exampleTranslation": "I decide standard specifications.",
+      "relatedWords": [
+        "基準",
+        "スタンダード"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v157",
+      "kanji": "規格",
+      "kana": "きかく",
+      "romaji": "kikaku",
+      "partOfSpeech": "noun",
+      "meaning": "standard, specification",
+      "jlptLevel": "N2",
+      "exampleSentence": "国際規格に準拠する。",
+      "exampleTranslation": "I conform to international standards.",
+      "relatedWords": [
+        "仕様",
+        "標準"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v158",
+      "kanji": "仕様",
+      "kana": "しよう",
+      "romaji": "shiyou",
+      "partOfSpeech": "noun",
+      "meaning": "specification",
+      "jlptLevel": "N2",
+      "exampleSentence": "製品仕様を確認する。",
+      "exampleTranslation": "I confirm product specifications.",
+      "relatedWords": [
+        "規格",
+        "スペック"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v159",
+      "kanji": "承認",
+      "kana": "しょうにん",
+      "romaji": "shounin",
+      "partOfSpeech": "noun",
+      "meaning": "approval, authorization",
+      "jlptLevel": "N2",
+      "exampleSentence": "計画の承認を得る。",
+      "exampleTranslation": "I obtain approval for the plan.",
+      "relatedWords": [
+        "認可",
+        "許可"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v160",
+      "kanji": "認可",
+      "kana": "にんか",
+      "romaji": "ninka",
+      "partOfSpeech": "noun",
+      "meaning": "approval, authorization",
+      "jlptLevel": "N2",
+      "exampleSentence": "事業の認可を受ける。",
+      "exampleTranslation": "I receive authorization for the business.",
+      "relatedWords": [
+        "承認",
+        "許可"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v161",
+      "kanji": "戦略",
+      "kana": "せんりゃく",
+      "romaji": "senryaku",
+      "partOfSpeech": "noun",
+      "meaning": "strategy",
+      "jlptLevel": "N2",
+      "exampleSentence": "経営戦略を立てる。",
+      "exampleTranslation": "I formulate management strategy.",
+      "relatedWords": [
+        "策略",
+        "方策"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v162",
+      "kanji": "方策",
+      "kana": "ほうさく",
+      "romaji": "housaku",
+      "partOfSpeech": "noun",
+      "meaning": "plan, policy",
+      "jlptLevel": "N2",
+      "exampleSentence": "具体的な方策を講じる。",
+      "exampleTranslation": "I implement concrete plans.",
+      "relatedWords": [
+        "対策",
+        "戦略"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v163",
+      "kanji": "施策",
+      "kana": "しさく",
+      "romaji": "shisaku",
+      "partOfSpeech": "noun",
+      "meaning": "policy, measure",
+      "jlptLevel": "N2",
+      "exampleSentence": "新たな施策を展開する。",
+      "exampleTranslation": "I develop new policies.",
+      "relatedWords": [
+        "政策",
+        "対策"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v164",
+      "kanji": "政策",
+      "kana": "せいさく",
+      "romaji": "seisaku",
+      "partOfSpeech": "noun",
+      "meaning": "policy",
+      "jlptLevel": "N2",
+      "exampleSentence": "経済政策を実施する。",
+      "exampleTranslation": "I implement economic policy.",
+      "relatedWords": [
+        "施策",
+        "方針"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v165",
+      "kanji": "提携",
+      "kana": "ていけい",
+      "romaji": "teikei",
+      "partOfSpeech": "noun",
+      "meaning": "tie-up, partnership",
+      "jlptLevel": "N2",
+      "exampleSentence": "他社と提携する。",
+      "exampleTranslation": "I partner with other companies.",
+      "relatedWords": [
+        "協力",
+        "連携"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v166",
+      "kanji": "連携",
+      "kana": "れんけい",
+      "romaji": "renkei",
+      "partOfSpeech": "noun",
+      "meaning": "cooperation, collaboration",
+      "jlptLevel": "N2",
+      "exampleSentence": "部門間で連携を図る。",
+      "exampleTranslation": "I promote collaboration between departments.",
+      "relatedWords": [
+        "協力",
+        "提携"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v167",
+      "kanji": "統廃合",
+      "kana": "とうはいごう",
+      "romaji": "touhaigou",
+      "partOfSpeech": "noun",
+      "meaning": "consolidation, merger",
+      "jlptLevel": "N2",
+      "exampleSentence": "支店を統廃合する。",
+      "exampleTranslation": "I consolidate branches.",
+      "relatedWords": [
+        "統合",
+        "合併"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v168",
+      "kanji": "分社化",
+      "kana": "ぶんしゃか",
+      "romaji": "bunshaka",
+      "partOfSpeech": "noun",
+      "meaning": "spin-off, incorporation",
+      "jlptLevel": "N2",
+      "exampleSentence": "部門を分社化する。",
+      "exampleTranslation": "I spin off a division.",
+      "relatedWords": [
+        "分離",
+        "独立"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v169",
+      "kanji": "子会社",
+      "kana": "こがいしゃ",
+      "romaji": "kogaisha",
+      "partOfSpeech": "noun",
+      "meaning": "subsidiary company",
+      "jlptLevel": "N2",
+      "exampleSentence": "子会社を設立する。",
+      "exampleTranslation": "I establish a subsidiary company.",
+      "relatedWords": [
+        "関連会社",
+        "傘下"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v170",
+      "kanji": "親会社",
+      "kana": "おやがいしゃ",
+      "romaji": "oyagaisha",
+      "partOfSpeech": "noun",
+      "meaning": "parent company",
+      "jlptLevel": "N2",
+      "exampleSentence": "親会社の方針に従う。",
+      "exampleTranslation": "I follow the parent company's policy.",
+      "relatedWords": [
+        "本社",
+        "持株会社"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v171",
+      "kanji": "持株会社",
+      "kana": "もちかぶがいしゃ",
+      "romaji": "mochikabu gaisha",
+      "partOfSpeech": "noun",
+      "meaning": "holding company",
+      "jlptLevel": "N2",
+      "exampleSentence": "持株会社を設立する。",
+      "exampleTranslation": "I establish a holding company.",
+      "relatedWords": [
+        "親会社",
+        "ホールディングス"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v172",
+      "kanji": "グループ企業",
+      "kana": "ぐるーぷきぎょう",
+      "romaji": "guruupu kigyou",
+      "partOfSpeech": "noun",
+      "meaning": "group company",
+      "jlptLevel": "N2",
+      "exampleSentence": "グループ企業間で連携する。",
+      "exampleTranslation": "I collaborate among group companies.",
+      "relatedWords": [
+        "系列",
+        "関連会社"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v173",
+      "kanji": "系列",
+      "kana": "けいれつ",
+      "romaji": "keiretsu",
+      "partOfSpeech": "noun",
+      "meaning": "affiliated group, series",
+      "jlptLevel": "N2",
+      "exampleSentence": "系列会社を統括する。",
+      "exampleTranslation": "I supervise affiliated companies.",
+      "relatedWords": [
+        "グループ",
+        "傘下"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v174",
+      "kanji": "参入",
+      "kana": "さんにゅう",
+      "romaji": "sannyuu",
+      "partOfSpeech": "noun",
+      "meaning": "entry, participation",
+      "jlptLevel": "N2",
+      "exampleSentence": "新市場に参入する。",
+      "exampleTranslation": "I enter a new market.",
+      "relatedWords": [
+        "進出",
+        "参加"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v175",
+      "kanji": "進出",
+      "kana": "しんしゅつ",
+      "romaji": "shinshutsu",
+      "partOfSpeech": "noun",
+      "meaning": "advance, expansion",
+      "jlptLevel": "N2",
+      "exampleSentence": "海外に進出する。",
+      "exampleTranslation": "I expand overseas.",
+      "relatedWords": [
+        "参入",
+        "進展"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v176",
+      "kanji": "撤退",
+      "kana": "てったい",
+      "romaji": "tettai",
+      "partOfSpeech": "noun",
+      "meaning": "withdrawal, retreat",
+      "jlptLevel": "N2",
+      "exampleSentence": "不採算事業から撤退する。",
+      "exampleTranslation": "I withdraw from unprofitable business.",
+      "relatedWords": [
+        "引き上げ",
+        "退出"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v177",
+      "kanji": "縮退",
+      "kana": "しゅくたい",
+      "romaji": "shukutai",
+      "partOfSpeech": "noun",
+      "meaning": "reduction, downsizing",
+      "jlptLevel": "N2",
+      "exampleSentence": "事業を縮退する。",
+      "exampleTranslation": "I downsize the business.",
+      "relatedWords": [
+        "縮小",
+        "撤退"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v178",
+      "kanji": "多角化",
+      "kana": "たかくか",
+      "romaji": "takakuka",
+      "partOfSpeech": "noun",
+      "meaning": "diversification",
+      "jlptLevel": "N2",
+      "exampleSentence": "事業の多角化を図る。",
+      "exampleTranslation": "I diversify the business.",
+      "relatedWords": [
+        "多様化",
+        "拡大"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v179",
+      "kanji": "選択と集中",
+      "kana": "せんたくとしゅうちゅう",
+      "romaji": "sentaku to shuuchuu",
+      "partOfSpeech": "noun",
+      "meaning": "selection and concentration",
+      "jlptLevel": "N2",
+      "exampleSentence": "選択と集中を進める。",
+      "exampleTranslation": "I promote selection and concentration.",
+      "relatedWords": [
+        "戦略",
+        "絞り込み"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v180",
+      "kanji": "アウトソーシング",
+      "kana": "あうとそーしんぐ",
+      "romaji": "autosōshingu",
+      "partOfSpeech": "noun",
+      "meaning": "outsourcing",
+      "jlptLevel": "N2",
+      "exampleSentence": "業務をアウトソーシングする。",
+      "exampleTranslation": "I outsource operations.",
+      "relatedWords": [
+        "外注",
+        "委託"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v181",
+      "kanji": "外注",
+      "kana": "がいちゅう",
+      "romaji": "gaichuu",
+      "partOfSpeech": "noun",
+      "meaning": "outsourcing, subcontracting",
+      "jlptLevel": "N2",
+      "exampleSentence": "外注先を選定する。",
+      "exampleTranslation": "I select outsourcing partners.",
+      "relatedWords": [
+        "委託",
+        "アウトソーシング"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v182",
+      "kanji": "委託",
+      "kana": "いたく",
+      "romaji": "itaku",
+      "partOfSpeech": "noun",
+      "meaning": "consignment, commission",
+      "jlptLevel": "N2",
+      "exampleSentence": "業務を委託する。",
+      "exampleTranslation": "I consign operations.",
+      "relatedWords": [
+        "外注",
+        "依頼"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v183",
+      "kanji": "受託",
+      "kana": "じゅたく",
+      "romaji": "jutaku",
+      "partOfSpeech": "noun",
+      "meaning": "consignment, undertaking",
+      "jlptLevel": "N2",
+      "exampleSentence": "事業を受託する。",
+      "exampleTranslation": "I undertake business.",
+      "relatedWords": [
+        "請負",
+        "委託"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v184",
+      "kanji": "請負",
+      "kana": "うけおい",
+      "romaji": "ukeoi",
+      "partOfSpeech": "noun",
+      "meaning": "contract work",
+      "jlptLevel": "N2",
+      "exampleSentence": "請負契約を結ぶ。",
+      "exampleTranslation": "I conclude a contract work agreement.",
+      "relatedWords": [
+        "受託",
+        "契約"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v185",
+      "kanji": "内製化",
+      "kana": "ないせいか",
+      "romaji": "naiseika",
+      "partOfSpeech": "noun",
+      "meaning": "in-house production",
+      "jlptLevel": "N2",
+      "exampleSentence": "システムを内製化する。",
+      "exampleTranslation": "I bring system production in-house.",
+      "relatedWords": [
+        "自社開発",
+        "内部化"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v186",
+      "kanji": "自社開発",
+      "kana": "じしゃかいはつ",
+      "romaji": "jisha kaihatsu",
+      "partOfSpeech": "noun",
+      "meaning": "in-house development",
+      "jlptLevel": "N2",
+      "exampleSentence": "製品を自社開発する。",
+      "exampleTranslation": "I develop products in-house.",
+      "relatedWords": [
+        "内製",
+        "自前"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v187",
+      "kanji": "コア事業",
+      "kana": "こあじぎょう",
+      "romaji": "koa jigyou",
+      "partOfSpeech": "noun",
+      "meaning": "core business",
+      "jlptLevel": "N2",
+      "exampleSentence": "コア事業に注力する。",
+      "exampleTranslation": "I focus on core business.",
+      "relatedWords": [
+        "中核事業",
+        "主力"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v188",
+      "kanji": "主力事業",
+      "kana": "しゅりょくじぎょう",
+      "romaji": "shuryoku jigyou",
+      "partOfSpeech": "noun",
+      "meaning": "main business",
+      "jlptLevel": "N2",
+      "exampleSentence": "主力事業を強化する。",
+      "exampleTranslation": "I strengthen the main business.",
+      "relatedWords": [
+        "コア",
+        "中心"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v189",
+      "kanji": "新規事業",
+      "kana": "しんきじぎょう",
+      "romaji": "shinki jigyou",
+      "partOfSpeech": "noun",
+      "meaning": "new business",
+      "jlptLevel": "N2",
+      "exampleSentence": "新規事業を立ち上げる。",
+      "exampleTranslation": "I launch a new business.",
+      "relatedWords": [
+        "新事業",
+        "起業"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v190",
+      "kanji": "既存事業",
+      "kana": "きぞんじぎょう",
+      "romaji": "kizon jigyou",
+      "partOfSpeech": "noun",
+      "meaning": "existing business",
+      "jlptLevel": "N2",
+      "exampleSentence": "既存事業を見直す。",
+      "exampleTranslation": "I review existing business.",
+      "relatedWords": [
+        "従来",
+        "現行"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v191",
+      "kanji": "実績",
+      "kana": "じっせき",
+      "romaji": "jisseki",
+      "partOfSpeech": "noun",
+      "meaning": "achievement, record",
+      "jlptLevel": "N2",
+      "exampleSentence": "過去の実績を示す。",
+      "exampleTranslation": "I show past achievements.",
+      "relatedWords": [
+        "成果",
+        "業績"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v192",
+      "kanji": "成果",
+      "kana": "せいか",
+      "romaji": "seika",
+      "partOfSpeech": "noun",
+      "meaning": "result, outcome",
+      "jlptLevel": "N2",
+      "exampleSentence": "プロジェクトの成果を報告する。",
+      "exampleTranslation": "I report project results.",
+      "relatedWords": [
+        "実績",
+        "成績"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v193",
+      "kanji": "成績",
+      "kana": "せいせき",
+      "romaji": "seiseki",
+      "partOfSpeech": "noun",
+      "meaning": "result, performance",
+      "jlptLevel": "N2",
+      "exampleSentence": "営業成績が向上した。",
+      "exampleTranslation": "Sales performance improved.",
+      "relatedWords": [
+        "業績",
+        "実績"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v194",
+      "kanji": "達成",
+      "kana": "たっせい",
+      "romaji": "tassei",
+      "partOfSpeech": "noun",
+      "meaning": "achievement, attainment",
+      "jlptLevel": "N2",
+      "exampleSentence": "目標を達成する。",
+      "exampleTranslation": "I achieve the goal.",
+      "relatedWords": [
+        "実現",
+        "成就"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v195",
+      "kanji": "未達",
+      "kana": "みたつ",
+      "romaji": "mitatsu",
+      "partOfSpeech": "noun",
+      "meaning": "non-achievement, shortfall",
+      "jlptLevel": "N2",
+      "exampleSentence": "目標未達に終わった。",
+      "exampleTranslation": "It ended in non-achievement of the goal.",
+      "relatedWords": [
+        "未達成",
+        "不足"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v196",
+      "kanji": "進捗",
+      "kana": "しんちょく",
+      "romaji": "shinchoku",
+      "partOfSpeech": "noun",
+      "meaning": "progress",
+      "jlptLevel": "N2",
+      "exampleSentence": "プロジェクトの進捗を確認する。",
+      "exampleTranslation": "I confirm project progress.",
+      "relatedWords": [
+        "進行",
+        "進み"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v197",
+      "kanji": "遅延",
+      "kana": "ちえん",
+      "romaji": "chien",
+      "partOfSpeech": "noun",
+      "meaning": "delay",
+      "jlptLevel": "N2",
+      "exampleSentence": "納期の遅延が発生した。",
+      "exampleTranslation": "A delivery delay occurred.",
+      "relatedWords": [
+        "遅れ",
+        "延滞"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v198",
+      "kanji": "納期",
+      "kana": "のうき",
+      "romaji": "nouki",
+      "partOfSpeech": "noun",
+      "meaning": "delivery date",
+      "jlptLevel": "N2",
+      "exampleSentence": "納期を守る。",
+      "exampleTranslation": "I meet the delivery date.",
+      "relatedWords": [
+        "期限",
+        "締切"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v199",
+      "kanji": "期限",
+      "kana": "きげん",
+      "romaji": "kigen",
+      "partOfSpeech": "noun",
+      "meaning": "deadline, time limit",
+      "jlptLevel": "N2",
+      "exampleSentence": "期限内に完了させる。",
+      "exampleTranslation": "I complete it within the deadline.",
+      "relatedWords": [
+        "締切",
+        "納期"
+      ],
+      "notes": "Business vocabulary"
+    },
+    {
+      "id": "v200",
+      "kanji": "締切",
+      "kana": "しめきり",
+      "romaji": "shimekiri",
+      "partOfSpeech": "noun",
+      "meaning": "deadline, closing",
+      "jlptLevel": "N2",
+      "exampleSentence": "締切に間に合わせる。",
+      "exampleTranslation": "I meet the deadline.",
+      "relatedWords": [
+        "期限",
+        "終了"
+      ],
+      "notes": "Business vocabulary"
     }
   ]
 }

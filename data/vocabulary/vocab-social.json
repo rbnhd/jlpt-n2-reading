@@ -13,7 +13,10 @@
       "jlptLevel": "N2",
       "exampleSentence": "日本では少子高齢化が深刻な問題になっている。",
       "exampleTranslation": "In Japan, the declining birthrate and aging population is a serious problem.",
-      "relatedWords": ["人口減少", "高齢者"],
+      "relatedWords": [
+        "人口減少",
+        "高齢者"
+      ],
       "notes": "Common topic in social issue passages"
     },
     {
@@ -26,7 +29,10 @@
       "jlptLevel": "N2",
       "exampleSentence": "外国人労働力の受け入れが議論されている。",
       "exampleTranslation": "The acceptance of foreign labor is being discussed.",
-      "relatedWords": ["労働", "雇用"],
+      "relatedWords": [
+        "労働",
+        "雇用"
+      ],
       "notes": "Appears in economy and society topics"
     },
     {
@@ -39,7 +45,10 @@
       "jlptLevel": "N2",
       "exampleSentence": "地域によって教育の格差が存在する。",
       "exampleTranslation": "Educational disparities exist depending on the region.",
-      "relatedWords": ["差", "不平等"],
+      "relatedWords": [
+        "差",
+        "不平等"
+      ],
       "notes": "Often paired with 解消 (resolution)"
     },
     {
@@ -52,7 +61,10 @@
       "jlptLevel": "N2",
       "exampleSentence": "防災訓練に参加する住民が増えている。",
       "exampleTranslation": "More residents are participating in disaster prevention drills.",
-      "relatedWords": ["災害", "避難"],
+      "relatedWords": [
+        "災害",
+        "避難"
+      ],
       "notes": "Disaster-related vocabulary"
     },
     {
@@ -65,8 +77,3131 @@
       "jlptLevel": "N2",
       "exampleSentence": "多様な価値観が共存する社会を目指す。",
       "exampleTranslation": "We aim for a society where diverse values coexist.",
-      "relatedWords": ["共生", "調和"],
+      "relatedWords": [
+        "共生",
+        "調和"
+      ],
       "notes": "Appears in multicultural topics"
+    },
+    {
+      "id": "v006",
+      "kanji": "福祉",
+      "kana": "ふくし",
+      "romaji": "fukushi",
+      "partOfSpeech": "noun",
+      "meaning": "welfare, well-being",
+      "jlptLevel": "N2",
+      "exampleSentence": "高齢者福祉の充実が求められている。",
+      "exampleTranslation": "Enhancement of elderly welfare is being demanded.",
+      "relatedWords": [
+        "社会福祉",
+        "福祉施設"
+      ],
+      "notes": "Common in social policy discussions"
+    },
+    {
+      "id": "v007",
+      "kanji": "子育て",
+      "kana": "こそだて",
+      "romaji": "kosodate",
+      "partOfSpeech": "noun",
+      "meaning": "child-rearing, parenting",
+      "jlptLevel": "N2",
+      "exampleSentence": "子育て支援の制度を拡充する。",
+      "exampleTranslation": "We will expand child-rearing support systems.",
+      "relatedWords": [
+        "育児",
+        "保育"
+      ],
+      "notes": "Related to family policy"
+    },
+    {
+      "id": "v008",
+      "kanji": "待機児童",
+      "kana": "たいきじどう",
+      "romaji": "taiki jidou",
+      "partOfSpeech": "noun",
+      "meaning": "children on daycare waiting list",
+      "jlptLevel": "N2",
+      "exampleSentence": "待機児童問題の解決が急務だ。",
+      "exampleTranslation": "Solving the daycare waiting list problem is urgent.",
+      "relatedWords": [
+        "保育園",
+        "認可保育所"
+      ],
+      "notes": "Major social issue in Japan"
+    },
+    {
+      "id": "v009",
+      "kanji": "介護",
+      "kana": "かいご",
+      "romaji": "kaigo",
+      "partOfSpeech": "noun",
+      "meaning": "nursing care, caregiving",
+      "jlptLevel": "N2",
+      "exampleSentence": "親の介護のために仕事を辞めた。",
+      "exampleTranslation": "I quit my job to take care of my parents.",
+      "relatedWords": [
+        "介護士",
+        "介護保険"
+      ],
+      "notes": "Critical topic with aging society"
+    },
+    {
+      "id": "v010",
+      "kanji": "年金",
+      "kana": "ねんきん",
+      "romaji": "nenkin",
+      "partOfSpeech": "noun",
+      "meaning": "pension",
+      "jlptLevel": "N2",
+      "exampleSentence": "年金制度の改革が議論されている。",
+      "exampleTranslation": "Pension system reform is being discussed.",
+      "relatedWords": [
+        "老後",
+        "社会保障"
+      ],
+      "notes": "Part of social security system"
+    },
+    {
+      "id": "v011",
+      "kanji": "失業率",
+      "kana": "しつぎょうりつ",
+      "romaji": "shitsugyouritsu",
+      "partOfSpeech": "noun",
+      "meaning": "unemployment rate",
+      "jlptLevel": "N2",
+      "exampleSentence": "失業率が過去最低を記録した。",
+      "exampleTranslation": "The unemployment rate hit a record low.",
+      "relatedWords": [
+        "雇用",
+        "就職"
+      ],
+      "notes": "Economic indicator"
+    },
+    {
+      "id": "v012",
+      "kanji": "貧困",
+      "kana": "ひんこん",
+      "romaji": "hinkon",
+      "partOfSpeech": "noun",
+      "meaning": "poverty",
+      "jlptLevel": "N2",
+      "exampleSentence": "子どもの貧困が社会問題になっている。",
+      "exampleTranslation": "Child poverty is becoming a social problem.",
+      "relatedWords": [
+        "貧乏",
+        "格差"
+      ],
+      "notes": "Social inequality topic"
+    },
+    {
+      "id": "v013",
+      "kanji": "生活保護",
+      "kana": "せいかつほご",
+      "romaji": "seikatsu hogo",
+      "partOfSpeech": "noun",
+      "meaning": "welfare assistance, public assistance",
+      "jlptLevel": "N2",
+      "exampleSentence": "生活保護を受給する世帯が増えている。",
+      "exampleTranslation": "Households receiving welfare assistance are increasing.",
+      "relatedWords": [
+        "福祉",
+        "援助"
+      ],
+      "notes": "Social safety net"
+    },
+    {
+      "id": "v014",
+      "kanji": "差別",
+      "kana": "さべつ",
+      "romaji": "sabetsu",
+      "partOfSpeech": "noun",
+      "meaning": "discrimination",
+      "jlptLevel": "N2",
+      "exampleSentence": "あらゆる差別を撤廃しなければならない。",
+      "exampleTranslation": "We must eliminate all discrimination.",
+      "relatedWords": [
+        "偏見",
+        "不平等"
+      ],
+      "notes": "Human rights topic"
+    },
+    {
+      "id": "v015",
+      "kanji": "平等",
+      "kana": "びょうどう",
+      "romaji": "byoudou",
+      "partOfSpeech": "noun・な-adj",
+      "meaning": "equality",
+      "jlptLevel": "N2",
+      "exampleSentence": "男女平等の実現を目指す。",
+      "exampleTranslation": "We aim to achieve gender equality.",
+      "relatedWords": [
+        "公平",
+        "均等"
+      ],
+      "notes": "Opposite of 不平等"
+    },
+    {
+      "id": "v016",
+      "kanji": "人権",
+      "kana": "じんけん",
+      "romaji": "jinken",
+      "partOfSpeech": "noun",
+      "meaning": "human rights",
+      "jlptLevel": "N2",
+      "exampleSentence": "人権を尊重する社会を作る。",
+      "exampleTranslation": "We will create a society that respects human rights.",
+      "relatedWords": [
+        "権利",
+        "自由"
+      ],
+      "notes": "Fundamental rights"
+    },
+    {
+      "id": "v017",
+      "kanji": "移民",
+      "kana": "いみん",
+      "romaji": "imin",
+      "partOfSpeech": "noun",
+      "meaning": "immigrant, immigration",
+      "jlptLevel": "N2",
+      "exampleSentence": "移民政策について国民的な議論が必要だ。",
+      "exampleTranslation": "A national discussion about immigration policy is necessary.",
+      "relatedWords": [
+        "難民",
+        "外国人労働者"
+      ],
+      "notes": "Demographic issue"
+    },
+    {
+      "id": "v018",
+      "kanji": "難民",
+      "kana": "なんみん",
+      "romaji": "nanmin",
+      "partOfSpeech": "noun",
+      "meaning": "refugee",
+      "jlptLevel": "N2",
+      "exampleSentence": "難民の受け入れ体制を整備する。",
+      "exampleTranslation": "We will prepare the system for accepting refugees.",
+      "relatedWords": [
+        "移民",
+        "亡命"
+      ],
+      "notes": "International humanitarian issue"
+    },
+    {
+      "id": "v019",
+      "kanji": "多文化",
+      "kana": "たぶんか",
+      "romaji": "tabunka",
+      "partOfSpeech": "noun",
+      "meaning": "multiculturalism",
+      "jlptLevel": "N2",
+      "exampleSentence": "多文化共生社会の実現が課題だ。",
+      "exampleTranslation": "Realizing a multicultural coexistence society is a challenge.",
+      "relatedWords": [
+        "異文化",
+        "国際化"
+      ],
+      "notes": "Diversity topic"
+    },
+    {
+      "id": "v020",
+      "kanji": "偏見",
+      "kana": "へんけん",
+      "romaji": "henken",
+      "partOfSpeech": "noun",
+      "meaning": "prejudice, bias",
+      "jlptLevel": "N2",
+      "exampleSentence": "偏見をなくすための教育が重要だ。",
+      "exampleTranslation": "Education to eliminate prejudice is important.",
+      "relatedWords": [
+        "先入観",
+        "差別"
+      ],
+      "notes": "Related to discrimination"
+    },
+    {
+      "id": "v021",
+      "kanji": "ボランティア",
+      "kana": "ぼらんてぃあ",
+      "romaji": "borantia",
+      "partOfSpeech": "noun",
+      "meaning": "volunteer",
+      "jlptLevel": "N2",
+      "exampleSentence": "地域のボランティア活動に参加している。",
+      "exampleTranslation": "I participate in local volunteer activities.",
+      "relatedWords": [
+        "奉仕",
+        "支援"
+      ],
+      "notes": "Community service"
+    },
+    {
+      "id": "v022",
+      "kanji": "寄付",
+      "kana": "きふ",
+      "romaji": "kifu",
+      "partOfSpeech": "noun",
+      "meaning": "donation, contribution",
+      "jlptLevel": "N2",
+      "exampleSentence": "被災地に寄付金を送った。",
+      "exampleTranslation": "I sent a donation to the disaster-stricken area.",
+      "relatedWords": [
+        "募金",
+        "義援金"
+      ],
+      "notes": "Charitable giving"
+    },
+    {
+      "id": "v023",
+      "kanji": "NPO",
+      "kana": "エヌピーオー",
+      "romaji": "enupii",
+      "partOfSpeech": "noun",
+      "meaning": "non-profit organization",
+      "jlptLevel": "N2",
+      "exampleSentence": "NPO法人で働いている。",
+      "exampleTranslation": "I work for an NPO.",
+      "relatedWords": [
+        "NGO",
+        "非営利団体"
+      ],
+      "notes": "Abbreviation for Non-Profit Organization"
+    },
+    {
+      "id": "v024",
+      "kanji": "地域社会",
+      "kana": "ちいきしゃかい",
+      "romaji": "chiiki shakai",
+      "partOfSpeech": "noun",
+      "meaning": "local community",
+      "jlptLevel": "N2",
+      "exampleSentence": "地域社会との連携を強化する。",
+      "exampleTranslation": "We will strengthen cooperation with the local community.",
+      "relatedWords": [
+        "コミュニティ",
+        "町内会"
+      ],
+      "notes": "Community relations"
+    },
+    {
+      "id": "v025",
+      "kanji": "近隣",
+      "kana": "きんりん",
+      "romaji": "kinrin",
+      "partOfSpeech": "noun",
+      "meaning": "neighborhood, vicinity",
+      "jlptLevel": "N2",
+      "exampleSentence": "近隣住民との交流を深める。",
+      "exampleTranslation": "We will deepen exchanges with neighboring residents.",
+      "relatedWords": [
+        "隣近所",
+        "周辺"
+      ],
+      "notes": "Neighborhood relations"
+    },
+    {
+      "id": "v026",
+      "kanji": "治安",
+      "kana": "ちあん",
+      "romaji": "chian",
+      "partOfSpeech": "noun",
+      "meaning": "public order, security",
+      "jlptLevel": "N2",
+      "exampleSentence": "この地域は治安が良い。",
+      "exampleTranslation": "This area has good public security.",
+      "relatedWords": [
+        "安全",
+        "犯罪"
+      ],
+      "notes": "Public safety"
+    },
+    {
+      "id": "v027",
+      "kanji": "犯罪",
+      "kana": "はんざい",
+      "romaji": "hanzai",
+      "partOfSpeech": "noun",
+      "meaning": "crime",
+      "jlptLevel": "N2",
+      "exampleSentence": "犯罪を未然に防ぐことが重要だ。",
+      "exampleTranslation": "It is important to prevent crimes before they occur.",
+      "relatedWords": [
+        "違法",
+        "法律"
+      ],
+      "notes": "Law and order"
+    },
+    {
+      "id": "v028",
+      "kanji": "少年犯罪",
+      "kana": "しょうねんはんざい",
+      "romaji": "shounen hanzai",
+      "partOfSpeech": "noun",
+      "meaning": "juvenile delinquency",
+      "jlptLevel": "N2",
+      "exampleSentence": "少年犯罪の増加が懸念されている。",
+      "exampleTranslation": "The increase in juvenile delinquency is a concern.",
+      "relatedWords": [
+        "非行",
+        "青少年"
+      ],
+      "notes": "Youth crime issue"
+    },
+    {
+      "id": "v029",
+      "kanji": "更生",
+      "kana": "こうせい",
+      "romaji": "kousei",
+      "partOfSpeech": "noun",
+      "meaning": "rehabilitation, reform",
+      "jlptLevel": "N2",
+      "exampleSentence": "犯罪者の更生を支援する。",
+      "exampleTranslation": "We support the rehabilitation of criminals.",
+      "relatedWords": [
+        "立ち直り",
+        "社会復帰"
+      ],
+      "notes": "Criminal justice"
+    },
+    {
+      "id": "v030",
+      "kanji": "いじめ",
+      "kana": "いじめ",
+      "romaji": "ijime",
+      "partOfSpeech": "noun",
+      "meaning": "bullying",
+      "jlptLevel": "N2",
+      "exampleSentence": "学校でのいじめ問題に取り組む。",
+      "exampleTranslation": "We are addressing the bullying problem in schools.",
+      "relatedWords": [
+        "ハラスメント",
+        "虐待"
+      ],
+      "notes": "School and workplace issue"
+    },
+    {
+      "id": "v031",
+      "kanji": "虐待",
+      "kana": "ぎゃくたい",
+      "romaji": "gyakutai",
+      "partOfSpeech": "noun",
+      "meaning": "abuse, mistreatment",
+      "jlptLevel": "N2",
+      "exampleSentence": "児童虐待の早期発見が重要だ。",
+      "exampleTranslation": "Early detection of child abuse is important.",
+      "relatedWords": [
+        "暴力",
+        "いじめ"
+      ],
+      "notes": "Abuse issue"
+    },
+    {
+      "id": "v032",
+      "kanji": "DV",
+      "kana": "ディーブイ",
+      "romaji": "diibui",
+      "partOfSpeech": "noun",
+      "meaning": "domestic violence",
+      "jlptLevel": "N2",
+      "exampleSentence": "DV被害者の支援体制を整える。",
+      "exampleTranslation": "We will establish a support system for DV victims.",
+      "relatedWords": [
+        "家庭内暴力",
+        "虐待"
+      ],
+      "notes": "Domestic Violence abbreviation"
+    },
+    {
+      "id": "v033",
+      "kanji": "自殺",
+      "kana": "じさつ",
+      "romaji": "jisatsu",
+      "partOfSpeech": "noun",
+      "meaning": "suicide",
+      "jlptLevel": "N2",
+      "exampleSentence": "自殺防止のための相談窓口を設置する。",
+      "exampleTranslation": "We will establish consultation services for suicide prevention.",
+      "relatedWords": [
+        "自死",
+        "命"
+      ],
+      "notes": "Mental health issue"
+    },
+    {
+      "id": "v034",
+      "kanji": "メンタルヘルス",
+      "kana": "めんたるへるす",
+      "romaji": "mentaru herusu",
+      "partOfSpeech": "noun",
+      "meaning": "mental health",
+      "jlptLevel": "N2",
+      "exampleSentence": "職場のメンタルヘルス対策が必要だ。",
+      "exampleTranslation": "Mental health measures in the workplace are necessary.",
+      "relatedWords": [
+        "精神衛生",
+        "ストレス"
+      ],
+      "notes": "Mental health awareness"
+    },
+    {
+      "id": "v035",
+      "kanji": "過労死",
+      "kana": "かろうし",
+      "romaji": "karoushi",
+      "partOfSpeech": "noun",
+      "meaning": "death from overwork",
+      "jlptLevel": "N2",
+      "exampleSentence": "過労死を防ぐために労働環境の改善が急務だ。",
+      "exampleTranslation": "Improving working conditions is urgent to prevent death from overwork.",
+      "relatedWords": [
+        "長時間労働",
+        "働き方改革"
+      ],
+      "notes": "Japanese workplace issue"
+    },
+    {
+      "id": "v036",
+      "kanji": "働き方改革",
+      "kana": "はたらきかたかいかく",
+      "romaji": "hatarakikata kaikaku",
+      "partOfSpeech": "noun",
+      "meaning": "work style reform",
+      "jlptLevel": "N2",
+      "exampleSentence": "政府は働き方改革を推進している。",
+      "exampleTranslation": "The government is promoting work style reform.",
+      "relatedWords": [
+        "労働環境",
+        "ワークライフバランス"
+      ],
+      "notes": "Recent policy initiative"
+    },
+    {
+      "id": "v037",
+      "kanji": "ワークライフバランス",
+      "kana": "わーくらいふばらんす",
+      "romaji": "waaku raifu baransu",
+      "partOfSpeech": "noun",
+      "meaning": "work-life balance",
+      "jlptLevel": "N2",
+      "exampleSentence": "ワークライフバランスの実現が求められている。",
+      "exampleTranslation": "Achievement of work-life balance is being demanded.",
+      "relatedWords": [
+        "仕事と生活の調和",
+        "働き方"
+      ],
+      "notes": "Quality of life"
+    },
+    {
+      "id": "v038",
+      "kanji": "育児休業",
+      "kana": "いくじきゅうぎょう",
+      "romaji": "ikuji kyuugyou",
+      "partOfSpeech": "noun",
+      "meaning": "parental leave, childcare leave",
+      "jlptLevel": "N2",
+      "exampleSentence": "男性の育児休業取得率が上昇している。",
+      "exampleTranslation": "The rate of men taking parental leave is rising.",
+      "relatedWords": [
+        "産休",
+        "育休"
+      ],
+      "notes": "Family leave policy"
+    },
+    {
+      "id": "v039",
+      "kanji": "産休",
+      "kana": "さんきゅう",
+      "romaji": "sankyuu",
+      "partOfSpeech": "noun",
+      "meaning": "maternity leave",
+      "jlptLevel": "N2",
+      "exampleSentence": "産休後、職場に復帰した。",
+      "exampleTranslation": "I returned to work after maternity leave.",
+      "relatedWords": [
+        "育休",
+        "出産"
+      ],
+      "notes": "Maternity policy"
+    },
+    {
+      "id": "v040",
+      "kanji": "時短勤務",
+      "kana": "じたんきんむ",
+      "romaji": "jitan kinmu",
+      "partOfSpeech": "noun",
+      "meaning": "reduced working hours",
+      "jlptLevel": "N2",
+      "exampleSentence": "子育て中の社員は時短勤務ができる。",
+      "exampleTranslation": "Employees raising children can work reduced hours.",
+      "relatedWords": [
+        "短時間勤務",
+        "フレックスタイム"
+      ],
+      "notes": "Flexible work arrangement"
+    },
+    {
+      "id": "v041",
+      "kanji": "男女共同参画",
+      "kana": "だんじょきょうどうさんかく",
+      "romaji": "danjo kyoudou sankaku",
+      "partOfSpeech": "noun",
+      "meaning": "gender equality participation",
+      "jlptLevel": "N2",
+      "exampleSentence": "男女共同参画社会の実現を目指す。",
+      "exampleTranslation": "We aim to realize a society with gender equality participation.",
+      "relatedWords": [
+        "ジェンダー平等",
+        "女性活躍"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v042",
+      "kanji": "ジェンダー",
+      "kana": "じぇんだー",
+      "romaji": "jendaa",
+      "partOfSpeech": "noun",
+      "meaning": "gender",
+      "jlptLevel": "N2",
+      "exampleSentence": "ジェンダーギャップの解消が課題だ。",
+      "exampleTranslation": "Eliminating the gender gap is a challenge.",
+      "relatedWords": [
+        "性別",
+        "男女"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v043",
+      "kanji": "女性活躍",
+      "kana": "じょせいかつやく",
+      "romaji": "josei katsuyaku",
+      "partOfSpeech": "noun",
+      "meaning": "women's empowerment",
+      "jlptLevel": "N2",
+      "exampleSentence": "女性活躍推進法が施行された。",
+      "exampleTranslation": "The Women's Empowerment Promotion Act was enforced.",
+      "relatedWords": [
+        "女性の社会進出",
+        "活躍"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v044",
+      "kanji": "シングルマザー",
+      "kana": "しんぐるまざー",
+      "romaji": "shinguru mazaa",
+      "partOfSpeech": "noun",
+      "meaning": "single mother",
+      "jlptLevel": "N2",
+      "exampleSentence": "シングルマザーの支援制度を充実させる。",
+      "exampleTranslation": "We will enhance support systems for single mothers.",
+      "relatedWords": [
+        "ひとり親",
+        "母子家庭"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v045",
+      "kanji": "ひとり親",
+      "kana": "ひとりおや",
+      "romaji": "hitori oya",
+      "partOfSpeech": "noun",
+      "meaning": "single parent",
+      "jlptLevel": "N2",
+      "exampleSentence": "ひとり親家庭の貧困率が高い。",
+      "exampleTranslation": "The poverty rate among single-parent households is high.",
+      "relatedWords": [
+        "母子家庭",
+        "父子家庭"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v046",
+      "kanji": "核家族",
+      "kana": "かくかぞく",
+      "romaji": "kakukazoku",
+      "partOfSpeech": "noun",
+      "meaning": "nuclear family",
+      "jlptLevel": "N2",
+      "exampleSentence": "核家族化が進んでいる。",
+      "exampleTranslation": "Nuclearization of families is progressing.",
+      "relatedWords": [
+        "家族構成",
+        "世帯"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v047",
+      "kanji": "三世代同居",
+      "kana": "さんせだいどうきょ",
+      "romaji": "sandai douky o",
+      "partOfSpeech": "noun",
+      "meaning": "three-generation household",
+      "jlptLevel": "N2",
+      "exampleSentence": "三世代同居が減少している。",
+      "exampleTranslation": "Three-generation households are decreasing.",
+      "relatedWords": [
+        "同居",
+        "大家族"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v048",
+      "kanji": "晩婚化",
+      "kana": "ばんこんか",
+      "romaji": "bankonka",
+      "partOfSpeech": "noun",
+      "meaning": "trend of marrying late",
+      "jlptLevel": "N2",
+      "exampleSentence": "晩婚化が少子化の一因となっている。",
+      "exampleTranslation": "Late marriage is one cause of declining birth rates.",
+      "relatedWords": [
+        "結婚",
+        "未婚"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v049",
+      "kanji": "未婚",
+      "kana": "みこん",
+      "romaji": "mikon",
+      "partOfSpeech": "noun",
+      "meaning": "unmarried, single",
+      "jlptLevel": "N2",
+      "exampleSentence": "未婚率が上昇している。",
+      "exampleTranslation": "The rate of unmarried people is rising.",
+      "relatedWords": [
+        "独身",
+        "結婚"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v050",
+      "kanji": "離婚率",
+      "kana": "りこんりつ",
+      "romaji": "rikonritsu",
+      "partOfSpeech": "noun",
+      "meaning": "divorce rate",
+      "jlptLevel": "N2",
+      "exampleSentence": "日本の離婚率は年々増加している。",
+      "exampleTranslation": "Japan's divorce rate is increasing year by year.",
+      "relatedWords": [
+        "離婚",
+        "結婚"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v051",
+      "kanji": "教育格差",
+      "kana": "きょういくかくさ",
+      "romaji": "kyouiku kakusa",
+      "partOfSpeech": "noun",
+      "meaning": "educational disparity",
+      "jlptLevel": "N2",
+      "exampleSentence": "地域による教育格差を是正する。",
+      "exampleTranslation": "We will correct educational disparities by region.",
+      "relatedWords": [
+        "教育",
+        "格差"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v052",
+      "kanji": "学歴社会",
+      "kana": "がくれきしゃかい",
+      "romaji": "gakureki shakai",
+      "partOfSpeech": "noun",
+      "meaning": "academic credential society",
+      "jlptLevel": "N2",
+      "exampleSentence": "学歴社会からの脱却が必要だ。",
+      "exampleTranslation": "We need to break away from an academic credential society.",
+      "relatedWords": [
+        "学歴",
+        "社会"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v053",
+      "kanji": "不登校",
+      "kana": "ふとうこう",
+      "romaji": "futoukou",
+      "partOfSpeech": "noun",
+      "meaning": "truancy, school refusal",
+      "jlptLevel": "N2",
+      "exampleSentence": "不登校の児童生徒が増えている。",
+      "exampleTranslation": "The number of truant students is increasing.",
+      "relatedWords": [
+        "登校拒否",
+        "引きこもり"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v054",
+      "kanji": "いじめ対策",
+      "kana": "いじめたいさく",
+      "romaji": "ijime taisaku",
+      "partOfSpeech": "noun",
+      "meaning": "anti-bullying measures",
+      "jlptLevel": "N2",
+      "exampleSentence": "学校でいじめ対策を強化する。",
+      "exampleTranslation": "We will strengthen anti-bullying measures in schools.",
+      "relatedWords": [
+        "いじめ",
+        "対策"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v055",
+      "kanji": "義務教育",
+      "kana": "ぎむきょういく",
+      "romaji": "gimu kyouiku",
+      "partOfSpeech": "noun",
+      "meaning": "compulsory education",
+      "jlptLevel": "N2",
+      "exampleSentence": "義務教育の質の向上が求められている。",
+      "exampleTranslation": "Improvement of compulsory education quality is demanded.",
+      "relatedWords": [
+        "教育制度",
+        "小中学校"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v056",
+      "kanji": "高等教育",
+      "kana": "こうとうきょういく",
+      "romaji": "koutou kyouiku",
+      "partOfSpeech": "noun",
+      "meaning": "higher education",
+      "jlptLevel": "N2",
+      "exampleSentence": "高等教育の無償化が議論されている。",
+      "exampleTranslation": "Free higher education is being discussed.",
+      "relatedWords": [
+        "大学",
+        "専門学校"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v057",
+      "kanji": "生涯学習",
+      "kana": "しょうがいがくしゅう",
+      "romaji": "shougai gakushuu",
+      "partOfSpeech": "noun",
+      "meaning": "lifelong learning",
+      "jlptLevel": "N2",
+      "exampleSentence": "生涯学習の機会を提供する。",
+      "exampleTranslation": "We provide opportunities for lifelong learning.",
+      "relatedWords": [
+        "学び直し",
+        "社会教育"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v058",
+      "kanji": "奨学金",
+      "kana": "しょうがくきん",
+      "romaji": "shougakukin",
+      "partOfSpeech": "noun",
+      "meaning": "scholarship",
+      "jlptLevel": "N2",
+      "exampleSentence": "奨学金の返済に苦しむ若者が多い。",
+      "exampleTranslation": "Many young people struggle with scholarship repayment.",
+      "relatedWords": [
+        "学費",
+        "ローン"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v059",
+      "kanji": "教育ローン",
+      "kana": "きょういくろーん",
+      "romaji": "kyouiku roon",
+      "partOfSpeech": "noun",
+      "meaning": "education loan",
+      "jlptLevel": "N2",
+      "exampleSentence": "教育ローンを利用して大学に進学した。",
+      "exampleTranslation": "I went to university using an education loan.",
+      "relatedWords": [
+        "学費",
+        "借金"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v060",
+      "kanji": "学費",
+      "kana": "がくひ",
+      "romaji": "gakuhi",
+      "partOfSpeech": "noun",
+      "meaning": "school expenses, tuition",
+      "jlptLevel": "N2",
+      "exampleSentence": "学費の負担が家計を圧迫している。",
+      "exampleTranslation": "The burden of school expenses is weighing on household finances.",
+      "relatedWords": [
+        "授業料",
+        "教育費"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v061",
+      "kanji": "授業料",
+      "kana": "じゅぎょうりょう",
+      "romaji": "jugyouryou",
+      "partOfSpeech": "noun",
+      "meaning": "tuition fee",
+      "jlptLevel": "N2",
+      "exampleSentence": "授業料の値上げが発表された。",
+      "exampleTranslation": "A tuition fee increase was announced.",
+      "relatedWords": [
+        "学費",
+        "受講料"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v062",
+      "kanji": "私立",
+      "kana": "しりつ",
+      "romaji": "shiritsu",
+      "partOfSpeech": "noun",
+      "meaning": "private (school)",
+      "jlptLevel": "N2",
+      "exampleSentence": "私立大学の学費は高い。",
+      "exampleTranslation": "Private university tuition is expensive.",
+      "relatedWords": [
+        "公立",
+        "国立"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v063",
+      "kanji": "公立",
+      "kana": "こうりつ",
+      "romaji": "kouritsu",
+      "partOfSpeech": "noun",
+      "meaning": "public (school)",
+      "jlptLevel": "N2",
+      "exampleSentence": "公立学校の教育環境を改善する。",
+      "exampleTranslation": "We will improve the educational environment of public schools.",
+      "relatedWords": [
+        "私立",
+        "国立"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v064",
+      "kanji": "進学率",
+      "kana": "しんがくりつ",
+      "romaji": "shingakuritsu",
+      "partOfSpeech": "noun",
+      "meaning": "school advancement rate",
+      "jlptLevel": "N2",
+      "exampleSentence": "大学進学率が上昇している。",
+      "exampleTranslation": "The university advancement rate is rising.",
+      "relatedWords": [
+        "進学",
+        "就職"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v065",
+      "kanji": "受験戦争",
+      "kana": "じゅけんせんそう",
+      "romaji": "juken sensou",
+      "partOfSpeech": "noun",
+      "meaning": "examination hell, competitive entrance exams",
+      "jlptLevel": "N2",
+      "exampleSentence": "受験戦争が子どもたちにストレスを与えている。",
+      "exampleTranslation": "Examination hell is causing stress for children.",
+      "relatedWords": [
+        "受験",
+        "競争"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v066",
+      "kanji": "学習塾",
+      "kana": "がくしゅうじゅく",
+      "romaji": "gakushuu juku",
+      "partOfSpeech": "noun",
+      "meaning": "cram school",
+      "jlptLevel": "N2",
+      "exampleSentence": "多くの子どもが学習塾に通っている。",
+      "exampleTranslation": "Many children attend cram schools.",
+      "relatedWords": [
+        "塾",
+        "予備校"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v067",
+      "kanji": "塾",
+      "kana": "じゅく",
+      "romaji": "juku",
+      "partOfSpeech": "noun",
+      "meaning": "cram school",
+      "jlptLevel": "N2",
+      "exampleSentence": "週に3回塾に通っている。",
+      "exampleTranslation": "I go to cram school three times a week.",
+      "relatedWords": [
+        "学習塾",
+        "予備校"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v068",
+      "kanji": "予備校",
+      "kana": "よびこう",
+      "romaji": "yobikou",
+      "partOfSpeech": "noun",
+      "meaning": "prep school",
+      "jlptLevel": "N2",
+      "exampleSentence": "大学受験のため予備校に通う。",
+      "exampleTranslation": "I attend prep school for university entrance exams.",
+      "relatedWords": [
+        "塾",
+        "受験"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v069",
+      "kanji": "家庭教師",
+      "kana": "かていきょうし",
+      "romaji": "katei kyoushi",
+      "partOfSpeech": "noun",
+      "meaning": "private tutor",
+      "jlptLevel": "N2",
+      "exampleSentence": "家庭教師に数学を教わっている。",
+      "exampleTranslation": "I am being taught mathematics by a private tutor.",
+      "relatedWords": [
+        "個別指導",
+        "先生"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v070",
+      "kanji": "教育改革",
+      "kana": "きょういくかいかく",
+      "romaji": "kyouiku kaikaku",
+      "partOfSpeech": "noun",
+      "meaning": "education reform",
+      "jlptLevel": "N2",
+      "exampleSentence": "教育改革が進められている。",
+      "exampleTranslation": "Education reform is being advanced.",
+      "relatedWords": [
+        "改革",
+        "教育制度"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v071",
+      "kanji": "超高齢社会",
+      "kana": "ちょうこうれいしゃかい",
+      "romaji": "chou koureishakai",
+      "partOfSpeech": "noun",
+      "meaning": "super-aged society",
+      "jlptLevel": "N2",
+      "exampleSentence": "日本は超高齢社会に突入した。",
+      "exampleTranslation": "Japan has entered a super-aged society.",
+      "relatedWords": [
+        "高齢化",
+        "人口"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v072",
+      "kanji": "平均寿命",
+      "kana": "へいきんじゅみょう",
+      "romaji": "heikin jumyou",
+      "partOfSpeech": "noun",
+      "meaning": "average life expectancy",
+      "jlptLevel": "N2",
+      "exampleSentence": "日本の平均寿命は世界トップクラスだ。",
+      "exampleTranslation": "Japan's average life expectancy is among the world's highest.",
+      "relatedWords": [
+        "寿命",
+        "長寿"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v073",
+      "kanji": "健康寿命",
+      "kana": "けんこうじゅみょう",
+      "romaji": "kenkou jumyou",
+      "partOfSpeech": "noun",
+      "meaning": "healthy life expectancy",
+      "jlptLevel": "N2",
+      "exampleSentence": "健康寿命を延ばすことが重要だ。",
+      "exampleTranslation": "It is important to extend healthy life expectancy.",
+      "relatedWords": [
+        "寿命",
+        "健康"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v074",
+      "kanji": "認知症",
+      "kana": "にんちしょう",
+      "romaji": "ninchishou",
+      "partOfSpeech": "noun",
+      "meaning": "dementia",
+      "jlptLevel": "N2",
+      "exampleSentence": "認知症患者の増加が社会問題になっている。",
+      "exampleTranslation": "The increase in dementia patients is becoming a social problem.",
+      "relatedWords": [
+        "アルツハイマー",
+        "高齢者"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v075",
+      "kanji": "医療費",
+      "kana": "いりょうひ",
+      "romaji": "iryouhi",
+      "partOfSpeech": "noun",
+      "meaning": "medical expenses",
+      "jlptLevel": "N2",
+      "exampleSentence": "高齢化により医療費が増大している。",
+      "exampleTranslation": "Medical expenses are increasing due to aging.",
+      "relatedWords": [
+        "医療",
+        "費用"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v076",
+      "kanji": "医療保険",
+      "kana": "いりょうほけん",
+      "romaji": "iryou hoken",
+      "partOfSpeech": "noun",
+      "meaning": "health insurance",
+      "jlptLevel": "N2",
+      "exampleSentence": "国民皆保険制度を維持する。",
+      "exampleTranslation": "We will maintain the universal health insurance system.",
+      "relatedWords": [
+        "保険",
+        "健康保険"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v077",
+      "kanji": "国民健康保険",
+      "kana": "こくみんけんこうほけん",
+      "romaji": "kokumin kenkou hoken",
+      "partOfSpeech": "noun",
+      "meaning": "national health insurance",
+      "jlptLevel": "N2",
+      "exampleSentence": "国民健康保険の加入は義務だ。",
+      "exampleTranslation": "Enrollment in national health insurance is mandatory.",
+      "relatedWords": [
+        "健康保険",
+        "社会保障"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v078",
+      "kanji": "介護保険",
+      "kana": "かいごほけん",
+      "romaji": "kaigo hoken",
+      "partOfSpeech": "noun",
+      "meaning": "nursing care insurance",
+      "jlptLevel": "N2",
+      "exampleSentence": "介護保険制度が導入された。",
+      "exampleTranslation": "The nursing care insurance system was introduced.",
+      "relatedWords": [
+        "介護",
+        "保険"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v079",
+      "kanji": "老人ホーム",
+      "kana": "ろうじんほーむ",
+      "romaji": "roujin hoomu",
+      "partOfSpeech": "noun",
+      "meaning": "nursing home, care facility",
+      "jlptLevel": "N2",
+      "exampleSentence": "老人ホームの待機者が多い。",
+      "exampleTranslation": "There are many people waiting for nursing homes.",
+      "relatedWords": [
+        "介護施設",
+        "高齢者施設"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v080",
+      "kanji": "訪問介護",
+      "kana": "ほうもんかいご",
+      "romaji": "houmon kaigo",
+      "partOfSpeech": "noun",
+      "meaning": "home care, visiting care",
+      "jlptLevel": "N2",
+      "exampleSentence": "訪問介護サービスを利用している。",
+      "exampleTranslation": "I am using home care services.",
+      "relatedWords": [
+        "在宅介護",
+        "介護"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v081",
+      "kanji": "在宅介護",
+      "kana": "ざいたくかいご",
+      "romaji": "zaitaku kaigo",
+      "partOfSpeech": "noun",
+      "meaning": "at-home care",
+      "jlptLevel": "N2",
+      "exampleSentence": "在宅介護の負担が大きい。",
+      "exampleTranslation": "The burden of at-home care is heavy.",
+      "relatedWords": [
+        "訪問介護",
+        "介護"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v082",
+      "kanji": "老老介護",
+      "kana": "ろうろうかいご",
+      "romaji": "rourou kaigo",
+      "partOfSpeech": "noun",
+      "meaning": "elderly caring for elderly",
+      "jlptLevel": "N2",
+      "exampleSentence": "老老介護が増加している。",
+      "exampleTranslation": "Elderly caring for elderly is increasing.",
+      "relatedWords": [
+        "介護",
+        "高齢者"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v083",
+      "kanji": "介護離職",
+      "kana": "かいごりしょく",
+      "romaji": "kaigo rishoku",
+      "partOfSpeech": "noun",
+      "meaning": "quitting job for caregiving",
+      "jlptLevel": "N2",
+      "exampleSentence": "介護離職を防ぐための支援が必要だ。",
+      "exampleTranslation": "Support is needed to prevent quitting jobs for caregiving.",
+      "relatedWords": [
+        "介護",
+        "離職"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v084",
+      "kanji": "終末期医療",
+      "kana": "しゅうまつきいりょう",
+      "romaji": "shuumatsuki iryou",
+      "partOfSpeech": "noun",
+      "meaning": "end-of-life care",
+      "jlptLevel": "N2",
+      "exampleSentence": "終末期医療のあり方が議論されている。",
+      "exampleTranslation": "The way end-of-life care should be is being discussed.",
+      "relatedWords": [
+        "医療",
+        "緩和ケア"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v085",
+      "kanji": "尊厳死",
+      "kana": "そんげんし",
+      "romaji": "songenshi",
+      "partOfSpeech": "noun",
+      "meaning": "death with dignity",
+      "jlptLevel": "N2",
+      "exampleSentence": "尊厳死の法制化が検討されている。",
+      "exampleTranslation": "Legislation for death with dignity is being considered.",
+      "relatedWords": [
+        "安楽死",
+        "医療"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v086",
+      "kanji": "延命治療",
+      "kana": "えんめいちりょう",
+      "romaji": "enmei chiryou",
+      "partOfSpeech": "noun",
+      "meaning": "life-prolonging treatment",
+      "jlptLevel": "N2",
+      "exampleSentence": "延命治療の是非について家族で話し合う。",
+      "exampleTranslation": "We discuss as a family whether life-prolonging treatment is appropriate.",
+      "relatedWords": [
+        "医療",
+        "終末期"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v087",
+      "kanji": "独居老人",
+      "kana": "どっきょろうじん",
+      "romaji": "dokkyo roujin",
+      "partOfSpeech": "noun",
+      "meaning": "elderly person living alone",
+      "jlptLevel": "N2",
+      "exampleSentence": "独居老人の孤独死が問題になっている。",
+      "exampleTranslation": "Lonely deaths of elderly people living alone are becoming a problem.",
+      "relatedWords": [
+        "一人暮らし",
+        "高齢者"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v088",
+      "kanji": "孤独死",
+      "kana": "こどくし",
+      "romaji": "kodokushi",
+      "partOfSpeech": "noun",
+      "meaning": "dying alone",
+      "jlptLevel": "N2",
+      "exampleSentence": "孤独死を防ぐ地域の見守りが重要だ。",
+      "exampleTranslation": "Community watch to prevent dying alone is important.",
+      "relatedWords": [
+        "独居",
+        "高齢者"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v089",
+      "kanji": "終活",
+      "kana": "しゅうかつ",
+      "romaji": "shuukatsu",
+      "partOfSpeech": "noun",
+      "meaning": "preparing for end of life",
+      "jlptLevel": "N2",
+      "exampleSentence": "終活セミナーに参加する高齢者が増えている。",
+      "exampleTranslation": "The number of elderly people participating in end-of-life preparation seminars is increasing.",
+      "relatedWords": [
+        "人生",
+        "準備"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v090",
+      "kanji": "遺言",
+      "kana": "いごん/ゆいごん",
+      "romaji": "igon/yuigon",
+      "partOfSpeech": "noun",
+      "meaning": "will, testament",
+      "jlptLevel": "N2",
+      "exampleSentence": "遺言書を作成する。",
+      "exampleTranslation": "I will create a will.",
+      "relatedWords": [
+        "相続",
+        "財産"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v091",
+      "kanji": "過疎化",
+      "kana": "かそか",
+      "romaji": "kasoka",
+      "partOfSpeech": "noun",
+      "meaning": "depopulation",
+      "jlptLevel": "N2",
+      "exampleSentence": "地方の過疎化が深刻だ。",
+      "exampleTranslation": "Rural depopulation is serious.",
+      "relatedWords": [
+        "人口減少",
+        "地方"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v092",
+      "kanji": "地方創生",
+      "kana": "ちほうそうせい",
+      "romaji": "chihou sousei",
+      "partOfSpeech": "noun",
+      "meaning": "regional revitalization",
+      "jlptLevel": "N2",
+      "exampleSentence": "地方創生の取り組みが進んでいる。",
+      "exampleTranslation": "Regional revitalization efforts are progressing.",
+      "relatedWords": [
+        "地方",
+        "活性化"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v093",
+      "kanji": "過密",
+      "kana": "かみつ",
+      "romaji": "kamitsu",
+      "partOfSpeech": "noun",
+      "meaning": "overcrowding",
+      "jlptLevel": "N2",
+      "exampleSentence": "都市部の過密が問題だ。",
+      "exampleTranslation": "Overcrowding in urban areas is a problem.",
+      "relatedWords": [
+        "人口集中",
+        "混雑"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v094",
+      "kanji": "一極集中",
+      "kana": "いっきょくしゅうちゅう",
+      "romaji": "ikkyoku shuuchuu",
+      "partOfSpeech": "noun",
+      "meaning": "concentration in one place",
+      "jlptLevel": "N2",
+      "exampleSentence": "東京一極集中を是正する。",
+      "exampleTranslation": "We will correct the concentration in Tokyo.",
+      "relatedWords": [
+        "集中",
+        "分散"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v095",
+      "kanji": "地域格差",
+      "kana": "ちいきかくさ",
+      "romaji": "chiiki kakusa",
+      "partOfSpeech": "noun",
+      "meaning": "regional disparity",
+      "jlptLevel": "N2",
+      "exampleSentence": "地域格差の解消が課題だ。",
+      "exampleTranslation": "Eliminating regional disparities is a challenge.",
+      "relatedWords": [
+        "格差",
+        "地方"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v096",
+      "kanji": "都市化",
+      "kana": "としか",
+      "romaji": "toshika",
+      "partOfSpeech": "noun",
+      "meaning": "urbanization",
+      "jlptLevel": "N2",
+      "exampleSentence": "都市化が急速に進んでいる。",
+      "exampleTranslation": "Urbanization is progressing rapidly.",
+      "relatedWords": [
+        "都市",
+        "発展"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v097",
+      "kanji": "インフラ",
+      "kana": "いんふら",
+      "romaji": "infura",
+      "partOfSpeech": "noun",
+      "meaning": "infrastructure",
+      "jlptLevel": "N2",
+      "exampleSentence": "老朽化したインフラの整備が必要だ。",
+      "exampleTranslation": "Maintenance of aging infrastructure is necessary.",
+      "relatedWords": [
+        "基盤",
+        "設備"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v098",
+      "kanji": "公共交通機関",
+      "kana": "こうきょうこうつうきかん",
+      "romaji": "koukyou koutsuu kikan",
+      "partOfSpeech": "noun",
+      "meaning": "public transportation",
+      "jlptLevel": "N2",
+      "exampleSentence": "公共交通機関を充実させる。",
+      "exampleTranslation": "We will enhance public transportation.",
+      "relatedWords": [
+        "交通",
+        "バス・電車"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v099",
+      "kanji": "交通渋滞",
+      "kana": "こうつうじゅうたい",
+      "romaji": "koutsuu juutai",
+      "partOfSpeech": "noun",
+      "meaning": "traffic congestion",
+      "jlptLevel": "N2",
+      "exampleSentence": "交通渋滞の解消が急務だ。",
+      "exampleTranslation": "Resolving traffic congestion is urgent.",
+      "relatedWords": [
+        "渋滞",
+        "交通"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v100",
+      "kanji": "大気汚染",
+      "kana": "たいきおせん",
+      "romaji": "taiki osen",
+      "partOfSpeech": "noun",
+      "meaning": "air pollution",
+      "jlptLevel": "N2",
+      "exampleSentence": "大気汚染が健康被害を引き起こす。",
+      "exampleTranslation": "Air pollution causes health damage.",
+      "relatedWords": [
+        "公害",
+        "環境"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v101",
+      "kanji": "騒音",
+      "kana": "そうおん",
+      "romaji": "souon",
+      "partOfSpeech": "noun",
+      "meaning": "noise",
+      "jlptLevel": "N2",
+      "exampleSentence": "都市部の騒音問題が深刻だ。",
+      "exampleTranslation": "The noise problem in urban areas is serious.",
+      "relatedWords": [
+        "うるさい",
+        "公害"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v102",
+      "kanji": "緑地",
+      "kana": "りょくち",
+      "romaji": "ryokuchi",
+      "partOfSpeech": "noun",
+      "meaning": "green space",
+      "jlptLevel": "N2",
+      "exampleSentence": "都市に緑地を増やす取り組みが進んでいる。",
+      "exampleTranslation": "Efforts to increase green spaces in cities are progressing.",
+      "relatedWords": [
+        "公園",
+        "自然"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v103",
+      "kanji": "景観",
+      "kana": "けいかん",
+      "romaji": "keikan",
+      "partOfSpeech": "noun",
+      "meaning": "landscape, scenery",
+      "jlptLevel": "N2",
+      "exampleSentence": "歴史的景観を保護する。",
+      "exampleTranslation": "We will protect the historical landscape.",
+      "relatedWords": [
+        "風景",
+        "町並み"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v104",
+      "kanji": "都市計画",
+      "kana": "としけいかく",
+      "romaji": "toshi keikaku",
+      "partOfSpeech": "noun",
+      "meaning": "city planning, urban planning",
+      "jlptLevel": "N2",
+      "exampleSentence": "持続可能な都市計画が求められている。",
+      "exampleTranslation": "Sustainable city planning is demanded.",
+      "relatedWords": [
+        "まちづくり",
+        "計画"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v105",
+      "kanji": "再開発",
+      "kana": "さいかいはつ",
+      "romaji": "saikaihatsu",
+      "partOfSpeech": "noun",
+      "meaning": "redevelopment",
+      "jlptLevel": "N2",
+      "exampleSentence": "駅前の再開発計画が発表された。",
+      "exampleTranslation": "A station-front redevelopment plan was announced.",
+      "relatedWords": [
+        "開発",
+        "建て替え"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v106",
+      "kanji": "空き家",
+      "kana": "あきや",
+      "romaji": "akiya",
+      "partOfSpeech": "noun",
+      "meaning": "vacant house",
+      "jlptLevel": "N2",
+      "exampleSentence": "空き家問題が深刻化している。",
+      "exampleTranslation": "The vacant house problem is becoming serious.",
+      "relatedWords": [
+        "空き家対策",
+        "住宅"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v107",
+      "kanji": "住宅難",
+      "kana": "じゅうたくなん",
+      "romaji": "juutakunan",
+      "partOfSpeech": "noun",
+      "meaning": "housing shortage",
+      "jlptLevel": "N2",
+      "exampleSentence": "大都市では住宅難が続いている。",
+      "exampleTranslation": "Housing shortages continue in large cities.",
+      "relatedWords": [
+        "住宅",
+        "不足"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v108",
+      "kanji": "家賃",
+      "kana": "やちん",
+      "romaji": "yachin",
+      "partOfSpeech": "noun",
+      "meaning": "rent",
+      "jlptLevel": "N2",
+      "exampleSentence": "都心の家賃は非常に高い。",
+      "exampleTranslation": "Rent in the city center is very expensive.",
+      "relatedWords": [
+        "賃貸",
+        "住居費"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v109",
+      "kanji": "持ち家",
+      "kana": "もちいえ",
+      "romaji": "mochiie",
+      "partOfSpeech": "noun",
+      "meaning": "owned house",
+      "jlptLevel": "N2",
+      "exampleSentence": "持ち家率が低下している。",
+      "exampleTranslation": "The home ownership rate is declining.",
+      "relatedWords": [
+        "マイホーム",
+        "住宅"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v110",
+      "kanji": "賃貸",
+      "kana": "ちんたい",
+      "romaji": "chintai",
+      "partOfSpeech": "noun",
+      "meaning": "rental",
+      "jlptLevel": "N2",
+      "exampleSentence": "賃貸住宅に住んでいる。",
+      "exampleTranslation": "I live in rental housing.",
+      "relatedWords": [
+        "アパート",
+        "家賃"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v111",
+      "kanji": "非正規雇用",
+      "kana": "ひせいきこよう",
+      "romaji": "hiseiki koyou",
+      "partOfSpeech": "noun",
+      "meaning": "non-regular employment",
+      "jlptLevel": "N2",
+      "exampleSentence": "非正規雇用の増加が問題視されている。",
+      "exampleTranslation": "The increase in non-regular employment is seen as a problem.",
+      "relatedWords": [
+        "派遣",
+        "アルバイト"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v112",
+      "kanji": "正社員",
+      "kana": "せいしゃいん",
+      "romaji": "seishain",
+      "partOfSpeech": "noun",
+      "meaning": "regular employee",
+      "jlptLevel": "N2",
+      "exampleSentence": "正社員として働きたい。",
+      "exampleTranslation": "I want to work as a regular employee.",
+      "relatedWords": [
+        "会社員",
+        "雇用"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v113",
+      "kanji": "派遣社員",
+      "kana": "はけんしゃいん",
+      "romaji": "haken shain",
+      "partOfSpeech": "noun",
+      "meaning": "temporary worker, dispatch worker",
+      "jlptLevel": "N2",
+      "exampleSentence": "派遣社員として働いている。",
+      "exampleTranslation": "I work as a temporary worker.",
+      "relatedWords": [
+        "非正規",
+        "雇用"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v114",
+      "kanji": "契約社員",
+      "kana": "けいやくしゃいん",
+      "romaji": "keiyaku shain",
+      "partOfSpeech": "noun",
+      "meaning": "contract employee",
+      "jlptLevel": "N2",
+      "exampleSentence": "契約社員から正社員に登用された。",
+      "exampleTranslation": "I was promoted from contract employee to regular employee.",
+      "relatedWords": [
+        "非正規",
+        "雇用"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v115",
+      "kanji": "パート",
+      "kana": "ぱーと",
+      "romaji": "paato",
+      "partOfSpeech": "noun",
+      "meaning": "part-time worker",
+      "jlptLevel": "N2",
+      "exampleSentence": "パートタイムで働く主婦が多い。",
+      "exampleTranslation": "Many housewives work part-time.",
+      "relatedWords": [
+        "アルバイト",
+        "非正規"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v116",
+      "kanji": "フリーター",
+      "kana": "ふりーたー",
+      "romaji": "furiitaa",
+      "partOfSpeech": "noun",
+      "meaning": "freeter (part-time job hopper)",
+      "jlptLevel": "N2",
+      "exampleSentence": "フリーターから正社員になるのは難しい。",
+      "exampleTranslation": "It's difficult to go from freeter to regular employee.",
+      "relatedWords": [
+        "アルバイト",
+        "若者"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v117",
+      "kanji": "ニート",
+      "kana": "にーと",
+      "romaji": "niito",
+      "partOfSpeech": "noun",
+      "meaning": "NEET (Not in Employment, Education or Training)",
+      "jlptLevel": "N2",
+      "exampleSentence": "ニートの若者が増えている。",
+      "exampleTranslation": "The number of NEET youth is increasing.",
+      "relatedWords": [
+        "無職",
+        "若者"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v118",
+      "kanji": "引きこもり",
+      "kana": "ひきこもり",
+      "romaji": "hikikomori",
+      "partOfSpeech": "noun",
+      "meaning": "social withdrawal, recluse",
+      "jlptLevel": "N2",
+      "exampleSentence": "引きこもりの長期化が問題だ。",
+      "exampleTranslation": "The prolonged nature of social withdrawal is a problem.",
+      "relatedWords": [
+        "孤立",
+        "若者"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v119",
+      "kanji": "就職活動",
+      "kana": "しゅうしょくかつどう",
+      "romaji": "shuushoku katsudou",
+      "partOfSpeech": "noun",
+      "meaning": "job hunting",
+      "jlptLevel": "N2",
+      "exampleSentence": "大学生の就職活動が始まった。",
+      "exampleTranslation": "University students' job hunting has started.",
+      "relatedWords": [
+        "就活",
+        "就職"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v120",
+      "kanji": "就活",
+      "kana": "しゅうかつ",
+      "romaji": "shuukatsu",
+      "partOfSpeech": "noun",
+      "meaning": "job hunting (abbreviation)",
+      "jlptLevel": "N2",
+      "exampleSentence": "就活で苦労している。",
+      "exampleTranslation": "I'm having a hard time with job hunting.",
+      "relatedWords": [
+        "就職活動",
+        "面接"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v121",
+      "kanji": "新卒採用",
+      "kana": "しんそつさいよう",
+      "romaji": "shinsotsu saiyou",
+      "partOfSpeech": "noun",
+      "meaning": "new graduate hiring",
+      "jlptLevel": "N2",
+      "exampleSentence": "新卒採用の時期が早まっている。",
+      "exampleTranslation": "The timing of new graduate hiring is getting earlier.",
+      "relatedWords": [
+        "採用",
+        "就職"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v122",
+      "kanji": "転職",
+      "kana": "てんしょく",
+      "romaji": "tenshoku",
+      "partOfSpeech": "noun",
+      "meaning": "job change, career change",
+      "jlptLevel": "N2",
+      "exampleSentence": "より良い条件を求めて転職する。",
+      "exampleTranslation": "I'm changing jobs seeking better conditions.",
+      "relatedWords": [
+        "キャリア",
+        "就職"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v123",
+      "kanji": "雇用不安",
+      "kana": "こようふあん",
+      "romaji": "koyou fuan",
+      "partOfSpeech": "noun",
+      "meaning": "employment insecurity",
+      "jlptLevel": "N2",
+      "exampleSentence": "雇用不安が広がっている。",
+      "exampleTranslation": "Employment insecurity is spreading.",
+      "relatedWords": [
+        "失業",
+        "不安"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v124",
+      "kanji": "リストラ",
+      "kana": "りすとら",
+      "romaji": "risutora",
+      "partOfSpeech": "noun",
+      "meaning": "restructuring, downsizing",
+      "jlptLevel": "N2",
+      "exampleSentence": "不況のためリストラが行われた。",
+      "exampleTranslation": "Restructuring was carried out due to the recession.",
+      "relatedWords": [
+        "解雇",
+        "人員削減"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v125",
+      "kanji": "解雇",
+      "kana": "かいこ",
+      "romaji": "kaiko",
+      "partOfSpeech": "noun",
+      "meaning": "dismissal, firing",
+      "jlptLevel": "N2",
+      "exampleSentence": "不当な解雇は許されない。",
+      "exampleTranslation": "Unfair dismissal is not allowed.",
+      "relatedWords": [
+        "リストラ",
+        "失業"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v126",
+      "kanji": "賃金格差",
+      "kana": "ちんぎんかくさ",
+      "romaji": "chingin kakusa",
+      "partOfSpeech": "noun",
+      "meaning": "wage gap",
+      "jlptLevel": "N2",
+      "exampleSentence": "男女の賃金格差を是正する。",
+      "exampleTranslation": "We will correct the wage gap between men and women.",
+      "relatedWords": [
+        "給料",
+        "格差"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v127",
+      "kanji": "最低賃金",
+      "kana": "さいていちんぎん",
+      "romaji": "saitei chingin",
+      "partOfSpeech": "noun",
+      "meaning": "minimum wage",
+      "jlptLevel": "N2",
+      "exampleSentence": "最低賃金の引き上げが決定した。",
+      "exampleTranslation": "An increase in the minimum wage was decided.",
+      "relatedWords": [
+        "賃金",
+        "給料"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v128",
+      "kanji": "ブラック企業",
+      "kana": "ぶらっくきぎょう",
+      "romaji": "burakku kigyou",
+      "partOfSpeech": "noun",
+      "meaning": "exploitative company",
+      "jlptLevel": "N2",
+      "exampleSentence": "ブラック企業の撲滅が求められている。",
+      "exampleTranslation": "The elimination of exploitative companies is demanded.",
+      "relatedWords": [
+        "企業",
+        "労働問題"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v129",
+      "kanji": "労働基準法",
+      "kana": "ろうどうきじゅんほう",
+      "romaji": "roudou kijunhou",
+      "partOfSpeech": "noun",
+      "meaning": "Labor Standards Act",
+      "jlptLevel": "N2",
+      "exampleSentence": "労働基準法違反で摘発された。",
+      "exampleTranslation": "They were cracked down on for violating the Labor Standards Act.",
+      "relatedWords": [
+        "法律",
+        "労働"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v130",
+      "kanji": "労働組合",
+      "kana": "ろうどうくみあい",
+      "romaji": "roudou kumiai",
+      "partOfSpeech": "noun",
+      "meaning": "labor union",
+      "jlptLevel": "N2",
+      "exampleSentence": "労働組合が賃上げを要求している。",
+      "exampleTranslation": "The labor union is demanding a wage increase.",
+      "relatedWords": [
+        "組合",
+        "労働者"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v131",
+      "kanji": "自然災害",
+      "kana": "しぜんさいがい",
+      "romaji": "shizen saigai",
+      "partOfSpeech": "noun",
+      "meaning": "natural disaster",
+      "jlptLevel": "N2",
+      "exampleSentence": "自然災害への備えが重要だ。",
+      "exampleTranslation": "Preparation for natural disasters is important.",
+      "relatedWords": [
+        "災害",
+        "地震・台風"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v132",
+      "kanji": "地震",
+      "kana": "じしん",
+      "romaji": "jishin",
+      "partOfSpeech": "noun",
+      "meaning": "earthquake",
+      "jlptLevel": "N2",
+      "exampleSentence": "大きな地震に備えて避難訓練をする。",
+      "exampleTranslation": "We conduct evacuation drills to prepare for major earthquakes.",
+      "relatedWords": [
+        "災害",
+        "揺れ"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v133",
+      "kanji": "津波",
+      "kana": "つなみ",
+      "romaji": "tsunami",
+      "partOfSpeech": "noun",
+      "meaning": "tsunami",
+      "jlptLevel": "N2",
+      "exampleSentence": "津波警報が発令された。",
+      "exampleTranslation": "A tsunami warning was issued.",
+      "relatedWords": [
+        "地震",
+        "災害"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v134",
+      "kanji": "台風",
+      "kana": "たいふう",
+      "romaji": "taifuu",
+      "partOfSpeech": "noun",
+      "meaning": "typhoon",
+      "jlptLevel": "N2",
+      "exampleSentence": "大型台風が接近している。",
+      "exampleTranslation": "A large typhoon is approaching.",
+      "relatedWords": [
+        "災害",
+        "暴風"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v135",
+      "kanji": "洪水",
+      "kana": "こうずい",
+      "romaji": "kouzui",
+      "partOfSpeech": "noun",
+      "meaning": "flood",
+      "jlptLevel": "N2",
+      "exampleSentence": "豪雨による洪水被害が発生した。",
+      "exampleTranslation": "Flood damage occurred due to heavy rain.",
+      "relatedWords": [
+        "災害",
+        "水害"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v136",
+      "kanji": "土砂崩れ",
+      "kana": "どしゃくずれ",
+      "romaji": "dosha kuzure",
+      "partOfSpeech": "noun",
+      "meaning": "landslide",
+      "jlptLevel": "N2",
+      "exampleSentence": "土砂崩れで道路が通行止めになった。",
+      "exampleTranslation": "The road was closed due to a landslide.",
+      "relatedWords": [
+        "災害",
+        "山崩れ"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v137",
+      "kanji": "火山噴火",
+      "kana": "かざんふんか",
+      "romaji": "kazan funka",
+      "partOfSpeech": "noun",
+      "meaning": "volcanic eruption",
+      "jlptLevel": "N2",
+      "exampleSentence": "火山噴火の可能性が高まっている。",
+      "exampleTranslation": "The possibility of a volcanic eruption is increasing.",
+      "relatedWords": [
+        "災害",
+        "火山"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v138",
+      "kanji": "避難",
+      "kana": "ひなん",
+      "romaji": "hinan",
+      "partOfSpeech": "noun",
+      "meaning": "evacuation",
+      "jlptLevel": "N2",
+      "exampleSentence": "住民に避難勧告が出された。",
+      "exampleTranslation": "Evacuation advisories were issued to residents.",
+      "relatedWords": [
+        "災害",
+        "逃げる"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v139",
+      "kanji": "避難所",
+      "kana": "ひなんじょ",
+      "romaji": "hinanjo",
+      "partOfSpeech": "noun",
+      "meaning": "evacuation shelter",
+      "jlptLevel": "N2",
+      "exampleSentence": "避難所に多くの人が集まった。",
+      "exampleTranslation": "Many people gathered at the evacuation shelter.",
+      "relatedWords": [
+        "避難",
+        "施設"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v140",
+      "kanji": "被災者",
+      "kana": "ひさいしゃ",
+      "romaji": "hisaisha",
+      "partOfSpeech": "noun",
+      "meaning": "disaster victim",
+      "jlptLevel": "N2",
+      "exampleSentence": "被災者への支援活動が行われている。",
+      "exampleTranslation": "Support activities for disaster victims are being conducted.",
+      "relatedWords": [
+        "災害",
+        "被害者"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v141",
+      "kanji": "復興",
+      "kana": "ふっこう",
+      "romaji": "fukkou",
+      "partOfSpeech": "noun",
+      "meaning": "reconstruction, recovery",
+      "jlptLevel": "N2",
+      "exampleSentence": "被災地の復興が進んでいる。",
+      "exampleTranslation": "Recovery in the disaster-stricken area is progressing.",
+      "relatedWords": [
+        "災害",
+        "再建"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v142",
+      "kanji": "ライフライン",
+      "kana": "らいふらいん",
+      "romaji": "raifurain",
+      "partOfSpeech": "noun",
+      "meaning": "lifeline (utilities)",
+      "jlptLevel": "N2",
+      "exampleSentence": "地震でライフラインが寸断された。",
+      "exampleTranslation": "Lifelines were severed by the earthquake.",
+      "relatedWords": [
+        "電気・ガス・水道",
+        "インフラ"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v143",
+      "kanji": "備蓄",
+      "kana": "びちく",
+      "romaji": "bichiku",
+      "partOfSpeech": "noun",
+      "meaning": "stockpiling, emergency supplies",
+      "jlptLevel": "N2",
+      "exampleSentence": "非常食を備蓄している。",
+      "exampleTranslation": "I am stockpiling emergency food.",
+      "relatedWords": [
+        "防災",
+        "準備"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v144",
+      "kanji": "防災グッズ",
+      "kana": "ぼうさいぐっず",
+      "romaji": "bousai guzzu",
+      "partOfSpeech": "noun",
+      "meaning": "disaster prevention goods",
+      "jlptLevel": "N2",
+      "exampleSentence": "防災グッズを準備する。",
+      "exampleTranslation": "I will prepare disaster prevention goods.",
+      "relatedWords": [
+        "備蓄",
+        "防災"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v145",
+      "kanji": "地球温暖化",
+      "kana": "ちきゅうおんだんか",
+      "romaji": "chikyuu ondanka",
+      "partOfSpeech": "noun",
+      "meaning": "global warming",
+      "jlptLevel": "N2",
+      "exampleSentence": "地球温暖化が深刻な問題だ。",
+      "exampleTranslation": "Global warming is a serious problem.",
+      "relatedWords": [
+        "環境問題",
+        "気候変動"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v146",
+      "kanji": "気候変動",
+      "kana": "きこうへんどう",
+      "romaji": "kikou hendou",
+      "partOfSpeech": "noun",
+      "meaning": "climate change",
+      "jlptLevel": "N2",
+      "exampleSentence": "気候変動への対策が急務だ。",
+      "exampleTranslation": "Measures against climate change are urgent.",
+      "relatedWords": [
+        "環境",
+        "温暖化"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v147",
+      "kanji": "温室効果ガス",
+      "kana": "おんしつこうかがす",
+      "romaji": "onshitsu kouka gasu",
+      "partOfSpeech": "noun",
+      "meaning": "greenhouse gas",
+      "jlptLevel": "N2",
+      "exampleSentence": "温室効果ガスの削減が必要だ。",
+      "exampleTranslation": "Reduction of greenhouse gases is necessary.",
+      "relatedWords": [
+        "CO2",
+        "環境"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v148",
+      "kanji": "カーボンニュートラル",
+      "kana": "かーぼんにゅーとらる",
+      "romaji": "kaabon nyuutoraru",
+      "partOfSpeech": "noun",
+      "meaning": "carbon neutral",
+      "jlptLevel": "N2",
+      "exampleSentence": "2050年までにカーボンニュートラルを目指す。",
+      "exampleTranslation": "We aim for carbon neutrality by 2050.",
+      "relatedWords": [
+        "脱炭素",
+        "環境"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v149",
+      "kanji": "再生可能エネルギー",
+      "kana": "さいせいかのうえねるぎー",
+      "romaji": "saisei kanou enerugii",
+      "partOfSpeech": "noun",
+      "meaning": "renewable energy",
+      "jlptLevel": "N2",
+      "exampleSentence": "再生可能エネルギーの導入を進める。",
+      "exampleTranslation": "We will promote the introduction of renewable energy.",
+      "relatedWords": [
+        "太陽光",
+        "風力"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v150",
+      "kanji": "原子力発電",
+      "kana": "げんしりょくはつでん",
+      "romaji": "genshiryoku hatsuden",
+      "partOfSpeech": "noun",
+      "meaning": "nuclear power generation",
+      "jlptLevel": "N2",
+      "exampleSentence": "原子力発電の是非が議論されている。",
+      "exampleTranslation": "The pros and cons of nuclear power are being debated.",
+      "relatedWords": [
+        "原発",
+        "エネルギー"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v151",
+      "kanji": "情報社会",
+      "kana": "じょうほうしゃかい",
+      "romaji": "jouhou shakai",
+      "partOfSpeech": "noun",
+      "meaning": "information society",
+      "jlptLevel": "N2",
+      "exampleSentence": "情報社会における個人情報保護が重要だ。",
+      "exampleTranslation": "Personal information protection in the information society is important.",
+      "relatedWords": [
+        "IT",
+        "デジタル"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v152",
+      "kanji": "デジタル化",
+      "kana": "でじたるか",
+      "romaji": "dejitaruka",
+      "partOfSpeech": "noun",
+      "meaning": "digitalization",
+      "jlptLevel": "N2",
+      "exampleSentence": "社会のデジタル化が急速に進んでいる。",
+      "exampleTranslation": "The digitalization of society is progressing rapidly.",
+      "relatedWords": [
+        "IT",
+        "技術"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v153",
+      "kanji": "AI",
+      "kana": "エーアイ",
+      "romaji": "eei",
+      "partOfSpeech": "noun",
+      "meaning": "AI (artificial intelligence)",
+      "jlptLevel": "N2",
+      "exampleSentence": "AIが社会を変えつつある。",
+      "exampleTranslation": "AI is changing society.",
+      "relatedWords": [
+        "人工知能",
+        "技術"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v154",
+      "kanji": "IoT",
+      "kana": "アイオーティー",
+      "romaji": "aiootii",
+      "partOfSpeech": "noun",
+      "meaning": "IoT (Internet of Things)",
+      "jlptLevel": "N2",
+      "exampleSentence": "IoT技術の活用が進んでいる。",
+      "exampleTranslation": "The use of IoT technology is advancing.",
+      "relatedWords": [
+        "IT",
+        "ネット"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v155",
+      "kanji": "SNS",
+      "kana": "エスエヌエス",
+      "romaji": "esuenuhesu",
+      "partOfSpeech": "noun",
+      "meaning": "SNS (social networking service)",
+      "jlptLevel": "N2",
+      "exampleSentence": "SNSの普及により情報発信が容易になった。",
+      "exampleTranslation": "Information dissemination has become easier with the spread of SNS.",
+      "relatedWords": [
+        "ソーシャルメディア",
+        "ネット"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v156",
+      "kanji": "フェイクニュース",
+      "kana": "ふぇいくにゅーす",
+      "romaji": "feiku nyuusu",
+      "partOfSpeech": "noun",
+      "meaning": "fake news",
+      "jlptLevel": "N2",
+      "exampleSentence": "フェイクニュースの拡散が問題だ。",
+      "exampleTranslation": "The spread of fake news is a problem.",
+      "relatedWords": [
+        "偽情報",
+        "ニュース"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v157",
+      "kanji": "情報リテラシー",
+      "kana": "じょうほうりてらしー",
+      "romaji": "jouhou riterashii",
+      "partOfSpeech": "noun",
+      "meaning": "information literacy",
+      "jlptLevel": "N2",
+      "exampleSentence": "情報リテラシー教育が必要だ。",
+      "exampleTranslation": "Information literacy education is necessary.",
+      "relatedWords": [
+        "IT",
+        "教育"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v158",
+      "kanji": "サイバー犯罪",
+      "kana": "さいばーはんざい",
+      "romaji": "saibaa hanzai",
+      "partOfSpeech": "noun",
+      "meaning": "cybercrime",
+      "jlptLevel": "N2",
+      "exampleSentence": "サイバー犯罪への対策を強化する。",
+      "exampleTranslation": "We will strengthen measures against cybercrime.",
+      "relatedWords": [
+        "ネット犯罪",
+        "IT"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v159",
+      "kanji": "個人情報",
+      "kana": "こじんじょうほう",
+      "romaji": "kojin jouhou",
+      "partOfSpeech": "noun",
+      "meaning": "personal information",
+      "jlptLevel": "N2",
+      "exampleSentence": "個人情報の管理を徹底する。",
+      "exampleTranslation": "We will thoroughly manage personal information.",
+      "relatedWords": [
+        "プライバシー",
+        "情報"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v160",
+      "kanji": "プライバシー",
+      "kana": "ぷらいばしー",
+      "romaji": "puraibashii",
+      "partOfSpeech": "noun",
+      "meaning": "privacy",
+      "jlptLevel": "N2",
+      "exampleSentence": "プライバシー保護が重要視されている。",
+      "exampleTranslation": "Privacy protection is being emphasized.",
+      "relatedWords": [
+        "個人情報",
+        "権利"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v161",
+      "kanji": "監視社会",
+      "kana": "かんししゃかい",
+      "romaji": "kanshi shakai",
+      "partOfSpeech": "noun",
+      "meaning": "surveillance society",
+      "jlptLevel": "N2",
+      "exampleSentence": "監視社会化への懸念が高まっている。",
+      "exampleTranslation": "Concerns about the development of a surveillance society are growing.",
+      "relatedWords": [
+        "監視",
+        "プライバシー"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v162",
+      "kanji": "伝統文化",
+      "kana": "でんとうぶんか",
+      "romaji": "dentou bunka",
+      "partOfSpeech": "noun",
+      "meaning": "traditional culture",
+      "jlptLevel": "N2",
+      "exampleSentence": "伝統文化を次世代に継承する。",
+      "exampleTranslation": "We will pass on traditional culture to the next generation.",
+      "relatedWords": [
+        "文化",
+        "伝統"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v163",
+      "kanji": "文化財",
+      "kana": "ぶんかざい",
+      "romaji": "bunkazai",
+      "partOfSpeech": "noun",
+      "meaning": "cultural property",
+      "jlptLevel": "N2",
+      "exampleSentence": "文化財の保護が重要だ。",
+      "exampleTranslation": "Protection of cultural properties is important.",
+      "relatedWords": [
+        "遺産",
+        "文化"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v164",
+      "kanji": "無形文化財",
+      "kana": "むけいぶんかざい",
+      "romaji": "mukei bunkazai",
+      "partOfSpeech": "noun",
+      "meaning": "intangible cultural property",
+      "jlptLevel": "N2",
+      "exampleSentence": "能楽は無形文化財に指定されている。",
+      "exampleTranslation": "Noh theater is designated as an intangible cultural property.",
+      "relatedWords": [
+        "文化財",
+        "伝統"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v165",
+      "kanji": "世界遺産",
+      "kana": "せかいいさん",
+      "romaji": "sekai isan",
+      "partOfSpeech": "noun",
+      "meaning": "World Heritage",
+      "jlptLevel": "N2",
+      "exampleSentence": "富士山が世界遺産に登録された。",
+      "exampleTranslation": "Mount Fuji was registered as a World Heritage site.",
+      "relatedWords": [
+        "文化財",
+        "遺産"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v166",
+      "kanji": "観光立国",
+      "kana": "かんこうりっこく",
+      "romaji": "kankou rikkoku",
+      "partOfSpeech": "noun",
+      "meaning": "tourism-oriented nation",
+      "jlptLevel": "N2",
+      "exampleSentence": "観光立国を目指す政策が進められている。",
+      "exampleTranslation": "Policies aiming for a tourism-oriented nation are being promoted.",
+      "relatedWords": [
+        "観光",
+        "国策"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v167",
+      "kanji": "インバウンド",
+      "kana": "いんばうんど",
+      "romaji": "inbaundo",
+      "partOfSpeech": "noun",
+      "meaning": "inbound (foreign visitors)",
+      "jlptLevel": "N2",
+      "exampleSentence": "インバウンド需要が急増している。",
+      "exampleTranslation": "Inbound demand is surging.",
+      "relatedWords": [
+        "訪日外国人",
+        "観光"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v168",
+      "kanji": "民泊",
+      "kana": "みんぱく",
+      "romaji": "minpaku",
+      "partOfSpeech": "noun",
+      "meaning": "private lodging, vacation rental",
+      "jlptLevel": "N2",
+      "exampleSentence": "民泊の規制が議論されている。",
+      "exampleTranslation": "Regulations on private lodging are being discussed.",
+      "relatedWords": [
+        "Airbnb",
+        "宿泊"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v169",
+      "kanji": "オーバーツーリズム",
+      "kana": "おーばーつーりずむ",
+      "romaji": "oobaa tsuurizumu",
+      "partOfSpeech": "noun",
+      "meaning": "overtourism",
+      "jlptLevel": "N2",
+      "exampleSentence": "観光地でオーバーツーリズムが問題になっている。",
+      "exampleTranslation": "Overtourism is becoming a problem in tourist destinations.",
+      "relatedWords": [
+        "観光公害",
+        "混雑"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v170",
+      "kanji": "地域振興",
+      "kana": "ちいきしんこう",
+      "romaji": "chiiki shinkou",
+      "partOfSpeech": "noun",
+      "meaning": "regional promotion",
+      "jlptLevel": "N2",
+      "exampleSentence": "地域振興のためのイベントを開催する。",
+      "exampleTranslation": "We will hold events for regional promotion.",
+      "relatedWords": [
+        "活性化",
+        "地方"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v171",
+      "kanji": "倫理",
+      "kana": "りんり",
+      "romaji": "rinri",
+      "partOfSpeech": "noun",
+      "meaning": "ethics",
+      "jlptLevel": "N2",
+      "exampleSentence": "医療倫理が問われている。",
+      "exampleTranslation": "Medical ethics are being questioned.",
+      "relatedWords": [
+        "道徳",
+        "価値観"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v172",
+      "kanji": "道徳",
+      "kana": "どうとく",
+      "romaji": "doutoku",
+      "partOfSpeech": "noun",
+      "meaning": "morality",
+      "jlptLevel": "N2",
+      "exampleSentence": "道徳教育の重要性が見直されている。",
+      "exampleTranslation": "The importance of moral education is being reconsidered.",
+      "relatedWords": [
+        "倫理",
+        "価値観"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v173",
+      "kanji": "価値観",
+      "kana": "かちかん",
+      "romaji": "kachikan",
+      "partOfSpeech": "noun",
+      "meaning": "values",
+      "jlptLevel": "N2",
+      "exampleSentence": "多様な価値観を尊重する。",
+      "exampleTranslation": "We respect diverse values.",
+      "relatedWords": [
+        "考え方",
+        "思想"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v174",
+      "kanji": "世代間格差",
+      "kana": "せだいかんかくさ",
+      "romaji": "sedaikan kakusa",
+      "partOfSpeech": "noun",
+      "meaning": "intergenerational gap",
+      "jlptLevel": "N2",
+      "exampleSentence": "世代間格差が社会問題になっている。",
+      "exampleTranslation": "The intergenerational gap is becoming a social problem.",
+      "relatedWords": [
+        "世代",
+        "格差"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v175",
+      "kanji": "世論",
+      "kana": "せろん/よろん",
+      "romaji": "seron/yoron",
+      "partOfSpeech": "noun",
+      "meaning": "public opinion",
+      "jlptLevel": "N2",
+      "exampleSentence": "世論調査の結果が発表された。",
+      "exampleTranslation": "The results of a public opinion poll were announced.",
+      "relatedWords": [
+        "意見",
+        "国民"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v176",
+      "kanji": "国民投票",
+      "kana": "こくみんとうひょう",
+      "romaji": "kokumin touhyou",
+      "partOfSpeech": "noun",
+      "meaning": "national referendum",
+      "jlptLevel": "N2",
+      "exampleSentence": "重要な問題は国民投票で決めるべきだ。",
+      "exampleTranslation": "Important issues should be decided by national referendum.",
+      "relatedWords": [
+        "投票",
+        "民主主義"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v177",
+      "kanji": "民主主義",
+      "kana": "みんしゅしゅぎ",
+      "romaji": "minshu shugi",
+      "partOfSpeech": "noun",
+      "meaning": "democracy",
+      "jlptLevel": "N2",
+      "exampleSentence": "民主主義を守ることが重要だ。",
+      "exampleTranslation": "It is important to protect democracy.",
+      "relatedWords": [
+        "政治",
+        "自由"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v178",
+      "kanji": "言論の自由",
+      "kana": "げんろんのじゆう",
+      "romaji": "genron no jiyuu",
+      "partOfSpeech": "noun",
+      "meaning": "freedom of speech",
+      "jlptLevel": "N2",
+      "exampleSentence": "言論の自由は基本的人権だ。",
+      "exampleTranslation": "Freedom of speech is a fundamental human right.",
+      "relatedWords": [
+        "自由",
+        "権利"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v179",
+      "kanji": "表現の自由",
+      "kana": "ひょうげんのじゆう",
+      "romaji": "hyougen no jiyuu",
+      "partOfSpeech": "noun",
+      "meaning": "freedom of expression",
+      "jlptLevel": "N2",
+      "exampleSentence": "表現の自由を尊重する。",
+      "exampleTranslation": "We respect freedom of expression.",
+      "relatedWords": [
+        "自由",
+        "権利"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v180",
+      "kanji": "法律",
+      "kana": "ほうりつ",
+      "romaji": "houritsu",
+      "partOfSpeech": "noun",
+      "meaning": "law",
+      "jlptLevel": "N2",
+      "exampleSentence": "新しい法律が制定された。",
+      "exampleTranslation": "A new law was enacted.",
+      "relatedWords": [
+        "法",
+        "規則"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v181",
+      "kanji": "憲法",
+      "kana": "けんぽう",
+      "romaji": "kenpou",
+      "partOfSpeech": "noun",
+      "meaning": "constitution",
+      "jlptLevel": "N2",
+      "exampleSentence": "憲法改正が議論されている。",
+      "exampleTranslation": "Constitutional amendment is being discussed.",
+      "relatedWords": [
+        "法律",
+        "国家"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v182",
+      "kanji": "法改正",
+      "kana": "ほうかいせい",
+      "romaji": "hou kaisei",
+      "partOfSpeech": "noun",
+      "meaning": "legal revision",
+      "jlptLevel": "N2",
+      "exampleSentence": "法改正により制度が変わる。",
+      "exampleTranslation": "The system will change due to legal revision.",
+      "relatedWords": [
+        "法律",
+        "改正"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v183",
+      "kanji": "訴訟",
+      "kana": "そしょう",
+      "romaji": "soshou",
+      "partOfSpeech": "noun",
+      "meaning": "lawsuit",
+      "jlptLevel": "N2",
+      "exampleSentence": "損害賠償を求めて訴訟を起こした。",
+      "exampleTranslation": "I filed a lawsuit seeking damages.",
+      "relatedWords": [
+        "裁判",
+        "法律"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v184",
+      "kanji": "和解",
+      "kana": "わかい",
+      "romaji": "wakai",
+      "partOfSpeech": "noun",
+      "meaning": "settlement, reconciliation",
+      "jlptLevel": "N2",
+      "exampleSentence": "裁判で和解が成立した。",
+      "exampleTranslation": "A settlement was reached in the trial.",
+      "relatedWords": [
+        "解決",
+        "訴訟"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v185",
+      "kanji": "賠償",
+      "kana": "ばいしょう",
+      "romaji": "baishou",
+      "partOfSpeech": "noun",
+      "meaning": "compensation",
+      "jlptLevel": "N2",
+      "exampleSentence": "被害者に賠償金が支払われた。",
+      "exampleTranslation": "Compensation was paid to the victims.",
+      "relatedWords": [
+        "補償",
+        "お金"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v186",
+      "kanji": "冤罪",
+      "kana": "えんざい",
+      "romaji": "enzai",
+      "partOfSpeech": "noun",
+      "meaning": "false charge, wrongful conviction",
+      "jlptLevel": "N2",
+      "exampleSentence": "冤罪被害者の救済が必要だ。",
+      "exampleTranslation": "Relief for victims of false charges is necessary.",
+      "relatedWords": [
+        "無実",
+        "裁判"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v187",
+      "kanji": "再審",
+      "kana": "さいしん",
+      "romaji": "saishin",
+      "partOfSpeech": "noun",
+      "meaning": "retrial",
+      "jlptLevel": "N2",
+      "exampleSentence": "新証拠により再審が認められた。",
+      "exampleTranslation": "A retrial was granted based on new evidence.",
+      "relatedWords": [
+        "裁判",
+        "やり直し"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v188",
+      "kanji": "死刑",
+      "kana": "しけい",
+      "romaji": "shikei",
+      "partOfSpeech": "noun",
+      "meaning": "death penalty",
+      "jlptLevel": "N2",
+      "exampleSentence": "死刑制度の是非が議論されている。",
+      "exampleTranslation": "The pros and cons of the death penalty system are being debated.",
+      "relatedWords": [
+        "刑罰",
+        "法律"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v189",
+      "kanji": "少年法",
+      "kana": "しょうねんほう",
+      "romaji": "shounenhou",
+      "partOfSpeech": "noun",
+      "meaning": "Juvenile Act",
+      "jlptLevel": "N2",
+      "exampleSentence": "少年法の改正が検討されている。",
+      "exampleTranslation": "Revision of the Juvenile Act is being considered.",
+      "relatedWords": [
+        "法律",
+        "青少年"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v190",
+      "kanji": "更生保護",
+      "kana": "こうせいほご",
+      "romaji": "kousei hogo",
+      "partOfSpeech": "noun",
+      "meaning": "rehabilitation protection",
+      "jlptLevel": "N2",
+      "exampleSentence": "更生保護制度を充実させる。",
+      "exampleTranslation": "We will enhance the rehabilitation protection system.",
+      "relatedWords": [
+        "更生",
+        "支援"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v191",
+      "kanji": "再犯防止",
+      "kana": "さいはんぼうし",
+      "romaji": "saihan boushi",
+      "partOfSpeech": "noun",
+      "meaning": "recidivism prevention",
+      "jlptLevel": "N2",
+      "exampleSentence": "再犯防止のための支援が重要だ。",
+      "exampleTranslation": "Support for recidivism prevention is important.",
+      "relatedWords": [
+        "犯罪",
+        "防止"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v192",
+      "kanji": "社会復帰",
+      "kana": "しゃかいふっき",
+      "romaji": "shakai fukki",
+      "partOfSpeech": "noun",
+      "meaning": "social reintegration",
+      "jlptLevel": "N2",
+      "exampleSentence": "出所者の社会復帰を支援する。",
+      "exampleTranslation": "We support the social reintegration of ex-offenders.",
+      "relatedWords": [
+        "更生",
+        "社会"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v193",
+      "kanji": "地域貢献",
+      "kana": "ちいきこうけん",
+      "romaji": "chiiki kouken",
+      "partOfSpeech": "noun",
+      "meaning": "community contribution",
+      "jlptLevel": "N2",
+      "exampleSentence": "企業の地域貢献活動が広がっている。",
+      "exampleTranslation": "Corporate community contribution activities are expanding.",
+      "relatedWords": [
+        "貢献",
+        "社会"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v194",
+      "kanji": "持続可能",
+      "kana": "じぞくかのう",
+      "romaji": "jizoku kanou",
+      "partOfSpeech": "noun",
+      "meaning": "sustainable",
+      "jlptLevel": "N2",
+      "exampleSentence": "持続可能な社会の実現を目指す。",
+      "exampleTranslation": "We aim to realize a sustainable society.",
+      "relatedWords": [
+        "サステナブル",
+        "未来"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v195",
+      "kanji": "SDGs",
+      "kana": "エスディージーズ",
+      "romaji": "esudiijiizu",
+      "partOfSpeech": "noun",
+      "meaning": "SDGs (Sustainable Development Goals)",
+      "jlptLevel": "N2",
+      "exampleSentence": "SDGsへの取り組みが進んでいる。",
+      "exampleTranslation": "Initiatives for SDGs are progressing.",
+      "relatedWords": [
+        "持続可能",
+        "国連"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v196",
+      "kanji": "社会的責任",
+      "kana": "しゃかいてきせきにん",
+      "romaji": "shakaiteki sekinin",
+      "partOfSpeech": "noun",
+      "meaning": "social responsibility",
+      "jlptLevel": "N2",
+      "exampleSentence": "企業の社会的責任が問われている。",
+      "exampleTranslation": "Corporate social responsibility is being questioned.",
+      "relatedWords": [
+        "CSR",
+        "企業"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v197",
+      "kanji": "公益",
+      "kana": "こうえき",
+      "romaji": "koueki",
+      "partOfSpeech": "noun",
+      "meaning": "public interest",
+      "jlptLevel": "N2",
+      "exampleSentence": "公益のために活動する。",
+      "exampleTranslation": "I work for the public interest.",
+      "relatedWords": [
+        "社会",
+        "利益"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v198",
+      "kanji": "公共の福祉",
+      "kana": "こうきょうのふくし",
+      "romaji": "koukyou no fukushi",
+      "partOfSpeech": "noun",
+      "meaning": "public welfare",
+      "jlptLevel": "N2",
+      "exampleSentence": "公共の福祉のために権利が制限される。",
+      "exampleTranslation": "Rights are restricted for public welfare.",
+      "relatedWords": [
+        "福祉",
+        "社会"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v199",
+      "kanji": "社会保障",
+      "kana": "しゃかいほしょう",
+      "romaji": "shakai hoshou",
+      "partOfSpeech": "noun",
+      "meaning": "social security",
+      "jlptLevel": "N2",
+      "exampleSentence": "社会保障制度の改革が必要だ。",
+      "exampleTranslation": "Reform of the social security system is necessary.",
+      "relatedWords": [
+        "年金",
+        "医療"
+      ],
+      "notes": "Social issues vocabulary"
+    },
+    {
+      "id": "v200",
+      "kanji": "相互扶助",
+      "kana": "そうごふじょ",
+      "romaji": "sougo fujo",
+      "partOfSpeech": "noun",
+      "meaning": "mutual aid",
+      "jlptLevel": "N2",
+      "exampleSentence": "相互扶助の精神を大切にする。",
+      "exampleTranslation": "We value the spirit of mutual aid.",
+      "relatedWords": [
+        "助け合い",
+        "共助"
+      ],
+      "notes": "Social issues vocabulary"
     }
   ]
 }

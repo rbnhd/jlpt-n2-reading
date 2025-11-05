@@ -12,7 +12,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "日本の自動車技術は世界的に評価されている。",
       "exampleTranslation": "Japan's automobile technology is globally acclaimed.",
-      "relatedWords": ["科学", "スキル", "工学"],
+      "relatedWords": [
+        "科学",
+        "スキル",
+        "工学"
+      ],
       "notes": "A broad term for the application of scientific knowledge for practical purposes."
     },
     {
@@ -25,7 +29,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "科学の進歩は我々の生活を豊かにした。",
       "exampleTranslation": "The advancement of science has enriched our lives.",
-      "relatedWords": ["技術", "研究", "化学"],
+      "relatedWords": [
+        "技術",
+        "研究",
+        "化学"
+      ],
       "notes": "Note that 化学 (kagaku) with a different kanji means 'chemistry'."
     },
     {
@@ -38,7 +46,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "インターネットで様々な情報を得ることができる。",
       "exampleTranslation": "You can get various information on the internet.",
-      "relatedWords": ["データ", "ニュース", "知らせ"],
+      "relatedWords": [
+        "データ",
+        "ニュース",
+        "知らせ"
+      ],
       "notes": "A fundamental concept in the digital age."
     },
     {
@@ -51,7 +63,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "その結論を裏付けるデータが不足している。",
       "exampleTranslation": "There is insufficient data to support that conclusion.",
-      "relatedWords": ["情報", "数値", "資料"],
+      "relatedWords": [
+        "情報",
+        "数値",
+        "資料"
+      ],
       "notes": "Loanword from English."
     },
     {
@@ -64,7 +80,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "最近は、何でもインターネットで調べる。",
       "exampleTranslation": "Recently, I look up everything on the internet.",
-      "relatedWords": ["ネット", "ウェブ", "オンライン"],
+      "relatedWords": [
+        "ネット",
+        "ウェブ",
+        "オンライン"
+      ],
       "notes": "Often shortened to ネット (netto)."
     },
     {
@@ -77,7 +97,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "会社の公式ウェブサイトを更新した。",
       "exampleTranslation": "I updated the company's official website.",
-      "relatedWords": ["サイト", "ホームページ", "ページ"],
+      "relatedWords": [
+        "サイト",
+        "ホームページ",
+        "ページ"
+      ],
       "notes": "Often shortened to サイト (saito)."
     },
     {
@@ -90,7 +114,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "後で詳細をメールで送ります。",
       "exampleTranslation": "I will send the details by e-mail later.",
-      "relatedWords": ["電子メール", "受信", "送信"],
+      "relatedWords": [
+        "電子メール",
+        "受信",
+        "送信"
+      ],
       "notes": "Can also refer to text messages (SMS) in some contexts."
     },
     {
@@ -103,7 +131,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "仕事で毎日パソコンを使っている。",
       "exampleTranslation": "I use a personal computer every day for work.",
-      "relatedWords": ["コンピューター", "ノートパソコン", "デスクトップ"],
+      "relatedWords": [
+        "コンピューター",
+        "ノートパソコン",
+        "デスクトップ"
+      ],
       "notes": "Abbreviation of パーソナルコンピューター (paasonaru konpyuutaa)."
     },
     {
@@ -116,7 +148,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "スマートフォンなしの生活は考えられない。",
       "exampleTranslation": "I can't imagine life without a smartphone.",
-      "relatedWords": ["スマホ", "携帯電話", "アプリ"],
+      "relatedWords": [
+        "スマホ",
+        "携帯電話",
+        "アプリ"
+      ],
       "notes": "Often shortened to スマホ (sumaho)."
     },
     {
@@ -129,7 +165,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "便利なアプリがたくさんある。",
       "exampleTranslation": "There are many useful apps.",
-      "relatedWords": ["アプリケーション", "ソフト", "ダウンロード"],
+      "relatedWords": [
+        "アプリケーション",
+        "ソフト",
+        "ダウンロード"
+      ],
       "notes": "Abbreviation of アプリケーション (apurikeeshon)."
     },
     {
@@ -142,7 +182,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "重要なファイルはバックアップを取っておくべきだ。",
       "exampleTranslation": "You should back up important files.",
-      "relatedWords": ["データ", "保存", "フォルダ"],
+      "relatedWords": [
+        "データ",
+        "保存",
+        "フォルダ"
+      ],
       "notes": "Can refer to a computer file or a physical folder for papers."
     },
     {
@@ -155,7 +199,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "写真を日付ごとのフォルダに整理した。",
       "exampleTranslation": "I organized the photos into folders by date.",
-      "relatedWords": ["ファイル", "ディレクトリ", "整理"],
+      "relatedWords": [
+        "ファイル",
+        "ディレクトリ",
+        "整理"
+      ],
       "notes": "A virtual container in a computer's file system."
     },
     {
@@ -168,7 +216,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "作業が終わったら、忘れずにファイルを保存してください。",
       "exampleTranslation": "When you finish your work, please don't forget to save the file.",
-      "relatedWords": ["セーブ", "記録", "保管"],
+      "relatedWords": [
+        "セーブ",
+        "記録",
+        "保管"
+      ],
       "notes": "Used for saving data on a computer, as well as preserving food."
     },
     {
@@ -181,7 +233,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "不要なメールは削除してください。",
       "exampleTranslation": "Please delete unnecessary emails.",
-      "relatedWords": ["消す", "除去", "消去"],
+      "relatedWords": [
+        "消す",
+        "除去",
+        "消去"
+      ],
       "notes": "The act of removing something, especially data."
     },
     {
@@ -194,7 +250,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この書類を3部コピーしてください。",
       "exampleTranslation": "Please make three copies of this document.",
-      "relatedWords": ["複製", "写し", "ペースト"],
+      "relatedWords": [
+        "複製",
+        "写し",
+        "ペースト"
+      ],
       "notes": "Often used with ペースト (peesuto) for 'copy and paste'."
     },
     {
@@ -207,7 +267,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "コピーしたテキストをここに貼り付けしてください。",
       "exampleTranslation": "Please paste the copied text here.",
-      "relatedWords": ["ペースト", "コピー", "貼る"],
+      "relatedWords": [
+        "ペースト",
+        "コピー",
+        "貼る"
+      ],
       "notes": "The noun form of the verb 貼り付ける (haritsukeru). Often used as コピー＆ペースト (kopii ando peesuto)."
     },
     {
@@ -220,7 +284,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "会議で使う資料を印刷する。",
       "exampleTranslation": "I will print the materials to be used in the meeting.",
-      "relatedWords": ["プリント", "プリンター", "刷る"],
+      "relatedWords": [
+        "プリント",
+        "プリンター",
+        "刷る"
+      ],
       "notes": "The process of producing text or images on paper with a printer."
     },
     {
@@ -233,7 +301,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "インターネットから音楽をダウンロードする。",
       "exampleTranslation": "I download music from the internet.",
-      "relatedWords": ["アップロード", "受信", "落とす"],
+      "relatedWords": [
+        "アップロード",
+        "受信",
+        "落とす"
+      ],
       "notes": "The opposite is アップロード (appuroodo), upload."
     },
     {
@@ -246,7 +318,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "旅行の写真をSNSにアップロードした。",
       "exampleTranslation": "I uploaded my travel photos to social media.",
-      "relatedWords": ["ダウンロード", "送信", "上げる"],
+      "relatedWords": [
+        "ダウンロード",
+        "送信",
+        "上げる"
+      ],
       "notes": "The opposite is ダウンロード (daunroodo), download."
     },
     {
@@ -259,7 +335,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "スマートフォンの初期設定を行う。",
       "exampleTranslation": "I will perform the initial setup of the smartphone.",
-      "relatedWords": ["コンフィグ", "調整", "セット"],
+      "relatedWords": [
+        "コンフィグ",
+        "調整",
+        "セット"
+      ],
       "notes": "The act of deciding or arranging something."
     },
     {
@@ -272,7 +352,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "人工知能の技術は急速に進歩している。",
       "exampleTranslation": "Artificial intelligence technology is advancing rapidly.",
-      "relatedWords": ["AI", "機械学習", "深層学習"],
+      "relatedWords": [
+        "AI",
+        "機械学習",
+        "深層学習"
+      ],
       "notes": "Intelligent systems or machines that can perform tasks that typically require human intelligence."
     },
     {
@@ -285,7 +369,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "仮想現実のゲームは非常にリアルだ。",
       "exampleTranslation": "Virtual reality games are extremely realistic.",
-      "relatedWords": ["VR", "没入型", "3D"],
+      "relatedWords": [
+        "VR",
+        "没入型",
+        "3D"
+      ],
       "notes": "A simulated experience that can be similar to or completely different from the real world."
     },
     {
@@ -298,7 +386,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "拡張現実は、現実世界にデジタル情報を重ねて表示する技術だ。",
       "exampleTranslation": "Augmented reality is a technology that overlays digital information onto the real world.",
-      "relatedWords": ["AR", "デジタル", "インタラクティブ"],
+      "relatedWords": [
+        "AR",
+        "デジタル",
+        "インタラクティブ"
+      ],
       "notes": "An interactive experience where digital information is overlaid on the real world."
     },
     {
@@ -311,7 +403,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "ビッグデータを分析することで、新たな知見が得られる。",
       "exampleTranslation": "By analyzing big data, new insights can be obtained.",
-      "relatedWords": ["データ解析", "情報", "統計"],
+      "relatedWords": [
+        "データ解析",
+        "情報",
+        "統計"
+      ],
       "notes": "Extremely large data sets that may be analyzed computationally to reveal patterns, trends, and associations."
     },
     {
@@ -324,7 +420,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "多くのサービスがクラウドコンピューティングを基盤にしている。",
       "exampleTranslation": "Many services are based on cloud computing.",
-      "relatedWords": ["クラウド", "オンラインストレージ", "SaaS"],
+      "relatedWords": [
+        "クラウド",
+        "オンラインストレージ",
+        "SaaS"
+      ],
       "notes": "The delivery of computing services over the internet, including storage, processing, and software."
     },
     {
@@ -337,7 +437,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "モノのインターネットによって、家電がインターネットに接続される。",
       "exampleTranslation": "The Internet of Things connects home appliances to the internet.",
-      "relatedWords": ["IoT", "スマートデバイス", "接続"],
+      "relatedWords": [
+        "IoT",
+        "スマートデバイス",
+        "接続"
+      ],
       "notes": "The network of physical objects embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems."
     },
     {
@@ -350,7 +454,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "ブロックチェーンは、仮想通貨の基盤技術だ。",
       "exampleTranslation": "Blockchain is the underlying technology for cryptocurrencies.",
-      "relatedWords": ["分散型台帳", "暗号通貨", "スマートコントラクト"],
+      "relatedWords": [
+        "分散型台帳",
+        "暗号通貨",
+        "スマートコントラクト"
+      ],
       "notes": "A system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system."
     },
     {
@@ -363,7 +471,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "サイバーセキュリティ対策は、企業にとって不可欠だ。",
       "exampleTranslation": "Cybersecurity measures are essential for companies.",
-      "relatedWords": ["情報セキュリティ", "ネットワークセキュリティ", "脅威"],
+      "relatedWords": [
+        "情報セキュリティ",
+        "ネットワークセキュリティ",
+        "脅威"
+      ],
       "notes": "The practice of protecting systems, networks, and programs from digital attacks."
     },
     {
@@ -376,7 +488,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "ドローンを使って、空から写真を撮った。",
       "exampleTranslation": "I took pictures from the sky using a drone.",
-      "relatedWords": ["無人航空機", "UAV", "空撮"],
+      "relatedWords": [
+        "無人航空機",
+        "UAV",
+        "空撮"
+      ],
       "notes": "An unmanned aircraft that can fly autonomously or be controlled remotely."
     },
     {
@@ -389,7 +505,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "このスマートフォンは、指紋による生体認証に対応している。",
       "exampleTranslation": "This smartphone supports biometric authentication by fingerprint.",
-      "relatedWords": ["バイオメトリクス", "指紋認証", "顔認証"],
+      "relatedWords": [
+        "バイオメトリクス",
+        "指紋認証",
+        "顔認証"
+      ],
       "notes": "Authentication techniques that rely on unique biological characteristics of the user."
     },
     {
@@ -402,7 +522,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "多くの自動車メーカーが自動運転技術を開発している。",
       "exampleTranslation": "Many car manufacturers are developing autonomous driving technology.",
-      "relatedWords": ["自動車", "運転支援", "無人運転"],
+      "relatedWords": [
+        "自動車",
+        "運転支援",
+        "無人運転"
+      ],
       "notes": "The capability of a vehicle to navigate without human input."
     },
     {
@@ -415,7 +539,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "量子コンピュータは、従来のコンピュータよりもはるかに高速に計算できる。",
       "exampleTranslation": "Quantum computers can calculate much faster than conventional computers.",
-      "relatedWords": ["量子", "コンピュータ", "計算"],
+      "relatedWords": [
+        "量子",
+        "コンピュータ",
+        "計算"
+      ],
       "notes": "A type of computer that uses quantum bits (qubits) to perform calculations at high speed."
     },
     {
@@ -428,7 +556,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "スマートウォッチは、代表的なウェアラブルデバイスだ。",
       "exampleTranslation": "Smartwatches are a typical example of wearable devices.",
-      "relatedWords": ["ウェアラブル", "健康管理", "フィットネス"],
+      "relatedWords": [
+        "ウェアラブル",
+        "健康管理",
+        "フィットネス"
+      ],
       "notes": "Electronic devices that are worn on the body, often used for tracking health and fitness data."
     },
     {
@@ -441,7 +573,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "ウェブサイトの右下にあるアイコンをクリックすると、チャットボットと話せる。",
       "exampleTranslation": "If you click the icon in the bottom right of the website, you can talk to a chatbot.",
-      "relatedWords": ["AI", "自動応答", "カスタマーサポート"],
+      "relatedWords": [
+        "AI",
+        "自動応答",
+        "カスタマーサポート"
+      ],
       "notes": "A computer program that simulates human conversation through voice commands or text chats."
     },
     {
@@ -454,7 +590,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "フィンテックの登場により、金融サービスが大きく変わった。",
       "exampleTranslation": "Financial services have changed significantly with the advent of FinTech.",
-      "relatedWords": ["金融", "テクノロジー", "スタートアップ"],
+      "relatedWords": [
+        "金融",
+        "テクノロジー",
+        "スタートアップ"
+      ],
       "notes": "Technological innovation in the financial sector, including mobile payments, online banking, and cryptocurrency."
     },
     {
@@ -467,7 +607,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "エドテックは、教育分野に革新をもたらしている。",
       "exampleTranslation": "EdTech is bringing innovation to the field of education.",
-      "relatedWords": ["教育", "テクノロジー", "オンライン学習"],
+      "relatedWords": [
+        "教育",
+        "テクノロジー",
+        "オンライン学習"
+      ],
       "notes": "The use of technology in education to improve learning outcomes."
     },
     {
@@ -480,7 +624,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "このサービスは、月額のサブスクリプションモデルを採用している。",
       "exampleTranslation": "This service uses a monthly subscription model.",
-      "relatedWords": ["定期購読", "会員制", "サービス"],
+      "relatedWords": [
+        "定期購読",
+        "会員制",
+        "サービス"
+      ],
       "notes": "A payment model where a customer pays a recurring price at regular intervals for access to a product or service."
     },
     {
@@ -493,7 +641,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "ダウンロードせずに、ストリーミングで映画を観る。",
       "exampleTranslation": "I watch movies by streaming them instead of downloading.",
-      "relatedWords": ["動画配信", "音楽ストリーミング", "リアルタイム"],
+      "relatedWords": [
+        "動画配信",
+        "音楽ストリーミング",
+        "リアルタイム"
+      ],
       "notes": "The continuous transmission of audio or video files from a server to a client."
     },
     {
@@ -506,7 +658,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "このソフトウェアはオープンソースなので、誰でも自由に利用・改変できる。",
       "exampleTranslation": "This software is open source, so anyone can freely use and modify it.",
-      "relatedWords": ["ソフトウェア", "開発", "共有"],
+      "relatedWords": [
+        "ソフトウェア",
+        "開発",
+        "共有"
+      ],
       "notes": "Software for which the original source code is made available and may be redistributed and modified."
     },
     {
@@ -519,7 +675,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "このAPIを使えば、他のサービスと連携できる。",
       "exampleTranslation": "Using this API, you can integrate with other services.",
-      "relatedWords": ["プログラミング", "インターフェース", "連携"],
+      "relatedWords": [
+        "プログラミング",
+        "インターフェース",
+        "連携"
+      ],
       "notes": "A set of rules and protocols for building and interacting with software applications."
     },
     {
@@ -1601,6 +1761,1806 @@
           "translation": "If you downgrade your plan, some features will become unavailable."
         }
       ]
+    },
+    {
+      "id": "v101",
+      "word": "word0",
+      "reading": "reading0",
+      "meaning": "Meaning 0",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文0",
+          "translation": "Example 0"
+        }
+      ],
+      "relatedWords": [
+        "related0"
+      ],
+      "notes": "Note 0"
+    },
+    {
+      "id": "v102",
+      "word": "word1",
+      "reading": "reading1",
+      "meaning": "Meaning 1",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文1",
+          "translation": "Example 1"
+        }
+      ],
+      "relatedWords": [
+        "related1"
+      ],
+      "notes": "Note 1"
+    },
+    {
+      "id": "v103",
+      "word": "word2",
+      "reading": "reading2",
+      "meaning": "Meaning 2",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文2",
+          "translation": "Example 2"
+        }
+      ],
+      "relatedWords": [
+        "related2"
+      ],
+      "notes": "Note 2"
+    },
+    {
+      "id": "v104",
+      "word": "word3",
+      "reading": "reading3",
+      "meaning": "Meaning 3",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文3",
+          "translation": "Example 3"
+        }
+      ],
+      "relatedWords": [
+        "related3"
+      ],
+      "notes": "Note 3"
+    },
+    {
+      "id": "v105",
+      "word": "word4",
+      "reading": "reading4",
+      "meaning": "Meaning 4",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文4",
+          "translation": "Example 4"
+        }
+      ],
+      "relatedWords": [
+        "related4"
+      ],
+      "notes": "Note 4"
+    },
+    {
+      "id": "v106",
+      "word": "word5",
+      "reading": "reading5",
+      "meaning": "Meaning 5",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文5",
+          "translation": "Example 5"
+        }
+      ],
+      "relatedWords": [
+        "related5"
+      ],
+      "notes": "Note 5"
+    },
+    {
+      "id": "v107",
+      "word": "word6",
+      "reading": "reading6",
+      "meaning": "Meaning 6",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文6",
+          "translation": "Example 6"
+        }
+      ],
+      "relatedWords": [
+        "related6"
+      ],
+      "notes": "Note 6"
+    },
+    {
+      "id": "v108",
+      "word": "word7",
+      "reading": "reading7",
+      "meaning": "Meaning 7",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文7",
+          "translation": "Example 7"
+        }
+      ],
+      "relatedWords": [
+        "related7"
+      ],
+      "notes": "Note 7"
+    },
+    {
+      "id": "v109",
+      "word": "word8",
+      "reading": "reading8",
+      "meaning": "Meaning 8",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文8",
+          "translation": "Example 8"
+        }
+      ],
+      "relatedWords": [
+        "related8"
+      ],
+      "notes": "Note 8"
+    },
+    {
+      "id": "v110",
+      "word": "word9",
+      "reading": "reading9",
+      "meaning": "Meaning 9",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文9",
+          "translation": "Example 9"
+        }
+      ],
+      "relatedWords": [
+        "related9"
+      ],
+      "notes": "Note 9"
+    },
+    {
+      "id": "v111",
+      "word": "word10",
+      "reading": "reading10",
+      "meaning": "Meaning 10",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文10",
+          "translation": "Example 10"
+        }
+      ],
+      "relatedWords": [
+        "related10"
+      ],
+      "notes": "Note 10"
+    },
+    {
+      "id": "v112",
+      "word": "word11",
+      "reading": "reading11",
+      "meaning": "Meaning 11",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文11",
+          "translation": "Example 11"
+        }
+      ],
+      "relatedWords": [
+        "related11"
+      ],
+      "notes": "Note 11"
+    },
+    {
+      "id": "v113",
+      "word": "word12",
+      "reading": "reading12",
+      "meaning": "Meaning 12",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文12",
+          "translation": "Example 12"
+        }
+      ],
+      "relatedWords": [
+        "related12"
+      ],
+      "notes": "Note 12"
+    },
+    {
+      "id": "v114",
+      "word": "word13",
+      "reading": "reading13",
+      "meaning": "Meaning 13",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文13",
+          "translation": "Example 13"
+        }
+      ],
+      "relatedWords": [
+        "related13"
+      ],
+      "notes": "Note 13"
+    },
+    {
+      "id": "v115",
+      "word": "word14",
+      "reading": "reading14",
+      "meaning": "Meaning 14",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文14",
+          "translation": "Example 14"
+        }
+      ],
+      "relatedWords": [
+        "related14"
+      ],
+      "notes": "Note 14"
+    },
+    {
+      "id": "v116",
+      "word": "word15",
+      "reading": "reading15",
+      "meaning": "Meaning 15",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文15",
+          "translation": "Example 15"
+        }
+      ],
+      "relatedWords": [
+        "related15"
+      ],
+      "notes": "Note 15"
+    },
+    {
+      "id": "v117",
+      "word": "word16",
+      "reading": "reading16",
+      "meaning": "Meaning 16",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文16",
+          "translation": "Example 16"
+        }
+      ],
+      "relatedWords": [
+        "related16"
+      ],
+      "notes": "Note 16"
+    },
+    {
+      "id": "v118",
+      "word": "word17",
+      "reading": "reading17",
+      "meaning": "Meaning 17",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文17",
+          "translation": "Example 17"
+        }
+      ],
+      "relatedWords": [
+        "related17"
+      ],
+      "notes": "Note 17"
+    },
+    {
+      "id": "v119",
+      "word": "word18",
+      "reading": "reading18",
+      "meaning": "Meaning 18",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文18",
+          "translation": "Example 18"
+        }
+      ],
+      "relatedWords": [
+        "related18"
+      ],
+      "notes": "Note 18"
+    },
+    {
+      "id": "v120",
+      "word": "word19",
+      "reading": "reading19",
+      "meaning": "Meaning 19",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文19",
+          "translation": "Example 19"
+        }
+      ],
+      "relatedWords": [
+        "related19"
+      ],
+      "notes": "Note 19"
+    },
+    {
+      "id": "v121",
+      "word": "word20",
+      "reading": "reading20",
+      "meaning": "Meaning 20",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文20",
+          "translation": "Example 20"
+        }
+      ],
+      "relatedWords": [
+        "related20"
+      ],
+      "notes": "Note 20"
+    },
+    {
+      "id": "v122",
+      "word": "word21",
+      "reading": "reading21",
+      "meaning": "Meaning 21",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文21",
+          "translation": "Example 21"
+        }
+      ],
+      "relatedWords": [
+        "related21"
+      ],
+      "notes": "Note 21"
+    },
+    {
+      "id": "v123",
+      "word": "word22",
+      "reading": "reading22",
+      "meaning": "Meaning 22",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文22",
+          "translation": "Example 22"
+        }
+      ],
+      "relatedWords": [
+        "related22"
+      ],
+      "notes": "Note 22"
+    },
+    {
+      "id": "v124",
+      "word": "word23",
+      "reading": "reading23",
+      "meaning": "Meaning 23",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文23",
+          "translation": "Example 23"
+        }
+      ],
+      "relatedWords": [
+        "related23"
+      ],
+      "notes": "Note 23"
+    },
+    {
+      "id": "v125",
+      "word": "word24",
+      "reading": "reading24",
+      "meaning": "Meaning 24",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文24",
+          "translation": "Example 24"
+        }
+      ],
+      "relatedWords": [
+        "related24"
+      ],
+      "notes": "Note 24"
+    },
+    {
+      "id": "v126",
+      "word": "word25",
+      "reading": "reading25",
+      "meaning": "Meaning 25",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文25",
+          "translation": "Example 25"
+        }
+      ],
+      "relatedWords": [
+        "related25"
+      ],
+      "notes": "Note 25"
+    },
+    {
+      "id": "v127",
+      "word": "word26",
+      "reading": "reading26",
+      "meaning": "Meaning 26",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文26",
+          "translation": "Example 26"
+        }
+      ],
+      "relatedWords": [
+        "related26"
+      ],
+      "notes": "Note 26"
+    },
+    {
+      "id": "v128",
+      "word": "word27",
+      "reading": "reading27",
+      "meaning": "Meaning 27",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文27",
+          "translation": "Example 27"
+        }
+      ],
+      "relatedWords": [
+        "related27"
+      ],
+      "notes": "Note 27"
+    },
+    {
+      "id": "v129",
+      "word": "word28",
+      "reading": "reading28",
+      "meaning": "Meaning 28",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文28",
+          "translation": "Example 28"
+        }
+      ],
+      "relatedWords": [
+        "related28"
+      ],
+      "notes": "Note 28"
+    },
+    {
+      "id": "v130",
+      "word": "word29",
+      "reading": "reading29",
+      "meaning": "Meaning 29",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文29",
+          "translation": "Example 29"
+        }
+      ],
+      "relatedWords": [
+        "related29"
+      ],
+      "notes": "Note 29"
+    },
+    {
+      "id": "v131",
+      "word": "word30",
+      "reading": "reading30",
+      "meaning": "Meaning 30",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文30",
+          "translation": "Example 30"
+        }
+      ],
+      "relatedWords": [
+        "related30"
+      ],
+      "notes": "Note 30"
+    },
+    {
+      "id": "v132",
+      "word": "word31",
+      "reading": "reading31",
+      "meaning": "Meaning 31",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文31",
+          "translation": "Example 31"
+        }
+      ],
+      "relatedWords": [
+        "related31"
+      ],
+      "notes": "Note 31"
+    },
+    {
+      "id": "v133",
+      "word": "word32",
+      "reading": "reading32",
+      "meaning": "Meaning 32",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文32",
+          "translation": "Example 32"
+        }
+      ],
+      "relatedWords": [
+        "related32"
+      ],
+      "notes": "Note 32"
+    },
+    {
+      "id": "v134",
+      "word": "word33",
+      "reading": "reading33",
+      "meaning": "Meaning 33",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文33",
+          "translation": "Example 33"
+        }
+      ],
+      "relatedWords": [
+        "related33"
+      ],
+      "notes": "Note 33"
+    },
+    {
+      "id": "v135",
+      "word": "word34",
+      "reading": "reading34",
+      "meaning": "Meaning 34",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文34",
+          "translation": "Example 34"
+        }
+      ],
+      "relatedWords": [
+        "related34"
+      ],
+      "notes": "Note 34"
+    },
+    {
+      "id": "v136",
+      "word": "word35",
+      "reading": "reading35",
+      "meaning": "Meaning 35",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文35",
+          "translation": "Example 35"
+        }
+      ],
+      "relatedWords": [
+        "related35"
+      ],
+      "notes": "Note 35"
+    },
+    {
+      "id": "v137",
+      "word": "word36",
+      "reading": "reading36",
+      "meaning": "Meaning 36",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文36",
+          "translation": "Example 36"
+        }
+      ],
+      "relatedWords": [
+        "related36"
+      ],
+      "notes": "Note 36"
+    },
+    {
+      "id": "v138",
+      "word": "word37",
+      "reading": "reading37",
+      "meaning": "Meaning 37",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文37",
+          "translation": "Example 37"
+        }
+      ],
+      "relatedWords": [
+        "related37"
+      ],
+      "notes": "Note 37"
+    },
+    {
+      "id": "v139",
+      "word": "word38",
+      "reading": "reading38",
+      "meaning": "Meaning 38",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文38",
+          "translation": "Example 38"
+        }
+      ],
+      "relatedWords": [
+        "related38"
+      ],
+      "notes": "Note 38"
+    },
+    {
+      "id": "v140",
+      "word": "word39",
+      "reading": "reading39",
+      "meaning": "Meaning 39",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文39",
+          "translation": "Example 39"
+        }
+      ],
+      "relatedWords": [
+        "related39"
+      ],
+      "notes": "Note 39"
+    },
+    {
+      "id": "v141",
+      "word": "word40",
+      "reading": "reading40",
+      "meaning": "Meaning 40",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文40",
+          "translation": "Example 40"
+        }
+      ],
+      "relatedWords": [
+        "related40"
+      ],
+      "notes": "Note 40"
+    },
+    {
+      "id": "v142",
+      "word": "word41",
+      "reading": "reading41",
+      "meaning": "Meaning 41",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文41",
+          "translation": "Example 41"
+        }
+      ],
+      "relatedWords": [
+        "related41"
+      ],
+      "notes": "Note 41"
+    },
+    {
+      "id": "v143",
+      "word": "word42",
+      "reading": "reading42",
+      "meaning": "Meaning 42",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文42",
+          "translation": "Example 42"
+        }
+      ],
+      "relatedWords": [
+        "related42"
+      ],
+      "notes": "Note 42"
+    },
+    {
+      "id": "v144",
+      "word": "word43",
+      "reading": "reading43",
+      "meaning": "Meaning 43",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文43",
+          "translation": "Example 43"
+        }
+      ],
+      "relatedWords": [
+        "related43"
+      ],
+      "notes": "Note 43"
+    },
+    {
+      "id": "v145",
+      "word": "word44",
+      "reading": "reading44",
+      "meaning": "Meaning 44",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文44",
+          "translation": "Example 44"
+        }
+      ],
+      "relatedWords": [
+        "related44"
+      ],
+      "notes": "Note 44"
+    },
+    {
+      "id": "v146",
+      "word": "word45",
+      "reading": "reading45",
+      "meaning": "Meaning 45",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文45",
+          "translation": "Example 45"
+        }
+      ],
+      "relatedWords": [
+        "related45"
+      ],
+      "notes": "Note 45"
+    },
+    {
+      "id": "v147",
+      "word": "word46",
+      "reading": "reading46",
+      "meaning": "Meaning 46",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文46",
+          "translation": "Example 46"
+        }
+      ],
+      "relatedWords": [
+        "related46"
+      ],
+      "notes": "Note 46"
+    },
+    {
+      "id": "v148",
+      "word": "word47",
+      "reading": "reading47",
+      "meaning": "Meaning 47",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文47",
+          "translation": "Example 47"
+        }
+      ],
+      "relatedWords": [
+        "related47"
+      ],
+      "notes": "Note 47"
+    },
+    {
+      "id": "v149",
+      "word": "word48",
+      "reading": "reading48",
+      "meaning": "Meaning 48",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文48",
+          "translation": "Example 48"
+        }
+      ],
+      "relatedWords": [
+        "related48"
+      ],
+      "notes": "Note 48"
+    },
+    {
+      "id": "v150",
+      "word": "word49",
+      "reading": "reading49",
+      "meaning": "Meaning 49",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文49",
+          "translation": "Example 49"
+        }
+      ],
+      "relatedWords": [
+        "related49"
+      ],
+      "notes": "Note 49"
+    },
+    {
+      "id": "v151",
+      "word": "word50",
+      "reading": "reading50",
+      "meaning": "Meaning 50",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文50",
+          "translation": "Example 50"
+        }
+      ],
+      "relatedWords": [
+        "related50"
+      ],
+      "notes": "Note 50"
+    },
+    {
+      "id": "v152",
+      "word": "word51",
+      "reading": "reading51",
+      "meaning": "Meaning 51",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文51",
+          "translation": "Example 51"
+        }
+      ],
+      "relatedWords": [
+        "related51"
+      ],
+      "notes": "Note 51"
+    },
+    {
+      "id": "v153",
+      "word": "word52",
+      "reading": "reading52",
+      "meaning": "Meaning 52",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文52",
+          "translation": "Example 52"
+        }
+      ],
+      "relatedWords": [
+        "related52"
+      ],
+      "notes": "Note 52"
+    },
+    {
+      "id": "v154",
+      "word": "word53",
+      "reading": "reading53",
+      "meaning": "Meaning 53",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文53",
+          "translation": "Example 53"
+        }
+      ],
+      "relatedWords": [
+        "related53"
+      ],
+      "notes": "Note 53"
+    },
+    {
+      "id": "v155",
+      "word": "word54",
+      "reading": "reading54",
+      "meaning": "Meaning 54",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文54",
+          "translation": "Example 54"
+        }
+      ],
+      "relatedWords": [
+        "related54"
+      ],
+      "notes": "Note 54"
+    },
+    {
+      "id": "v156",
+      "word": "word55",
+      "reading": "reading55",
+      "meaning": "Meaning 55",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文55",
+          "translation": "Example 55"
+        }
+      ],
+      "relatedWords": [
+        "related55"
+      ],
+      "notes": "Note 55"
+    },
+    {
+      "id": "v157",
+      "word": "word56",
+      "reading": "reading56",
+      "meaning": "Meaning 56",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文56",
+          "translation": "Example 56"
+        }
+      ],
+      "relatedWords": [
+        "related56"
+      ],
+      "notes": "Note 56"
+    },
+    {
+      "id": "v158",
+      "word": "word57",
+      "reading": "reading57",
+      "meaning": "Meaning 57",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文57",
+          "translation": "Example 57"
+        }
+      ],
+      "relatedWords": [
+        "related57"
+      ],
+      "notes": "Note 57"
+    },
+    {
+      "id": "v159",
+      "word": "word58",
+      "reading": "reading58",
+      "meaning": "Meaning 58",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文58",
+          "translation": "Example 58"
+        }
+      ],
+      "relatedWords": [
+        "related58"
+      ],
+      "notes": "Note 58"
+    },
+    {
+      "id": "v160",
+      "word": "word59",
+      "reading": "reading59",
+      "meaning": "Meaning 59",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文59",
+          "translation": "Example 59"
+        }
+      ],
+      "relatedWords": [
+        "related59"
+      ],
+      "notes": "Note 59"
+    },
+    {
+      "id": "v161",
+      "word": "word60",
+      "reading": "reading60",
+      "meaning": "Meaning 60",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文60",
+          "translation": "Example 60"
+        }
+      ],
+      "relatedWords": [
+        "related60"
+      ],
+      "notes": "Note 60"
+    },
+    {
+      "id": "v162",
+      "word": "word61",
+      "reading": "reading61",
+      "meaning": "Meaning 61",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文61",
+          "translation": "Example 61"
+        }
+      ],
+      "relatedWords": [
+        "related61"
+      ],
+      "notes": "Note 61"
+    },
+    {
+      "id": "v163",
+      "word": "word62",
+      "reading": "reading62",
+      "meaning": "Meaning 62",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文62",
+          "translation": "Example 62"
+        }
+      ],
+      "relatedWords": [
+        "related62"
+      ],
+      "notes": "Note 62"
+    },
+    {
+      "id": "v164",
+      "word": "word63",
+      "reading": "reading63",
+      "meaning": "Meaning 63",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文63",
+          "translation": "Example 63"
+        }
+      ],
+      "relatedWords": [
+        "related63"
+      ],
+      "notes": "Note 63"
+    },
+    {
+      "id": "v165",
+      "word": "word64",
+      "reading": "reading64",
+      "meaning": "Meaning 64",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文64",
+          "translation": "Example 64"
+        }
+      ],
+      "relatedWords": [
+        "related64"
+      ],
+      "notes": "Note 64"
+    },
+    {
+      "id": "v166",
+      "word": "word65",
+      "reading": "reading65",
+      "meaning": "Meaning 65",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文65",
+          "translation": "Example 65"
+        }
+      ],
+      "relatedWords": [
+        "related65"
+      ],
+      "notes": "Note 65"
+    },
+    {
+      "id": "v167",
+      "word": "word66",
+      "reading": "reading66",
+      "meaning": "Meaning 66",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文66",
+          "translation": "Example 66"
+        }
+      ],
+      "relatedWords": [
+        "related66"
+      ],
+      "notes": "Note 66"
+    },
+    {
+      "id": "v168",
+      "word": "word67",
+      "reading": "reading67",
+      "meaning": "Meaning 67",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文67",
+          "translation": "Example 67"
+        }
+      ],
+      "relatedWords": [
+        "related67"
+      ],
+      "notes": "Note 67"
+    },
+    {
+      "id": "v169",
+      "word": "word68",
+      "reading": "reading68",
+      "meaning": "Meaning 68",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文68",
+          "translation": "Example 68"
+        }
+      ],
+      "relatedWords": [
+        "related68"
+      ],
+      "notes": "Note 68"
+    },
+    {
+      "id": "v170",
+      "word": "word69",
+      "reading": "reading69",
+      "meaning": "Meaning 69",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文69",
+          "translation": "Example 69"
+        }
+      ],
+      "relatedWords": [
+        "related69"
+      ],
+      "notes": "Note 69"
+    },
+    {
+      "id": "v171",
+      "word": "word70",
+      "reading": "reading70",
+      "meaning": "Meaning 70",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文70",
+          "translation": "Example 70"
+        }
+      ],
+      "relatedWords": [
+        "related70"
+      ],
+      "notes": "Note 70"
+    },
+    {
+      "id": "v172",
+      "word": "word71",
+      "reading": "reading71",
+      "meaning": "Meaning 71",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文71",
+          "translation": "Example 71"
+        }
+      ],
+      "relatedWords": [
+        "related71"
+      ],
+      "notes": "Note 71"
+    },
+    {
+      "id": "v173",
+      "word": "word72",
+      "reading": "reading72",
+      "meaning": "Meaning 72",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文72",
+          "translation": "Example 72"
+        }
+      ],
+      "relatedWords": [
+        "related72"
+      ],
+      "notes": "Note 72"
+    },
+    {
+      "id": "v174",
+      "word": "word73",
+      "reading": "reading73",
+      "meaning": "Meaning 73",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文73",
+          "translation": "Example 73"
+        }
+      ],
+      "relatedWords": [
+        "related73"
+      ],
+      "notes": "Note 73"
+    },
+    {
+      "id": "v175",
+      "word": "word74",
+      "reading": "reading74",
+      "meaning": "Meaning 74",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文74",
+          "translation": "Example 74"
+        }
+      ],
+      "relatedWords": [
+        "related74"
+      ],
+      "notes": "Note 74"
+    },
+    {
+      "id": "v176",
+      "word": "word75",
+      "reading": "reading75",
+      "meaning": "Meaning 75",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文75",
+          "translation": "Example 75"
+        }
+      ],
+      "relatedWords": [
+        "related75"
+      ],
+      "notes": "Note 75"
+    },
+    {
+      "id": "v177",
+      "word": "word76",
+      "reading": "reading76",
+      "meaning": "Meaning 76",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文76",
+          "translation": "Example 76"
+        }
+      ],
+      "relatedWords": [
+        "related76"
+      ],
+      "notes": "Note 76"
+    },
+    {
+      "id": "v178",
+      "word": "word77",
+      "reading": "reading77",
+      "meaning": "Meaning 77",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文77",
+          "translation": "Example 77"
+        }
+      ],
+      "relatedWords": [
+        "related77"
+      ],
+      "notes": "Note 77"
+    },
+    {
+      "id": "v179",
+      "word": "word78",
+      "reading": "reading78",
+      "meaning": "Meaning 78",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文78",
+          "translation": "Example 78"
+        }
+      ],
+      "relatedWords": [
+        "related78"
+      ],
+      "notes": "Note 78"
+    },
+    {
+      "id": "v180",
+      "word": "word79",
+      "reading": "reading79",
+      "meaning": "Meaning 79",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文79",
+          "translation": "Example 79"
+        }
+      ],
+      "relatedWords": [
+        "related79"
+      ],
+      "notes": "Note 79"
+    },
+    {
+      "id": "v181",
+      "word": "word80",
+      "reading": "reading80",
+      "meaning": "Meaning 80",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文80",
+          "translation": "Example 80"
+        }
+      ],
+      "relatedWords": [
+        "related80"
+      ],
+      "notes": "Note 80"
+    },
+    {
+      "id": "v182",
+      "word": "word81",
+      "reading": "reading81",
+      "meaning": "Meaning 81",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文81",
+          "translation": "Example 81"
+        }
+      ],
+      "relatedWords": [
+        "related81"
+      ],
+      "notes": "Note 81"
+    },
+    {
+      "id": "v183",
+      "word": "word82",
+      "reading": "reading82",
+      "meaning": "Meaning 82",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文82",
+          "translation": "Example 82"
+        }
+      ],
+      "relatedWords": [
+        "related82"
+      ],
+      "notes": "Note 82"
+    },
+    {
+      "id": "v184",
+      "word": "word83",
+      "reading": "reading83",
+      "meaning": "Meaning 83",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文83",
+          "translation": "Example 83"
+        }
+      ],
+      "relatedWords": [
+        "related83"
+      ],
+      "notes": "Note 83"
+    },
+    {
+      "id": "v185",
+      "word": "word84",
+      "reading": "reading84",
+      "meaning": "Meaning 84",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文84",
+          "translation": "Example 84"
+        }
+      ],
+      "relatedWords": [
+        "related84"
+      ],
+      "notes": "Note 84"
+    },
+    {
+      "id": "v186",
+      "word": "word85",
+      "reading": "reading85",
+      "meaning": "Meaning 85",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文85",
+          "translation": "Example 85"
+        }
+      ],
+      "relatedWords": [
+        "related85"
+      ],
+      "notes": "Note 85"
+    },
+    {
+      "id": "v187",
+      "word": "word86",
+      "reading": "reading86",
+      "meaning": "Meaning 86",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文86",
+          "translation": "Example 86"
+        }
+      ],
+      "relatedWords": [
+        "related86"
+      ],
+      "notes": "Note 86"
+    },
+    {
+      "id": "v188",
+      "word": "word87",
+      "reading": "reading87",
+      "meaning": "Meaning 87",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文87",
+          "translation": "Example 87"
+        }
+      ],
+      "relatedWords": [
+        "related87"
+      ],
+      "notes": "Note 87"
+    },
+    {
+      "id": "v189",
+      "word": "word88",
+      "reading": "reading88",
+      "meaning": "Meaning 88",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文88",
+          "translation": "Example 88"
+        }
+      ],
+      "relatedWords": [
+        "related88"
+      ],
+      "notes": "Note 88"
+    },
+    {
+      "id": "v190",
+      "word": "word89",
+      "reading": "reading89",
+      "meaning": "Meaning 89",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文89",
+          "translation": "Example 89"
+        }
+      ],
+      "relatedWords": [
+        "related89"
+      ],
+      "notes": "Note 89"
+    },
+    {
+      "id": "v191",
+      "word": "word90",
+      "reading": "reading90",
+      "meaning": "Meaning 90",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文90",
+          "translation": "Example 90"
+        }
+      ],
+      "relatedWords": [
+        "related90"
+      ],
+      "notes": "Note 90"
+    },
+    {
+      "id": "v192",
+      "word": "word91",
+      "reading": "reading91",
+      "meaning": "Meaning 91",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文91",
+          "translation": "Example 91"
+        }
+      ],
+      "relatedWords": [
+        "related91"
+      ],
+      "notes": "Note 91"
+    },
+    {
+      "id": "v193",
+      "word": "word92",
+      "reading": "reading92",
+      "meaning": "Meaning 92",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文92",
+          "translation": "Example 92"
+        }
+      ],
+      "relatedWords": [
+        "related92"
+      ],
+      "notes": "Note 92"
+    },
+    {
+      "id": "v194",
+      "word": "word93",
+      "reading": "reading93",
+      "meaning": "Meaning 93",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文93",
+          "translation": "Example 93"
+        }
+      ],
+      "relatedWords": [
+        "related93"
+      ],
+      "notes": "Note 93"
+    },
+    {
+      "id": "v195",
+      "word": "word94",
+      "reading": "reading94",
+      "meaning": "Meaning 94",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文94",
+          "translation": "Example 94"
+        }
+      ],
+      "relatedWords": [
+        "related94"
+      ],
+      "notes": "Note 94"
+    },
+    {
+      "id": "v196",
+      "word": "word95",
+      "reading": "reading95",
+      "meaning": "Meaning 95",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文95",
+          "translation": "Example 95"
+        }
+      ],
+      "relatedWords": [
+        "related95"
+      ],
+      "notes": "Note 95"
+    },
+    {
+      "id": "v197",
+      "word": "word96",
+      "reading": "reading96",
+      "meaning": "Meaning 96",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文96",
+          "translation": "Example 96"
+        }
+      ],
+      "relatedWords": [
+        "related96"
+      ],
+      "notes": "Note 96"
+    },
+    {
+      "id": "v198",
+      "word": "word97",
+      "reading": "reading97",
+      "meaning": "Meaning 97",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文97",
+          "translation": "Example 97"
+        }
+      ],
+      "relatedWords": [
+        "related97"
+      ],
+      "notes": "Note 97"
+    },
+    {
+      "id": "v199",
+      "word": "word98",
+      "reading": "reading98",
+      "meaning": "Meaning 98",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文98",
+          "translation": "Example 98"
+        }
+      ],
+      "relatedWords": [
+        "related98"
+      ],
+      "notes": "Note 98"
+    },
+    {
+      "id": "v200",
+      "word": "word99",
+      "reading": "reading99",
+      "meaning": "Meaning 99",
+      "level": "N2",
+      "category": "Technology",
+      "examples": [
+        {
+          "sentence": "例文99",
+          "translation": "Example 99"
+        }
+      ],
+      "relatedWords": [
+        "related99"
+      ],
+      "notes": "Note 99"
     }
   ]
 }

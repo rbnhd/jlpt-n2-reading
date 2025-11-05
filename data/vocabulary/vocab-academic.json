@@ -13,7 +13,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "環境問題について研究しています。",
       "exampleTranslation": "I am researching environmental issues.",
-      "relatedWords": ["調査", "実験", "分析"],
+      "relatedWords": [
+        "調査",
+        "実験",
+        "分析"
+      ],
       "notes": "研究者 means researcher"
     },
     {
@@ -26,7 +30,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "卒業論文を書いています。",
       "exampleTranslation": "I am writing my graduation thesis.",
-      "relatedWords": ["レポート", "報告書", "記事"],
+      "relatedWords": [
+        "レポート",
+        "報告書",
+        "記事"
+      ],
       "notes": "卒業論文 = graduation thesis"
     },
     {
@@ -39,7 +47,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "その理論は証明されていません。",
       "exampleTranslation": "That theory has not been proven.",
-      "relatedWords": ["仮説", "学説", "原理"],
+      "relatedWords": [
+        "仮説",
+        "学説",
+        "原理"
+      ],
       "notes": "理論的 means theoretical"
     },
     {
@@ -52,7 +64,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "実験の結果が出ました。",
       "exampleTranslation": "The experiment results are out.",
-      "relatedWords": ["試験", "検証", "テスト"],
+      "relatedWords": [
+        "試験",
+        "検証",
+        "テスト"
+      ],
       "notes": "実験室 = laboratory"
     },
     {
@@ -65,7 +81,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "データを分析する必要があります。",
       "exampleTranslation": "We need to analyze the data.",
-      "relatedWords": ["解析", "検討", "考察"],
+      "relatedWords": [
+        "解析",
+        "検討",
+        "考察"
+      ],
       "notes": "Often used in academic and business contexts"
     },
     {
@@ -78,7 +98,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この哲学的な概念を理解するのは難しい。",
       "exampleTranslation": "It is difficult to understand this philosophical concept.",
-      "relatedWords": ["考え", "観念", "アイデア"],
+      "relatedWords": [
+        "考え",
+        "観念",
+        "アイデア"
+      ],
       "notes": "A fundamental idea or principle."
     },
     {
@@ -91,7 +115,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "幸福の定義は人それぞれだ。",
       "exampleTranslation": "The definition of happiness varies from person to person.",
-      "relatedWords": ["意味", "規定", "解釈"],
+      "relatedWords": [
+        "意味",
+        "規定",
+        "解釈"
+      ],
       "notes": "A precise statement of the meaning of a word or concept."
     },
     {
@@ -104,7 +132,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "実験の前に仮説を立てる。",
       "exampleTranslation": "We form a hypothesis before the experiment.",
-      "relatedWords": ["理論", "推測", "仮定"],
+      "relatedWords": [
+        "理論",
+        "推測",
+        "仮定"
+      ],
       "notes": "A proposed explanation made on the basis of limited evidence."
     },
     {
@@ -117,7 +149,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼の無実を証明するのは困難だった。",
       "exampleTranslation": "It was difficult to prove his innocence.",
-      "relatedWords": ["証拠", "立証", "確認"],
+      "relatedWords": [
+        "証拠",
+        "立証",
+        "確認"
+      ],
       "notes": "Can be used in both logical/mathematical and legal contexts."
     },
     {
@@ -130,7 +166,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この問題について、さらに考察が必要だ。",
       "exampleTranslation": "Further consideration is needed on this issue.",
-      "relatedWords": ["検討", "分析", "思索"],
+      "relatedWords": [
+        "検討",
+        "分析",
+        "思索"
+      ],
       "notes": "A deep and careful consideration or analysis, often found in academic papers."
     },
     {
@@ -143,7 +183,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "長い議論の末、ようやく結論に達した。",
       "exampleTranslation": "After a long discussion, we finally reached a conclusion.",
-      "relatedWords": ["結果", "まとめ", "断定"],
+      "relatedWords": [
+        "結果",
+        "まとめ",
+        "断定"
+      ],
       "notes": "The final part of a discourse, summarizing the main points."
     },
     {
@@ -156,7 +200,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼は医学の分野で活躍している。",
       "exampleTranslation": "He is active in the field of medicine.",
-      "relatedWords": ["領域", "専門", "方面"],
+      "relatedWords": [
+        "領域",
+        "専門",
+        "方面"
+      ],
       "notes": "A particular branch of study or sphere of activity."
     },
     {
@@ -169,7 +217,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "学問の道は厳しい。",
       "exampleTranslation": "The path of scholarship is rigorous.",
-      "relatedWords": ["学術", "研究", "勉強"],
+      "relatedWords": [
+        "学術",
+        "研究",
+        "勉強"
+      ],
       "notes": "Refers to academic pursuit in general."
     },
     {
@@ -182,7 +234,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この大学は学術研究で有名だ。",
       "exampleTranslation": "This university is famous for its academic research.",
-      "relatedWords": ["学問", "科学", "研究"],
+      "relatedWords": [
+        "学問",
+        "科学",
+        "研究"
+      ],
       "notes": "Often used in compounds like 学術雑誌 (academic journal)."
     },
     {
@@ -195,7 +251,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "論文を書くために多くの文献を読んだ。",
       "exampleTranslation": "I read many documents to write my thesis.",
-      "relatedWords": ["資料", "書籍", "参考文献"],
+      "relatedWords": [
+        "資料",
+        "書籍",
+        "参考文献"
+      ],
       "notes": "参考文献 (sankou bunken) means bibliography/references."
     },
     {
@@ -208,7 +268,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "レポートには正確な引用が求められる。",
       "exampleTranslation": "Accurate citations are required in the report.",
-      "relatedWords": ["抜粋", "参照", "出典"],
+      "relatedWords": [
+        "抜粋",
+        "参照",
+        "出典"
+      ],
       "notes": "出典 (shutten) is the source of the quotation."
     },
     {
@@ -221,7 +285,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "詳しくは、巻末の資料を参照してください。",
       "exampleTranslation": "For details, please refer to the materials at the end of the volume.",
-      "relatedWords": ["参考", "引用", "照会"],
+      "relatedWords": [
+        "参考",
+        "引用",
+        "照会"
+      ],
       "notes": "The act of looking at something for information."
     },
     {
@@ -234,7 +302,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "統計によれば、人口は減少し続けている。",
       "exampleTranslation": "According to statistics, the population continues to decrease.",
-      "relatedWords": ["データ", "数字", "確率"],
+      "relatedWords": [
+        "データ",
+        "数字",
+        "確率"
+      ],
       "notes": "The science of collecting and analyzing numerical data."
     },
     {
@@ -247,7 +319,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "事故の原因を調査する。",
       "exampleTranslation": "We will investigate the cause of the accident.",
-      "relatedWords": ["研究", "検査", "アンケート"],
+      "relatedWords": [
+        "研究",
+        "検査",
+        "アンケート"
+      ],
       "notes": "A systematic examination or inquiry."
     },
     {
@@ -260,7 +336,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "別の観点から問題を考えてみよう。",
       "exampleTranslation": "Let's try to think about the problem from a different point of view.",
-      "relatedWords": ["視点", "立場", "見方"],
+      "relatedWords": [
+        "視点",
+        "立場",
+        "見方"
+      ],
       "notes": "A particular way of considering something."
     },
     {
@@ -273,7 +353,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "歴史的な視点からこの出来事を分析する。",
       "exampleTranslation": "We will analyze this event from a historical perspective.",
-      "relatedWords": ["観点", "見地", "立場"],
+      "relatedWords": [
+        "観点",
+        "見地",
+        "立場"
+      ],
       "notes": "Synonymous with 観点, but can sometimes imply a more personal or individual viewpoint."
     },
     {
@@ -286,7 +370,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "客観的な事実に基づいて判断してください。",
       "exampleTranslation": "Please judge based on objective facts.",
-      "relatedWords": ["主観的", "公平", "中立"],
+      "relatedWords": [
+        "主観的",
+        "公平",
+        "中立"
+      ],
       "notes": "The opposite is 主観的 (shukanteki), subjective."
     },
     {
@@ -299,7 +387,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "それはあまりにも主観的な意見だ。",
       "exampleTranslation": "That is too subjective an opinion.",
-      "relatedWords": ["客観的", "個人的", "偏見"],
+      "relatedWords": [
+        "客観的",
+        "個人的",
+        "偏見"
+      ],
       "notes": "The opposite is 客観的 (kyakkanteki), objective."
     },
     {
@@ -312,7 +404,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "もっと具体的な例を挙げてください。",
       "exampleTranslation": "Please give a more concrete example.",
-      "relatedWords": ["抽象的", "明確", "詳細"],
+      "relatedWords": [
+        "抽象的",
+        "明確",
+        "詳細"
+      ],
       "notes": "The opposite is 抽象的 (chuushouteki), abstract."
     },
     {
@@ -325,7 +421,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼の話は抽象的で分かりにくい。",
       "exampleTranslation": "His story is abstract and difficult to understand.",
-      "relatedWords": ["具体的", "観念的", "曖昧"],
+      "relatedWords": [
+        "具体的",
+        "観念的",
+        "曖昧"
+      ],
       "notes": "The opposite is 具体的 (gutaiteki), concrete."
     },
     {
@@ -338,7 +438,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼の主張には論理的な矛盾がある。",
       "exampleTranslation": "There is a logical contradiction in his argument.",
-      "relatedWords": ["筋道", "道理", "理屈"],
+      "relatedWords": [
+        "筋道",
+        "道理",
+        "理屈"
+      ],
       "notes": "論理的 (ronriteki) means logical."
     },
     {
@@ -351,7 +455,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "その二つの発言は矛盾している。",
       "exampleTranslation": "Those two statements are contradictory.",
-      "relatedWords": ["食い違い", "撞着", "自己矛盾"],
+      "relatedWords": [
+        "食い違い",
+        "撞着",
+        "自己矛盾"
+      ],
       "notes": "Originates from the story of a spear (矛) that can pierce any shield and a shield (盾) that can block any spear."
     },
     {
@@ -364,7 +472,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "その判断の根拠は何ですか。",
       "exampleTranslation": "What is the basis for that judgment?",
-      "relatedWords": ["理由", "証拠", "裏付け"],
+      "relatedWords": [
+        "理由",
+        "証拠",
+        "裏付け"
+      ],
       "notes": "The reason or evidence that supports a claim."
     },
     {
@@ -377,7 +489,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "成功の最大の要因はチームワークだった。",
       "exampleTranslation": "The biggest factor for success was teamwork.",
-      "relatedWords": ["原因", "要素", "きっかけ"],
+      "relatedWords": [
+        "原因",
+        "要素",
+        "きっかけ"
+      ],
       "notes": "A primary element that contributes to a result."
     },
     {
@@ -390,7 +506,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "事件の背景には複雑な人間関係があった。",
       "exampleTranslation": "There were complex human relationships in the background of the incident.",
-      "relatedWords": ["事情", "経緯", "状況"],
+      "relatedWords": [
+        "事情",
+        "経緯",
+        "状況"
+      ],
       "notes": "Can refer to a literal background in a picture, or the historical/social context of an event."
     },
     {
@@ -403,7 +523,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "社会の構造は時代と共に変化する。",
       "exampleTranslation": "The structure of society changes with the times.",
-      "relatedWords": ["仕組み", "構成", "組織"],
+      "relatedWords": [
+        "仕組み",
+        "構成",
+        "組織"
+      ],
       "notes": "Used for physical structures as well as abstract ones like social or grammatical structures."
     },
     {
@@ -416,7 +540,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼は新しい知識を体系的に整理した。",
       "exampleTranslation": "He systematically organized the new knowledge.",
-      "relatedWords": ["システム", "構造", "秩序"],
+      "relatedWords": [
+        "システム",
+        "構造",
+        "秩序"
+      ],
       "notes": "An organized set of ideas or principles; a system."
     },
     {
@@ -429,7 +557,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "本をジャンル別に分類する。",
       "exampleTranslation": "To classify books by genre.",
-      "relatedWords": ["種類", "分ける", "整理"],
+      "relatedWords": [
+        "種類",
+        "分ける",
+        "整理"
+      ],
       "notes": "The arrangement of things in groups according to their similarities."
     },
     {
@@ -442,7 +574,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "てこの原理を応用して重い物を動かす。",
       "exampleTranslation": "Move a heavy object by applying the principle of leverage.",
-      "relatedWords": ["原則", "法則", "基本"],
+      "relatedWords": [
+        "原則",
+        "法則",
+        "基本"
+      ],
       "notes": "A fundamental law or truth on which others are based."
     },
     {
@@ -455,7 +591,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "自然界には多くの法則が存在する。",
       "exampleTranslation": "Many laws exist in the natural world.",
-      "relatedWords": ["規則", "原理", "ルール"],
+      "relatedWords": [
+        "規則",
+        "原理",
+        "ルール"
+      ],
       "notes": "A statement of fact, deduced from observation, to the effect that a particular natural or scientific phenomenon always occurs if certain conditions are present."
     },
     {
@@ -468,7 +608,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "オーロラは珍しい自然現象だ。",
       "exampleTranslation": "The aurora is a rare natural phenomenon.",
-      "relatedWords": ["出来事", "事象", "不思議"],
+      "relatedWords": [
+        "出来事",
+        "事象",
+        "不思議"
+      ],
       "notes": "A fact or situation that is observed to exist or happen."
     },
     {
@@ -481,7 +625,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この技術は様々な分野に応用できる。",
       "exampleTranslation": "This technology can be applied to various fields.",
-      "relatedWords": ["適用", "利用", "実践"],
+      "relatedWords": [
+        "適用",
+        "利用",
+        "実践"
+      ],
       "notes": "The action of putting something into operation. The opposite is 基礎 (kiso), foundation."
     },
     {
@@ -494,7 +642,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この製品は国際的な安全標準を満たしている。",
       "exampleTranslation": "This product meets international safety standards.",
-      "relatedWords": ["基準", "水準", "平均"],
+      "relatedWords": [
+        "基準",
+        "水準",
+        "平均"
+      ],
       "notes": "A level of quality or attainment."
     },
     {
@@ -507,7 +659,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "審査の基準を明確にする必要がある。",
       "exampleTranslation": "It is necessary to clarify the criteria for judgment.",
-      "relatedWords": ["標準", "規格", "条件"],
+      "relatedWords": [
+        "標準",
+        "規格",
+        "条件"
+      ],
       "notes": "A principle or standard by which something may be judged or decided."
     },
     {
@@ -520,7 +676,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼の研究は未知の領域に踏み込んでいる。",
       "exampleTranslation": "His research is entering an unknown territory.",
-      "relatedWords": ["分野", "範囲", "圏"],
+      "relatedWords": [
+        "分野",
+        "範囲",
+        "圏"
+      ],
       "notes": "A specified sphere of activity or knowledge."
     },
     {
@@ -533,7 +693,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "思考のプロセスを説明してください。",
       "exampleTranslation": "Please explain your thought process.",
-      "relatedWords": ["過程", "手順", "工程"],
+      "relatedWords": [
+        "過程",
+        "手順",
+        "工程"
+      ],
       "notes": "A series of actions or steps taken in order to achieve a particular end."
     },
     {
@@ -546,7 +710,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "このアプリには便利な機能がたくさんある。",
       "exampleTranslation": "This app has many convenient features.",
-      "relatedWords": ["働き", "役割", "性能"],
+      "relatedWords": [
+        "働き",
+        "役割",
+        "性能"
+      ],
       "notes": "An activity or purpose natural to or intended for a person or thing."
     },
     {
@@ -559,7 +727,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "社会における教育の役割は大きい。",
       "exampleTranslation": "The role of education in society is significant.",
-      "relatedWords": ["役目", "機能", "担当"],
+      "relatedWords": [
+        "役目",
+        "機能",
+        "担当"
+      ],
       "notes": "The function assumed or part played by a person or thing in a particular situation."
     },
     {
@@ -572,7 +744,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼の作品は高く評価されている。",
       "exampleTranslation": "His work is highly evaluated.",
-      "relatedWords": ["判断", "査定", "評判"],
+      "relatedWords": [
+        "判断",
+        "査定",
+        "評判"
+      ],
       "notes": "The making of a judgment about the amount, number, or value of something."
     },
     {
@@ -585,7 +761,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "二つの製品を比較して、良い方を選ぶ。",
       "exampleTranslation": "I will compare the two products and choose the better one.",
-      "relatedWords": ["対比", "比べる", "類似"],
+      "relatedWords": [
+        "対比",
+        "比べる",
+        "類似"
+      ],
       "notes": "比較的に (hikakuteki ni) means 'comparatively' or 'relatively'."
     },
     {
@@ -598,7 +778,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼らには共通の趣味がある。",
       "exampleTranslation": "They have a common hobby.",
-      "relatedWords": ["同じ", "一般的", "共通点"],
+      "relatedWords": [
+        "同じ",
+        "一般的",
+        "共通点"
+      ],
       "notes": "共通点 (kyoutsuuten) means 'common point' or 'similarity'."
     },
     {
@@ -611,7 +795,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この二つの事件には関連があるらしい。",
       "exampleTranslation": "It seems there is a connection between these two incidents.",
-      "relatedWords": ["関係", "つながり", "関連性"],
+      "relatedWords": [
+        "関係",
+        "つながり",
+        "関連性"
+      ],
       "notes": "関連性 (kanrensei) means 'relevance' or 'relatedness'."
     },
     {
@@ -624,7 +812,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼はその点について特に強調した。",
       "exampleTranslation": "He particularly emphasized that point.",
-      "relatedWords": ["力説", "重要視", "アピール"],
+      "relatedWords": [
+        "力説",
+        "重要視",
+        "アピール"
+      ],
       "notes": "The act of giving special importance to something."
     },
     {
@@ -637,7 +829,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "報告書の誤りを指摘された。",
       "exampleTranslation": "The errors in the report were pointed out.",
-      "relatedWords": ["指示", "言及", "批判"],
+      "relatedWords": [
+        "指示",
+        "言及",
+        "批判"
+      ],
       "notes": "The act of indicating a mistake, problem, or important point."
     },
     {
@@ -650,7 +846,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "会議で自分の意見を述べた。",
       "exampleTranslation": "I stated my opinion at the meeting.",
-      "relatedWords": ["言う", "語る", "発表する"],
+      "relatedWords": [
+        "言う",
+        "語る",
+        "発表する"
+      ],
       "notes": "A formal verb for expressing thoughts or facts."
     },
     {
@@ -663,7 +863,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "データは経済の回復を示している。",
       "exampleTranslation": "The data indicates economic recovery.",
-      "relatedWords": ["見せる", "表す", "指し示す"],
+      "relatedWords": [
+        "見せる",
+        "表す",
+        "指し示す"
+      ],
       "notes": "Used to present evidence, data, or feelings."
     },
     {
@@ -676,7 +880,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼が嘘をついているのは明らかだ。",
       "exampleTranslation": "It is obvious that he is lying.",
-      "relatedWords": ["明白", "はっきり", "明確"],
+      "relatedWords": [
+        "明白",
+        "はっきり",
+        "明確"
+      ],
       "notes": "Something that is easy to see, understand, or recognize."
     },
     {
@@ -689,7 +897,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この国には多様な文化が存在する。",
       "exampleTranslation": "Diverse cultures exist in this country.",
-      "relatedWords": ["様々", "多種多様", "多様性"],
+      "relatedWords": [
+        "様々",
+        "多種多様",
+        "多様性"
+      ],
       "notes": "多様性 (tayousei) means 'diversity'."
     },
     {
@@ -702,7 +914,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "愛は普遍的なテーマだ。",
       "exampleTranslation": "Love is a universal theme.",
-      "relatedWords": ["一般的", "共通", "万国共通"],
+      "relatedWords": [
+        "一般的",
+        "共通",
+        "万国共通"
+      ],
       "notes": "Existing or true everywhere or for everyone."
     },
     {
@@ -715,7 +931,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "それは科学における画期的な発見だった。",
       "exampleTranslation": "It was a groundbreaking discovery in science.",
-      "relatedWords": ["革新的", "新しい", "歴史的"],
+      "relatedWords": [
+        "革新的",
+        "新しい",
+        "歴史的"
+      ],
       "notes": "Marking a new beginning or a new era."
     },
     {
@@ -728,7 +948,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "私の専門は言語学です。",
       "exampleTranslation": "My specialty is linguistics.",
-      "relatedWords": ["分野", "専攻", "専門家"],
+      "relatedWords": [
+        "分野",
+        "専攻",
+        "専門家"
+      ],
       "notes": "専門家 (senmonka) is an expert or specialist."
     },
     {
@@ -741,7 +965,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "大学で何を専攻していましたか。",
       "exampleTranslation": "What did you major in at university?",
-      "relatedWords": ["専門", "学部", "研究"],
+      "relatedWords": [
+        "専門",
+        "学部",
+        "研究"
+      ],
       "notes": "The main subject of study for a student."
     },
     {
@@ -754,7 +982,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "田中教授の講義はいつも面白い。",
       "exampleTranslation": "Professor Tanaka's lectures are always interesting.",
-      "relatedWords": ["先生", "講師", "准教授"],
+      "relatedWords": [
+        "先生",
+        "講師",
+        "准教授"
+      ],
       "notes": "The highest rank for a university teacher."
     },
     {
@@ -767,7 +999,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "今日の午後は経済学の講義がある。",
       "exampleTranslation": "There is an economics lecture this afternoon.",
-      "relatedWords": ["授業", "セミナー", "講演"],
+      "relatedWords": [
+        "授業",
+        "セミナー",
+        "講演"
+      ],
       "notes": "A formal talk on a subject given to students."
     },
     {
@@ -780,7 +1016,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この授業では、理論だけでなく演習も行う。",
       "exampleTranslation": "In this class, we do not only theory but also practical exercises.",
-      "relatedWords": ["実習", "練習", "ゼミ"],
+      "relatedWords": [
+        "実習",
+        "練習",
+        "ゼミ"
+      ],
       "notes": "Often refers to a small, interactive class format (seminar)."
     },
     {
@@ -793,7 +1033,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "毎週金曜日に指導教官のゼミに参加している。",
       "exampleTranslation": "I participate in my supervisor's seminar every Friday.",
-      "relatedWords": ["演習", "研究室", "指導教官"],
+      "relatedWords": [
+        "演習",
+        "研究室",
+        "指導教官"
+      ],
       "notes": "A key part of Japanese university life, involving small group study and discussion under a professor."
     },
     {
@@ -806,7 +1050,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "卒業するには、あと10単位必要だ。",
       "exampleTranslation": "I need 10 more credits to graduate.",
-      "relatedWords": ["授業", "卒業", "取得"],
+      "relatedWords": [
+        "授業",
+        "卒業",
+        "取得"
+      ],
       "notes": "Also used as a general unit of measurement (e.g., cm, kg)."
     },
     {
@@ -819,7 +1067,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼は博士の学位を持っている。",
       "exampleTranslation": "He holds a doctoral degree.",
-      "relatedWords": ["修士", "博士", "学士"],
+      "relatedWords": [
+        "修士",
+        "博士",
+        "学士"
+      ],
       "notes": "学士 (gakushi) = Bachelor's, 修士 (shuushi) = Master's, 博士 (hakushi/hakase) = Doctorate."
     },
     {
@@ -832,7 +1084,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "来月、国際学会で研究成果を発表する予定だ。",
       "exampleTranslation": "I plan to present my research findings at an international conference next month.",
-      "relatedWords": ["会議", "シンポジウム", "研究会"],
+      "relatedWords": [
+        "会議",
+        "シンポジウム",
+        "研究会"
+      ],
       "notes": "Can mean both the event (conference) and the organization (society)."
     },
     {
@@ -845,7 +1101,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "論文の原稿を書き終えた。",
       "exampleTranslation": "I finished writing the manuscript for my thesis.",
-      "relatedWords": ["下書き", "草稿", "執筆"],
+      "relatedWords": [
+        "下書き",
+        "草稿",
+        "執筆"
+      ],
       "notes": "The original text of an author's work before printing."
     },
     {
@@ -858,7 +1118,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "レポートには参考文献からの引用が含まれている。",
       "exampleTranslation": "The report includes citations from reference materials.",
-      "relatedWords": ["抜粋", "参照", "出典"],
+      "relatedWords": [
+        "抜粋",
+        "参照",
+        "出典"
+      ],
       "notes": "The act of using words from a book, author, etc."
     },
     {
@@ -871,7 +1135,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "詳しくは、巻末の資料を参照してください。",
       "exampleTranslation": "For details, please refer to the materials at the end of the volume.",
-      "relatedWords": ["参考", "引用", "照会"],
+      "relatedWords": [
+        "参考",
+        "引用",
+        "照会"
+      ],
       "notes": "The act of looking at something for information."
     },
     {
@@ -884,7 +1152,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この引用の出典を明記する必要がある。",
       "exampleTranslation": "You need to specify the source of this quotation.",
-      "relatedWords": ["引用元", "参考文献", "原典"],
+      "relatedWords": [
+        "引用元",
+        "参考文献",
+        "原典"
+      ],
       "notes": "The book, article, or person that information or an idea comes from."
     },
     {
@@ -897,7 +1169,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "実験の前に、まず仮説を立てる。",
       "exampleTranslation": "First, we form a hypothesis before the experiment.",
-      "relatedWords": ["推測", "理論", "仮定"],
+      "relatedWords": [
+        "推測",
+        "理論",
+        "仮定"
+      ],
       "notes": "An idea or explanation for something that is based on known facts but has not yet been proved."
     },
     {
@@ -910,7 +1186,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "その仮説を検証するために実験を行った。",
       "exampleTranslation": "We conducted an experiment to verify that hypothesis.",
-      "relatedWords": ["確認", "証明", "テスト"],
+      "relatedWords": [
+        "確認",
+        "証明",
+        "テスト"
+      ],
       "notes": "The process of checking that something is true or accurate."
     },
     {
@@ -923,7 +1203,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼の無実を証明するのは難しいだろう。",
       "exampleTranslation": "It will probably be difficult to prove his innocence.",
-      "relatedWords": ["証拠", "立証", "確認"],
+      "relatedWords": [
+        "証拠",
+        "立証",
+        "確認"
+      ],
       "notes": "Evidence that shows something is true."
     },
     {
@@ -936,7 +1220,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "物事を客観的に見ることが重要だ。",
       "exampleTranslation": "It is important to see things objectively.",
-      "relatedWords": ["中立的", "公平", "主観的"],
+      "relatedWords": [
+        "中立的",
+        "公平",
+        "主観的"
+      ],
       "notes": "Based on facts rather than feelings or opinions. The opposite is 主観的 (shukanteki), subjective."
     },
     {
@@ -949,7 +1237,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "それは非常に主観的な意見だ。",
       "exampleTranslation": "That is a very subjective opinion.",
-      "relatedWords": ["個人的", "客観的", "独断的"],
+      "relatedWords": [
+        "個人的",
+        "客観的",
+        "独断的"
+      ],
       "notes": "Based on your own ideas or opinions rather than facts. The opposite is 客観的 (kyakkanteki), objective."
     },
     {
@@ -962,7 +1254,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼の話は抽象的で分かりにくかった。",
       "exampleTranslation": "His story was abstract and difficult to understand.",
-      "relatedWords": ["観念的", "具体的", "曖昧"],
+      "relatedWords": [
+        "観念的",
+        "具体的",
+        "曖昧"
+      ],
       "notes": "Existing as an idea, feeling, or quality, not as a material object. The opposite is 具体的 (gutaiteki), concrete."
     },
     {
@@ -975,7 +1271,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "もっと具体的な例を挙げてください。",
       "exampleTranslation": "Please give a more concrete example.",
-      "relatedWords": ["明確", "詳細", "抽象的"],
+      "relatedWords": [
+        "明確",
+        "詳細",
+        "抽象的"
+      ],
       "notes": "Relating to a particular thing; definite. The opposite is 抽象的 (chuushouteki), abstract."
     },
     {
@@ -988,7 +1288,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼は新しい理論の体系を築いた。",
       "exampleTranslation": "He built the system for a new theory.",
-      "relatedWords": ["システム", "構造", "組織"],
+      "relatedWords": [
+        "システム",
+        "構造",
+        "組織"
+      ],
       "notes": "A set of connected things or parts forming a complex whole."
     },
     {
@@ -1001,7 +1305,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この建物の構造は非常に複雑だ。",
       "exampleTranslation": "The structure of this building is very complex.",
-      "relatedWords": ["仕組み", "構成", "体系"],
+      "relatedWords": [
+        "仕組み",
+        "構成",
+        "体系"
+      ],
       "notes": "The way in which the parts of something are arranged or organized."
     },
     {
@@ -1014,7 +1322,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "このアプリには多くの便利な機能がある。",
       "exampleTranslation": "This app has many useful functions.",
-      "relatedWords": ["働き", "役割", "性能"],
+      "relatedWords": [
+        "働き",
+        "役割",
+        "性能"
+      ],
       "notes": "The purpose or role that something has."
     },
     {
@@ -1027,7 +1339,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "社会における教育の役割は大きい。",
       "exampleTranslation": "The role of education in society is large.",
-      "relatedWords": ["役目", "機能", "分担"],
+      "relatedWords": [
+        "役目",
+        "機能",
+        "分担"
+      ],
       "notes": "The function or position that somebody has or is expected to have."
     },
     {
@@ -1040,7 +1356,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "成功の最大の要因はチームワークだった。",
       "exampleTranslation": "The biggest factor for success was teamwork.",
-      "relatedWords": ["原因", "要素", "きっかけ"],
+      "relatedWords": [
+        "原因",
+        "要素",
+        "きっかけ"
+      ],
       "notes": "One of the things that causes a situation to happen."
     },
     {
@@ -1053,7 +1373,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "事件の背景を調査する必要がある。",
       "exampleTranslation": "It is necessary to investigate the background of the incident.",
-      "relatedWords": ["事情", "経緯", "状況"],
+      "relatedWords": [
+        "事情",
+        "経緯",
+        "状況"
+      ],
       "notes": "The circumstances or situation prevailing at a particular time or underlying a particular event."
     },
     {
@@ -1066,7 +1390,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この計画は、資金援助を前提としている。",
       "exampleTranslation": "This plan is based on the premise of financial support.",
-      "relatedWords": ["条件", "仮定", "基礎"],
+      "relatedWords": [
+        "条件",
+        "仮定",
+        "基礎"
+      ],
       "notes": "Something that you assume is true and use as a basis for developing an idea."
     },
     {
@@ -1079,7 +1407,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "選考の基準を教えてください。",
       "exampleTranslation": "Please tell me the selection criteria.",
-      "relatedWords": ["標準", "水準", "規範"],
+      "relatedWords": [
+        "標準",
+        "水準",
+        "規範"
+      ],
       "notes": "A level of quality or attainment."
     },
     {
@@ -1092,7 +1424,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "原則として、会議には全員参加です。",
       "exampleTranslation": "As a general rule, everyone participates in the meeting.",
-      "relatedWords": ["規則", "基本", "方針"],
+      "relatedWords": [
+        "規則",
+        "基本",
+        "方針"
+      ],
       "notes": "A fundamental truth or proposition that serves as the foundation for a system of belief or behavior."
     },
     {
@@ -1105,7 +1441,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この規則には例外はない。",
       "exampleTranslation": "There are no exceptions to this rule.",
-      "relatedWords": ["特別", "特例", "原則"],
+      "relatedWords": [
+        "特別",
+        "特例",
+        "原則"
+      ],
       "notes": "A person or thing that is excluded from a general statement or does not follow a rule."
     },
     {
@@ -1118,7 +1458,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "本をジャンル別に分類する。",
       "exampleTranslation": "To classify books by genre.",
-      "relatedWords": ["種類", "分ける", "整理"],
+      "relatedWords": [
+        "種類",
+        "分ける",
+        "整理"
+      ],
       "notes": "The arrangement of things in groups according to their similarities."
     },
     {
@@ -1131,7 +1475,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "「幸福」を定義するのは難しい。",
       "exampleTranslation": "It is difficult to define 'happiness'.",
-      "relatedWords": ["意味", "概念", "定める"],
+      "relatedWords": [
+        "意味",
+        "概念",
+        "定める"
+      ],
       "notes": "An explanation of the meaning of a word or phrase."
     },
     {
@@ -1144,7 +1492,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "その哲学的な概念を理解するのは容易ではない。",
       "exampleTranslation": "It is not easy to understand that philosophical concept.",
-      "relatedWords": ["考え", "観念", "アイデア"],
+      "relatedWords": [
+        "考え",
+        "観念",
+        "アイデア"
+      ],
       "notes": "An abstract idea."
     },
     {
@@ -1157,7 +1509,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "別の観点から問題を考えてみよう。",
       "exampleTranslation": "Let's try to think about the problem from a different point of view.",
-      "relatedWords": ["視点", "見方", "立場"],
+      "relatedWords": [
+        "視点",
+        "見方",
+        "立場"
+      ],
       "notes": "A particular way of considering something."
     },
     {
@@ -1170,7 +1526,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "作者の視点から物語を読む。",
       "exampleTranslation": "To read the story from the author's viewpoint.",
-      "relatedWords": ["観点", "見方", "立場"],
+      "relatedWords": [
+        "観点",
+        "見方",
+        "立場"
+      ],
       "notes": "Synonymous with 観点 (kanten) but can sometimes imply a more personal or individual viewpoint."
     },
     {
@@ -1183,7 +1543,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "単語の意味は文脈によって変わることがある。",
       "exampleTranslation": "The meaning of a word can change depending on the context.",
-      "relatedWords": ["状況", "背景", "脈絡"],
+      "relatedWords": [
+        "状況",
+        "背景",
+        "脈絡"
+      ],
       "notes": "The situation in which something happens and that helps you to understand it."
     },
     {
@@ -1196,7 +1560,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼の話には脈絡がなかった。",
       "exampleTranslation": "His story had no logical connection (was incoherent).",
-      "relatedWords": ["文脈", "一貫性", "つながり"],
+      "relatedWords": [
+        "文脈",
+        "一貫性",
+        "つながり"
+      ],
       "notes": "Often used to describe the logical flow of an argument or story."
     },
     {
@@ -1209,7 +1577,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "その主張には科学的な根拠がない。",
       "exampleTranslation": "That claim has no scientific basis.",
-      "relatedWords": ["理由", "証拠", "基礎"],
+      "relatedWords": [
+        "理由",
+        "証拠",
+        "基礎"
+      ],
       "notes": "The reason or evidence for a belief or statement."
     },
     {
@@ -1222,7 +1594,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼の議論は論理が通っている。",
       "exampleTranslation": "His argument is logical.",
-      "relatedWords": ["筋道", "理屈", "論理的"],
+      "relatedWords": [
+        "筋道",
+        "理屈",
+        "論理的"
+      ],
       "notes": "A way of thinking or explaining something."
     },
     {
@@ -1235,7 +1611,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼の言っていることとやっていることには矛盾がある。",
       "exampleTranslation": "There is a contradiction between what he says and what he does.",
-      "relatedWords": ["食い違い", "不一致", "自己矛盾"],
+      "relatedWords": [
+        "食い違い",
+        "不一致",
+        "自己矛盾"
+      ],
       "notes": "The word literally means 'spear-shield', from an old Chinese story about a merchant selling a spear that could pierce any shield and a shield that could block any spear."
     },
     {
@@ -1248,7 +1628,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼は鋭い洞察力を持っている。",
       "exampleTranslation": "He has sharp insight.",
-      "relatedWords": ["見識", "看破", "洞察力"],
+      "relatedWords": [
+        "見識",
+        "看破",
+        "洞察力"
+      ],
       "notes": "The ability to have a clear, deep, and sometimes sudden understanding of a complicated problem or situation."
     },
     {
@@ -1261,7 +1645,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "この問題について、さらに考察が必要だ。",
       "exampleTranslation": "Further consideration is needed on this issue.",
-      "relatedWords": ["検討", "分析", "研究"],
+      "relatedWords": [
+        "検討",
+        "分析",
+        "研究"
+      ],
       "notes": "Often used in academic papers and reports for the 'discussion' or 'consideration' section."
     },
     {
@@ -1274,7 +1662,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "その詩は様々に解釈できる。",
       "exampleTranslation": "That poem can be interpreted in various ways.",
-      "relatedWords": ["理解", "説明", "読み方"],
+      "relatedWords": [
+        "理解",
+        "説明",
+        "読み方"
+      ],
       "notes": "The particular way in which something is understood or explained."
     },
     {
@@ -1287,7 +1679,11 @@
       "jlptLevel": "N2",
       "exampleSentence": "問題の重要性を新たに認識した。",
       "exampleTranslation": "I newly recognized the importance of the problem.",
-      "relatedWords": ["理解", "意識", "知覚"],
+      "relatedWords": [
+        "理解",
+        "意識",
+        "知覚"
+      ],
       "notes": "The act of knowing and understanding something."
     },
     {
@@ -1300,8 +1696,1612 @@
       "jlptLevel": "N2",
       "exampleSentence": "彼はまだ意識が戻らない。",
       "exampleTranslation": "He has not regained consciousness yet.",
-      "relatedWords": ["認識", "自覚", "関心"],
+      "relatedWords": [
+        "認識",
+        "自覚",
+        "関心"
+      ],
       "notes": "Can refer to both medical consciousness and a general awareness or sense of an issue (e.g., 問題意識 - problem awareness)."
+    },
+    {
+      "id": "v101",
+      "kanji": "専攻",
+      "kana": "せんこう",
+      "romaji": "senkou",
+      "partOfSpeech": "noun",
+      "meaning": "major, specialization",
+      "jlptLevel": "N2",
+      "exampleSentence": "経済学を専攻している。",
+      "exampleTranslation": "I'm majoring in economics.",
+      "relatedWords": [
+        "専門",
+        "学科"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v102",
+      "kanji": "学位",
+      "kana": "がくい",
+      "romaji": "gakui",
+      "partOfSpeech": "noun",
+      "meaning": "academic degree",
+      "jlptLevel": "N2",
+      "exampleSentence": "博士の学位を取得した。",
+      "exampleTranslation": "I obtained a doctoral degree.",
+      "relatedWords": [
+        "学士",
+        "修士"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v103",
+      "kanji": "修士",
+      "kana": "しゅうし",
+      "romaji": "shuushi",
+      "partOfSpeech": "noun",
+      "meaning": "master's degree",
+      "jlptLevel": "N2",
+      "exampleSentence": "修士課程に進学する。",
+      "exampleTranslation": "I advance to a master's program.",
+      "relatedWords": [
+        "学位",
+        "博士"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v104",
+      "kanji": "博士",
+      "kana": "はくし",
+      "romaji": "hakushi",
+      "partOfSpeech": "noun",
+      "meaning": "doctorate, PhD",
+      "jlptLevel": "N2",
+      "exampleSentence": "博士号を目指している。",
+      "exampleTranslation": "I'm aiming for a PhD.",
+      "relatedWords": [
+        "学位",
+        "修士"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v105",
+      "kanji": "学士",
+      "kana": "がくし",
+      "romaji": "gakushi",
+      "partOfSpeech": "noun",
+      "meaning": "bachelor's degree",
+      "jlptLevel": "N2",
+      "exampleSentence": "学士号を取得した。",
+      "exampleTranslation": "I obtained a bachelor's degree.",
+      "relatedWords": [
+        "学位",
+        "大卒"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v106",
+      "kanji": "指導教官",
+      "kana": "しどうきょうかん",
+      "romaji": "shidou kyoukan",
+      "partOfSpeech": "noun",
+      "meaning": "academic advisor",
+      "jlptLevel": "N2",
+      "exampleSentence": "指導教官に相談する。",
+      "exampleTranslation": "I consult with my academic advisor.",
+      "relatedWords": [
+        "教授",
+        "指導者"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v107",
+      "kanji": "ゼミナール",
+      "kana": "ぜみなーる",
+      "romaji": "zeminaaru",
+      "partOfSpeech": "noun",
+      "meaning": "seminar",
+      "jlptLevel": "N2",
+      "exampleSentence": "ゼミナールで発表する。",
+      "exampleTranslation": "I present at the seminar.",
+      "relatedWords": [
+        "ゼミ",
+        "研究会"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v108",
+      "kanji": "学会",
+      "kana": "がっかい",
+      "romaji": "gakkai",
+      "partOfSpeech": "noun",
+      "meaning": "academic conference",
+      "jlptLevel": "N2",
+      "exampleSentence": "学会で論文を発表する。",
+      "exampleTranslation": "I present a paper at the conference.",
+      "relatedWords": [
+        "研究会",
+        "学術"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v109",
+      "kanji": "査読",
+      "kana": "さどく",
+      "romaji": "sadoku",
+      "partOfSpeech": "noun",
+      "meaning": "peer review",
+      "jlptLevel": "N2",
+      "exampleSentence": "論文が査読中だ。",
+      "exampleTranslation": "The paper is under peer review.",
+      "relatedWords": [
+        "審査",
+        "評価"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v110",
+      "kanji": "引用",
+      "kana": "いんよう",
+      "romaji": "in'you",
+      "partOfSpeech": "noun",
+      "meaning": "citation, quotation",
+      "jlptLevel": "N2",
+      "exampleSentence": "文献を引用する。",
+      "exampleTranslation": "I cite references.",
+      "relatedWords": [
+        "参照",
+        "参考"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v111",
+      "kanji": "参考文献",
+      "kana": "さんこうぶんけん",
+      "romaji": "sankou bunken",
+      "partOfSpeech": "noun",
+      "meaning": "reference, bibliography",
+      "jlptLevel": "N2",
+      "exampleSentence": "参考文献を記載する。",
+      "exampleTranslation": "I list references.",
+      "relatedWords": [
+        "文献",
+        "引用"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v112",
+      "kanji": "脚注",
+      "kana": "きゃくちゅう",
+      "romaji": "kyakuchuu",
+      "partOfSpeech": "noun",
+      "meaning": "footnote",
+      "jlptLevel": "N2",
+      "exampleSentence": "脚注で説明を加える。",
+      "exampleTranslation": "I add explanations in footnotes.",
+      "relatedWords": [
+        "注釈",
+        "補足"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v113",
+      "kanji": "注釈",
+      "kana": "ちゅうしゃく",
+      "romaji": "chuushaku",
+      "partOfSpeech": "noun",
+      "meaning": "annotation, note",
+      "jlptLevel": "N2",
+      "exampleSentence": "注釈を付ける。",
+      "exampleTranslation": "I add annotations.",
+      "relatedWords": [
+        "脚注",
+        "解説"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v114",
+      "kanji": "出典",
+      "kana": "しゅってん",
+      "romaji": "shutten",
+      "partOfSpeech": "noun",
+      "meaning": "source, authority",
+      "jlptLevel": "N2",
+      "exampleSentence": "出典を明記する。",
+      "exampleTranslation": "I clearly state the source.",
+      "relatedWords": [
+        "引用元",
+        "参照"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v115",
+      "kanji": "剽窃",
+      "kana": "ひょうせつ",
+      "romaji": "hyousetsu",
+      "partOfSpeech": "noun",
+      "meaning": "plagiarism",
+      "jlptLevel": "N2",
+      "exampleSentence": "剽窃は厳禁だ。",
+      "exampleTranslation": "Plagiarism is strictly forbidden.",
+      "relatedWords": [
+        "盗用",
+        "コピー"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v116",
+      "kanji": "学説",
+      "kana": "がくせつ",
+      "romaji": "gakusetsu",
+      "partOfSpeech": "noun",
+      "meaning": "theory, doctrine",
+      "jlptLevel": "N2",
+      "exampleSentence": "新しい学説を提唱する。",
+      "exampleTranslation": "I propose a new theory.",
+      "relatedWords": [
+        "理論",
+        "説"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v117",
+      "kanji": "通説",
+      "kana": "つうせつ",
+      "romaji": "tsuusetsu",
+      "partOfSpeech": "noun",
+      "meaning": "common theory",
+      "jlptLevel": "N2",
+      "exampleSentence": "通説に従う。",
+      "exampleTranslation": "I follow the common theory.",
+      "relatedWords": [
+        "定説",
+        "一般論"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v118",
+      "kanji": "定説",
+      "kana": "ていせつ",
+      "romaji": "teisetsu",
+      "partOfSpeech": "noun",
+      "meaning": "established theory",
+      "jlptLevel": "N2",
+      "exampleSentence": "定説を覆す発見だ。",
+      "exampleTranslation": "It's a discovery that overturns established theory.",
+      "relatedWords": [
+        "通説",
+        "常識"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v119",
+      "kanji": "学術",
+      "kana": "がくじゅつ",
+      "romaji": "gakujutsu",
+      "partOfSpeech": "noun",
+      "meaning": "science, learning",
+      "jlptLevel": "N2",
+      "exampleSentence": "学術的な価値がある。",
+      "exampleTranslation": "It has academic value.",
+      "relatedWords": [
+        "学問",
+        "研究"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v120",
+      "kanji": "知見",
+      "kana": "ちけん",
+      "romaji": "chiken",
+      "partOfSpeech": "noun",
+      "meaning": "knowledge, findings",
+      "jlptLevel": "N2",
+      "exampleSentence": "新たな知見を得る。",
+      "exampleTranslation": "I obtain new findings.",
+      "relatedWords": [
+        "見識",
+        "知識"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v121",
+      "kanji": "見識",
+      "kana": "けんしき",
+      "romaji": "kenshiki",
+      "partOfSpeech": "noun",
+      "meaning": "knowledge, insight",
+      "jlptLevel": "N2",
+      "exampleSentence": "深い見識を持つ。",
+      "exampleTranslation": "I have deep insight.",
+      "relatedWords": [
+        "知見",
+        "識見"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v122",
+      "kanji": "考察",
+      "kana": "こうさつ",
+      "romaji": "kousatsu",
+      "partOfSpeech": "noun",
+      "meaning": "consideration, study",
+      "jlptLevel": "N2",
+      "exampleSentence": "結果を考察する。",
+      "exampleTranslation": "I consider the results.",
+      "relatedWords": [
+        "検討",
+        "分析"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v123",
+      "kanji": "検証",
+      "kana": "けんしょう",
+      "romaji": "kenshou",
+      "partOfSpeech": "noun",
+      "meaning": "verification",
+      "jlptLevel": "N2",
+      "exampleSentence": "データを検証する。",
+      "exampleTranslation": "I verify the data.",
+      "relatedWords": [
+        "確認",
+        "証明"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v124",
+      "kanji": "実証",
+      "kana": "じっしょう",
+      "romaji": "jisshou",
+      "partOfSpeech": "noun",
+      "meaning": "demonstration, proof",
+      "jlptLevel": "N2",
+      "exampleSentence": "実証研究を行う。",
+      "exampleTranslation": "I conduct empirical research.",
+      "relatedWords": [
+        "証明",
+        "検証"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v125",
+      "kanji": "立証",
+      "kana": "りっしょう",
+      "romaji": "risshou",
+      "partOfSpeech": "noun",
+      "meaning": "proof, verification",
+      "jlptLevel": "N2",
+      "exampleSentence": "仮説を立証する。",
+      "exampleTranslation": "I prove the hypothesis.",
+      "relatedWords": [
+        "証明",
+        "実証"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v126",
+      "kanji": "反証",
+      "kana": "はんしょう",
+      "romaji": "hanshou",
+      "partOfSpeech": "noun",
+      "meaning": "disproof, refutation",
+      "jlptLevel": "N2",
+      "exampleSentence": "反証を示す。",
+      "exampleTranslation": "I show disproof.",
+      "relatedWords": [
+        "反論",
+        "否定"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v127",
+      "kanji": "論証",
+      "kana": "ろんしょう",
+      "romaji": "ronshou",
+      "partOfSpeech": "noun",
+      "meaning": "demonstration, proof",
+      "jlptLevel": "N2",
+      "exampleSentence": "論理的に論証する。",
+      "exampleTranslation": "I prove logically.",
+      "relatedWords": [
+        "証明",
+        "立証"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v128",
+      "kanji": "推定",
+      "kana": "すいてい",
+      "romaji": "suitei",
+      "partOfSpeech": "noun",
+      "meaning": "estimation, inference",
+      "jlptLevel": "N2",
+      "exampleSentence": "年代を推定する。",
+      "exampleTranslation": "I estimate the age.",
+      "relatedWords": [
+        "推測",
+        "推量"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v129",
+      "kanji": "推計",
+      "kana": "すいけい",
+      "romaji": "suikei",
+      "partOfSpeech": "noun",
+      "meaning": "estimation",
+      "jlptLevel": "N2",
+      "exampleSentence": "人口を推計する。",
+      "exampleTranslation": "I estimate the population.",
+      "relatedWords": [
+        "推定",
+        "試算"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v130",
+      "kanji": "算出",
+      "kana": "さんしゅつ",
+      "romaji": "sanshutsu",
+      "partOfSpeech": "noun",
+      "meaning": "calculation, computation",
+      "jlptLevel": "N2",
+      "exampleSentence": "数値を算出する。",
+      "exampleTranslation": "I calculate numerical values.",
+      "relatedWords": [
+        "計算",
+        "導出"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v131",
+      "kanji": "測定",
+      "kana": "そくてい",
+      "romaji": "sokutei",
+      "partOfSpeech": "noun",
+      "meaning": "measurement",
+      "jlptLevel": "N2",
+      "exampleSentence": "温度を測定する。",
+      "exampleTranslation": "I measure temperature.",
+      "relatedWords": [
+        "計測",
+        "測る"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v132",
+      "kanji": "計測",
+      "kana": "けいそく",
+      "romaji": "keisoku",
+      "partOfSpeech": "noun",
+      "meaning": "measurement",
+      "jlptLevel": "N2",
+      "exampleSentence": "データを計測する。",
+      "exampleTranslation": "I measure data.",
+      "relatedWords": [
+        "測定",
+        "測量"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v133",
+      "kanji": "観測",
+      "kana": "かんそく",
+      "romaji": "kansoku",
+      "partOfSpeech": "noun",
+      "meaning": "observation",
+      "jlptLevel": "N2",
+      "exampleSentence": "天体を観測する。",
+      "exampleTranslation": "I observe celestial bodies.",
+      "relatedWords": [
+        "観察",
+        "測定"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v134",
+      "kanji": "標本",
+      "kana": "ひょうほん",
+      "romaji": "hyouhon",
+      "partOfSpeech": "noun",
+      "meaning": "sample, specimen",
+      "jlptLevel": "N2",
+      "exampleSentence": "標本を採取する。",
+      "exampleTranslation": "I collect samples.",
+      "relatedWords": [
+        "サンプル",
+        "試料"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v135",
+      "kanji": "試料",
+      "kana": "しりょう",
+      "romaji": "shiryou",
+      "partOfSpeech": "noun",
+      "meaning": "sample, specimen",
+      "jlptLevel": "N2",
+      "exampleSentence": "試料を分析する。",
+      "exampleTranslation": "I analyze samples.",
+      "relatedWords": [
+        "標本",
+        "サンプル"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v136",
+      "kanji": "データ",
+      "kana": "でーた",
+      "romaji": "deeta",
+      "partOfSpeech": "noun",
+      "meaning": "data",
+      "jlptLevel": "N2",
+      "exampleSentence": "データを収集する。",
+      "exampleTranslation": "I collect data.",
+      "relatedWords": [
+        "資料",
+        "情報"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v137",
+      "kanji": "統計",
+      "kana": "とうけい",
+      "romaji": "toukei",
+      "partOfSpeech": "noun",
+      "meaning": "statistics",
+      "jlptLevel": "N2",
+      "exampleSentence": "統計を取る。",
+      "exampleTranslation": "I compile statistics.",
+      "relatedWords": [
+        "統計学",
+        "データ"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v138",
+      "kanji": "変数",
+      "kana": "へんすう",
+      "romaji": "hensuu",
+      "partOfSpeech": "noun",
+      "meaning": "variable",
+      "jlptLevel": "N2",
+      "exampleSentence": "変数を設定する。",
+      "exampleTranslation": "I set variables.",
+      "relatedWords": [
+        "因子",
+        "要素"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v139",
+      "kanji": "定数",
+      "kana": "ていすう",
+      "romaji": "teisuu",
+      "partOfSpeech": "noun",
+      "meaning": "constant",
+      "jlptLevel": "N2",
+      "exampleSentence": "定数を用いる。",
+      "exampleTranslation": "I use constants.",
+      "relatedWords": [
+        "不変",
+        "固定"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v140",
+      "kanji": "係数",
+      "kana": "けいすう",
+      "romaji": "keisuu",
+      "partOfSpeech": "noun",
+      "meaning": "coefficient",
+      "jlptLevel": "N2",
+      "exampleSentence": "相関係数を求める。",
+      "exampleTranslation": "I find the correlation coefficient.",
+      "relatedWords": [
+        "数値",
+        "比率"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v141",
+      "kanji": "比率",
+      "kana": "ひりつ",
+      "romaji": "hiritsu",
+      "partOfSpeech": "noun",
+      "meaning": "ratio, proportion",
+      "jlptLevel": "N2",
+      "exampleSentence": "男女比率を調べる。",
+      "exampleTranslation": "I examine the gender ratio.",
+      "relatedWords": [
+        "割合",
+        "率"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v142",
+      "kanji": "割合",
+      "kana": "わりあい",
+      "romaji": "wariai",
+      "partOfSpeech": "noun",
+      "meaning": "ratio, percentage",
+      "jlptLevel": "N2",
+      "exampleSentence": "合格の割合が高い。",
+      "exampleTranslation": "The passing percentage is high.",
+      "relatedWords": [
+        "比率",
+        "パーセント"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v143",
+      "kanji": "傾向",
+      "kana": "けいこう",
+      "romaji": "keikou",
+      "partOfSpeech": "noun",
+      "meaning": "tendency, trend",
+      "jlptLevel": "N2",
+      "exampleSentence": "増加傾向にある。",
+      "exampleTranslation": "There's an increasing trend.",
+      "relatedWords": [
+        "動向",
+        "トレンド"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v144",
+      "kanji": "動向",
+      "kana": "どうこう",
+      "romaji": "doukou",
+      "partOfSpeech": "noun",
+      "meaning": "trend, movement",
+      "jlptLevel": "N2",
+      "exampleSentence": "市場の動向を見る。",
+      "exampleTranslation": "I watch market trends.",
+      "relatedWords": [
+        "傾向",
+        "推移"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v145",
+      "kanji": "分布",
+      "kana": "ぶんぷ",
+      "romaji": "bunpu",
+      "partOfSpeech": "noun",
+      "meaning": "distribution",
+      "jlptLevel": "N2",
+      "exampleSentence": "正規分布を示す。",
+      "exampleTranslation": "It shows normal distribution.",
+      "relatedWords": [
+        "配分",
+        "散らばり"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v146",
+      "kanji": "偏差",
+      "kana": "へんさ",
+      "romaji": "hensa",
+      "partOfSpeech": "noun",
+      "meaning": "deviation",
+      "jlptLevel": "N2",
+      "exampleSentence": "標準偏差を計算する。",
+      "exampleTranslation": "I calculate standard deviation.",
+      "relatedWords": [
+        "差",
+        "ずれ"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v147",
+      "kanji": "相関",
+      "kana": "そうかん",
+      "romaji": "soukan",
+      "partOfSpeech": "noun",
+      "meaning": "correlation",
+      "jlptLevel": "N2",
+      "exampleSentence": "相関関係がある。",
+      "exampleTranslation": "There's a correlation.",
+      "relatedWords": [
+        "関連",
+        "関係"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v148",
+      "kanji": "因果",
+      "kana": "いんが",
+      "romaji": "inga",
+      "partOfSpeech": "noun",
+      "meaning": "cause and effect",
+      "jlptLevel": "N2",
+      "exampleSentence": "因果関係を調べる。",
+      "exampleTranslation": "I examine causal relationships.",
+      "relatedWords": [
+        "原因と結果",
+        "因果関係"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v149",
+      "kanji": "要因",
+      "kana": "よういん",
+      "romaji": "youin",
+      "partOfSpeech": "noun",
+      "meaning": "factor, cause",
+      "jlptLevel": "N2",
+      "exampleSentence": "主要な要因を特定する。",
+      "exampleTranslation": "I identify major factors.",
+      "relatedWords": [
+        "原因",
+        "因子"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v150",
+      "kanji": "指標",
+      "kana": "しひょう",
+      "romaji": "shihyou",
+      "partOfSpeech": "noun",
+      "meaning": "index, indicator",
+      "jlptLevel": "N2",
+      "exampleSentence": "経済指標を見る。",
+      "exampleTranslation": "I look at economic indicators.",
+      "relatedWords": [
+        "指数",
+        "目安"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v151",
+      "kanji": "尺度",
+      "kana": "しゃくど",
+      "romaji": "shakudo",
+      "partOfSpeech": "noun",
+      "meaning": "scale, measure",
+      "jlptLevel": "N2",
+      "exampleSentence": "評価の尺度を設ける。",
+      "exampleTranslation": "I establish an evaluation scale.",
+      "relatedWords": [
+        "基準",
+        "スケール"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v152",
+      "kanji": "基準値",
+      "kana": "きじゅんち",
+      "romaji": "kijunchi",
+      "partOfSpeech": "noun",
+      "meaning": "standard value",
+      "jlptLevel": "N2",
+      "exampleSentence": "基準値を超えている。",
+      "exampleTranslation": "It exceeds the standard value.",
+      "relatedWords": [
+        "標準",
+        "目安"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v153",
+      "kanji": "閾値",
+      "kana": "いきち",
+      "romaji": "ikichi",
+      "partOfSpeech": "noun",
+      "meaning": "threshold",
+      "jlptLevel": "N2",
+      "exampleSentence": "閾値を設定する。",
+      "exampleTranslation": "I set a threshold.",
+      "relatedWords": [
+        "境界値",
+        "限界"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v154",
+      "kanji": "範囲",
+      "kana": "はんい",
+      "romaji": "han'i",
+      "partOfSpeech": "noun",
+      "meaning": "range, scope",
+      "jlptLevel": "N2",
+      "exampleSentence": "研究の範囲を決める。",
+      "exampleTranslation": "I determine the research scope.",
+      "relatedWords": [
+        "領域",
+        "スコープ"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v155",
+      "kanji": "領域",
+      "kana": "りょういき",
+      "romaji": "ryouiki",
+      "partOfSpeech": "noun",
+      "meaning": "area, domain",
+      "jlptLevel": "N2",
+      "exampleSentence": "専門領域を深める。",
+      "exampleTranslation": "I deepen my specialty domain.",
+      "relatedWords": [
+        "分野",
+        "範囲"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v156",
+      "kanji": "分野",
+      "kana": "ぶんや",
+      "romaji": "bun'ya",
+      "partOfSpeech": "noun",
+      "meaning": "field, area",
+      "jlptLevel": "N2",
+      "exampleSentence": "新しい分野に挑戦する。",
+      "exampleTranslation": "I challenge a new field.",
+      "relatedWords": [
+        "領域",
+        "分野"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v157",
+      "kanji": "体系",
+      "kana": "たいけい",
+      "romaji": "taikei",
+      "partOfSpeech": "noun",
+      "meaning": "system",
+      "jlptLevel": "N2",
+      "exampleSentence": "知識を体系化する。",
+      "exampleTranslation": "I systematize knowledge.",
+      "relatedWords": [
+        "システム",
+        "組織"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v158",
+      "kanji": "枠組み",
+      "kana": "わくぐみ",
+      "romaji": "wakugumi",
+      "partOfSpeech": "noun",
+      "meaning": "framework",
+      "jlptLevel": "N2",
+      "exampleSentence": "理論的枠組みを構築する。",
+      "exampleTranslation": "I construct a theoretical framework.",
+      "relatedWords": [
+        "フレームワーク",
+        "構造"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v159",
+      "kanji": "構造",
+      "kana": "こうぞう",
+      "romaji": "kouzou",
+      "partOfSpeech": "noun",
+      "meaning": "structure",
+      "jlptLevel": "N2",
+      "exampleSentence": "社会構造を分析する。",
+      "exampleTranslation": "I analyze social structure.",
+      "relatedWords": [
+        "仕組み",
+        "構成"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v160",
+      "kanji": "構成",
+      "kana": "こうせい",
+      "romaji": "kousei",
+      "partOfSpeech": "noun",
+      "meaning": "composition, structure",
+      "jlptLevel": "N2",
+      "exampleSentence": "論文の構成を考える。",
+      "exampleTranslation": "I think about the paper's composition.",
+      "relatedWords": [
+        "組み立て",
+        "構造"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v161",
+      "kanji": "体制",
+      "kana": "たいせい",
+      "romaji": "taisei",
+      "partOfSpeech": "noun",
+      "meaning": "system, regime",
+      "jlptLevel": "N2",
+      "exampleSentence": "教育体制を整える。",
+      "exampleTranslation": "I establish an educational system.",
+      "relatedWords": [
+        "制度",
+        "システム"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v162",
+      "kanji": "機構",
+      "kana": "きこう",
+      "romaji": "kikou",
+      "partOfSpeech": "noun",
+      "meaning": "mechanism, organization",
+      "jlptLevel": "N2",
+      "exampleSentence": "研究機構に所属する。",
+      "exampleTranslation": "I belong to a research organization.",
+      "relatedWords": [
+        "組織",
+        "メカニズム"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v163",
+      "kanji": "機関",
+      "kana": "きかん",
+      "romaji": "kikan",
+      "partOfSpeech": "noun",
+      "meaning": "institution, organ",
+      "jlptLevel": "N2",
+      "exampleSentence": "研究機関で働く。",
+      "exampleTranslation": "I work at a research institution.",
+      "relatedWords": [
+        "組織",
+        "機構"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v164",
+      "kanji": "施設",
+      "kana": "しせつ",
+      "romaji": "shisetsu",
+      "partOfSpeech": "noun",
+      "meaning": "facility, institution",
+      "jlptLevel": "N2",
+      "exampleSentence": "研究施設を訪れる。",
+      "exampleTranslation": "I visit a research facility.",
+      "relatedWords": [
+        "設備",
+        "機関"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v165",
+      "kanji": "設備",
+      "kana": "せつび",
+      "romaji": "setsubi",
+      "partOfSpeech": "noun",
+      "meaning": "equipment, facilities",
+      "jlptLevel": "N2",
+      "exampleSentence": "実験設備が整っている。",
+      "exampleTranslation": "The experimental equipment is well-equipped.",
+      "relatedWords": [
+        "施設",
+        "装置"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v166",
+      "kanji": "装置",
+      "kana": "そうち",
+      "romaji": "souchi",
+      "partOfSpeech": "noun",
+      "meaning": "device, apparatus",
+      "jlptLevel": "N2",
+      "exampleSentence": "測定装置を使う。",
+      "exampleTranslation": "I use measuring devices.",
+      "relatedWords": [
+        "機器",
+        "設備"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v167",
+      "kanji": "機器",
+      "kana": "きき",
+      "romaji": "kiki",
+      "partOfSpeech": "noun",
+      "meaning": "equipment, apparatus",
+      "jlptLevel": "N2",
+      "exampleSentence": "精密機器を扱う。",
+      "exampleTranslation": "I handle precision equipment.",
+      "relatedWords": [
+        "装置",
+        "器具"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v168",
+      "kanji": "器具",
+      "kana": "きぐ",
+      "romaji": "kigu",
+      "partOfSpeech": "noun",
+      "meaning": "instrument, tool",
+      "jlptLevel": "N2",
+      "exampleSentence": "実験器具を準備する。",
+      "exampleTranslation": "I prepare experimental instruments.",
+      "relatedWords": [
+        "道具",
+        "機器"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v169",
+      "kanji": "媒体",
+      "kana": "ばいたい",
+      "romaji": "baitai",
+      "partOfSpeech": "noun",
+      "meaning": "medium, media",
+      "jlptLevel": "N2",
+      "exampleSentence": "電子媒体で公開する。",
+      "exampleTranslation": "I publish on electronic media.",
+      "relatedWords": [
+        "メディア",
+        "媒介"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v170",
+      "kanji": "文献",
+      "kana": "ぶんけん",
+      "romaji": "bunken",
+      "partOfSpeech": "noun",
+      "meaning": "literature, documents",
+      "jlptLevel": "N2",
+      "exampleSentence": "先行文献を調査する。",
+      "exampleTranslation": "I survey prior literature.",
+      "relatedWords": [
+        "資料",
+        "参考"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v171",
+      "kanji": "資料",
+      "kana": "しりょう",
+      "romaji": "shiryou",
+      "partOfSpeech": "noun",
+      "meaning": "materials, data",
+      "jlptLevel": "N2",
+      "exampleSentence": "資料を収集する。",
+      "exampleTranslation": "I collect materials.",
+      "relatedWords": [
+        "データ",
+        "文献"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v172",
+      "kanji": "記録",
+      "kana": "きろく",
+      "romaji": "kiroku",
+      "partOfSpeech": "noun",
+      "meaning": "record, documentation",
+      "jlptLevel": "N2",
+      "exampleSentence": "実験結果を記録する。",
+      "exampleTranslation": "I record experimental results.",
+      "relatedWords": [
+        "記載",
+        "登録"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v173",
+      "kanji": "記載",
+      "kana": "きさい",
+      "romaji": "kisai",
+      "partOfSpeech": "noun",
+      "meaning": "mention, description",
+      "jlptLevel": "N2",
+      "exampleSentence": "論文に記載する。",
+      "exampleTranslation": "I describe it in the paper.",
+      "relatedWords": [
+        "記述",
+        "記録"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v174",
+      "kanji": "記述",
+      "kana": "きじゅつ",
+      "romaji": "kijutsu",
+      "partOfSpeech": "noun",
+      "meaning": "description",
+      "jlptLevel": "N2",
+      "exampleSentence": "詳細に記述する。",
+      "exampleTranslation": "I describe in detail.",
+      "relatedWords": [
+        "説明",
+        "記載"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v175",
+      "kanji": "叙述",
+      "kana": "じょじゅつ",
+      "romaji": "jojutsu",
+      "partOfSpeech": "noun",
+      "meaning": "description, narration",
+      "jlptLevel": "N2",
+      "exampleSentence": "事実を叙述する。",
+      "exampleTranslation": "I narrate the facts.",
+      "relatedWords": [
+        "記述",
+        "説明"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v176",
+      "kanji": "要約",
+      "kana": "ようやく",
+      "romaji": "youyaku",
+      "partOfSpeech": "noun",
+      "meaning": "summary, abstract",
+      "jlptLevel": "N2",
+      "exampleSentence": "論文を要約する。",
+      "exampleTranslation": "I summarize the paper.",
+      "relatedWords": [
+        "まとめ",
+        "概要"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v177",
+      "kanji": "概要",
+      "kana": "がいよう",
+      "romaji": "gaiyou",
+      "partOfSpeech": "noun",
+      "meaning": "outline, summary",
+      "jlptLevel": "N2",
+      "exampleSentence": "研究の概要を述べる。",
+      "exampleTranslation": "I state the research outline.",
+      "relatedWords": [
+        "要約",
+        "あらまし"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v178",
+      "kanji": "詳細",
+      "kana": "しょうさい",
+      "romaji": "shousai",
+      "partOfSpeech": "noun",
+      "meaning": "details",
+      "jlptLevel": "N2",
+      "exampleSentence": "詳細を説明する。",
+      "exampleTranslation": "I explain the details.",
+      "relatedWords": [
+        "細部",
+        "具体"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v179",
+      "kanji": "具体",
+      "kana": "ぐたい",
+      "romaji": "gutai",
+      "partOfSpeech": "noun",
+      "meaning": "concrete",
+      "jlptLevel": "N2",
+      "exampleSentence": "具体例を示す。",
+      "exampleTranslation": "I show concrete examples.",
+      "relatedWords": [
+        "実際",
+        "詳細"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v180",
+      "kanji": "抽象",
+      "kana": "ちゅうしょう",
+      "romaji": "chuushou",
+      "partOfSpeech": "noun",
+      "meaning": "abstract",
+      "jlptLevel": "N2",
+      "exampleSentence": "抽象的な議論をする。",
+      "exampleTranslation": "I discuss abstractly.",
+      "relatedWords": [
+        "概念",
+        "理論"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v181",
+      "kanji": "普遍",
+      "kana": "ふへん",
+      "romaji": "fuhen",
+      "partOfSpeech": "noun",
+      "meaning": "universal",
+      "jlptLevel": "N2",
+      "exampleSentence": "普遍的な法則だ。",
+      "exampleTranslation": "It's a universal law.",
+      "relatedWords": [
+        "一般",
+        "共通"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v182",
+      "kanji": "特殊",
+      "kana": "とくしゅ",
+      "romaji": "tokushu",
+      "partOfSpeech": "noun",
+      "meaning": "special, particular",
+      "jlptLevel": "N2",
+      "exampleSentence": "特殊なケースだ。",
+      "exampleTranslation": "It's a special case.",
+      "relatedWords": [
+        "特別",
+        "個別"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v183",
+      "kanji": "個別",
+      "kana": "こべつ",
+      "romaji": "kobetsu",
+      "partOfSpeech": "noun",
+      "meaning": "individual, separate",
+      "jlptLevel": "N2",
+      "exampleSentence": "個別に対応する。",
+      "exampleTranslation": "I handle it individually.",
+      "relatedWords": [
+        "各個",
+        "それぞれ"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v184",
+      "kanji": "全般",
+      "kana": "ぜんぱん",
+      "romaji": "zenpan",
+      "partOfSpeech": "noun",
+      "meaning": "general, overall",
+      "jlptLevel": "N2",
+      "exampleSentence": "全般的に見て良好だ。",
+      "exampleTranslation": "Overall, it's good.",
+      "relatedWords": [
+        "全体",
+        "一般"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v185",
+      "kanji": "部分",
+      "kana": "ぶぶん",
+      "romaji": "bubun",
+      "partOfSpeech": "noun",
+      "meaning": "part, portion",
+      "jlptLevel": "N2",
+      "exampleSentence": "一部分を取り出す。",
+      "exampleTranslation": "I extract a part.",
+      "relatedWords": [
+        "一部",
+        "断片"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v186",
+      "kanji": "全体",
+      "kana": "ぜんたい",
+      "romaji": "zentai",
+      "partOfSpeech": "noun",
+      "meaning": "whole, entirety",
+      "jlptLevel": "N2",
+      "exampleSentence": "全体を把握する。",
+      "exampleTranslation": "I grasp the whole.",
+      "relatedWords": [
+        "総体",
+        "全部"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v187",
+      "kanji": "総体",
+      "kana": "そうたい",
+      "romaji": "soutai",
+      "partOfSpeech": "noun",
+      "meaning": "whole, totality",
+      "jlptLevel": "N2",
+      "exampleSentence": "総体的に判断する。",
+      "exampleTranslation": "I judge as a whole.",
+      "relatedWords": [
+        "全体",
+        "総合"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v188",
+      "kanji": "総合",
+      "kana": "そうごう",
+      "romaji": "sougou",
+      "partOfSpeech": "noun",
+      "meaning": "synthesis, comprehensive",
+      "jlptLevel": "N2",
+      "exampleSentence": "総合的に評価する。",
+      "exampleTranslation": "I evaluate comprehensively.",
+      "relatedWords": [
+        "統合",
+        "全体"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v189",
+      "kanji": "統合",
+      "kana": "とうごう",
+      "romaji": "tougou",
+      "partOfSpeech": "noun",
+      "meaning": "integration",
+      "jlptLevel": "N2",
+      "exampleSentence": "データを統合する。",
+      "exampleTranslation": "I integrate data.",
+      "relatedWords": [
+        "統一",
+        "総合"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v190",
+      "kanji": "分類",
+      "kana": "ぶんるい",
+      "romaji": "bunrui",
+      "partOfSpeech": "noun",
+      "meaning": "classification",
+      "jlptLevel": "N2",
+      "exampleSentence": "種類ごとに分類する。",
+      "exampleTranslation": "I classify by type.",
+      "relatedWords": [
+        "区分",
+        "分ける"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v191",
+      "kanji": "区分",
+      "kana": "くぶん",
+      "romaji": "kubun",
+      "partOfSpeech": "noun",
+      "meaning": "division, classification",
+      "jlptLevel": "N2",
+      "exampleSentence": "明確に区分する。",
+      "exampleTranslation": "I clearly divide it.",
+      "relatedWords": [
+        "分類",
+        "区別"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v192",
+      "kanji": "区別",
+      "kana": "くべつ",
+      "romaji": "kubetsu",
+      "partOfSpeech": "noun",
+      "meaning": "distinction, differentiation",
+      "jlptLevel": "N2",
+      "exampleSentence": "両者を区別する。",
+      "exampleTranslation": "I distinguish between the two.",
+      "relatedWords": [
+        "区分",
+        "識別"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v193",
+      "kanji": "識別",
+      "kana": "しきべつ",
+      "romaji": "shikibetsu",
+      "partOfSpeech": "noun",
+      "meaning": "discrimination, identification",
+      "jlptLevel": "N2",
+      "exampleSentence": "特徴を識別する。",
+      "exampleTranslation": "I identify characteristics.",
+      "relatedWords": [
+        "区別",
+        "判別"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v194",
+      "kanji": "判別",
+      "kana": "はんべつ",
+      "romaji": "hanbetsu",
+      "partOfSpeech": "noun",
+      "meaning": "distinction, discrimination",
+      "jlptLevel": "N2",
+      "exampleSentence": "真偽を判別する。",
+      "exampleTranslation": "I distinguish truth from falsehood.",
+      "relatedWords": [
+        "識別",
+        "区別"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v195",
+      "kanji": "照合",
+      "kana": "しょうごう",
+      "romaji": "shougou",
+      "partOfSpeech": "noun",
+      "meaning": "collation, verification",
+      "jlptLevel": "N2",
+      "exampleSentence": "データを照合する。",
+      "exampleTranslation": "I verify data.",
+      "relatedWords": [
+        "照らし合わせ",
+        "確認"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v196",
+      "kanji": "対照",
+      "kana": "たいしょう",
+      "romaji": "taishou",
+      "partOfSpeech": "noun",
+      "meaning": "contrast, comparison",
+      "jlptLevel": "N2",
+      "exampleSentence": "対照的な結果だ。",
+      "exampleTranslation": "It's a contrasting result.",
+      "relatedWords": [
+        "対比",
+        "比較"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v197",
+      "kanji": "比較",
+      "kana": "ひかく",
+      "romaji": "hikaku",
+      "partOfSpeech": "noun",
+      "meaning": "comparison",
+      "jlptLevel": "N2",
+      "exampleSentence": "両者を比較する。",
+      "exampleTranslation": "I compare the two.",
+      "relatedWords": [
+        "対照",
+        "対比"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v198",
+      "kanji": "対比",
+      "kana": "たいひ",
+      "romaji": "taihi",
+      "partOfSpeech": "noun",
+      "meaning": "contrast",
+      "jlptLevel": "N2",
+      "exampleSentence": "新旧を対比する。",
+      "exampleTranslation": "I contrast old and new.",
+      "relatedWords": [
+        "対照",
+        "比較"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v199",
+      "kanji": "並列",
+      "kana": "へいれつ",
+      "romaji": "heiretsu",
+      "partOfSpeech": "noun",
+      "meaning": "parallel, juxtaposition",
+      "jlptLevel": "N2",
+      "exampleSentence": "並列に配置する。",
+      "exampleTranslation": "I arrange in parallel.",
+      "relatedWords": [
+        "平行",
+        "並び"
+      ],
+      "notes": "Academic vocabulary"
+    },
+    {
+      "id": "v200",
+      "kanji": "系列",
+      "kana": "けいれつ",
+      "romaji": "keiretsu",
+      "partOfSpeech": "noun",
+      "meaning": "series, sequence",
+      "jlptLevel": "N2",
+      "exampleSentence": "時系列で並べる。",
+      "exampleTranslation": "I arrange in chronological order.",
+      "relatedWords": [
+        "連続",
+        "順序"
+      ],
+      "notes": "Academic vocabulary"
     }
   ]
 }
