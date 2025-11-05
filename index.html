@@ -13,26 +13,25 @@
 <body>
     <!-- Header Navigation -->
     <header class="site-header">
-        <nav class="navbar">
-            <div class="nav-container">
+        <div class="container">
+            <nav class="nav-bar">
                 <div class="nav-logo">
-                    <h1>JLPT N2 読解練習</h1>
+                    <a href="index.html">N2 読解練習</a>
                 </div>
+                <button id="navToggle" class="nav-toggle" aria-label="メニューを開く">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
                 <ul class="nav-menu">
                     <li><a href="index.html" class="active">ホーム</a></li>
-                    <li><a href="pages/practice.html">練習</a></li>
-                    <li><a href="pages/vocabulary.html">単語</a></li>
+                    <li><a href="pages/practice.html">練習問題</a></li>
+                    <li><a href="pages/vocabulary.html">語彙</a></li>
                     <li><a href="pages/grammar.html">文法</a></li>
                     <li><a href="pages/progress.html">進捗</a></li>
-                    <li><a href="pages/about.html">説明</a></li>
                 </ul>
-                <div class="nav-toggle" id="navToggle">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </div>
-            </div>
-        </nav>
+            </nav>
+        </div>
     </header>
 
     <!-- Hero Section -->
@@ -147,14 +146,12 @@
     <!-- Footer -->
     <footer class="site-footer">
         <div class="container">
-            <div class="footer-content">
-                <p>&copy; 2025 JLPT N2 Reading Practice. Personal Study Platform.</p>
-                <p>
-                    <a href="pages/about.html">About</a> | 
-                    <a href="pages/privacy.html">Privacy</a> | 
-                    <a href="https://github.com/yourusername/jlpt-n2-reading" target="_blank">GitHub</a>
-                </p>
-            </div>
+            <p>&copy; 2024 JLPT N2 読解練習サイト</p>
+            <nav class="footer-nav">
+                <a href="pages/about.html">このサイトについて</a>
+                <a href="pages/privacy.html">プライバシーポリシー</a>
+                <a href="pages/tips.html">学習のコツ</a>
+            </nav>
         </div>
     </footer>
 
