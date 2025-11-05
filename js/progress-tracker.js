@@ -95,11 +95,40 @@ export function getStats() {
   const accuracy = progress.totalQuestions === 0
     ? 0
     : Math.round((progress.totalCorrect / progress.totalQuestions) * 100);
+  
+  // Build category stats
+  const byCategory = {};
+  progress.sessions.forEach(session => {
+    // Extract category from passageId (e.g., "n2-reading-001" -> extract from metadata)
+    // For now, we'll parse it from the session or use default
+    const category = session.category || 'general';
+    if (!byCategory[category]) {
+      byCategory[category] = { attempts: 0, correct: 0 };
+    }
+    byCategory[category].attempts += session.totalQuestions;
+    byCategory[category].correct += session.correctAnswers;
+  });
+
+  // Build history for recent activity
+  const history = progress.sessions.map(session => ({
+    passageId: session.passageId,
+    timestamp: session.date,
+    total: session.totalQuestions,
+    correct: session.correctAnswers
+  }));
+  
   return {
+    // For homepage stats
     completedCount,
     accuracy,
     totalTimeMinutes: Math.round(progress.totalTimeMinutes),
-    streakDays: progress.streakDays
+    streakDays: progress.streakDays,
+    // For progress page
+    totalAttempts: progress.totalQuestions,
+    correctAnswers: progress.totalCorrect,
+    currentStreak: progress.streakDays,
+    byCategory,
+    history
   };
 }
 
