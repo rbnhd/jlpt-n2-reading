@@ -80,13 +80,19 @@ function startTimer() {
 
 function showVocabularyHelper() {
   if (vocabHelper) {
-    vocabHelper.style.display = 'block';
+    vocabHelper.classList.remove('collapsed');
   }
 }
 
 function closeVocabularyHelper() {
   if (vocabHelper) {
-    vocabHelper.style.display = 'none';
+    vocabHelper.classList.add('collapsed');
+  }
+}
+
+function toggleVocabularyHelper() {
+  if (vocabHelper) {
+    vocabHelper.classList.toggle('collapsed');
   }
 }
 
@@ -118,7 +124,7 @@ async function displayPassage(passageId) {
     const { data, entry } = await loadPassage(passageId);
     currentPassage = { data, entry };
     updatePassageMeta(entry);
-    showVocabularyHelper();
+    // Vocabulary helper now starts collapsed - user clicks button to open
 
     quizHandle = prepareQuizUI({
       passage: data,
@@ -253,4 +259,5 @@ window.adjustFontSize = adjustFontSize;
 window.submitAnswers = submitAnswers;
 window.showExplanations = showExplanations;
 window.nextPassage = nextPassage;
+window.toggleVocabularyHelper = toggleVocabularyHelper;
 window.closeVocabularyHelper = closeVocabularyHelper;

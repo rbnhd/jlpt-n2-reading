@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>読解練習 - JLPT N2 Reading Practice</title>
     <link rel="stylesheet" href="../css/style.css">
-    <link rel="stylesheet" href="../css/components.css">
+    <link rel="stylesheet" href="../css/components.css?v=3">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
@@ -115,19 +115,22 @@
         </div>
     </main>
 
-    <!-- Vocabulary Helper (Hidden by default) -->
-    <div class="vocabulary-helper" id="vocabularyHelper" style="display:none;">
+    <!-- Vocabulary Helper (Starts collapsed) -->
+    <div class="vocabulary-helper collapsed" id="vocabularyHelper">
+        <button class="vocab-toggle-btn" onclick="toggleVocabularyHelper()" aria-label="単語ヘルプを開く">
+            📚 単語ヘルプ
+        </button>
         <h3>
             単語ヘルプ
-            <button class="close-btn" onclick="closeVocabularyHelper()" aria-label="閉じる">×</button>
+            <button class="close-btn" onclick="toggleVocabularyHelper()" aria-label="閉じる">×</button>
         </h3>
         <div class="vocab-list" id="vocabList">
             <!-- Vocabulary items will be inserted here -->
         </div>
     </div>
 
-    <script src="../js/quiz-handler.js?v=2" type="module"></script>
-    <script src="../js/progress-tracker.js?v=2" type="module"></script>
-    <script src="../js/practice.js?v=2" type="module"></script>
+    <script src="../js/quiz-handler.js?v=3" type="module"></script>
+    <script src="../js/progress-tracker.js?v=3" type="module"></script>
+    <script src="../js/practice.js?v=3" type="module"></script>
 </body>
 </html>

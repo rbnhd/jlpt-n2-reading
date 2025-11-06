@@ -221,7 +221,7 @@
 
 /* Questions */
 .question-item {
-    background: white;
+    background: #1f313d;
     border: 1px solid var(--border-color);
     border-radius: 0.375rem;
     padding: var(--spacing-md);
@@ -231,7 +231,7 @@
 .question-text {
     font-weight: 500;
     margin-bottom: var(--spacing-md);
-    color: var(--text-primary);
+    color: #f1f5f9;
     font-size: var(--font-size-base);
 }
 
@@ -243,7 +243,7 @@
     border-radius: 0.25rem;
     cursor: pointer;
     transition: all 0.2s;
-    color: var(--text-primary);
+    color: #e2e8f0;
 }
 
 .answer-choice:hover {
@@ -345,6 +345,49 @@
     padding: var(--spacing-md);
     box-shadow: 0 12px 30px rgba(15, 23, 42, 0.18);
     z-index: 50;
+    transition: all 0.3s ease;
+}
+
+.vocabulary-helper.collapsed {
+    width: auto;
+    height: auto;
+    max-height: none;
+    padding: 0;
+    overflow: visible;
+}
+
+.vocabulary-helper.collapsed .vocab-list {
+    display: none;
+}
+
+.vocab-toggle-btn {
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: 0.375rem;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: var(--font-size-sm);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+}
+
+.vocab-toggle-btn:hover {
+    background: #1d4ed8;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(37, 99, 235, 0.4);
+}
+
+.vocabulary-helper.collapsed .vocab-toggle-btn {
+    display: flex;
+}
+
+.vocabulary-helper:not(.collapsed) .vocab-toggle-btn {
+    display: none;
 }
 
 .vocabulary-helper h3 {
@@ -352,6 +395,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.vocabulary-helper.collapsed h3 {
+    display: none;
 }
 
 .vocabulary-helper .close-btn {
