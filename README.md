@@ -166,11 +166,8 @@ Edit CSS variables in `css/style.css`:
 - [Official JLPT Sample Questions (N2)](https://www.jlpt.jp/samples/pdf/N2-mondai.pdf)
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
 - [JLPT Sensei Practice Tests](https://jlptsensei.com/)
-- Additional resources listed in Tips page
+- Additional resources listed in [Study Tips page](https://rbnhd.github.io/jlpt-n2-reading/pages/tips.html)
 
-## License
-
-This project is for personal educational use. Content is based on JLPT N2 standards but is not official JLPT material.
 
 ## Contributing
 
