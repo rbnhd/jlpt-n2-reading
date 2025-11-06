@@ -1,6 +1,10 @@
 import { initialiseStats, getStats, renderStats } from './progress-tracker.js';
 
-const metadataPath = './data/metadata/content-index.json';
+// Determine the correct path based on current location
+const isInPagesFolder = window.location.pathname.includes('/pages/');
+const metadataPath = isInPagesFolder 
+  ? '../data/metadata/content-index.json' 
+  : './data/metadata/content-index.json';
 let metadata = null;
 
 async function fetchMetadata() {
