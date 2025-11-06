@@ -90,12 +90,21 @@ php -S localhost:8000
 
 ### GitHub Pages Deployment
 
+**Option 1: Automatic Deployment (Recommended)**
 1. Push to GitHub repository
 2. Go to Settings → Pages
-3. Set Source to "Deploy from branch"
-4. Select branch: `main`, folder: `/ (root)`
-5. Save and wait for deployment
+3. Set Source to "GitHub Actions"
+4. The custom workflow (`.github/workflows/deploy-pages.yml`) will automatically deploy on every push to main
+5. You can also manually trigger deployment from the Actions tab
 6. Access at: `https://yourusername.github.io/jlpt-n2-reading/`
+
+**Option 2: Deploy from Branch (Legacy)**
+1. Go to Settings → Pages
+2. Set Source to "Deploy from branch"
+3. Select branch: `main`, folder: `/ (root)`
+4. Save and wait for deployment
+
+**Note**: If you see both workflows running, it means you have "Deploy from branch" selected. Switch to "GitHub Actions" source to use only the custom workflow.
 
 ## Data Storage
 
