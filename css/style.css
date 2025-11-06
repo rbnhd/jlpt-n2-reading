@@ -1,16 +1,16 @@
-/* Root Variables */
+/* Root Variables - GitHub Dark Default Theme */
 :root {
-    /* Colors */
-    --primary-color: #2563eb;
-    --secondary-color: #64748b;
-    --success-color: #10b981;
-    --error-color: #ef4444;
-    --warning-color: #f59e0b;
-    --background-color: #ffffff;
-    --surface-color: #f8fafc;
-    --text-primary: #1e293b;
-    --text-secondary: #64748b;
-    --border-color: #e2e8f0;
+    /* GitHub Dark Default Colors */
+    --primary-color: #58a6ff;
+    --secondary-color: #8b949e;
+    --success-color: #3fb950;
+    --error-color: #f85149;
+    --warning-color: #d29922;
+    --background-color: #0d1117;
+    --surface-color: #161b22;
+    --text-primary: #c9d1d9;
+    --text-secondary: #8b949e;
+    --border-color: #30363d;
     
     /* Spacing */
     --spacing-xs: 0.25rem;
@@ -41,14 +41,14 @@
     --breakpoint-xl: 1280px;
 }
 
-/* Dark Mode Variables */
+/* Dark Mode Variables (keeping same for consistency since we're using dark by default) */
 @media (prefers-color-scheme: dark) {
     :root {
-        --background-color: #0f172a;
-        --surface-color: #1e293b;
-        --text-primary: #f1f5f9;
-        --text-secondary: #94a3b8;
-        --border-color: #334155;
+        --background-color: #0d1117;
+        --surface-color: #161b22;
+        --text-primary: #c9d1d9;
+        --text-secondary: #8b949e;
+        --border-color: #30363d;
     }
 }
 
@@ -91,7 +91,7 @@
 .nav-menu a:hover,
 .nav-menu a.active {
     color: var(--primary-color);
-    background: rgba(37, 99, 235, 0.1);
+    background: rgba(88, 166, 255, 0.15);
 }
 
 .nav-toggle {
