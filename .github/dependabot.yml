@@ -16,9 +16,11 @@ updates:
     commit-message:
       prefix: "chore(deps)"
       include: "scope"
-    # Reviewers (optional - add your GitHub username)
-    # reviewers:
-    #   - "rbnhd"
+    # Automatically assign reviewers and assignees
+    reviewers:
+      - "rbnhd"
+    assignees:
+      - "rbnhd"
     # Labels to add to PRs
     labels:
       - "dependencies"
