@@ -1,0 +1,12 @@
+# CODEOWNERS file for automatic PR reviewer assignment
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# GitHub Actions workflows - assign @rbnhd as reviewer for Dependabot PRs
+/.github/workflows/* @rbnhd
+
+# Dependabot configuration itself
+/.github/dependabot.yml @rbnhd
+
+# Package files (if added in future)
+/package.json @rbnhd
+/package-lock.json @rbnhd
