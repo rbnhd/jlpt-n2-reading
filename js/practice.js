@@ -84,6 +84,12 @@ function showVocabularyHelper() {
   }
 }
 
+function closeVocabularyHelper() {
+  if (vocabHelper) {
+    vocabHelper.style.display = 'none';
+  }
+}
+
 function updatePassageMeta(entry) {
   if (passageTitleNode) passageTitleNode.textContent = entry.title;
   if (passageCategoryNode) passageCategoryNode.textContent = entry.category ? `カテゴリ: ${entry.category}` : '';
@@ -247,3 +253,4 @@ window.adjustFontSize = adjustFontSize;
 window.submitAnswers = submitAnswers;
 window.showExplanations = showExplanations;
 window.nextPassage = nextPassage;
+window.closeVocabularyHelper = closeVocabularyHelper;
