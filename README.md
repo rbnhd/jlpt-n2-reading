@@ -155,8 +155,8 @@ Edit CSS variables in `css/style.css`:
 ## External Resources Referenced
 
 - [Official JLPT Sample Questions (N2)](https://www.jlpt.jp/samples/pdf/N2-mondai.pdf)
-- [JLPT Sample 2012 Reading](https://www.jlpt.jp/samples/pdf/N2R.pdf)
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
+- [JLPT Sensei Practice Tests](https://jlptsensei.com/)
 - Additional resources listed in Tips page
 
 ## License
