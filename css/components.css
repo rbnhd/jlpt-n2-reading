@@ -207,6 +207,12 @@
     box-shadow: 0 2px 12px rgba(15, 23, 42, 0.05);
 }
 
+.questions-placeholder {
+    color: var(--text-secondary);
+    text-align: center;
+    padding: var(--spacing-2xl);
+}
+
 .passage-content {
     font-size: var(--font-size-lg);
     line-height: var(--line-height-relaxed);
