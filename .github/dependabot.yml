@@ -16,11 +16,7 @@ updates:
     commit-message:
       prefix: "chore(deps)"
       include: "scope"
-    # Automatically assign reviewers and assignees
-    reviewers:
-      - "rbnhd"
-    assignees:
-      - "rbnhd"
+    # Note: Reviewer assignment handled by .github/CODEOWNERS
     # Labels to add to PRs
     labels:
       - "dependencies"
