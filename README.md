@@ -1,6 +1,6 @@
 # JLPT N2 Reading Practice Site
 
-A comprehensive static website for JLPT N2 reading comprehension practice, featuring authentic passages, extensive vocabulary and grammar resources, and progress tracking. Built with vanilla HTML/CSS/JavaScript for deployment on GitHub Pages.
+A comprehensive static website for JLPT N2 reading comprehension practice, featuring authentic passages, extensive vocabulary and grammar resources, and progress tracking. Built with vanilla HTML/CSS/JavaScript for deployment on GitHub Pages. Access [here](https://rbnhd.github.io/jlpt-n2-reading/)
 
 ## Features
 
@@ -145,12 +145,12 @@ Edit CSS variables in `css/style.css`:
 
 ## Verification & Quality
 
-- ✅ All 25 JSON files validated (passages, vocab, grammar, metadata)
-- ✅ All 8 HTML pages functional (home + 7 subpages)
-- ✅ Responsive design tested on multiple screen sizes
-- ✅ No console errors in browser
-- ✅ LocalStorage persistence verified
-- ✅ All navigation links working
+- All 25 JSON files validated (passages, vocab, grammar, metadata)
+- All 8 HTML pages functional (home + 7 subpages)
+- Responsive design tested on multiple screen sizes
+- No console errors in browser
+- LocalStorage persistence verified
+- All navigation links working
 
 ## External Resources Referenced
 
