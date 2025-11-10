@@ -1,0 +1,51 @@
+{
+  "id": "n2-reading-029",
+  "title": "再生可能エネルギーの課題",
+  "category": "academic",
+  "difficulty": 4,
+  "questionType": "統合理解",
+  "passage": "【文章A】\n再生可能エネルギーは、地球温暖化対策の切り札として期待されている。太陽光発電や風力発電は、化石燃料と違ってCO2を排出しない。また、資源が枯渇する心配もない。技術の進歩により、発電コストも年々下がっている。多くの国が、2050年までにカーボンニュートラルを目指しており、再生可能エネルギーへの投資を拡大している。これは持続可能な社会を実現するための必然的な流れだ。\n\n【文章B】\n再生可能エネルギーには解決すべき課題が多い。最大の問題は、天候に左右されるため、安定した電力供給が難しいことだ。太陽が出ていない夜間や、風が吹かない日には発電できない。蓄電技術の開発が進んでいるものの、コストが高く、実用化には時間がかかる。また、大規模な太陽光パネルや風力発電施設の設置には広大な土地が必要で、自然環境への影響も懸念される。さらに、既存の電力網との統合も技術的な課題となっている。理想と現実のギャップを埋めるには、まだ多くの困難がある。",
+  "estimatedTime": 7,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "文章Aと文章Bの共通認識は何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "再生可能エネルギーは完璧である"},
+        {"id": "b", "text": "再生可能エネルギーは重要なテーマである"},
+        {"id": "c", "text": "再生可能エネルギーは不要である"},
+        {"id": "d", "text": "化石燃料の方が優れている"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "両者とも再生可能エネルギーについて論じており、その重要性は認識しています。ただし評価が異なります。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "文章Bで指摘されている最大の課題は何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "発電コストが高い"},
+        {"id": "b", "text": "CO2を排出する"},
+        {"id": "c", "text": "天候に左右され、安定供給が難しい"},
+        {"id": "d", "text": "技術が古い"}
+      ],
+      "correctAnswer": "c",
+      "explanation": "文章Bで「最大の問題は、天候に左右されるため、安定した電力供給が難しいこと」と明記されています。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "切り札", "reading": "きりふだ", "meaning": "trump card"},
+    {"kanji": "枯渇", "reading": "こかつ", "meaning": "depletion, exhaustion"},
+    {"kanji": "必然的", "reading": "ひつぜんてき", "meaning": "inevitable"},
+    {"kanji": "左右される", "reading": "さゆうされる", "meaning": "to be influenced by"},
+    {"kanji": "懸念", "reading": "けねん", "meaning": "concern, worry"}
+  ],
+  "grammarPoints": ["〜として", "〜により", "〜ものの", "〜には", "〜ことだ"],
+  "metadata": {
+    "dateAdded": "2025-11-10",
+    "source": "Original"
+  }
+}
