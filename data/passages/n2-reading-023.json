@@ -1,0 +1,51 @@
+{
+  "id": "n2-reading-023",
+  "title": "「失敗」から学ぶこと",
+  "category": "essay",
+  "difficulty": 4,
+  "questionType": "統合理解",
+  "passage": "【文章A】\n失敗は避けるべきものだ。社会では成功が評価され、失敗は恥とされる。だからこそ、失敗しないように慎重に行動することが大切である。特にビジネスの世界では、一度の失敗が会社に大きな損失をもたらすこともある。リスクを最小限に抑え、確実に成功する方法を選ぶべきだ。失敗を恐れることは、決して悪いことではない。それは責任感の表れでもある。\n\n【文章B】\n失敗は成長の糧である。多くの成功者が、失敗から学んだ経験について語っている。失敗を恐れて何もしなければ、成長の機会を失ってしまう。新しいことに挑戦し、たとえ失敗しても、そこから教訓を得ることが重要だ。失敗を通じて、自分の弱点や改善点が見えてくる。むしろ、若いうちに多くの失敗を経験することで、将来の大きな失敗を避けられるのではないだろうか。失敗を恐れない勇気こそが、イノベーションを生み出す原動力となる。",
+  "estimatedTime": 7,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "文章Aと文章Bの共通点は何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "失敗は絶対に避けるべきだ"},
+        {"id": "b", "text": "失敗について考えることは重要だ"},
+        {"id": "c", "text": "失敗から学ぶことはできない"},
+        {"id": "d", "text": "成功者は失敗しない"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "両者とも失敗について異なる視点から論じており、失敗について考えることの重要性を示唆しています。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "文章Bの筆者が失敗について述べていることとして正しいのはどれか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "失敗は恥である"},
+        {"id": "b", "text": "失敗を避けることが最も重要だ"},
+        {"id": "c", "text": "失敗から学ぶことで成長できる"},
+        {"id": "d", "text": "失敗は責任感の欠如だ"}
+      ],
+      "correctAnswer": "c",
+      "explanation": "文章Bでは「失敗は成長の糧である」と述べ、失敗から学ぶことの重要性を強調しています。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "糧", "reading": "かて", "meaning": "food, nourishment, basis"},
+    {"kanji": "教訓", "reading": "きょうくん", "meaning": "lesson, moral"},
+    {"kanji": "弱点", "reading": "じゃくてん", "meaning": "weak point"},
+    {"kanji": "原動力", "reading": "げんどうりょく", "meaning": "driving force"},
+    {"kanji": "表れ", "reading": "あらわれ", "meaning": "manifestation"}
+  ],
+  "grammarPoints": ["〜べきだ", "〜ことが大切だ", "〜ば", "〜を通じて", "〜ではないだろうか"],
+  "metadata": {
+    "dateAdded": "2025-11-10",
+    "source": "Original"
+  }
+}

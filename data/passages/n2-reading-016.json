@@ -1,0 +1,50 @@
+{
+  "id": "n2-reading-016",
+  "title": "テレワーク導入に関するお知らせ",
+  "category": "business",
+  "difficulty": 2,
+  "questionType": "内容理解・短文",
+  "passage": "社員各位\n\n働き方改革の一環として、来月1日よりテレワーク制度を本格的に導入することになりました。この制度により、週2日まで在宅勤務が可能となります。\n\n対象となるのは、入社3年目以上の正社員です。希望者は所属部署の上司に申請書を提出し、承認を得る必要があります。なお、業務の性質上、現場での作業が必要な部署については対象外となる場合があります。\n\nテレワーク実施日は、業務に支障がないよう、チームメンバーと調整してください。また、セキュリティ対策として、会社から貸与されたパソコンを使用し、公共のWi-Fiの利用は避けてください。\n\n詳細については、人事部のホームページをご確認いただくか、内線2345までお問い合わせください。",
+  "estimatedTime": 4,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "テレワーク制度について正しいものはどれか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "全社員が対象である"},
+        {"id": "b", "text": "週2日まで在宅勤務ができる"},
+        {"id": "c", "text": "自動的に適用される"},
+        {"id": "d", "text": "個人のパソコンを使用する"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "文章中に「週2日まで在宅勤務が可能」と明記されています。対象は入社3年目以上で、申請が必要です。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "テレワーク実施にあたって注意すべきことは何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "チームメンバーと調整し、会社のパソコンを使用する"},
+        {"id": "b", "text": "できるだけカフェで仕事をする"},
+        {"id": "c", "text": "上司の許可は不要である"},
+        {"id": "d", "text": "毎日在宅勤務をする"}
+      ],
+      "correctAnswer": "a",
+      "explanation": "「チームメンバーと調整」し、「会社から貸与されたパソコンを使用」することが求められています。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "一環", "reading": "いっかん", "meaning": "part of, link"},
+    {"kanji": "本格的", "reading": "ほんかくてき", "meaning": "full-scale, earnest"},
+    {"kanji": "貸与", "reading": "たいよ", "meaning": "lending, loan"},
+    {"kanji": "支障", "reading": "ししょう", "meaning": "hindrance, obstacle"}
+  ],
+  "grammarPoints": ["〜として", "〜により", "〜場合", "〜について"],
+  "metadata": {
+    "dateAdded": "2025-11-10",
+    "source": "Original"
+  }
+}

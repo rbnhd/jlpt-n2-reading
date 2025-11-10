@@ -1,0 +1,50 @@
+{
+  "id": "n2-reading-019",
+  "title": "地域の清掃活動参加者募集",
+  "category": "news",
+  "difficulty": 1,
+  "questionType": "内容理解・短文",
+  "passage": "市民の皆様へ\n\n来月12日（日）午前9時から正午まで、市内各地で一斉清掃活動を実施します。この活動は、きれいな街づくりを目指す市民運動の一環として、毎年春と秋の2回行われています。\n\n参加は自由で、事前の申し込みは不要です。当日、お住まいの地域の集合場所にお集まりください。集合場所は市のホームページでご確認いただけます。清掃用具は市が用意しますので、手ぶらでお越しください。動きやすい服装と帽子をご用意ください。\n\n小雨決行ですが、荒天の場合は中止となります。中止の場合は、当日午前7時に市のホームページでお知らせします。多くの市民の皆様のご参加をお待ちしております。",
+  "estimatedTime": 4,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "清掃活動に参加するために必要なことは何か。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "事前に申し込みをする"},
+        {"id": "b", "text": "清掃用具を持参する"},
+        {"id": "c", "text": "集合場所を確認して当日集まる"},
+        {"id": "d", "text": "参加費を支払う"}
+      ],
+      "correctAnswer": "c",
+      "explanation": "「参加は自由で、事前の申し込みは不要」で「当日、お住まいの地域の集合場所にお集まりください」と書かれています。",
+      "points": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "荒天の場合の対応について正しいものはどれか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "決行する"},
+        {"id": "b", "text": "当日午前7時にホームページで中止を知らせる"},
+        {"id": "c", "text": "翌週に延期する"},
+        {"id": "d", "text": "屋内で実施する"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "「荒天の場合は中止となります。中止の場合は、当日午前7時に市のホームページでお知らせします」と明記されています。",
+      "points": 1
+    }
+  ],
+  "vocabulary": [
+    {"kanji": "一斉", "reading": "いっせい", "meaning": "simultaneous, all at once"},
+    {"kanji": "一環", "reading": "いっかん", "meaning": "link, part of"},
+    {"kanji": "手ぶら", "reading": "てぶら", "meaning": "empty-handed"},
+    {"kanji": "決行", "reading": "けっこう", "meaning": "going ahead (despite weather)"}
+  ],
+  "grammarPoints": ["〜として", "〜場合", "〜ください"],
+  "metadata": {
+    "dateAdded": "2025-11-10",
+    "source": "Original"
+  }
+}
