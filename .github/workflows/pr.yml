@@ -103,9 +103,6 @@ jobs:
         with:
           node-version: '20'
       
-      - name: Install CSS validator
-        run: npm install -g css-validator
-      
       - name: Validate CSS syntax
         run: |
           echo "🔍 Validating CSS syntax (critical errors only)..."
@@ -135,8 +132,8 @@ jobs:
                 const singleQuotes = (line.match(/'/g) || []).length;
                 const doubleQuotes = (line.match(/\"/g) || []).length;
                 if (singleQuotes % 2 !== 0 || doubleQuotes % 2 !== 0) {
-                  // Allow escaped quotes
-                  if (!line.includes('\\\\'')) {
+                  // Skip lines with escaped quotes
+                  if (!line.includes('\\\\\"') && !line.includes(\"\\\\'\")){
                     console.warn('⚠️  Possible unterminated string at line ' + (i+1) + ' in $file');
                   }
                 }
