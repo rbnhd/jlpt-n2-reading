@@ -121,16 +121,29 @@
             return map[level] || 'N/A';
         }
 
+        // Translate category to Japanese
+        function translateCategory(category) {
+            const map = {
+                'business': 'ビジネス',
+                'news': 'ニュース',
+                'essay': 'エッセイ',
+                'story': '物語',
+                'academic': '学術'
+            };
+            return map[category] || category;
+        }
+
         // Create passage card HTML
         function createPassageCard(passage) {
             const difficultyStars = formatDifficulty(passage.difficulty);
             const difficultyClass = `difficulty-${passage.difficulty}`;
+            const categoryJa = translateCategory(passage.category);
             
             return `
-                <div class="passage-card" data-category="${passage.category}" data-difficulty="${passage.difficulty}" data-type="${passage.questionType}">
+                <div class="passage-card" data-category="${categoryJa}" data-difficulty="${passage.difficulty}" data-type="${passage.questionType}">
                     <div class="passage-card-header">
                         <span class="passage-id">${passage.id}</span>
-                        <span class="passage-category">${passage.category}</span>
+                        <span class="passage-category">${categoryJa}</span>
                     </div>
                     <h3 class="passage-title">${passage.title}</h3>
                     <div class="passage-meta">
@@ -139,7 +152,7 @@
                         <span class="passage-time">約${passage.estimatedTime}分</span>
                     </div>
                     <div class="passage-stats">
-                        <span>問題数: ${passage.questionCount}</span>
+                        <span>問題数: ${passage.questionsCount}</span>
                     </div>
                     <a href="practice.html?id=${passage.id}" class="btn btn-primary passage-start-btn">
                         この問題を解く
