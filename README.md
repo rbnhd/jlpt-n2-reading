@@ -1,7 +1,5 @@
 # JLPT N2 Reading Practice Site
 
-# JLPT N2 Reading Practice Site
-
 A comprehensive static website for JLPT N2 reading comprehension practice, featuring authentic passages, extensive vocabulary and grammar resources, and progress tracking. Built with vanilla HTML/CSS/JavaScript for deployment on GitHub Pages. 
 <br>
 
