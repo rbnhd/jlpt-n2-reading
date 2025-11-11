@@ -373,8 +373,11 @@ jobs:
     runs-on: ubuntu-latest
     needs: [validate-json, validate-html, validate-css, validate-javascript, check-links, validate-data-structure]
     if: always()
+    permissions:
+      pull-requests: write
     steps:
       - name: Check all validations passed
+        id: check
         run: |
           echo "📊 Validation Summary:"
           echo "====================="
@@ -415,7 +418,7 @@ jobs:
             echo "❌ Data structure validation: FAILED"
           fi
           
-          # Fail if any check failed
+          # Determine overall status
           if [ "${{ needs.validate-json.result }}" != "success" ] || \
              [ "${{ needs.validate-html.result }}" != "success" ] || \
              [ "${{ needs.validate-css.result }}" != "success" ] || \
@@ -423,8 +426,74 @@ jobs:
              [ "${{ needs.validate-data-structure.result }}" != "success" ]; then
             echo ""
             echo "❌ Some validation checks failed. Please fix the issues above."
-            exit 1
+            echo "overall_status=failed" >> $GITHUB_OUTPUT
+          else
+            echo ""
+            echo "✅ All validation checks passed! PR is ready to merge."
+            echo "overall_status=passed" >> $GITHUB_OUTPUT
           fi
-          
-          echo ""
-          echo "✅ All validation checks passed! PR is ready to merge."
+      
+      - name: Post PR comment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const results = {
+              json: '${{ needs.validate-json.result }}',
+              html: '${{ needs.validate-html.result }}',
+              css: '${{ needs.validate-css.result }}',
+              javascript: '${{ needs.validate-javascript.result }}',
+              links: '${{ needs.check-links.result }}',
+              dataStructure: '${{ needs.validate-data-structure.result }}'
+            };
+            
+            const status = '${{ steps.check.outputs.overall_status }}';
+            const emoji = status === 'passed' ? '✅' : '❌';
+            const title = status === 'passed' ? 'All Validation Checks Passed!' : 'Some Validation Checks Failed';
+            
+            const body = `## ${emoji} ${title}
+            
+            | Check | Status |
+            |-------|--------|
+            | JSON Validation | ${results.json === 'success' ? '✅ Passed' : '❌ Failed'} |
+            | HTML Validation | ${results.html === 'success' ? '✅ Passed' : '❌ Failed'} |
+            | CSS Validation | ${results.css === 'success' ? '✅ Passed' : '❌ Failed'} |
+            | JavaScript Validation | ${results.javascript === 'success' ? '✅ Passed' : '❌ Failed'} |
+            | Link Checking | ${results.links === 'success' ? '✅ Passed' : '❌ Failed'} |
+            | Data Structure Validation | ${results.dataStructure === 'success' ? '✅ Passed' : '❌ Failed'} |
+            
+            ${status === 'passed' ? '🎉 This PR is ready to merge!' : '⚠️ Please fix the failing checks before merging.'}
+            
+            <sub>Automated validation by PR workflow</sub>`;
+            
+            // Find existing comment
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            
+            const botComment = comments.find(comment => 
+              comment.user.type === 'Bot' && 
+              comment.body.includes('Automated validation by PR workflow')
+            );
+            
+            // Update or create comment
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body: body
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body
+              });
+            }
+      
+      - name: Fail if checks failed
+        if: steps.check.outputs.overall_status == 'failed'
+        run: exit 1
