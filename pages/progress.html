@@ -92,9 +92,13 @@
           <button onclick="exportProgress()" class="btn btn-secondary">
             データをエクスポート
           </button>
+          <button onclick="document.getElementById('importFile').click()" class="btn btn-secondary">
+            データをインポート
+          </button>
           <button onclick="resetProgress()" class="btn btn-danger">
             データをリセット
           </button>
+          <input type="file" id="importFile" accept=".json" style="display: none;" onchange="importProgress(event)">
         </div>
       </div>
     </section>
@@ -230,6 +234,49 @@
       initialiseStats();
       renderProgressPage();
       alert('学習データをリセットしました');
+    };
+
+    window.importProgress = function(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        try {
+          const importedData = JSON.parse(e.target.result);
+          
+          // Validate data structure
+          if (!importedData || typeof importedData !== 'object') {
+            throw new Error('Invalid data format');
+          }
+
+          // Check for required fields
+          if (!Array.isArray(importedData.sessions)) {
+            throw new Error('Missing sessions array');
+          }
+
+          // Save to localStorage
+          localStorage.setItem('n2-reading-progress', JSON.stringify(importedData));
+          
+          // Refresh the page
+          renderProgressPage();
+          alert('進捗データをインポートしました！');
+          
+          // Reset file input
+          event.target.value = '';
+        } catch (error) {
+          console.error('Import error:', error);
+          alert('データのインポートに失敗しました。正しいJSONファイルを選択してください。');
+          event.target.value = '';
+        }
+      };
+
+      reader.onerror = function() {
+        alert('ファイルの読み込みに失敗しました。');
+        event.target.value = '';
+      };
+
+      reader.readAsText(file);
     };
 
     // Initialize

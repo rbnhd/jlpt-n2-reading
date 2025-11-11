@@ -1092,3 +1092,122 @@
     flex: 1 1 auto;
   }
 }
+
+/* Vocabulary Cards */
+.vocab-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: var(--spacing-lg);
+  margin-top: var(--spacing-xl);
+}
+
+.vocab-card {
+  background: var(--surface-color);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  padding: var(--spacing-lg);
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.vocab-card:hover {
+  border-color: var(--primary-color);
+  box-shadow: 0 4px 12px rgba(88, 166, 255, 0.1);
+  transform: translateY(-2px);
+}
+
+.vocab-header {
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: var(--spacing-sm);
+}
+
+.vocab-word {
+  font-size: var(--font-size-2xl);
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: var(--spacing-xs);
+}
+
+.vocab-reading {
+  font-size: var(--font-size-base);
+  color: var(--text-secondary);
+  font-weight: 400;
+}
+
+.vocab-meaning {
+  font-size: var(--font-size-base);
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+.vocab-example {
+  background: rgba(139, 148, 158, 0.05);
+  padding: var(--spacing-md);
+  border-radius: var(--border-radius);
+  border-left: 3px solid var(--primary-color);
+}
+
+.example-sentence {
+  font-size: var(--font-size-sm);
+  color: var(--text-primary);
+  margin-bottom: var(--spacing-xs);
+  line-height: 1.6;
+}
+
+.example-translation {
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary);
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.vocab-dict-buttons {
+  display: flex;
+  gap: var(--spacing-sm);
+  margin-top: auto;
+  padding-top: var(--spacing-sm);
+  border-top: 1px solid var(--border-color);
+}
+
+.dict-button {
+  flex: 1;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  background: rgba(88, 166, 255, 0.1);
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+  border-radius: var(--border-radius);
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  text-decoration: none;
+  text-align: center;
+  transition: all 0.2s;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.dict-button:hover {
+  background: var(--primary-color);
+  color: var(--background-color);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(88, 166, 255, 0.3);
+}
+
+.dict-button:active {
+  transform: translateY(0);
+}
+
+@media (max-width: 640px) {
+  .vocab-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .vocab-card {
+    padding: var(--spacing-md);
+  }
+  
+  .vocab-word {
+    font-size: var(--font-size-xl);
+  }
+}
