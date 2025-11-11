@@ -1,0 +1,407 @@
+name: PR Validation Checks
+
+# Controls when the workflow will run
+on:
+  # Triggers on PR to main branch
+  pull_request:
+    branches: [ main ]
+    paths-ignore:
+      - '**/README.md'
+      - '**/LICENSE'
+      - '**/.local/**'
+
+  # Allows to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions
+permissions:
+  contents: read
+  pull-requests: write  # Allow commenting on PRs
+
+jobs:
+  # JSON validation job
+  validate-json:
+    name: Validate JSON Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Validate all JSON files
+        run: |
+          echo "🔍 Validating JSON files..."
+          EXIT_CODE=0
+          
+          # Find all JSON files and validate them
+          for file in $(find . -name "*.json" -not -path "*/node_modules/*" -not -path "*/.git/*"); do
+            echo "Checking: $file"
+            if ! jq empty "$file" 2>/dev/null; then
+              echo "❌ Invalid JSON: $file"
+              EXIT_CODE=1
+            else
+              echo "✅ Valid: $file"
+            fi
+          done
+          
+          if [ $EXIT_CODE -eq 0 ]; then
+            echo "✅ All JSON files are valid!"
+          else
+            echo "❌ Some JSON files have syntax errors!"
+          fi
+          
+          exit $EXIT_CODE
+
+  # HTML validation job
+  validate-html:
+    name: Validate HTML Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install HTML validator
+        run: npm install -g html-validate
+      
+      - name: Create HTML validation config
+        run: |
+          cat > .htmlvalidate.json << 'EOF'
+          {
+            "extends": ["html-validate:recommended"],
+            "rules": {
+              "no-inline-style": "off",
+              "require-sri": "off",
+              "no-trailing-whitespace": "off"
+            }
+          }
+          EOF
+      
+      - name: Validate HTML files
+        run: |
+          echo "🔍 Validating HTML files..."
+          html-validate "*.html" "pages/*.html" || exit 1
+          echo "✅ All HTML files are valid!"
+
+  # CSS validation job
+  validate-css:
+    name: Validate CSS Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install Stylelint
+        run: npm install -g stylelint stylelint-config-standard
+      
+      - name: Create Stylelint config
+        run: |
+          cat > .stylelintrc.json << 'EOF'
+          {
+            "extends": "stylelint-config-standard",
+            "rules": {
+              "color-function-notation": "legacy",
+              "alpha-value-notation": "number",
+              "property-no-vendor-prefix": null,
+              "value-no-vendor-prefix": null,
+              "selector-class-pattern": null,
+              "custom-property-pattern": null
+            }
+          }
+          EOF
+      
+      - name: Validate CSS files
+        run: |
+          echo "🔍 Validating CSS files..."
+          stylelint "css/**/*.css" || exit 1
+          echo "✅ All CSS files are valid!"
+
+  # JavaScript validation job
+  validate-javascript:
+    name: Validate JavaScript Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install ESLint
+        run: npm install -g eslint
+      
+      - name: Create ESLint config
+        run: |
+          cat > .eslintrc.json << 'EOF'
+          {
+            "env": {
+              "browser": true,
+              "es2021": true
+            },
+            "extends": "eslint:recommended",
+            "parserOptions": {
+              "ecmaVersion": "latest",
+              "sourceType": "module"
+            },
+            "rules": {
+              "no-unused-vars": ["warn", { "argsIgnorePattern": "^_" }],
+              "no-console": "off"
+            },
+            "globals": {
+              "VocabularyHelper": "readonly",
+              "QuizHandler": "readonly",
+              "ProgressTracker": "readonly"
+            }
+          }
+          EOF
+      
+      - name: Validate JavaScript files
+        run: |
+          echo "🔍 Validating JavaScript files..."
+          eslint "js/**/*.js" || exit 1
+          echo "✅ All JavaScript files are valid!"
+
+  # Link checker job
+  check-links:
+    name: Check for Broken Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Check internal links
+        run: |
+          echo "🔍 Checking for broken internal links..."
+          EXIT_CODE=0
+          
+          # Check if files referenced in HTML exist
+          for html_file in $(find . -name "*.html" -not -path "*/node_modules/*"); do
+            echo "Checking links in: $html_file"
+            
+            # Extract href and src attributes (simple grep, not perfect but good enough)
+            grep -oP '(href|src)=["'\'']\K[^"'\'']*(?=["'\''])' "$html_file" 2>/dev/null | while read link; do
+              # Skip external links, anchors, and data URIs
+              if [[ "$link" =~ ^(http|https|mailto|tel|#|data:) ]]; then
+                continue
+              fi
+              
+              # Get directory of current HTML file
+              dir=$(dirname "$html_file")
+              
+              # Resolve relative path
+              if [[ "$link" = /* ]]; then
+                # Absolute path from root
+                target_file=".$link"
+              else
+                # Relative path
+                target_file="$dir/$link"
+              fi
+              
+              # Remove query strings and anchors
+              target_file="${target_file%%\?*}"
+              target_file="${target_file%%\#*}"
+              
+              # Check if file exists
+              if [ ! -e "$target_file" ] && [ ! -d "$target_file" ]; then
+                echo "⚠️  Broken link in $html_file: $link (target: $target_file not found)"
+              fi
+            done
+          done
+          
+          echo "✅ Link check complete!"
+
+  # Data structure validation job
+  validate-data-structure:
+    name: Validate Data Structure
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Validate passage structure
+        run: |
+          echo "🔍 Validating passage data structure..."
+          EXIT_CODE=0
+          
+          for file in data/passages/*.json; do
+            echo "Checking: $file"
+            
+            # Check required fields
+            if ! jq -e '.id' "$file" > /dev/null 2>&1; then
+              echo "❌ Missing 'id' field in $file"
+              EXIT_CODE=1
+            fi
+            if ! jq -e '.title' "$file" > /dev/null 2>&1; then
+              echo "❌ Missing 'title' field in $file"
+              EXIT_CODE=1
+            fi
+            if ! jq -e '.category' "$file" > /dev/null 2>&1; then
+              echo "❌ Missing 'category' field in $file"
+              EXIT_CODE=1
+            fi
+            if ! jq -e '.passage' "$file" > /dev/null 2>&1; then
+              echo "❌ Missing 'passage' field in $file"
+              EXIT_CODE=1
+            fi
+            if ! jq -e '.questions' "$file" > /dev/null 2>&1; then
+              echo "❌ Missing 'questions' array in $file"
+              EXIT_CODE=1
+            fi
+            
+            # Check questions have required fields
+            question_count=$(jq '.questions | length' "$file")
+            if [ "$question_count" -eq 0 ]; then
+              echo "⚠️  No questions found in $file"
+            else
+              echo "✅ Found $question_count questions in $file"
+            fi
+          done
+          
+          if [ $EXIT_CODE -eq 0 ]; then
+            echo "✅ All passage files have valid structure!"
+          else
+            echo "❌ Some passage files have structural issues!"
+          fi
+          
+          exit $EXIT_CODE
+      
+      - name: Validate vocabulary structure
+        run: |
+          echo "🔍 Validating vocabulary data structure..."
+          EXIT_CODE=0
+          
+          for file in data/vocabulary/*.json; do
+            echo "Checking: $file"
+            
+            if ! jq -e '.items' "$file" > /dev/null 2>&1; then
+              echo "❌ Missing 'items' array in $file"
+              EXIT_CODE=1
+            else
+              item_count=$(jq '.items | length' "$file")
+              echo "✅ Found $item_count vocabulary items in $file"
+            fi
+          done
+          
+          exit $EXIT_CODE
+      
+      - name: Validate grammar structure
+        run: |
+          echo "🔍 Validating grammar data structure..."
+          
+          file="data/grammar/grammar-n2-complete.json"
+          if [ ! -f "$file" ]; then
+            echo "❌ Grammar file not found: $file"
+            exit 1
+          fi
+          
+          if ! jq -e '.patterns' "$file" > /dev/null 2>&1; then
+            echo "❌ Missing 'patterns' array in $file"
+            exit 1
+          fi
+          
+          pattern_count=$(jq '.patterns | length' "$file")
+          echo "✅ Found $pattern_count grammar patterns"
+      
+      - name: Validate metadata
+        run: |
+          echo "🔍 Validating content index metadata..."
+          
+          file="data/metadata/content-index.json"
+          if [ ! -f "$file" ]; then
+            echo "❌ Metadata file not found: $file"
+            exit 1
+          fi
+          
+          if ! jq -e '.totalPassages' "$file" > /dev/null 2>&1; then
+            echo "❌ Missing 'totalPassages' in metadata"
+            exit 1
+          fi
+          
+          if ! jq -e '.passages' "$file" > /dev/null 2>&1; then
+            echo "❌ Missing 'passages' array in metadata"
+            exit 1
+          fi
+          
+          total=$(jq '.totalPassages' "$file")
+          listed=$(jq '.passages | length' "$file")
+          
+          echo "Metadata reports: $total total passages"
+          echo "Metadata lists: $listed passages"
+          
+          if [ "$total" -ne "$listed" ]; then
+            echo "⚠️  Warning: totalPassages ($total) doesn't match passages array length ($listed)"
+          fi
+          
+          echo "✅ Metadata structure is valid!"
+
+  # Summary job
+  summary:
+    name: Validation Summary
+    runs-on: ubuntu-latest
+    needs: [validate-json, validate-html, validate-css, validate-javascript, check-links, validate-data-structure]
+    if: always()
+    steps:
+      - name: Check all validations passed
+        run: |
+          echo "📊 Validation Summary:"
+          echo "====================="
+          
+          if [ "${{ needs.validate-json.result }}" = "success" ]; then
+            echo "✅ JSON validation: PASSED"
+          else
+            echo "❌ JSON validation: FAILED"
+          fi
+          
+          if [ "${{ needs.validate-html.result }}" = "success" ]; then
+            echo "✅ HTML validation: PASSED"
+          else
+            echo "❌ HTML validation: FAILED"
+          fi
+          
+          if [ "${{ needs.validate-css.result }}" = "success" ]; then
+            echo "✅ CSS validation: PASSED"
+          else
+            echo "❌ CSS validation: FAILED"
+          fi
+          
+          if [ "${{ needs.validate-javascript.result }}" = "success" ]; then
+            echo "✅ JavaScript validation: PASSED"
+          else
+            echo "❌ JavaScript validation: FAILED"
+          fi
+          
+          if [ "${{ needs.check-links.result }}" = "success" ]; then
+            echo "✅ Link checking: PASSED"
+          else
+            echo "❌ Link checking: FAILED"
+          fi
+          
+          if [ "${{ needs.validate-data-structure.result }}" = "success" ]; then
+            echo "✅ Data structure validation: PASSED"
+          else
+            echo "❌ Data structure validation: FAILED"
+          fi
+          
+          # Fail if any check failed
+          if [ "${{ needs.validate-json.result }}" != "success" ] || \
+             [ "${{ needs.validate-html.result }}" != "success" ] || \
+             [ "${{ needs.validate-css.result }}" != "success" ] || \
+             [ "${{ needs.validate-javascript.result }}" != "success" ] || \
+             [ "${{ needs.validate-data-structure.result }}" != "success" ]; then
+            echo ""
+            echo "❌ Some validation checks failed. Please fix the issues above."
+            exit 1
+          fi
+          
+          echo ""
+          echo "✅ All validation checks passed! PR is ready to merge."
