@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="JLPT N2 読解問題一覧 - 全30問題から選択">
+    <title>問題一覧 - JLPT N2 読解練習</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/components.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header Navigation -->
+    <header class="site-header">
+        <div class="container">
+            <nav class="nav-bar">
+                <div class="nav-logo">
+                    <a href="../index.html">N2 読解練習</a>
+                </div>
+                <button id="navToggle" class="nav-toggle" aria-label="メニューを開く">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <ul class="nav-menu">
+                    <li><a href="../index.html">ホーム</a></li>
+                    <li><a href="passage-list.html" class="active">練習問題</a></li>
+                    <li><a href="vocabulary.html">語彙</a></li>
+                    <li><a href="grammar.html">文法</a></li>
+                    <li><a href="progress.html">進捗</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container main-content">
+        <section class="content-section">
+            <h1>読解問題一覧</h1>
+            <p class="section-description">
+                全30問の読解問題から選んで練習できます。カテゴリーや難易度でフィルタリングすることも可能です。
+            </p>
+
+            <!-- Filters -->
+            <div class="filter-controls">
+                <div class="filter-group">
+                    <label for="categoryFilter">カテゴリー:</label>
+                    <select id="categoryFilter" class="filter-select">
+                        <option value="all">すべて</option>
+                        <option value="ビジネス">ビジネス</option>
+                        <option value="ニュース">ニュース</option>
+                        <option value="エッセイ">エッセイ</option>
+                        <option value="物語">物語</option>
+                        <option value="学術">学術</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="difficultyFilter">難易度:</label>
+                    <select id="difficultyFilter" class="filter-select">
+                        <option value="all">すべて</option>
+                        <option value="1">★☆☆☆ (やさしい)</option>
+                        <option value="2">★★☆☆ (やや易)</option>
+                        <option value="3">★★★☆ (ふつう)</option>
+                        <option value="4">★★★★ (やや難)</option>
+                        <option value="5">★★★★★ (難しい)</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="typeFilter">問題タイプ:</label>
+                    <select id="typeFilter" class="filter-select">
+                        <option value="all">すべて</option>
+                        <option value="内容理解・短文">内容理解・短文</option>
+                        <option value="内容理解・中文">内容理解・中文</option>
+                        <option value="統合理解">統合理解</option>
+                        <option value="主張理解・長文">主張理解・長文</option>
+                        <option value="情報検索">情報検索</option>
+                    </select>
+                </div>
+                <button id="resetFilters" class="btn btn-small">フィルタをリセット</button>
+            </div>
+
+            <!-- Passage Grid -->
+            <div id="passageGrid" class="passage-grid">
+                <!-- Passages will be loaded here dynamically -->
+            </div>
+
+            <!-- No Results Message -->
+            <div id="noResults" class="no-results" style="display: none;">
+                <p>該当する問題が見つかりませんでした。</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2025 JLPT N2 読解練習サイト</p>
+            <nav class="footer-nav">
+                <a href="tips.html">学習のヒント</a>
+                <a href="about.html">このサイトについて</a>
+                <a href="privacy.html">プライバシー</a>
+            </nav>
+        </div>
+    </footer>
+
+    <script type="module">
+        let allPassages = [];
+        let filteredPassages = [];
+
+        // Format difficulty display
+        function formatDifficulty(level) {
+            const map = {
+                1: '★☆☆☆',
+                2: '★★☆☆',
+                3: '★★★☆',
+                4: '★★★★',
+                5: '★★★★★'
+            };
+            return map[level] || 'N/A';
+        }
+
+        // Create passage card HTML
+        function createPassageCard(passage) {
+            const difficultyStars = formatDifficulty(passage.difficulty);
+            const difficultyClass = `difficulty-${passage.difficulty}`;
+            
+            return `
+                <div class="passage-card" data-category="${passage.category}" data-difficulty="${passage.difficulty}" data-type="${passage.questionType}">
+                    <div class="passage-card-header">
+                        <span class="passage-id">${passage.id}</span>
+                        <span class="passage-category">${passage.category}</span>
+                    </div>
+                    <h3 class="passage-title">${passage.title}</h3>
+                    <div class="passage-meta">
+                        <span class="${difficultyClass}">${difficultyStars}</span>
+                        <span class="passage-type">${passage.questionType}</span>
+                        <span class="passage-time">約${passage.estimatedTime}分</span>
+                    </div>
+                    <div class="passage-stats">
+                        <span>問題数: ${passage.questionCount}</span>
+                    </div>
+                    <a href="practice.html?id=${passage.id}" class="btn btn-primary passage-start-btn">
+                        この問題を解く
+                    </a>
+                </div>
+            `;
+        }
+
+        // Render passages
+        function renderPassages(passages) {
+            const grid = document.getElementById('passageGrid');
+            const noResults = document.getElementById('noResults');
+            
+            if (passages.length === 0) {
+                grid.innerHTML = '';
+                noResults.style.display = 'block';
+                return;
+            }
+            
+            noResults.style.display = 'none';
+            grid.innerHTML = passages.map(createPassageCard).join('');
+        }
+
+        // Apply filters
+        function applyFilters() {
+            const categoryFilter = document.getElementById('categoryFilter').value;
+            const difficultyFilter = document.getElementById('difficultyFilter').value;
+            const typeFilter = document.getElementById('typeFilter').value;
+
+            filteredPassages = allPassages.filter(passage => {
+                const matchCategory = categoryFilter === 'all' || passage.category === categoryFilter;
+                const matchDifficulty = difficultyFilter === 'all' || passage.difficulty === parseInt(difficultyFilter);
+                const matchType = typeFilter === 'all' || passage.questionType === typeFilter;
+                
+                return matchCategory && matchDifficulty && matchType;
+            });
+
+            renderPassages(filteredPassages);
+        }
+
+        // Reset filters
+        function resetFilters() {
+            document.getElementById('categoryFilter').value = 'all';
+            document.getElementById('difficultyFilter').value = 'all';
+            document.getElementById('typeFilter').value = 'all';
+            applyFilters();
+        }
+
+        // Load metadata and render passages
+        async function loadPassages() {
+            try {
+                const response = await fetch('../data/metadata/content-index.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load passage metadata');
+                }
+                const data = await response.json();
+                allPassages = data.passages;
+                filteredPassages = [...allPassages];
+                renderPassages(filteredPassages);
+            } catch (error) {
+                console.error('Error loading passages:', error);
+                document.getElementById('passageGrid').innerHTML = `
+                    <div class="error-message">
+                        <p>問題の読み込みに失敗しました。ページを再読み込みしてください。</p>
+                    </div>
+                `;
+            }
+        }
+
+        // Setup event listeners
+        function setupEventListeners() {
+            document.getElementById('categoryFilter').addEventListener('change', applyFilters);
+            document.getElementById('difficultyFilter').addEventListener('change', applyFilters);
+            document.getElementById('typeFilter').addEventListener('change', applyFilters);
+            document.getElementById('resetFilters').addEventListener('click', resetFilters);
+            
+            // Navigation toggle
+            const navToggle = document.getElementById('navToggle');
+            const navMenu = document.querySelector('.nav-menu');
+            if (navToggle) {
+                navToggle.addEventListener('click', () => {
+                    navMenu.classList.toggle('active');
+                });
+            }
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            setupEventListeners();
+            loadPassages();
+        });
+    </script>
+</body>
+</html>

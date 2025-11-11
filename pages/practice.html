@@ -13,21 +13,25 @@
 <body>
     <!-- Header Navigation -->
     <header class="site-header">
-        <nav class="navbar">
-            <div class="nav-container">
+        <div class="container">
+            <nav class="nav-bar">
                 <div class="nav-logo">
-                    <h1>JLPT N2 読解練習</h1>
+                    <a href="../index.html">N2 読解練習</a>
                 </div>
+                <button id="navToggle" class="nav-toggle" aria-label="メニューを開く">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
                 <ul class="nav-menu">
                     <li><a href="../index.html">ホーム</a></li>
-                    <li><a href="practice.html" class="active">練習</a></li>
-                    <li><a href="vocabulary.html">単語</a></li>
+                    <li><a href="passage-list.html">練習問題</a></li>
+                    <li><a href="vocabulary.html">語彙</a></li>
                     <li><a href="grammar.html">文法</a></li>
                     <li><a href="progress.html">進捗</a></li>
-                    <li><a href="about.html">説明</a></li>
                 </ul>
-            </div>
-        </nav>
+            </nav>
+        </div>
     </header>
 
     <!-- Practice Controls -->
@@ -43,7 +47,7 @@
                     </span>
                 </div>
                 <div class="controls-actions">
-                    <button class="btn btn-small" onclick="selectPassage()">問題選択</button>
+                    <button class="btn btn-small" onclick="location.href='passage-list.html'">問題選択</button>
                     <button class="btn btn-small" onclick="toggleFurigana()">ふりがな</button>
                     <button class="btn btn-small" onclick="adjustFontSize('increase')">文字+</button>
                     <button class="btn btn-small" onclick="adjustFontSize('decrease')">文字-</button>
