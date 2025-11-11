@@ -4,7 +4,7 @@
   "category": "business",
   "difficulty": 2,
   "questionType": "内容理解・短文",
-  "passage": "社員各位\n\n4月15日（月）午前9時より、新入社員向けの研修を開催します。今回の研修では、会社の基本方針や業務システムの使い方について説明します。\n\n参加対象者は今年度入社の新入社員全員となっており、必須参加です。当日は筆記用具とノートパソコンをご持参ください。昼食は会社が用意いたします。\n\nなお、やむを得ない理由で欠席される場合は、前日までに人事部の田中までご連絡ください。後日、個別に研修内容をお伝えします。",
+  "passage": "社員各位\n\n4月15日（月）午前9時より、新入社員向けの研修を開催します。今回の研修では、会社の基本方針や業務システムの使い方について説明します。また、ビジネスマナーや社内ルールに関する講習も実施いたします。\n\n参加対象者は今年度入社の新入社員全員となっており、必須参加です。当日は筆記用具とノートパソコンをご持参ください。昼食は会社が用意いたします。なお、研修は午後5時までの予定ですが、質疑応答の時間によっては若干延長する可能性があります。\n\nやむを得ない理由で欠席される場合は、前日までに人事部の田中までご連絡ください。後日、個別に研修内容をお伝えします。また、当日配布する資料は社外秘情報を含むため、研修終了後は必ず人事部に返却していただきますようお願いいたします。",
   "estimatedTime": 4,
   "questions": [
     {
@@ -34,15 +34,33 @@
       "correctAnswer": "b",
       "explanation": "「前日までに人事部の田中までご連絡ください」と明確に記載されています。",
       "points": 1
+    },
+    {
+      "id": "q3",
+      "questionText": "研修資料について正しいものはどれか。",
+      "type": "multiple-choice",
+      "choices": [
+        {"id": "a", "text": "自宅に持ち帰ってもよい"},
+        {"id": "b", "text": "研修後に返却する必要がある"},
+        {"id": "c", "text": "コピーして配布してもよい"},
+        {"id": "d", "text": "特に指示はない"}
+      ],
+      "correctAnswer": "b",
+      "explanation": "「当日配布する資料は社外秘情報を含むため、研修終了後は必ず人事部に返却していただきます」と記載されています。",
+      "points": 1
     }
   ],
   "vocabulary": [
     {"kanji": "各位", "reading": "かくい", "meaning": "everyone (formal)"},
     {"kanji": "必須", "reading": "ひっす", "meaning": "required, mandatory"},
     {"kanji": "筆記用具", "reading": "ひっきようぐ", "meaning": "writing materials"},
-    {"kanji": "やむを得ない", "reading": "やむをえない", "meaning": "unavoidable, inevitable"}
+    {"kanji": "やむを得ない", "reading": "やむをえない", "meaning": "unavoidable, inevitable"},
+    {"kanji": "質疑応答", "reading": "しつぎおうとう", "meaning": "question and answer session"},
+    {"kanji": "若干", "reading": "じゃっかん", "meaning": "a little, slightly"},
+    {"kanji": "社外秘", "reading": "しゃがいひ", "meaning": "confidential, company secret"},
+    {"kanji": "返却", "reading": "へんきゃく", "meaning": "return, give back"}
   ],
-  "grammarPoints": ["〜について", "〜場合は", "なお"],
+  "grammarPoints": ["〜について", "〜場合は", "なお", "〜によっては", "〜ていただく", "〜ようお願いいたします"],
   "metadata": {
     "dateAdded": "2025-01-04",
     "source": "Original"
