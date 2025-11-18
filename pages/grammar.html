@@ -125,8 +125,10 @@
       container.innerHTML = filteredGrammar.map(item => {
         const examples = item.examples || [];
         const pattern = item.pattern || '';
-        // URL encode the pattern for dictionary links
-        const encodedPattern = encodeURIComponent(pattern);
+        // Trim pattern for URL: remove leading 〜 and text after ／
+        const trimmedPattern = pattern.replace(/^〜/, '').split('／')[0];
+        // URL encode the trimmed pattern for dictionary links
+        const encodedPattern = encodeURIComponent(trimmedPattern);
 
         return `
           <div class="vocab-card">
