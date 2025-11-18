@@ -117,7 +117,7 @@
 
   <script type="module" src="../js/app.js?v=2"></script>
   <script type="module">
-    import { getStats, initialiseStats } from '../js/progress-tracker.js';
+    import { getStats, initialiseStats, getProgress } from '../js/progress-tracker.js';
 
     function renderProgressPage() {
       const stats = getStats();
@@ -211,8 +211,8 @@
     }
 
     window.exportProgress = function() {
-      const stats = getStats();
-      const dataStr = JSON.stringify(stats, null, 2);
+      const progressData = getProgress();
+      const dataStr = JSON.stringify(progressData, null, 2);
       const dataBlob = new Blob([dataStr], { type: 'application/json' });
       const url = URL.createObjectURL(dataBlob);
       
@@ -255,8 +255,18 @@
             throw new Error('Missing sessions array');
           }
 
+          // Ensure all required fields exist with defaults
+          const validatedData = {
+            sessions: importedData.sessions,
+            totalQuestions: importedData.totalQuestions || 0,
+            totalCorrect: importedData.totalCorrect || 0,
+            totalTimeMinutes: importedData.totalTimeMinutes || 0,
+            lastStudyDate: importedData.lastStudyDate || null,
+            streakDays: importedData.streakDays || 0
+          };
+
           // Save to localStorage
-          localStorage.setItem('n2-reading-progress', JSON.stringify(importedData));
+          localStorage.setItem('n2-reading-progress', JSON.stringify(validatedData));
           
           // Refresh the page
           renderProgressPage();
