@@ -60,7 +60,7 @@
         </div>
 
         <!-- Grammar List -->
-        <div id="grammarList" class="grammar-list">
+        <div id="grammarList" class="vocab-grid">
           <div class="loading">読み込み中...</div>
         </div>
       </div>
@@ -124,14 +124,17 @@
 
       container.innerHTML = filteredGrammar.map(item => {
         const examples = item.examples || [];
-        
+        const pattern = item.pattern || '';
+        // URL encode the pattern for dictionary links
+        const encodedPattern = encodeURIComponent(pattern);
+
         return `
-          <div class="grammar-card">
+          <div class="vocab-card">
             <div class="grammar-header">
-              <h3 class="grammar-pattern">${item.pattern || ''}</h3>
+              <h3 class="grammar-pattern">${pattern}</h3>
               <span class="grammar-id">${item.id || ''}</span>
             </div>
-            
+
             <div class="grammar-meaning">
               <strong>意味:</strong> ${item.meaning || ''}
             </div>
@@ -159,6 +162,15 @@
                 <strong>注意:</strong> ${item.notes}
               </div>
             ` : ''}
+
+            <div class="vocab-dict-buttons">
+              <a href="https://jisho.org/search/${encodedPattern}" target="_blank" rel="noopener noreferrer" class="dict-button">
+                📖 Jisho
+              </a>
+              <a href="https://jotoba.de/search/0/${encodedPattern}?l=en-US" target="_blank" rel="noopener noreferrer" class="dict-button">
+                📚 Jotoba
+              </a>
+            </div>
           </div>
         `;
       }).join('');
