@@ -1704,1803 +1704,1803 @@
     },
     {
       "id": "v101",
-      "word": "word0",
-      "reading": "reading0",
-      "meaning": "Meaning 0",
+      "word": "家賃",
+      "reading": "やちん",
+      "meaning": "Rent",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文0",
-          "translation": "Example 0"
+          "sentence": "家賃を毎月払う必要がある。",
+          "translation": "I need to pay rent every month."
+        },
+        {
+          "sentence": "家賃が高くて困っている。",
+          "translation": "I'm in trouble because the rent is high."
         }
-      ],
-      "relatedWords": [
-        "related0"
-      ],
-      "notes": "Note 0"
+      ]
     },
     {
       "id": "v102",
-      "word": "word1",
-      "reading": "reading1",
-      "meaning": "Meaning 1",
+      "word": "敷金",
+      "reading": "しききん",
+      "meaning": "Security deposit",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文1",
-          "translation": "Example 1"
+          "sentence": "アパートを借りるときに敷金を払った。",
+          "translation": "I paid a security deposit when renting the apartment."
+        },
+        {
+          "sentence": "退去時に敷金が返ってくる。",
+          "translation": "The security deposit will be returned when moving out."
         }
-      ],
-      "relatedWords": [
-        "related1"
-      ],
-      "notes": "Note 1"
+      ]
     },
     {
       "id": "v103",
-      "word": "word2",
-      "reading": "reading2",
-      "meaning": "Meaning 2",
+      "word": "礼金",
+      "reading": "れいきん",
+      "meaning": "Key money",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文2",
-          "translation": "Example 2"
+          "sentence": "礼金は返金されない。",
+          "translation": "Key money is not refunded."
+        },
+        {
+          "sentence": "礼金なしの物件を探している。",
+          "translation": "I'm looking for a property without key money."
         }
-      ],
-      "relatedWords": [
-        "related2"
-      ],
-      "notes": "Note 2"
+      ]
     },
     {
       "id": "v104",
-      "word": "word3",
-      "reading": "reading3",
-      "meaning": "Meaning 3",
+      "word": "仲介",
+      "reading": "ちゅうかい",
+      "meaning": "Mediation, brokerage",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文3",
-          "translation": "Example 3"
+          "sentence": "不動産会社に仲介してもらった。",
+          "translation": "I had a real estate company mediate."
+        },
+        {
+          "sentence": "仲介手数料を支払う。",
+          "translation": "Pay the brokerage fee."
         }
-      ],
-      "relatedWords": [
-        "related3"
-      ],
-      "notes": "Note 3"
+      ]
     },
     {
       "id": "v105",
-      "word": "word4",
-      "reading": "reading4",
-      "meaning": "Meaning 4",
+      "word": "引っ越し",
+      "reading": "ひっこし",
+      "meaning": "Moving, relocation",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文4",
-          "translation": "Example 4"
+          "sentence": "来月、引っ越しする予定だ。",
+          "translation": "I plan to move next month."
+        },
+        {
+          "sentence": "引っ越し業者に荷物を運んでもらった。",
+          "translation": "I had the moving company carry my luggage."
         }
-      ],
-      "relatedWords": [
-        "related4"
-      ],
-      "notes": "Note 4"
+      ]
     },
     {
       "id": "v106",
-      "word": "word5",
-      "reading": "reading5",
-      "meaning": "Meaning 5",
+      "word": "荷造り",
+      "reading": "にづくり",
+      "meaning": "Packing",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文5",
-          "translation": "Example 5"
+          "sentence": "週末に荷造りを始める。",
+          "translation": "I'll start packing this weekend."
+        },
+        {
+          "sentence": "荷造りに時間がかかる。",
+          "translation": "Packing takes time."
         }
-      ],
-      "relatedWords": [
-        "related5"
-      ],
-      "notes": "Note 5"
+      ]
     },
     {
       "id": "v107",
-      "word": "word6",
-      "reading": "reading6",
-      "meaning": "Meaning 6",
+      "word": "荷解き",
+      "reading": "にほどき",
+      "meaning": "Unpacking",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文6",
-          "translation": "Example 6"
+          "sentence": "引っ越し後、荷解きをする。",
+          "translation": "Unpack after moving."
+        },
+        {
+          "sentence": "荷解きがまだ終わっていない。",
+          "translation": "The unpacking isn't finished yet."
         }
-      ],
-      "relatedWords": [
-        "related6"
-      ],
-      "notes": "Note 6"
+      ]
     },
     {
       "id": "v108",
-      "word": "word7",
-      "reading": "reading7",
-      "meaning": "Meaning 7",
+      "word": "騒音",
+      "reading": "そうおん",
+      "meaning": "Noise",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文7",
-          "translation": "Example 7"
+          "sentence": "隣の部屋の騒音に悩まされている。",
+          "translation": "I'm troubled by noise from the next room."
+        },
+        {
+          "sentence": "騒音対策をする必要がある。",
+          "translation": "We need to take noise countermeasures."
         }
-      ],
-      "relatedWords": [
-        "related7"
-      ],
-      "notes": "Note 7"
+      ]
     },
     {
       "id": "v109",
-      "word": "word8",
-      "reading": "reading8",
-      "meaning": "Meaning 8",
+      "word": "隣人",
+      "reading": "りんじん",
+      "meaning": "Neighbor",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文8",
-          "translation": "Example 8"
+          "sentence": "隣人に挨拶をする。",
+          "translation": "Greet the neighbors."
+        },
+        {
+          "sentence": "隣人とトラブルになった。",
+          "translation": "I got into trouble with the neighbors."
         }
-      ],
-      "relatedWords": [
-        "related8"
-      ],
-      "notes": "Note 8"
+      ]
     },
     {
       "id": "v110",
-      "word": "word9",
-      "reading": "reading9",
-      "meaning": "Meaning 9",
+      "word": "管理人",
+      "reading": "かんりにん",
+      "meaning": "Manager, superintendent",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文9",
-          "translation": "Example 9"
+          "sentence": "マンションの管理人に連絡する。",
+          "translation": "Contact the apartment manager."
+        },
+        {
+          "sentence": "管理人が建物を見回っている。",
+          "translation": "The manager is inspecting the building."
         }
-      ],
-      "relatedWords": [
-        "related9"
-      ],
-      "notes": "Note 9"
+      ]
     },
     {
       "id": "v111",
-      "word": "word10",
-      "reading": "reading10",
-      "meaning": "Meaning 10",
+      "word": "光熱費",
+      "reading": "こうねつひ",
+      "meaning": "Utilities (electricity, gas, water)",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文10",
-          "translation": "Example 10"
+          "sentence": "冬は光熱費が高くなる。",
+          "translation": "Utilities become expensive in winter."
+        },
+        {
+          "sentence": "光熱費を節約したい。",
+          "translation": "I want to save on utilities."
         }
-      ],
-      "relatedWords": [
-        "related10"
-      ],
-      "notes": "Note 10"
+      ]
     },
     {
       "id": "v112",
-      "word": "word11",
-      "reading": "reading11",
-      "meaning": "Meaning 11",
+      "word": "水道代",
+      "reading": "すいどうだい",
+      "meaning": "Water bill",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文11",
-          "translation": "Example 11"
+          "sentence": "水道代が先月より高い。",
+          "translation": "The water bill is higher than last month."
+        },
+        {
+          "sentence": "水道代を払い忘れた。",
+          "translation": "I forgot to pay the water bill."
         }
-      ],
-      "relatedWords": [
-        "related11"
-      ],
-      "notes": "Note 11"
+      ]
     },
     {
       "id": "v113",
-      "word": "word12",
-      "reading": "reading12",
-      "meaning": "Meaning 12",
+      "word": "電気代",
+      "reading": "でんきだい",
+      "meaning": "Electricity bill",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文12",
-          "translation": "Example 12"
+          "sentence": "エアコンを使うと電気代が上がる。",
+          "translation": "Using the air conditioner raises the electricity bill."
+        },
+        {
+          "sentence": "電気代を節約するために、こまめに電気を消す。",
+          "translation": "I turn off lights frequently to save on electricity bills."
         }
-      ],
-      "relatedWords": [
-        "related12"
-      ],
-      "notes": "Note 12"
+      ]
     },
     {
       "id": "v114",
-      "word": "word13",
-      "reading": "reading13",
-      "meaning": "Meaning 13",
+      "word": "ガス代",
+      "reading": "がすだい",
+      "meaning": "Gas bill",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文13",
-          "translation": "Example 13"
+          "sentence": "今月のガス代が思ったより高い。",
+          "translation": "This month's gas bill is higher than I thought."
+        },
+        {
+          "sentence": "プロパンガスは都市ガスよりガス代が高い。",
+          "translation": "Propane gas costs more than city gas."
         }
-      ],
-      "relatedWords": [
-        "related13"
-      ],
-      "notes": "Note 13"
+      ]
     },
     {
       "id": "v115",
-      "word": "word14",
-      "reading": "reading14",
-      "meaning": "Meaning 14",
+      "word": "粗大ごみ",
+      "reading": "そだいごみ",
+      "meaning": "Bulky garbage",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文14",
-          "translation": "Example 14"
+          "sentence": "粗大ごみの回収を申し込む。",
+          "translation": "Apply for bulky garbage collection."
+        },
+        {
+          "sentence": "古い家具を粗大ごみとして出す。",
+          "translation": "Dispose of old furniture as bulky garbage."
         }
-      ],
-      "relatedWords": [
-        "related14"
-      ],
-      "notes": "Note 14"
+      ]
     },
     {
       "id": "v116",
-      "word": "word15",
-      "reading": "reading15",
-      "meaning": "Meaning 15",
+      "word": "燃えるごみ",
+      "reading": "もえるごみ",
+      "meaning": "Burnable garbage",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文15",
-          "translation": "Example 15"
+          "sentence": "燃えるごみは火曜日と金曜日に出す。",
+          "translation": "Burnable garbage is put out on Tuesdays and Fridays."
+        },
+        {
+          "sentence": "生ごみは燃えるごみに分類される。",
+          "translation": "Food waste is classified as burnable garbage."
         }
-      ],
-      "relatedWords": [
-        "related15"
-      ],
-      "notes": "Note 15"
+      ]
     },
     {
       "id": "v117",
-      "word": "word16",
-      "reading": "reading16",
-      "meaning": "Meaning 16",
+      "word": "燃えないごみ",
+      "reading": "もえないごみ",
+      "meaning": "Non-burnable garbage",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文16",
-          "translation": "Example 16"
+          "sentence": "陶器は燃えないごみに出す。",
+          "translation": "Ceramics are put out as non-burnable garbage."
+        },
+        {
+          "sentence": "燃えないごみの収集日を確認する。",
+          "translation": "Check the non-burnable garbage collection day."
         }
-      ],
-      "relatedWords": [
-        "related16"
-      ],
-      "notes": "Note 16"
+      ]
     },
     {
       "id": "v118",
-      "word": "word17",
-      "reading": "reading17",
-      "meaning": "Meaning 17",
+      "word": "ペットボトル",
+      "reading": "ぺっとぼとる",
+      "meaning": "PET bottle",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文17",
-          "translation": "Example 17"
+          "sentence": "ペットボトルは資源ごみとして出す。",
+          "translation": "PET bottles are put out as recyclable garbage."
+        },
+        {
+          "sentence": "ペットボトルのラベルを剥がす。",
+          "translation": "Remove the label from the PET bottle."
         }
-      ],
-      "relatedWords": [
-        "related17"
-      ],
-      "notes": "Note 17"
+      ]
     },
     {
       "id": "v119",
-      "word": "word18",
-      "reading": "reading18",
-      "meaning": "Meaning 18",
+      "word": "缶",
+      "reading": "かん",
+      "meaning": "Can",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文18",
-          "translation": "Example 18"
+          "sentence": "空き缶をリサイクルに出す。",
+          "translation": "Put empty cans out for recycling."
+        },
+        {
+          "sentence": "缶を洗ってから捨てる。",
+          "translation": "Wash cans before throwing them away."
         }
-      ],
-      "relatedWords": [
-        "related18"
-      ],
-      "notes": "Note 18"
+      ]
     },
     {
       "id": "v120",
-      "word": "word19",
-      "reading": "reading19",
-      "meaning": "Meaning 19",
+      "word": "瓶",
+      "reading": "びん",
+      "meaning": "Bottle, jar",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文19",
-          "translation": "Example 19"
+          "sentence": "ガラス瓶は危なくないように包んで捨てる。",
+          "translation": "Wrap glass bottles safely before throwing them away."
+        },
+        {
+          "sentence": "瓶の蓋を開ける。",
+          "translation": "Open the bottle lid."
         }
-      ],
-      "relatedWords": [
-        "related19"
-      ],
-      "notes": "Note 19"
+      ]
     },
     {
       "id": "v121",
-      "word": "word20",
-      "reading": "reading20",
-      "meaning": "Meaning 20",
+      "word": "洗濯物",
+      "reading": "せんたくもの",
+      "meaning": "Laundry",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文20",
-          "translation": "Example 20"
+          "sentence": "洗濯物を干す。",
+          "translation": "Hang out the laundry."
+        },
+        {
+          "sentence": "雨が降ってきたので、洗濯物を取り込む。",
+          "translation": "It started raining, so I brought in the laundry."
         }
-      ],
-      "relatedWords": [
-        "related20"
-      ],
-      "notes": "Note 20"
+      ]
     },
     {
       "id": "v122",
-      "word": "word21",
-      "reading": "reading21",
-      "meaning": "Meaning 21",
+      "word": "洗濯機",
+      "reading": "せんたくき",
+      "meaning": "Washing machine",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文21",
-          "translation": "Example 21"
+          "sentence": "洗濯機を回す。",
+          "translation": "Run the washing machine."
+        },
+        {
+          "sentence": "新しい洗濯機を買った。",
+          "translation": "I bought a new washing machine."
         }
-      ],
-      "relatedWords": [
-        "related21"
-      ],
-      "notes": "Note 21"
+      ]
     },
     {
       "id": "v123",
-      "word": "word22",
-      "reading": "reading22",
-      "meaning": "Meaning 22",
+      "word": "乾燥機",
+      "reading": "かんそうき",
+      "meaning": "Dryer",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文22",
-          "translation": "Example 22"
+          "sentence": "雨の日は乾燥機を使う。",
+          "translation": "I use the dryer on rainy days."
+        },
+        {
+          "sentence": "乾燥機付きの洗濯機が便利だ。",
+          "translation": "A washing machine with a dryer is convenient."
         }
-      ],
-      "relatedWords": [
-        "related22"
-      ],
-      "notes": "Note 22"
+      ]
     },
     {
       "id": "v124",
-      "word": "word23",
-      "reading": "reading23",
-      "meaning": "Meaning 23",
+      "word": "洗剤",
+      "reading": "せんざい",
+      "meaning": "Detergent",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文23",
-          "translation": "Example 23"
+          "sentence": "食器用洗剤を買う。",
+          "translation": "Buy dish detergent."
+        },
+        {
+          "sentence": "洗剤が切れた。",
+          "translation": "I ran out of detergent."
         }
-      ],
-      "relatedWords": [
-        "related23"
-      ],
-      "notes": "Note 23"
+      ]
     },
     {
       "id": "v125",
-      "word": "word24",
-      "reading": "reading24",
-      "meaning": "Meaning 24",
+      "word": "柔軟剤",
+      "reading": "じゅうなんざい",
+      "meaning": "Fabric softener",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文24",
-          "translation": "Example 24"
+          "sentence": "柔軟剤を入れると、衣類が柔らかくなる。",
+          "translation": "Adding fabric softener makes clothes soft."
+        },
+        {
+          "sentence": "良い香りの柔軟剤を使っている。",
+          "translation": "I use a nice-smelling fabric softener."
         }
-      ],
-      "relatedWords": [
-        "related24"
-      ],
-      "notes": "Note 24"
+      ]
     },
     {
       "id": "v126",
-      "word": "word25",
-      "reading": "reading25",
-      "meaning": "Meaning 25",
+      "word": "漂白剤",
+      "reading": "ひょうはくざい",
+      "meaning": "Bleach",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文25",
-          "translation": "Example 25"
+          "sentence": "白いシャツに漂白剤を使う。",
+          "translation": "Use bleach on white shirts."
+        },
+        {
+          "sentence": "漂白剤で汚れを落とす。",
+          "translation": "Remove stains with bleach."
         }
-      ],
-      "relatedWords": [
-        "related25"
-      ],
-      "notes": "Note 25"
+      ]
     },
     {
       "id": "v127",
-      "word": "word26",
-      "reading": "reading26",
-      "meaning": "Meaning 26",
+      "word": "掃除機",
+      "reading": "そうじき",
+      "meaning": "Vacuum cleaner",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文26",
-          "translation": "Example 26"
+          "sentence": "週に一度、掃除機をかける。",
+          "translation": "I vacuum once a week."
+        },
+        {
+          "sentence": "掃除機のゴミを捨てる。",
+          "translation": "Empty the vacuum cleaner."
         }
-      ],
-      "relatedWords": [
-        "related26"
-      ],
-      "notes": "Note 26"
+      ]
     },
     {
       "id": "v128",
-      "word": "word27",
-      "reading": "reading27",
-      "meaning": "Meaning 27",
+      "word": "雑巾",
+      "reading": "ぞうきん",
+      "meaning": "Rag, dust cloth",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文27",
-          "translation": "Example 27"
+          "sentence": "雑巾で床を拭く。",
+          "translation": "Wipe the floor with a rag."
+        },
+        {
+          "sentence": "使い古したタオルを雑巾にする。",
+          "translation": "Turn old towels into rags."
         }
-      ],
-      "relatedWords": [
-        "related27"
-      ],
-      "notes": "Note 27"
+      ]
     },
     {
       "id": "v129",
-      "word": "word28",
-      "reading": "reading28",
-      "meaning": "Meaning 28",
+      "word": "ほうき",
+      "reading": "ほうき",
+      "meaning": "Broom",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文28",
-          "translation": "Example 28"
+          "sentence": "ほうきで庭を掃く。",
+          "translation": "Sweep the yard with a broom."
+        },
+        {
+          "sentence": "ほうきとちりとりで掃除する。",
+          "translation": "Clean with a broom and dustpan."
         }
-      ],
-      "relatedWords": [
-        "related28"
-      ],
-      "notes": "Note 28"
+      ]
     },
     {
       "id": "v130",
-      "word": "word29",
-      "reading": "reading29",
-      "meaning": "Meaning 29",
+      "word": "ちりとり",
+      "reading": "ちりとり",
+      "meaning": "Dustpan",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文29",
-          "translation": "Example 29"
+          "sentence": "ちりとりでゴミを集める。",
+          "translation": "Collect garbage with a dustpan."
+        },
+        {
+          "sentence": "ほうきとちりとりはセットで使う。",
+          "translation": "Use a broom and dustpan as a set."
         }
-      ],
-      "relatedWords": [
-        "related29"
-      ],
-      "notes": "Note 29"
+      ]
     },
     {
       "id": "v131",
-      "word": "word30",
-      "reading": "reading30",
-      "meaning": "Meaning 30",
+      "word": "エプロン",
+      "reading": "えぷろん",
+      "meaning": "Apron",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文30",
-          "translation": "Example 30"
+          "sentence": "料理をするときはエプロンをつける。",
+          "translation": "I wear an apron when cooking."
+        },
+        {
+          "sentence": "エプロンが汚れた。",
+          "translation": "The apron got dirty."
         }
-      ],
-      "relatedWords": [
-        "related30"
-      ],
-      "notes": "Note 30"
+      ]
     },
     {
       "id": "v132",
-      "word": "word31",
-      "reading": "reading31",
-      "meaning": "Meaning 31",
+      "word": "鍋",
+      "reading": "なべ",
+      "meaning": "Pot, pan",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文31",
-          "translation": "Example 31"
+          "sentence": "鍋でスープを作る。",
+          "translation": "Make soup in a pot."
+        },
+        {
+          "sentence": "冬は鍋料理が美味しい。",
+          "translation": "Hot pot dishes are delicious in winter."
         }
-      ],
-      "relatedWords": [
-        "related31"
-      ],
-      "notes": "Note 31"
+      ]
     },
     {
       "id": "v133",
-      "word": "word32",
-      "reading": "reading32",
-      "meaning": "Meaning 32",
+      "word": "フライパン",
+      "reading": "ふらいぱん",
+      "meaning": "Frying pan",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文32",
-          "translation": "Example 32"
+          "sentence": "フライパンで卵を焼く。",
+          "translation": "Fry eggs in a frying pan."
+        },
+        {
+          "sentence": "フライパンに油を引く。",
+          "translation": "Oil the frying pan."
         }
-      ],
-      "relatedWords": [
-        "related32"
-      ],
-      "notes": "Note 32"
+      ]
     },
     {
       "id": "v134",
-      "word": "word33",
-      "reading": "reading33",
-      "meaning": "Meaning 33",
+      "word": "包丁",
+      "reading": "ほうちょう",
+      "meaning": "Kitchen knife",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文33",
-          "translation": "Example 33"
+          "sentence": "包丁で野菜を切る。",
+          "translation": "Cut vegetables with a kitchen knife."
+        },
+        {
+          "sentence": "包丁を研ぐ。",
+          "translation": "Sharpen the kitchen knife."
         }
-      ],
-      "relatedWords": [
-        "related33"
-      ],
-      "notes": "Note 33"
+      ]
     },
     {
       "id": "v135",
-      "word": "word34",
-      "reading": "reading34",
-      "meaning": "Meaning 34",
+      "word": "まな板",
+      "reading": "まないた",
+      "meaning": "Cutting board",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文34",
-          "translation": "Example 34"
+          "sentence": "まな板の上で野菜を切る。",
+          "translation": "Cut vegetables on the cutting board."
+        },
+        {
+          "sentence": "使用後はまな板を洗う。",
+          "translation": "Wash the cutting board after use."
         }
-      ],
-      "relatedWords": [
-        "related34"
-      ],
-      "notes": "Note 34"
+      ]
     },
     {
       "id": "v136",
-      "word": "word35",
-      "reading": "reading35",
-      "meaning": "Meaning 35",
+      "word": "ボウル",
+      "reading": "ぼうる",
+      "meaning": "Bowl",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文35",
-          "translation": "Example 35"
+          "sentence": "ボウルに材料を入れて混ぜる。",
+          "translation": "Put ingredients in a bowl and mix."
+        },
+        {
+          "sentence": "大きなボウルが必要だ。",
+          "translation": "I need a large bowl."
         }
-      ],
-      "relatedWords": [
-        "related35"
-      ],
-      "notes": "Note 35"
+      ]
     },
     {
       "id": "v137",
-      "word": "word36",
-      "reading": "reading36",
-      "meaning": "Meaning 36",
+      "word": "ざる",
+      "reading": "ざる",
+      "meaning": "Colander, strainer",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文36",
-          "translation": "Example 36"
+          "sentence": "ざるで麺の湯を切る。",
+          "translation": "Drain noodles with a colander."
+        },
+        {
+          "sentence": "野菜をざるで洗う。",
+          "translation": "Wash vegetables in a strainer."
         }
-      ],
-      "relatedWords": [
-        "related36"
-      ],
-      "notes": "Note 36"
+      ]
     },
     {
       "id": "v138",
-      "word": "word37",
-      "reading": "reading37",
-      "meaning": "Meaning 37",
+      "word": "おたま",
+      "reading": "おたま",
+      "meaning": "Ladle",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文37",
-          "translation": "Example 37"
+          "sentence": "おたまでスープをよそう。",
+          "translation": "Serve soup with a ladle."
+        },
+        {
+          "sentence": "おたまで味噌汁を混ぜる。",
+          "translation": "Stir miso soup with a ladle."
         }
-      ],
-      "relatedWords": [
-        "related37"
-      ],
-      "notes": "Note 37"
+      ]
     },
     {
       "id": "v139",
-      "word": "word38",
-      "reading": "reading38",
-      "meaning": "Meaning 38",
+      "word": "しゃもじ",
+      "reading": "しゃもじ",
+      "meaning": "Rice scoop",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文38",
-          "translation": "Example 38"
+          "sentence": "しゃもじでご飯をよそう。",
+          "translation": "Serve rice with a rice scoop."
+        },
+        {
+          "sentence": "しゃもじを水で濡らすとご飯がくっつかない。",
+          "translation": "If you wet the rice scoop with water, the rice won't stick."
         }
-      ],
-      "relatedWords": [
-        "related38"
-      ],
-      "notes": "Note 38"
+      ]
     },
     {
       "id": "v140",
-      "word": "word39",
-      "reading": "reading39",
-      "meaning": "Meaning 39",
+      "word": "電子レンジ",
+      "reading": "でんしれんじ",
+      "meaning": "Microwave oven",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文39",
-          "translation": "Example 39"
+          "sentence": "電子レンジで食べ物を温める。",
+          "translation": "Heat food in the microwave."
+        },
+        {
+          "sentence": "電子レンジで3分加熱する。",
+          "translation": "Heat in the microwave for 3 minutes."
         }
-      ],
-      "relatedWords": [
-        "related39"
-      ],
-      "notes": "Note 39"
+      ]
     },
     {
       "id": "v141",
-      "word": "word40",
-      "reading": "reading40",
-      "meaning": "Meaning 40",
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "Refrigerator",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文40",
-          "translation": "Example 40"
+          "sentence": "牛乳を冷蔵庫に入れる。",
+          "translation": "Put milk in the refrigerator."
+        },
+        {
+          "sentence": "冷蔵庫の中を整理する。",
+          "translation": "Organize the inside of the refrigerator."
         }
-      ],
-      "relatedWords": [
-        "related40"
-      ],
-      "notes": "Note 40"
+      ]
     },
     {
       "id": "v142",
-      "word": "word41",
-      "reading": "reading41",
-      "meaning": "Meaning 41",
+      "word": "冷凍庫",
+      "reading": "れいとうこ",
+      "meaning": "Freezer",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文41",
-          "translation": "Example 41"
+          "sentence": "アイスクリームを冷凍庫に保存する。",
+          "translation": "Store ice cream in the freezer."
+        },
+        {
+          "sentence": "冷凍庫が霜で一杯だ。",
+          "translation": "The freezer is full of frost."
         }
-      ],
-      "relatedWords": [
-        "related41"
-      ],
-      "notes": "Note 41"
+      ]
     },
     {
       "id": "v143",
-      "word": "word42",
-      "reading": "reading42",
-      "meaning": "Meaning 42",
+      "word": "炊飯器",
+      "reading": "すいはんき",
+      "meaning": "Rice cooker",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文42",
-          "translation": "Example 42"
+          "sentence": "炊飯器でご飯を炊く。",
+          "translation": "Cook rice in a rice cooker."
+        },
+        {
+          "sentence": "炊飯器のスイッチを入れる。",
+          "translation": "Turn on the rice cooker."
         }
-      ],
-      "relatedWords": [
-        "related42"
-      ],
-      "notes": "Note 42"
+      ]
     },
     {
       "id": "v144",
-      "word": "word43",
-      "reading": "reading43",
-      "meaning": "Meaning 43",
+      "word": "食器",
+      "reading": "しょっき",
+      "meaning": "Dishes, tableware",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文43",
-          "translation": "Example 43"
+          "sentence": "食後は食器を洗う。",
+          "translation": "Wash the dishes after eating."
+        },
+        {
+          "sentence": "食器棚に食器をしまう。",
+          "translation": "Put dishes away in the cupboard."
         }
-      ],
-      "relatedWords": [
-        "related43"
-      ],
-      "notes": "Note 43"
+      ]
     },
     {
       "id": "v145",
-      "word": "word44",
-      "reading": "reading44",
-      "meaning": "Meaning 44",
+      "word": "茶碗",
+      "reading": "ちゃわん",
+      "meaning": "Rice bowl",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文44",
-          "translation": "Example 44"
+          "sentence": "茶碗にご飯をよそう。",
+          "translation": "Serve rice in a rice bowl."
+        },
+        {
+          "sentence": "お気に入りの茶碗を使う。",
+          "translation": "Use my favorite rice bowl."
         }
-      ],
-      "relatedWords": [
-        "related44"
-      ],
-      "notes": "Note 44"
+      ]
     },
     {
       "id": "v146",
-      "word": "word45",
-      "reading": "reading45",
-      "meaning": "Meaning 45",
+      "word": "湯のみ",
+      "reading": "ゆのみ",
+      "meaning": "Teacup",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文45",
-          "translation": "Example 45"
+          "sentence": "湯のみでお茶を飲む。",
+          "translation": "Drink tea from a teacup."
+        },
+        {
+          "sentence": "湯のみが割れた。",
+          "translation": "The teacup broke."
         }
-      ],
-      "relatedWords": [
-        "related45"
-      ],
-      "notes": "Note 45"
+      ]
     },
     {
       "id": "v147",
-      "word": "word46",
-      "reading": "reading46",
-      "meaning": "Meaning 46",
+      "word": "箸",
+      "reading": "はし",
+      "meaning": "Chopsticks",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文46",
-          "translation": "Example 46"
+          "sentence": "箸で食べ物をつかむ。",
+          "translation": "Pick up food with chopsticks."
+        },
+        {
+          "sentence": "箸の使い方を教える。",
+          "translation": "Teach how to use chopsticks."
         }
-      ],
-      "relatedWords": [
-        "related46"
-      ],
-      "notes": "Note 46"
+      ]
     },
     {
       "id": "v148",
-      "word": "word47",
-      "reading": "reading47",
-      "meaning": "Meaning 47",
+      "word": "スプーン",
+      "reading": "すぷーん",
+      "meaning": "Spoon",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文47",
-          "translation": "Example 47"
+          "sentence": "スプーンでスープを飲む。",
+          "translation": "Eat soup with a spoon."
+        },
+        {
+          "sentence": "コーヒーにスプーン一杯の砂糖を入れる。",
+          "translation": "Put a spoonful of sugar in the coffee."
         }
-      ],
-      "relatedWords": [
-        "related47"
-      ],
-      "notes": "Note 47"
+      ]
     },
     {
       "id": "v149",
-      "word": "word48",
-      "reading": "reading48",
-      "meaning": "Meaning 48",
+      "word": "フォーク",
+      "reading": "ふぉーく",
+      "meaning": "Fork",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文48",
-          "translation": "Example 48"
+          "sentence": "フォークでパスタを食べる。",
+          "translation": "Eat pasta with a fork."
+        },
+        {
+          "sentence": "ナイフとフォークを使う。",
+          "translation": "Use a knife and fork."
         }
-      ],
-      "relatedWords": [
-        "related48"
-      ],
-      "notes": "Note 48"
+      ]
     },
     {
       "id": "v150",
-      "word": "word49",
-      "reading": "reading49",
-      "meaning": "Meaning 49",
+      "word": "ナイフ",
+      "reading": "ないふ",
+      "meaning": "Knife (table knife)",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文49",
-          "translation": "Example 49"
+          "sentence": "ナイフでステーキを切る。",
+          "translation": "Cut steak with a knife."
+        },
+        {
+          "sentence": "バターナイフを使う。",
+          "translation": "Use a butter knife."
         }
-      ],
-      "relatedWords": [
-        "related49"
-      ],
-      "notes": "Note 49"
+      ]
     },
     {
       "id": "v151",
-      "word": "word50",
-      "reading": "reading50",
-      "meaning": "Meaning 50",
+      "word": "布団",
+      "reading": "ふとん",
+      "meaning": "Futon, bedding",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文50",
-          "translation": "Example 50"
+          "sentence": "布団を敷いて寝る。",
+          "translation": "Lay out the futon and sleep."
+        },
+        {
+          "sentence": "天気がいいので布団を干す。",
+          "translation": "The weather is good, so I'll air out the futon."
         }
-      ],
-      "relatedWords": [
-        "related50"
-      ],
-      "notes": "Note 50"
+      ]
     },
     {
       "id": "v152",
-      "word": "word51",
-      "reading": "reading51",
-      "meaning": "Meaning 51",
+      "word": "枕",
+      "reading": "まくら",
+      "meaning": "Pillow",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文51",
-          "translation": "Example 51"
+          "sentence": "柔らかい枕が好きだ。",
+          "translation": "I like soft pillows."
+        },
+        {
+          "sentence": "枕カバーを洗う。",
+          "translation": "Wash the pillowcase."
         }
-      ],
-      "relatedWords": [
-        "related51"
-      ],
-      "notes": "Note 51"
+      ]
     },
     {
       "id": "v153",
-      "word": "word52",
-      "reading": "reading52",
-      "meaning": "Meaning 52",
+      "word": "シーツ",
+      "reading": "しーつ",
+      "meaning": "Sheet",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文52",
-          "translation": "Example 52"
+          "sentence": "週に一度シーツを交換する。",
+          "translation": "I change the sheets once a week."
+        },
+        {
+          "sentence": "新しいシーツを敷く。",
+          "translation": "Put on new sheets."
         }
-      ],
-      "relatedWords": [
-        "related52"
-      ],
-      "notes": "Note 52"
+      ]
     },
     {
       "id": "v154",
-      "word": "word53",
-      "reading": "reading53",
-      "meaning": "Meaning 53",
+      "word": "毛布",
+      "reading": "もうふ",
+      "meaning": "Blanket",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文53",
-          "translation": "Example 53"
+          "sentence": "寒いので毛布をかける。",
+          "translation": "It's cold, so I put on a blanket."
+        },
+        {
+          "sentence": "もう一枚毛布が必要だ。",
+          "translation": "I need one more blanket."
         }
-      ],
-      "relatedWords": [
-        "related53"
-      ],
-      "notes": "Note 53"
+      ]
     },
     {
       "id": "v155",
-      "word": "word54",
-      "reading": "reading54",
-      "meaning": "Meaning 54",
+      "word": "掛け布団",
+      "reading": "かけぶとん",
+      "meaning": "Comforter, duvet",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文54",
-          "translation": "Example 54"
+          "sentence": "冬用の厚い掛け布団を出す。",
+          "translation": "Take out the thick winter comforter."
+        },
+        {
+          "sentence": "掛け布団を干す。",
+          "translation": "Air out the comforter."
         }
-      ],
-      "relatedWords": [
-        "related54"
-      ],
-      "notes": "Note 54"
+      ]
     },
     {
       "id": "v156",
-      "word": "word55",
-      "reading": "reading55",
-      "meaning": "Meaning 55",
+      "word": "敷き布団",
+      "reading": "しきぶとん",
+      "meaning": "Mattress (Japanese style)",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文55",
-          "translation": "Example 55"
+          "sentence": "敷き布団を敷く。",
+          "translation": "Lay out the mattress."
+        },
+        {
+          "sentence": "敷き布団が薄くて腰が痛い。",
+          "translation": "The mattress is thin and my back hurts."
         }
-      ],
-      "relatedWords": [
-        "related55"
-      ],
-      "notes": "Note 55"
+      ]
     },
     {
       "id": "v157",
-      "word": "word56",
-      "reading": "reading56",
-      "meaning": "Meaning 56",
+      "word": "カーテン",
+      "reading": "かーてん",
+      "meaning": "Curtain",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文56",
-          "translation": "Example 56"
+          "sentence": "カーテンを開けて光を入れる。",
+          "translation": "Open the curtains to let in light."
+        },
+        {
+          "sentence": "カーテンを洗濯する。",
+          "translation": "Wash the curtains."
         }
-      ],
-      "relatedWords": [
-        "related56"
-      ],
-      "notes": "Note 56"
+      ]
     },
     {
       "id": "v158",
-      "word": "word57",
-      "reading": "reading57",
-      "meaning": "Meaning 57",
+      "word": "クッション",
+      "reading": "くっしょん",
+      "meaning": "Cushion",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文57",
-          "translation": "Example 57"
+          "sentence": "ソファにクッションを置く。",
+          "translation": "Place cushions on the sofa."
+        },
+        {
+          "sentence": "このクッションは座り心地がいい。",
+          "translation": "This cushion is comfortable to sit on."
         }
-      ],
-      "relatedWords": [
-        "related57"
-      ],
-      "notes": "Note 57"
+      ]
     },
     {
       "id": "v159",
-      "word": "word58",
-      "reading": "reading58",
-      "meaning": "Meaning 58",
+      "word": "座布団",
+      "reading": "ざぶとん",
+      "meaning": "Cushion (Japanese style)",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文58",
-          "translation": "Example 58"
+          "sentence": "座布団に座る。",
+          "translation": "Sit on a cushion."
+        },
+        {
+          "sentence": "お客様に座布団を出す。",
+          "translation": "Offer cushions to guests."
         }
-      ],
-      "relatedWords": [
-        "related58"
-      ],
-      "notes": "Note 58"
+      ]
     },
     {
       "id": "v160",
-      "word": "word59",
-      "reading": "reading59",
-      "meaning": "Meaning 59",
+      "word": "タオル",
+      "reading": "たおる",
+      "meaning": "Towel",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文59",
-          "translation": "Example 59"
+          "sentence": "タオルで手を拭く。",
+          "translation": "Wipe hands with a towel."
+        },
+        {
+          "sentence": "濡れたタオルを干す。",
+          "translation": "Hang up the wet towel."
         }
-      ],
-      "relatedWords": [
-        "related59"
-      ],
-      "notes": "Note 59"
+      ]
     },
     {
       "id": "v161",
-      "word": "word60",
-      "reading": "reading60",
-      "meaning": "Meaning 60",
+      "word": "バスタオル",
+      "reading": "ばすたおる",
+      "meaning": "Bath towel",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文60",
-          "translation": "Example 60"
+          "sentence": "お風呂上がりにバスタオルで体を拭く。",
+          "translation": "Dry off with a bath towel after bathing."
+        },
+        {
+          "sentence": "新しいバスタオルを買う。",
+          "translation": "Buy new bath towels."
         }
-      ],
-      "relatedWords": [
-        "related60"
-      ],
-      "notes": "Note 60"
+      ]
     },
     {
       "id": "v162",
-      "word": "word61",
-      "reading": "reading61",
-      "meaning": "Meaning 61",
+      "word": "ハンガー",
+      "reading": "はんがー",
+      "meaning": "Hanger",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文61",
-          "translation": "Example 61"
+          "sentence": "ハンガーに服をかける。",
+          "translation": "Hang clothes on a hanger."
+        },
+        {
+          "sentence": "ハンガーが足りない。",
+          "translation": "I don't have enough hangers."
         }
-      ],
-      "relatedWords": [
-        "related61"
-      ],
-      "notes": "Note 61"
+      ]
     },
     {
       "id": "v163",
-      "word": "word62",
-      "reading": "reading62",
-      "meaning": "Meaning 62",
+      "word": "洗濯ばさみ",
+      "reading": "せんたくばさみ",
+      "meaning": "Clothespin",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文62",
-          "translation": "Example 62"
+          "sentence": "洗濯ばさみで洗濯物を留める。",
+          "translation": "Secure the laundry with clothespins."
+        },
+        {
+          "sentence": "洗濯ばさみが風で飛んだ。",
+          "translation": "The clothespins blew away in the wind."
         }
-      ],
-      "relatedWords": [
-        "related62"
-      ],
-      "notes": "Note 62"
+      ]
     },
     {
       "id": "v164",
-      "word": "word63",
-      "reading": "reading63",
-      "meaning": "Meaning 63",
+      "word": "物干し竿",
+      "reading": "ものほしざお",
+      "meaning": "Clothesline pole",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文63",
-          "translation": "Example 63"
+          "sentence": "物干し竿に洗濯物を干す。",
+          "translation": "Hang laundry on the clothesline pole."
+        },
+        {
+          "sentence": "物干し竿が錆びている。",
+          "translation": "The clothesline pole is rusty."
         }
-      ],
-      "relatedWords": [
-        "related63"
-      ],
-      "notes": "Note 63"
+      ]
     },
     {
       "id": "v165",
-      "word": "word64",
-      "reading": "reading64",
-      "meaning": "Meaning 64",
+      "word": "アイロン",
+      "reading": "あいろん",
+      "meaning": "Iron",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文64",
-          "translation": "Example 64"
+          "sentence": "シャツにアイロンをかける。",
+          "translation": "Iron the shirt."
+        },
+        {
+          "sentence": "アイロンの温度を調整する。",
+          "translation": "Adjust the iron temperature."
         }
-      ],
-      "relatedWords": [
-        "related64"
-      ],
-      "notes": "Note 64"
+      ]
     },
     {
       "id": "v166",
-      "word": "word65",
-      "reading": "reading65",
-      "meaning": "Meaning 65",
+      "word": "アイロン台",
+      "reading": "あいろんだい",
+      "meaning": "Ironing board",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文65",
-          "translation": "Example 65"
+          "sentence": "アイロン台を出してアイロンをかける。",
+          "translation": "Take out the ironing board to iron."
+        },
+        {
+          "sentence": "アイロン台をたたんでしまう。",
+          "translation": "Fold up and put away the ironing board."
         }
-      ],
-      "relatedWords": [
-        "related65"
-      ],
-      "notes": "Note 65"
+      ]
     },
     {
       "id": "v167",
-      "word": "word66",
-      "reading": "reading66",
-      "meaning": "Meaning 66",
+      "word": "ゴミ箱",
+      "reading": "ごみばこ",
+      "meaning": "Trash can",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文66",
-          "translation": "Example 66"
+          "sentence": "ゴミをゴミ箱に捨てる。",
+          "translation": "Throw garbage in the trash can."
+        },
+        {
+          "sentence": "ゴミ箱が一杯だ。",
+          "translation": "The trash can is full."
         }
-      ],
-      "relatedWords": [
-        "related66"
-      ],
-      "notes": "Note 66"
+      ]
     },
     {
       "id": "v168",
-      "word": "word67",
-      "reading": "reading67",
-      "meaning": "Meaning 67",
+      "word": "ゴミ袋",
+      "reading": "ごみぶくろ",
+      "meaning": "Garbage bag",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文67",
-          "translation": "Example 67"
+          "sentence": "ゴミ袋を買う。",
+          "translation": "Buy garbage bags."
+        },
+        {
+          "sentence": "ゴミ袋に入れて捨てる。",
+          "translation": "Put it in a garbage bag and throw it away."
         }
-      ],
-      "relatedWords": [
-        "related67"
-      ],
-      "notes": "Note 67"
+      ]
     },
     {
       "id": "v169",
-      "word": "word68",
-      "reading": "reading68",
-      "meaning": "Meaning 68",
+      "word": "蛇口",
+      "reading": "じゃぐち",
+      "meaning": "Faucet, tap",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文68",
-          "translation": "Example 68"
+          "sentence": "蛇口をひねって水を出す。",
+          "translation": "Turn the faucet to run water."
+        },
+        {
+          "sentence": "蛇口から水が漏れている。",
+          "translation": "Water is leaking from the faucet."
         }
-      ],
-      "relatedWords": [
-        "related68"
-      ],
-      "notes": "Note 68"
+      ]
     },
     {
       "id": "v170",
-      "word": "word69",
-      "reading": "reading69",
-      "meaning": "Meaning 69",
+      "word": "シンク",
+      "reading": "しんく",
+      "meaning": "Sink",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文69",
-          "translation": "Example 69"
+          "sentence": "シンクで食器を洗う。",
+          "translation": "Wash dishes in the sink."
+        },
+        {
+          "sentence": "シンクが詰まった。",
+          "translation": "The sink is clogged."
         }
-      ],
-      "relatedWords": [
-        "related69"
-      ],
-      "notes": "Note 69"
+      ]
     },
     {
       "id": "v171",
-      "word": "word70",
-      "reading": "reading70",
-      "meaning": "Meaning 70",
+      "word": "排水口",
+      "reading": "はいすいこう",
+      "meaning": "Drain",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文70",
-          "translation": "Example 70"
+          "sentence": "排水口を掃除する。",
+          "translation": "Clean the drain."
+        },
+        {
+          "sentence": "排水口に髪の毛が詰まった。",
+          "translation": "Hair clogged the drain."
         }
-      ],
-      "relatedWords": [
-        "related70"
-      ],
-      "notes": "Note 70"
+      ]
     },
     {
       "id": "v172",
-      "word": "word71",
-      "reading": "reading71",
-      "meaning": "Meaning 71",
+      "word": "コンセント",
+      "reading": "こんせんと",
+      "meaning": "Electrical outlet",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文71",
-          "translation": "Example 71"
+          "sentence": "コンセントにプラグを差し込む。",
+          "translation": "Plug into the electrical outlet."
+        },
+        {
+          "sentence": "コンセントが足りない。",
+          "translation": "There aren't enough outlets."
         }
-      ],
-      "relatedWords": [
-        "related71"
-      ],
-      "notes": "Note 71"
+      ]
     },
     {
       "id": "v173",
-      "word": "word72",
-      "reading": "reading72",
-      "meaning": "Meaning 72",
+      "word": "延長コード",
+      "reading": "えんちょうこーど",
+      "meaning": "Extension cord",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文72",
-          "translation": "Example 72"
+          "sentence": "延長コードを使って電源を取る。",
+          "translation": "Use an extension cord to get power."
+        },
+        {
+          "sentence": "延長コードが絡まった。",
+          "translation": "The extension cord got tangled."
         }
-      ],
-      "relatedWords": [
-        "related72"
-      ],
-      "notes": "Note 72"
+      ]
     },
     {
       "id": "v174",
-      "word": "word73",
-      "reading": "reading73",
-      "meaning": "Meaning 73",
+      "word": "電球",
+      "reading": "でんきゅう",
+      "meaning": "Light bulb",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文73",
-          "translation": "Example 73"
+          "sentence": "電球が切れたので交換する。",
+          "translation": "The light bulb burned out, so I'll replace it."
+        },
+        {
+          "sentence": "LED電球に変える。",
+          "translation": "Change to LED light bulbs."
         }
-      ],
-      "relatedWords": [
-        "related73"
-      ],
-      "notes": "Note 73"
+      ]
     },
     {
       "id": "v175",
-      "word": "word74",
-      "reading": "reading74",
-      "meaning": "Meaning 74",
+      "word": "懐中電灯",
+      "reading": "かいちゅうでんとう",
+      "meaning": "Flashlight",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文74",
-          "translation": "Example 74"
+          "sentence": "停電のときは懐中電灯を使う。",
+          "translation": "Use a flashlight during a power outage."
+        },
+        {
+          "sentence": "懐中電灯の電池を交換する。",
+          "translation": "Replace the flashlight batteries."
         }
-      ],
-      "relatedWords": [
-        "related74"
-      ],
-      "notes": "Note 74"
+      ]
     },
     {
       "id": "v176",
-      "word": "word75",
-      "reading": "reading75",
-      "meaning": "Meaning 75",
+      "word": "電池",
+      "reading": "でんち",
+      "meaning": "Battery",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文75",
-          "translation": "Example 75"
+          "sentence": "リモコンの電池を交換する。",
+          "translation": "Replace the remote control batteries."
+        },
+        {
+          "sentence": "電池が切れた。",
+          "translation": "The battery died."
         }
-      ],
-      "relatedWords": [
-        "related75"
-      ],
-      "notes": "Note 75"
+      ]
     },
     {
       "id": "v177",
-      "word": "word76",
-      "reading": "reading76",
-      "meaning": "Meaning 76",
+      "word": "ティッシュ",
+      "reading": "てぃっしゅ",
+      "meaning": "Tissue",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文76",
-          "translation": "Example 76"
+          "sentence": "ティッシュで鼻をかむ。",
+          "translation": "Blow your nose with a tissue."
+        },
+        {
+          "sentence": "ティッシュがなくなった。",
+          "translation": "I ran out of tissues."
         }
-      ],
-      "relatedWords": [
-        "related76"
-      ],
-      "notes": "Note 76"
+      ]
     },
     {
       "id": "v178",
-      "word": "word77",
-      "reading": "reading77",
-      "meaning": "Meaning 77",
+      "word": "トイレットペーパー",
+      "reading": "といれっとぺーぱー",
+      "meaning": "Toilet paper",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文77",
-          "translation": "Example 77"
+          "sentence": "トイレットペーパーを補充する。",
+          "translation": "Refill the toilet paper."
+        },
+        {
+          "sentence": "トイレットペーパーがない。",
+          "translation": "There's no toilet paper."
         }
-      ],
-      "relatedWords": [
-        "related77"
-      ],
-      "notes": "Note 77"
+      ]
     },
     {
       "id": "v179",
-      "word": "word78",
-      "reading": "reading78",
-      "meaning": "Meaning 78",
+      "word": "歯ブラシ",
+      "reading": "はぶらし",
+      "meaning": "Toothbrush",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文78",
-          "translation": "Example 78"
+          "sentence": "歯ブラシで歯を磨く。",
+          "translation": "Brush teeth with a toothbrush."
+        },
+        {
+          "sentence": "歯ブラシを新しくする。",
+          "translation": "Get a new toothbrush."
         }
-      ],
-      "relatedWords": [
-        "related78"
-      ],
-      "notes": "Note 78"
+      ]
     },
     {
       "id": "v180",
-      "word": "word79",
-      "reading": "reading79",
-      "meaning": "Meaning 79",
+      "word": "歯磨き粉",
+      "reading": "はみがきこ",
+      "meaning": "Toothpaste",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文79",
-          "translation": "Example 79"
+          "sentence": "歯磨き粉をつけて歯を磨く。",
+          "translation": "Brush teeth with toothpaste."
+        },
+        {
+          "sentence": "歯磨き粉を買う。",
+          "translation": "Buy toothpaste."
         }
-      ],
-      "relatedWords": [
-        "related79"
-      ],
-      "notes": "Note 79"
+      ]
     },
     {
       "id": "v181",
-      "word": "word80",
-      "reading": "reading80",
-      "meaning": "Meaning 80",
+      "word": "シャンプー",
+      "reading": "しゃんぷー",
+      "meaning": "Shampoo",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文80",
-          "translation": "Example 80"
+          "sentence": "シャンプーで髪を洗う。",
+          "translation": "Wash hair with shampoo."
+        },
+        {
+          "sentence": "シャンプーがなくなりそうだ。",
+          "translation": "I'm about to run out of shampoo."
         }
-      ],
-      "relatedWords": [
-        "related80"
-      ],
-      "notes": "Note 80"
+      ]
     },
     {
       "id": "v182",
-      "word": "word81",
-      "reading": "reading81",
-      "meaning": "Meaning 81",
+      "word": "リンス",
+      "reading": "りんす",
+      "meaning": "Rinse, conditioner",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文81",
-          "translation": "Example 81"
+          "sentence": "シャンプーの後にリンスを使う。",
+          "translation": "Use conditioner after shampoo."
+        },
+        {
+          "sentence": "リンスで髪がサラサラになる。",
+          "translation": "Conditioner makes hair smooth."
         }
-      ],
-      "relatedWords": [
-        "related81"
-      ],
-      "notes": "Note 81"
+      ]
     },
     {
       "id": "v183",
-      "word": "word82",
-      "reading": "reading82",
-      "meaning": "Meaning 82",
+      "word": "ボディソープ",
+      "reading": "ぼでぃそーぷ",
+      "meaning": "Body soap",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文82",
-          "translation": "Example 82"
+          "sentence": "ボディソープで体を洗う。",
+          "translation": "Wash the body with body soap."
+        },
+        {
+          "sentence": "いい香りのボディソープを使う。",
+          "translation": "Use nice-smelling body soap."
         }
-      ],
-      "relatedWords": [
-        "related82"
-      ],
-      "notes": "Note 82"
+      ]
     },
     {
       "id": "v184",
-      "word": "word83",
-      "reading": "reading83",
-      "meaning": "Meaning 83",
+      "word": "石鹸",
+      "reading": "せっけん",
+      "meaning": "Soap",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文83",
-          "translation": "Example 83"
+          "sentence": "石鹸で手を洗う。",
+          "translation": "Wash hands with soap."
+        },
+        {
+          "sentence": "固形石鹸が好きだ。",
+          "translation": "I like bar soap."
         }
-      ],
-      "relatedWords": [
-        "related83"
-      ],
-      "notes": "Note 83"
+      ]
     },
     {
       "id": "v185",
-      "word": "word84",
-      "reading": "reading84",
-      "meaning": "Meaning 84",
+      "word": "髭剃り",
+      "reading": "ひげそり",
+      "meaning": "Razor",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文84",
-          "translation": "Example 84"
+          "sentence": "電気髭剃りを使う。",
+          "translation": "Use an electric razor."
+        },
+        {
+          "sentence": "髭剃りの刃を交換する。",
+          "translation": "Replace the razor blade."
         }
-      ],
-      "relatedWords": [
-        "related84"
-      ],
-      "notes": "Note 84"
+      ]
     },
     {
       "id": "v186",
-      "word": "word85",
-      "reading": "reading85",
-      "meaning": "Meaning 85",
+      "word": "くし",
+      "reading": "くし",
+      "meaning": "Comb",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文85",
-          "translation": "Example 85"
+          "sentence": "くしで髪をとかす。",
+          "translation": "Comb hair with a comb."
+        },
+        {
+          "sentence": "くしを持ち歩く。",
+          "translation": "Carry a comb with me."
         }
-      ],
-      "relatedWords": [
-        "related85"
-      ],
-      "notes": "Note 85"
+      ]
     },
     {
       "id": "v187",
-      "word": "word86",
-      "reading": "reading86",
-      "meaning": "Meaning 86",
+      "word": "ブラシ",
+      "reading": "ぶらし",
+      "meaning": "Brush",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文86",
-          "translation": "Example 86"
+          "sentence": "ブラシで髪を整える。",
+          "translation": "Arrange hair with a brush."
+        },
+        {
+          "sentence": "靴をブラシできれいにする。",
+          "translation": "Clean shoes with a brush."
         }
-      ],
-      "relatedWords": [
-        "related86"
-      ],
-      "notes": "Note 86"
+      ]
     },
     {
       "id": "v188",
-      "word": "word87",
-      "reading": "reading87",
-      "meaning": "Meaning 87",
+      "word": "鏡",
+      "reading": "かがみ",
+      "meaning": "Mirror",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文87",
-          "translation": "Example 87"
+          "sentence": "鏡を見て髪を整える。",
+          "translation": "Look in the mirror and fix hair."
+        },
+        {
+          "sentence": "鏡が曇った。",
+          "translation": "The mirror fogged up."
         }
-      ],
-      "relatedWords": [
-        "related87"
-      ],
-      "notes": "Note 87"
+      ]
     },
     {
       "id": "v189",
-      "word": "word88",
-      "reading": "reading88",
-      "meaning": "Meaning 88",
+      "word": "爪切り",
+      "reading": "つめきり",
+      "meaning": "Nail clipper",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文88",
-          "translation": "Example 88"
+          "sentence": "爪切りで爪を切る。",
+          "translation": "Cut nails with a nail clipper."
+        },
+        {
+          "sentence": "爪切りが見つからない。",
+          "translation": "I can't find the nail clipper."
         }
-      ],
-      "relatedWords": [
-        "related88"
-      ],
-      "notes": "Note 88"
+      ]
     },
     {
       "id": "v190",
-      "word": "word89",
-      "reading": "reading89",
-      "meaning": "Meaning 89",
+      "word": "綿棒",
+      "reading": "めんぼう",
+      "meaning": "Cotton swab",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文89",
-          "translation": "Example 89"
+          "sentence": "綿棒で耳を掃除する。",
+          "translation": "Clean ears with a cotton swab."
+        },
+        {
+          "sentence": "綿棒を買い忘れた。",
+          "translation": "I forgot to buy cotton swabs."
         }
-      ],
-      "relatedWords": [
-        "related89"
-      ],
-      "notes": "Note 89"
+      ]
     },
     {
       "id": "v191",
-      "word": "word90",
-      "reading": "reading90",
-      "meaning": "Meaning 90",
+      "word": "バンドエイド",
+      "reading": "ばんどえいど",
+      "meaning": "Band-aid, adhesive bandage",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文90",
-          "translation": "Example 90"
+          "sentence": "指を切ったのでバンドエイドを貼る。",
+          "translation": "I cut my finger, so I'll put on a band-aid."
+        },
+        {
+          "sentence": "バンドエイドがどこにあるか知っていますか。",
+          "translation": "Do you know where the band-aids are?"
         }
-      ],
-      "relatedWords": [
-        "related90"
-      ],
-      "notes": "Note 90"
+      ]
     },
     {
       "id": "v192",
-      "word": "word91",
-      "reading": "reading91",
-      "meaning": "Meaning 91",
+      "word": "体温計",
+      "reading": "たいおんけい",
+      "meaning": "Thermometer",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文91",
-          "translation": "Example 91"
+          "sentence": "体温計で熱を測る。",
+          "translation": "Measure temperature with a thermometer."
+        },
+        {
+          "sentence": "体温計が壊れた。",
+          "translation": "The thermometer broke."
         }
-      ],
-      "relatedWords": [
-        "related91"
-      ],
-      "notes": "Note 91"
+      ]
     },
     {
       "id": "v193",
-      "word": "word92",
-      "reading": "reading92",
-      "meaning": "Meaning 92",
+      "word": "常備薬",
+      "reading": "じょうびやく",
+      "meaning": "Household medicine",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文92",
-          "translation": "Example 92"
+          "sentence": "常備薬を買っておく。",
+          "translation": "Buy household medicines in advance."
+        },
+        {
+          "sentence": "頭痛薬は常備薬として置いてある。",
+          "translation": "Headache medicine is kept as a household medicine."
         }
-      ],
-      "relatedWords": [
-        "related92"
-      ],
-      "notes": "Note 92"
+      ]
     },
     {
       "id": "v194",
-      "word": "word93",
-      "reading": "reading93",
-      "meaning": "Meaning 93",
+      "word": "目覚まし",
+      "reading": "めざまし",
+      "meaning": "Alarm clock",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文93",
-          "translation": "Example 93"
+          "sentence": "目覚ましをセットする。",
+          "translation": "Set the alarm clock."
+        },
+        {
+          "sentence": "目覚ましが鳴らなかった。",
+          "translation": "The alarm clock didn't ring."
         }
-      ],
-      "relatedWords": [
-        "related93"
-      ],
-      "notes": "Note 93"
+      ]
     },
     {
       "id": "v195",
-      "word": "word94",
-      "reading": "reading94",
-      "meaning": "Meaning 94",
+      "word": "カレンダー",
+      "reading": "かれんだー",
+      "meaning": "Calendar",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文94",
-          "translation": "Example 94"
+          "sentence": "カレンダーに予定を書き込む。",
+          "translation": "Write plans on the calendar."
+        },
+        {
+          "sentence": "新しいカレンダーを壁にかける。",
+          "translation": "Hang a new calendar on the wall."
         }
-      ],
-      "relatedWords": [
-        "related94"
-      ],
-      "notes": "Note 94"
+      ]
     },
     {
       "id": "v196",
-      "word": "word95",
-      "reading": "reading95",
-      "meaning": "Meaning 95",
+      "word": "傘",
+      "reading": "かさ",
+      "meaning": "Umbrella",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文95",
-          "translation": "Example 95"
+          "sentence": "雨が降りそうなので傘を持って行く。",
+          "translation": "It looks like rain, so I'll take an umbrella."
+        },
+        {
+          "sentence": "傘を電車に忘れた。",
+          "translation": "I left my umbrella on the train."
         }
-      ],
-      "relatedWords": [
-        "related95"
-      ],
-      "notes": "Note 95"
+      ]
     },
     {
       "id": "v197",
-      "word": "word96",
-      "reading": "reading96",
-      "meaning": "Meaning 96",
+      "word": "傘立て",
+      "reading": "かさたて",
+      "meaning": "Umbrella stand",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文96",
-          "translation": "Example 96"
+          "sentence": "玄関に傘立てを置く。",
+          "translation": "Place an umbrella stand at the entrance."
+        },
+        {
+          "sentence": "傘立てに傘を入れる。",
+          "translation": "Put the umbrella in the umbrella stand."
         }
-      ],
-      "relatedWords": [
-        "related96"
-      ],
-      "notes": "Note 96"
+      ]
     },
     {
       "id": "v198",
-      "word": "word97",
-      "reading": "reading97",
-      "meaning": "Meaning 97",
+      "word": "郵便受け",
+      "reading": "ゆうびんうけ",
+      "meaning": "Mailbox",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文97",
-          "translation": "Example 97"
+          "sentence": "郵便受けに手紙が届いていた。",
+          "translation": "A letter had arrived in the mailbox."
+        },
+        {
+          "sentence": "毎日郵便受けを確認する。",
+          "translation": "Check the mailbox every day."
         }
-      ],
-      "relatedWords": [
-        "related97"
-      ],
-      "notes": "Note 97"
+      ]
     },
     {
       "id": "v199",
-      "word": "word98",
-      "reading": "reading98",
-      "meaning": "Meaning 98",
+      "word": "宅配ボックス",
+      "reading": "たくはいぼっくす",
+      "meaning": "Parcel delivery box",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文98",
-          "translation": "Example 98"
+          "sentence": "宅配ボックスに荷物が入っていた。",
+          "translation": "A package was in the delivery box."
+        },
+        {
+          "sentence": "不在でも宅配ボックスで受け取れる。",
+          "translation": "Even when absent, you can receive deliveries through the parcel box."
         }
-      ],
-      "relatedWords": [
-        "related98"
-      ],
-      "notes": "Note 98"
+      ]
     },
     {
       "id": "v200",
-      "word": "word99",
-      "reading": "reading99",
-      "meaning": "Meaning 99",
+      "word": "印鑑",
+      "reading": "いんかん",
+      "meaning": "Personal seal, stamp",
       "level": "N2",
       "category": "Daily Life",
       "examples": [
         {
-          "sentence": "例文99",
-          "translation": "Example 99"
+          "sentence": "書類に印鑑を押す。",
+          "translation": "Stamp the document with a personal seal."
+        },
+        {
+          "sentence": "印鑑を忘れてしまった。",
+          "translation": "I forgot my personal seal."
         }
-      ],
-      "relatedWords": [
-        "related99"
-      ],
-      "notes": "Note 99"
+      ]
     }
   ]
 }
