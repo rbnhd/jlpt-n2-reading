@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="JLPT N2 読解問題一覧 - 全30問題から選択">
+    <meta name="description" content="JLPT N2 読解問題一覧 - 全36問題から選択">
     <title>問題一覧 - JLPT N2 読解練習</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/components.css">
@@ -40,7 +40,7 @@
         <section class="content-section">
             <h1>読解問題一覧</h1>
             <p class="section-description">
-                全30問の読解問題から選んで練習できます。カテゴリーや難易度でフィルタリングすることも可能です。
+                全36問の読解問題から選んで練習できます。カテゴリーや難易度でフィルタリングすることも可能です。
             </p>
 
             <!-- Filters -->
@@ -49,11 +49,12 @@
                     <label for="categoryFilter">カテゴリー:</label>
                     <select id="categoryFilter" class="filter-select">
                         <option value="all">すべて</option>
-                        <option value="ビジネス">ビジネス</option>
-                        <option value="ニュース">ニュース</option>
-                        <option value="エッセイ">エッセイ</option>
-                        <option value="物語">物語</option>
-                        <option value="学術">学術</option>
+                        <option value="business">ビジネス</option>
+                        <option value="news">ニュース</option>
+                        <option value="essay">エッセイ</option>
+                        <option value="story">物語</option>
+                        <option value="academic">学術</option>
+                        <option value="technology">テクノロジー</option>
                     </select>
                 </div>
                 <div class="filter-group">
@@ -128,7 +129,8 @@
                 'news': 'ニュース',
                 'essay': 'エッセイ',
                 'story': '物語',
-                'academic': '学術'
+                'academic': '学術',
+                'technology': 'テクノロジー'
             };
             return map[category] || category;
         }
