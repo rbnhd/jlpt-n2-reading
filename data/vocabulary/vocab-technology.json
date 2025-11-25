@@ -1764,1803 +1764,1803 @@
     },
     {
       "id": "v101",
-      "word": "word0",
-      "reading": "reading0",
-      "meaning": "Meaning 0",
+      "word": "プログラミング",
+      "reading": "ぷろぐらみんぐ",
+      "meaning": "Programming",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文0",
-          "translation": "Example 0"
+          "sentence": "プログラミングを学ぶことで、論理的思考力が身につく。",
+          "translation": "By learning programming, you can develop logical thinking skills."
+        },
+        {
+          "sentence": "子供向けのプログラミング教室が人気だ。",
+          "translation": "Programming classes for children are popular."
         }
-      ],
-      "relatedWords": [
-        "related0"
-      ],
-      "notes": "Note 0"
+      ]
     },
     {
       "id": "v102",
-      "word": "word1",
-      "reading": "reading1",
-      "meaning": "Meaning 1",
+      "word": "コード",
+      "reading": "こーど",
+      "meaning": "Code (programming)",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文1",
-          "translation": "Example 1"
+          "sentence": "このコードにはバグがあるようだ。",
+          "translation": "There seems to be a bug in this code."
+        },
+        {
+          "sentence": "コードをもっと簡潔に書く方法を考えている。",
+          "translation": "I'm thinking of a way to write the code more concisely."
         }
-      ],
-      "relatedWords": [
-        "related1"
-      ],
-      "notes": "Note 1"
+      ]
     },
     {
       "id": "v103",
-      "word": "word2",
-      "reading": "reading2",
-      "meaning": "Meaning 2",
+      "word": "変数",
+      "reading": "へんすう",
+      "meaning": "Variable",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文2",
-          "translation": "Example 2"
+          "sentence": "変数に適切な名前をつけることが重要だ。",
+          "translation": "It's important to give appropriate names to variables."
+        },
+        {
+          "sentence": "この変数の値を変更する必要がある。",
+          "translation": "We need to change the value of this variable."
         }
-      ],
-      "relatedWords": [
-        "related2"
-      ],
-      "notes": "Note 2"
+      ]
     },
     {
       "id": "v104",
-      "word": "word3",
-      "reading": "reading3",
-      "meaning": "Meaning 3",
+      "word": "関数",
+      "reading": "かんすう",
+      "meaning": "Function",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文3",
-          "translation": "Example 3"
+          "sentence": "この関数は引数を2つ受け取る。",
+          "translation": "This function takes two arguments."
+        },
+        {
+          "sentence": "関数を使ってコードを再利用できる。",
+          "translation": "You can reuse code by using functions."
         }
-      ],
-      "relatedWords": [
-        "related3"
-      ],
-      "notes": "Note 3"
+      ]
     },
     {
       "id": "v105",
-      "word": "word4",
-      "reading": "reading4",
-      "meaning": "Meaning 4",
+      "word": "デバッグ",
+      "reading": "でばっぐ",
+      "meaning": "Debugging",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文4",
-          "translation": "Example 4"
+          "sentence": "一日中デバッグ作業をしていた。",
+          "translation": "I spent the whole day debugging."
+        },
+        {
+          "sentence": "デバッグツールを使ってエラーの原因を探す。",
+          "translation": "I use debugging tools to find the cause of errors."
         }
-      ],
-      "relatedWords": [
-        "related4"
-      ],
-      "notes": "Note 4"
+      ]
     },
     {
       "id": "v106",
-      "word": "word5",
-      "reading": "reading5",
-      "meaning": "Meaning 5",
+      "word": "コンパイル",
+      "reading": "こんぱいる",
+      "meaning": "Compile",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文5",
-          "translation": "Example 5"
+          "sentence": "プログラムをコンパイルしてから実行する。",
+          "translation": "Compile the program before running it."
+        },
+        {
+          "sentence": "コンパイルエラーが発生した。",
+          "translation": "A compilation error occurred."
         }
-      ],
-      "relatedWords": [
-        "related5"
-      ],
-      "notes": "Note 5"
+      ]
     },
     {
       "id": "v107",
-      "word": "word6",
-      "reading": "reading6",
-      "meaning": "Meaning 6",
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "Execute, run",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文6",
-          "translation": "Example 6"
+          "sentence": "このスクリプトを実行すると、データが更新される。",
+          "translation": "When you run this script, the data will be updated."
+        },
+        {
+          "sentence": "プログラムの実行中にエラーが出た。",
+          "translation": "An error occurred during program execution."
         }
-      ],
-      "relatedWords": [
-        "related6"
-      ],
-      "notes": "Note 6"
+      ]
     },
     {
       "id": "v108",
-      "word": "word7",
-      "reading": "reading7",
-      "meaning": "Meaning 7",
+      "word": "バージョン",
+      "reading": "ばーじょん",
+      "meaning": "Version",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文7",
-          "translation": "Example 7"
+          "sentence": "最新バージョンにアップグレードした。",
+          "translation": "I upgraded to the latest version."
+        },
+        {
+          "sentence": "このソフトウェアのバージョンは古い。",
+          "translation": "The version of this software is old."
         }
-      ],
-      "relatedWords": [
-        "related7"
-      ],
-      "notes": "Note 7"
+      ]
     },
     {
       "id": "v109",
-      "word": "word8",
-      "reading": "reading8",
-      "meaning": "Meaning 8",
+      "word": "ログイン",
+      "reading": "ろぐいん",
+      "meaning": "Log in",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文8",
-          "translation": "Example 8"
+          "sentence": "パスワードを入力してログインしてください。",
+          "translation": "Please enter your password to log in."
+        },
+        {
+          "sentence": "ログインできない場合は、パスワードをリセットする。",
+          "translation": "If you can't log in, reset your password."
         }
-      ],
-      "relatedWords": [
-        "related8"
-      ],
-      "notes": "Note 8"
+      ]
     },
     {
       "id": "v110",
-      "word": "word9",
-      "reading": "reading9",
-      "meaning": "Meaning 9",
+      "word": "ログアウト",
+      "reading": "ろぐあうと",
+      "meaning": "Log out",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文9",
-          "translation": "Example 9"
+          "sentence": "使用後は必ずログアウトしてください。",
+          "translation": "Please be sure to log out after use."
+        },
+        {
+          "sentence": "ログアウトし忘れて、セッションが切れた。",
+          "translation": "I forgot to log out and the session expired."
         }
-      ],
-      "relatedWords": [
-        "related9"
-      ],
-      "notes": "Note 9"
+      ]
     },
     {
       "id": "v111",
-      "word": "word10",
-      "reading": "reading10",
-      "meaning": "Meaning 10",
+      "word": "パスワード",
+      "reading": "ぱすわーど",
+      "meaning": "Password",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文10",
-          "translation": "Example 10"
+          "sentence": "強力なパスワードを設定することが重要だ。",
+          "translation": "It's important to set a strong password."
+        },
+        {
+          "sentence": "パスワードを忘れてしまった。",
+          "translation": "I forgot my password."
         }
-      ],
-      "relatedWords": [
-        "related10"
-      ],
-      "notes": "Note 10"
+      ]
     },
     {
       "id": "v112",
-      "word": "word11",
-      "reading": "reading11",
-      "meaning": "Meaning 11",
+      "word": "セキュリティ",
+      "reading": "せきゅりてぃ",
+      "meaning": "Security",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文11",
-          "translation": "Example 11"
+          "sentence": "セキュリティ対策を強化する必要がある。",
+          "translation": "We need to strengthen security measures."
+        },
+        {
+          "sentence": "このサイトのセキュリティは信頼できる。",
+          "translation": "The security of this site is reliable."
         }
-      ],
-      "relatedWords": [
-        "related11"
-      ],
-      "notes": "Note 11"
+      ]
     },
     {
       "id": "v113",
-      "word": "word12",
-      "reading": "reading12",
-      "meaning": "Meaning 12",
+      "word": "ウイルス",
+      "reading": "ういるす",
+      "meaning": "Virus (computer)",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文12",
-          "translation": "Example 12"
+          "sentence": "コンピュータがウイルスに感染した。",
+          "translation": "The computer was infected with a virus."
+        },
+        {
+          "sentence": "ウイルス対策ソフトをインストールする。",
+          "translation": "Install antivirus software."
         }
-      ],
-      "relatedWords": [
-        "related12"
-      ],
-      "notes": "Note 12"
+      ]
     },
     {
       "id": "v114",
-      "word": "word13",
-      "reading": "reading13",
-      "meaning": "Meaning 13",
+      "word": "スパム",
+      "reading": "すぱむ",
+      "meaning": "Spam",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文13",
-          "translation": "Example 13"
+          "sentence": "スパムメールが大量に届いた。",
+          "translation": "I received a large amount of spam email."
+        },
+        {
+          "sentence": "スパムフィルターを有効にする。",
+          "translation": "Enable the spam filter."
         }
-      ],
-      "relatedWords": [
-        "related13"
-      ],
-      "notes": "Note 13"
+      ]
     },
     {
       "id": "v115",
-      "word": "word14",
-      "reading": "reading14",
-      "meaning": "Meaning 14",
+      "word": "アカウント",
+      "reading": "あかうんと",
+      "meaning": "Account",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文14",
-          "translation": "Example 14"
+          "sentence": "新しいアカウントを作成した。",
+          "translation": "I created a new account."
+        },
+        {
+          "sentence": "アカウント情報を更新する必要がある。",
+          "translation": "I need to update my account information."
         }
-      ],
-      "relatedWords": [
-        "related14"
-      ],
-      "notes": "Note 14"
+      ]
     },
     {
       "id": "v116",
-      "word": "word15",
-      "reading": "reading15",
-      "meaning": "Meaning 15",
+      "word": "プロフィール",
+      "reading": "ぷろふぃーる",
+      "meaning": "Profile",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文15",
-          "translation": "Example 15"
+          "sentence": "プロフィールに写真を追加した。",
+          "translation": "I added a photo to my profile."
+        },
+        {
+          "sentence": "プロフィールを編集して自己紹介を書く。",
+          "translation": "Edit your profile and write a self-introduction."
         }
-      ],
-      "relatedWords": [
-        "related15"
-      ],
-      "notes": "Note 15"
+      ]
     },
     {
       "id": "v117",
-      "word": "word16",
-      "reading": "reading16",
-      "meaning": "Meaning 16",
+      "word": "ユーザー",
+      "reading": "ゆーざー",
+      "meaning": "User",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文16",
-          "translation": "Example 16"
+          "sentence": "このサービスには100万人のユーザーがいる。",
+          "translation": "This service has 1 million users."
+        },
+        {
+          "sentence": "ユーザーからのフィードバックを集める。",
+          "translation": "Collect feedback from users."
         }
-      ],
-      "relatedWords": [
-        "related16"
-      ],
-      "notes": "Note 16"
+      ]
     },
     {
       "id": "v118",
-      "word": "word17",
-      "reading": "reading17",
-      "meaning": "Meaning 17",
+      "word": "インターフェース",
+      "reading": "いんたーふぇーす",
+      "meaning": "Interface",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文17",
-          "translation": "Example 17"
+          "sentence": "使いやすいインターフェースを設計する。",
+          "translation": "Design an easy-to-use interface."
+        },
+        {
+          "sentence": "新しいインターフェースに慣れるのに時間がかかった。",
+          "translation": "It took time to get used to the new interface."
         }
-      ],
-      "relatedWords": [
-        "related17"
-      ],
-      "notes": "Note 17"
+      ]
     },
     {
       "id": "v119",
-      "word": "word18",
-      "reading": "reading18",
-      "meaning": "Meaning 18",
+      "word": "アイコン",
+      "reading": "あいこん",
+      "meaning": "Icon",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文18",
-          "translation": "Example 18"
+          "sentence": "デスクトップにアイコンを配置する。",
+          "translation": "Place icons on the desktop."
+        },
+        {
+          "sentence": "このアイコンをクリックするとアプリが起動する。",
+          "translation": "Clicking this icon launches the app."
         }
-      ],
-      "relatedWords": [
-        "related18"
-      ],
-      "notes": "Note 18"
+      ]
     },
     {
       "id": "v120",
-      "word": "word19",
-      "reading": "reading19",
-      "meaning": "Meaning 19",
+      "word": "メニュー",
+      "reading": "めにゅー",
+      "meaning": "Menu",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文19",
-          "translation": "Example 19"
+          "sentence": "メニューから設定を選択する。",
+          "translation": "Select settings from the menu."
+        },
+        {
+          "sentence": "ドロップダウンメニューを開く。",
+          "translation": "Open the drop-down menu."
         }
-      ],
-      "relatedWords": [
-        "related19"
-      ],
-      "notes": "Note 19"
+      ]
     },
     {
       "id": "v121",
-      "word": "word20",
-      "reading": "reading20",
-      "meaning": "Meaning 20",
+      "word": "ボタン",
+      "reading": "ぼたん",
+      "meaning": "Button",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文20",
-          "translation": "Example 20"
+          "sentence": "送信ボタンを押して、フォームを送る。",
+          "translation": "Press the submit button to send the form."
+        },
+        {
+          "sentence": "このボタンがうまく機能しない。",
+          "translation": "This button isn't working properly."
         }
-      ],
-      "relatedWords": [
-        "related20"
-      ],
-      "notes": "Note 20"
+      ]
     },
     {
       "id": "v122",
-      "word": "word21",
-      "reading": "reading21",
-      "meaning": "Meaning 21",
+      "word": "ウィンドウ",
+      "reading": "うぃんどう",
+      "meaning": "Window",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文21",
-          "translation": "Example 21"
+          "sentence": "複数のウィンドウを同時に開いている。",
+          "translation": "I have multiple windows open at the same time."
+        },
+        {
+          "sentence": "ウィンドウを閉じてアプリを終了する。",
+          "translation": "Close the window to exit the app."
         }
-      ],
-      "relatedWords": [
-        "related21"
-      ],
-      "notes": "Note 21"
+      ]
     },
     {
       "id": "v123",
-      "word": "word22",
-      "reading": "reading22",
-      "meaning": "Meaning 22",
+      "word": "タブ",
+      "reading": "たぶ",
+      "meaning": "Tab",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文22",
-          "translation": "Example 22"
+          "sentence": "ブラウザで10個のタブを開いている。",
+          "translation": "I have 10 tabs open in my browser."
+        },
+        {
+          "sentence": "新しいタブでリンクを開く。",
+          "translation": "Open the link in a new tab."
         }
-      ],
-      "relatedWords": [
-        "related22"
-      ],
-      "notes": "Note 22"
+      ]
     },
     {
       "id": "v124",
-      "word": "word23",
-      "reading": "reading23",
-      "meaning": "Meaning 23",
+      "word": "リンク",
+      "reading": "りんく",
+      "meaning": "Link",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文23",
-          "translation": "Example 23"
+          "sentence": "このリンクをクリックすると、詳細が見られる。",
+          "translation": "Click this link to see the details."
+        },
+        {
+          "sentence": "リンクが切れていて、ページが表示されない。",
+          "translation": "The link is broken and the page doesn't display."
         }
-      ],
-      "relatedWords": [
-        "related23"
-      ],
-      "notes": "Note 23"
+      ]
     },
     {
       "id": "v125",
-      "word": "word24",
-      "reading": "reading24",
-      "meaning": "Meaning 24",
+      "word": "検索",
+      "reading": "けんさく",
+      "meaning": "Search",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文24",
-          "translation": "Example 24"
+          "sentence": "検索エンジンで情報を探す。",
+          "translation": "Search for information using a search engine."
+        },
+        {
+          "sentence": "キーワードを入力して検索する。",
+          "translation": "Enter keywords to search."
         }
-      ],
-      "relatedWords": [
-        "related24"
-      ],
-      "notes": "Note 24"
+      ]
     },
     {
       "id": "v126",
-      "word": "word25",
-      "reading": "reading25",
-      "meaning": "Meaning 25",
+      "word": "キーワード",
+      "reading": "きーわーど",
+      "meaning": "Keyword",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文25",
-          "translation": "Example 25"
+          "sentence": "適切なキーワードを選ぶことが重要だ。",
+          "translation": "It's important to choose appropriate keywords."
+        },
+        {
+          "sentence": "このキーワードで検索すると、多くの結果が出る。",
+          "translation": "Searching with this keyword yields many results."
         }
-      ],
-      "relatedWords": [
-        "related25"
-      ],
-      "notes": "Note 25"
+      ]
     },
     {
       "id": "v127",
-      "word": "word26",
-      "reading": "reading26",
-      "meaning": "Meaning 26",
+      "word": "ブラウザ",
+      "reading": "ぶらうざ",
+      "meaning": "Browser",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文26",
-          "translation": "Example 26"
+          "sentence": "新しいブラウザをインストールした。",
+          "translation": "I installed a new browser."
+        },
+        {
+          "sentence": "ブラウザのキャッシュをクリアする。",
+          "translation": "Clear the browser cache."
         }
-      ],
-      "relatedWords": [
-        "related26"
-      ],
-      "notes": "Note 26"
+      ]
     },
     {
       "id": "v128",
-      "word": "word27",
-      "reading": "reading27",
-      "meaning": "Meaning 27",
+      "word": "キャッシュ",
+      "reading": "きゃっしゅ",
+      "meaning": "Cache",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文27",
-          "translation": "Example 27"
+          "sentence": "キャッシュを削除すると、ページの読み込みが改善される。",
+          "translation": "Deleting the cache improves page loading."
+        },
+        {
+          "sentence": "キャッシュが溜まってストレージが不足している。",
+          "translation": "The cache has accumulated and storage is running low."
         }
-      ],
-      "relatedWords": [
-        "related27"
-      ],
-      "notes": "Note 27"
+      ]
     },
     {
       "id": "v129",
-      "word": "word28",
-      "reading": "reading28",
-      "meaning": "Meaning 28",
+      "word": "クッキー",
+      "reading": "くっきー",
+      "meaning": "Cookie",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文28",
-          "translation": "Example 28"
+          "sentence": "このサイトはクッキーを使用しています。",
+          "translation": "This site uses cookies."
+        },
+        {
+          "sentence": "クッキーを受け入れるかどうか選択する。",
+          "translation": "Choose whether to accept cookies."
         }
-      ],
-      "relatedWords": [
-        "related28"
-      ],
-      "notes": "Note 28"
+      ]
     },
     {
       "id": "v130",
-      "word": "word29",
-      "reading": "reading29",
-      "meaning": "Meaning 29",
+      "word": "スクリーンショット",
+      "reading": "すくりーんしょっと",
+      "meaning": "Screenshot",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文29",
-          "translation": "Example 29"
+          "sentence": "画面のスクリーンショットを撮った。",
+          "translation": "I took a screenshot of the screen."
+        },
+        {
+          "sentence": "スクリーンショットを共有して問題を説明する。",
+          "translation": "Share a screenshot to explain the problem."
         }
-      ],
-      "relatedWords": [
-        "related29"
-      ],
-      "notes": "Note 29"
+      ]
     },
     {
       "id": "v131",
-      "word": "word30",
-      "reading": "reading30",
-      "meaning": "Meaning 30",
+      "word": "スクロール",
+      "reading": "すくろーる",
+      "meaning": "Scroll",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文30",
-          "translation": "Example 30"
+          "sentence": "ページを下にスクロールする。",
+          "translation": "Scroll down the page."
+        },
+        {
+          "sentence": "スクロールバーを使って移動する。",
+          "translation": "Use the scrollbar to navigate."
         }
-      ],
-      "relatedWords": [
-        "related30"
-      ],
-      "notes": "Note 30"
+      ]
     },
     {
       "id": "v132",
-      "word": "word31",
-      "reading": "reading31",
-      "meaning": "Meaning 31",
+      "word": "ズーム",
+      "reading": "ずーむ",
+      "meaning": "Zoom",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文31",
-          "translation": "Example 31"
+          "sentence": "画像をズームして詳細を確認する。",
+          "translation": "Zoom in on the image to check the details."
+        },
+        {
+          "sentence": "ズームアウトして全体を見る。",
+          "translation": "Zoom out to see the whole picture."
         }
-      ],
-      "relatedWords": [
-        "related31"
-      ],
-      "notes": "Note 31"
+      ]
     },
     {
       "id": "v133",
-      "word": "word32",
-      "reading": "reading32",
-      "meaning": "Meaning 32",
+      "word": "解像度",
+      "reading": "かいぞうど",
+      "meaning": "Resolution",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文32",
-          "translation": "Example 32"
+          "sentence": "高解像度の画像が必要だ。",
+          "translation": "A high-resolution image is needed."
+        },
+        {
+          "sentence": "画面の解像度を変更する。",
+          "translation": "Change the screen resolution."
         }
-      ],
-      "relatedWords": [
-        "related32"
-      ],
-      "notes": "Note 32"
+      ]
     },
     {
       "id": "v134",
-      "word": "word33",
-      "reading": "reading33",
-      "meaning": "Meaning 33",
+      "word": "フォーマット",
+      "reading": "ふぉーまっと",
+      "meaning": "Format",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文33",
-          "translation": "Example 33"
+          "sentence": "USBメモリをフォーマットする。",
+          "translation": "Format the USB memory."
+        },
+        {
+          "sentence": "このファイルのフォーマットは対応していない。",
+          "translation": "This file format is not supported."
         }
-      ],
-      "relatedWords": [
-        "related33"
-      ],
-      "notes": "Note 33"
+      ]
     },
     {
       "id": "v135",
-      "word": "word34",
-      "reading": "reading34",
-      "meaning": "Meaning 34",
+      "word": "圧縮",
+      "reading": "あっしゅく",
+      "meaning": "Compression",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文34",
-          "translation": "Example 34"
+          "sentence": "ファイルを圧縮して送信する。",
+          "translation": "Compress the file and send it."
+        },
+        {
+          "sentence": "圧縮されたファイルを解凍する。",
+          "translation": "Decompress the compressed file."
         }
-      ],
-      "relatedWords": [
-        "related34"
-      ],
-      "notes": "Note 34"
+      ]
     },
     {
       "id": "v136",
-      "word": "word35",
-      "reading": "reading35",
-      "meaning": "Meaning 35",
+      "word": "解凍",
+      "reading": "かいとう",
+      "meaning": "Decompression, extraction",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文35",
-          "translation": "Example 35"
+          "sentence": "ZIPファイルを解凍する。",
+          "translation": "Extract the ZIP file."
+        },
+        {
+          "sentence": "ダウンロードしたファイルを解凍して中身を確認する。",
+          "translation": "Extract the downloaded file and check the contents."
         }
-      ],
-      "relatedWords": [
-        "related35"
-      ],
-      "notes": "Note 35"
+      ]
     },
     {
       "id": "v137",
-      "word": "word36",
-      "reading": "reading36",
-      "meaning": "Meaning 36",
+      "word": "添付",
+      "reading": "てんぷ",
+      "meaning": "Attachment",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文36",
-          "translation": "Example 36"
+          "sentence": "メールにファイルを添付する。",
+          "translation": "Attach a file to the email."
+        },
+        {
+          "sentence": "添付ファイルが開けない。",
+          "translation": "I can't open the attached file."
         }
-      ],
-      "relatedWords": [
-        "related36"
-      ],
-      "notes": "Note 36"
+      ]
     },
     {
       "id": "v138",
-      "word": "word37",
-      "reading": "reading37",
-      "meaning": "Meaning 37",
+      "word": "転送",
+      "reading": "てんそう",
+      "meaning": "Forward, transfer",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文37",
-          "translation": "Example 37"
+          "sentence": "このメールを上司に転送する。",
+          "translation": "Forward this email to my boss."
+        },
+        {
+          "sentence": "データを別のサーバーに転送する。",
+          "translation": "Transfer the data to another server."
         }
-      ],
-      "relatedWords": [
-        "related37"
-      ],
-      "notes": "Note 37"
+      ]
     },
     {
       "id": "v139",
-      "word": "word38",
-      "reading": "reading38",
-      "meaning": "Meaning 38",
+      "word": "同期",
+      "reading": "どうき",
+      "meaning": "Synchronization",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文38",
-          "translation": "Example 38"
+          "sentence": "スマホとパソコンのデータを同期する。",
+          "translation": "Synchronize data between smartphone and computer."
+        },
+        {
+          "sentence": "クラウドと自動的に同期される。",
+          "translation": "It automatically synchronizes with the cloud."
         }
-      ],
-      "relatedWords": [
-        "related38"
-      ],
-      "notes": "Note 38"
+      ]
     },
     {
       "id": "v140",
-      "word": "word39",
-      "reading": "reading39",
-      "meaning": "Meaning 39",
+      "word": "共有",
+      "reading": "きょうゆう",
+      "meaning": "Share, sharing",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文39",
-          "translation": "Example 39"
+          "sentence": "ファイルをチームメンバーと共有する。",
+          "translation": "Share the file with team members."
+        },
+        {
+          "sentence": "リンクを共有して、誰でもアクセスできるようにする。",
+          "translation": "Share the link so anyone can access it."
         }
-      ],
-      "relatedWords": [
-        "related39"
-      ],
-      "notes": "Note 39"
+      ]
     },
     {
       "id": "v141",
-      "word": "word40",
-      "reading": "reading40",
-      "meaning": "Meaning 40",
+      "word": "編集",
+      "reading": "へんしゅう",
+      "meaning": "Edit, editing",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文40",
-          "translation": "Example 40"
+          "sentence": "文書を編集して内容を更新する。",
+          "translation": "Edit the document to update the content."
+        },
+        {
+          "sentence": "画像編集ソフトを使って写真を加工する。",
+          "translation": "Use image editing software to process photos."
         }
-      ],
-      "relatedWords": [
-        "related40"
-      ],
-      "notes": "Note 40"
+      ]
     },
     {
       "id": "v142",
-      "word": "word41",
-      "reading": "reading41",
-      "meaning": "Meaning 41",
+      "word": "プレビュー",
+      "reading": "ぷれびゅー",
+      "meaning": "Preview",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文41",
-          "translation": "Example 41"
+          "sentence": "印刷する前にプレビューで確認する。",
+          "translation": "Check with preview before printing."
+        },
+        {
+          "sentence": "プレビュー画面で問題を見つけた。",
+          "translation": "I found a problem in the preview screen."
         }
-      ],
-      "relatedWords": [
-        "related41"
-      ],
-      "notes": "Note 41"
+      ]
     },
     {
       "id": "v143",
-      "word": "word42",
-      "reading": "reading42",
-      "meaning": "Meaning 42",
+      "word": "スクリプト",
+      "reading": "すくりぷと",
+      "meaning": "Script",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文42",
-          "translation": "Example 42"
+          "sentence": "自動化のためのスクリプトを書く。",
+          "translation": "Write a script for automation."
+        },
+        {
+          "sentence": "このスクリプトは毎日実行される。",
+          "translation": "This script runs every day."
         }
-      ],
-      "relatedWords": [
-        "related42"
-      ],
-      "notes": "Note 42"
+      ]
     },
     {
       "id": "v144",
-      "word": "word43",
-      "reading": "reading43",
-      "meaning": "Meaning 43",
+      "word": "エラー",
+      "reading": "えらー",
+      "meaning": "Error",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文43",
-          "translation": "Example 43"
+          "sentence": "エラーメッセージが表示された。",
+          "translation": "An error message was displayed."
+        },
+        {
+          "sentence": "エラーの原因を調べる必要がある。",
+          "translation": "We need to investigate the cause of the error."
         }
-      ],
-      "relatedWords": [
-        "related43"
-      ],
-      "notes": "Note 43"
+      ]
     },
     {
       "id": "v145",
-      "word": "word44",
-      "reading": "reading44",
-      "meaning": "Meaning 44",
+      "word": "警告",
+      "reading": "けいこく",
+      "meaning": "Warning",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文44",
-          "translation": "Example 44"
+          "sentence": "セキュリティ警告が出た。",
+          "translation": "A security warning appeared."
+        },
+        {
+          "sentence": "警告を無視すると、問題が発生する可能性がある。",
+          "translation": "Ignoring the warning may cause problems."
         }
-      ],
-      "relatedWords": [
-        "related44"
-      ],
-      "notes": "Note 44"
+      ]
     },
     {
       "id": "v146",
-      "word": "word45",
-      "reading": "reading45",
-      "meaning": "Meaning 45",
+      "word": "通知",
+      "reading": "つうち",
+      "meaning": "Notification",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文45",
-          "translation": "Example 45"
+          "sentence": "スマホに通知が届いた。",
+          "translation": "A notification arrived on my smartphone."
+        },
+        {
+          "sentence": "通知をオフにして集中する。",
+          "translation": "Turn off notifications to concentrate."
         }
-      ],
-      "relatedWords": [
-        "related45"
-      ],
-      "notes": "Note 45"
+      ]
     },
     {
       "id": "v147",
-      "word": "word46",
-      "reading": "reading46",
-      "meaning": "Meaning 46",
+      "word": "アラート",
+      "reading": "あらーと",
+      "meaning": "Alert",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文46",
-          "translation": "Example 46"
+          "sentence": "システムからアラートが送られた。",
+          "translation": "An alert was sent from the system."
+        },
+        {
+          "sentence": "重要なアラートを見逃さないようにする。",
+          "translation": "Make sure not to miss important alerts."
         }
-      ],
-      "relatedWords": [
-        "related46"
-      ],
-      "notes": "Note 46"
+      ]
     },
     {
       "id": "v148",
-      "word": "word47",
-      "reading": "reading47",
-      "meaning": "Meaning 47",
+      "word": "モニター",
+      "reading": "もにたー",
+      "meaning": "Monitor",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文47",
-          "translation": "Example 47"
+          "sentence": "大きなモニターを購入した。",
+          "translation": "I purchased a large monitor."
+        },
+        {
+          "sentence": "システムの状態を常にモニターする。",
+          "translation": "Constantly monitor the system status."
         }
-      ],
-      "relatedWords": [
-        "related47"
-      ],
-      "notes": "Note 47"
+      ]
     },
     {
       "id": "v149",
-      "word": "word48",
-      "reading": "reading48",
-      "meaning": "Meaning 48",
+      "word": "キーボード",
+      "reading": "きーぼーど",
+      "meaning": "Keyboard",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文48",
-          "translation": "Example 48"
+          "sentence": "新しいキーボードは打ちやすい。",
+          "translation": "The new keyboard is easy to type on."
+        },
+        {
+          "sentence": "キーボードのショートカットを覚える。",
+          "translation": "Learn keyboard shortcuts."
         }
-      ],
-      "relatedWords": [
-        "related48"
-      ],
-      "notes": "Note 48"
+      ]
     },
     {
       "id": "v150",
-      "word": "word49",
-      "reading": "reading49",
-      "meaning": "Meaning 49",
+      "word": "マウス",
+      "reading": "まうす",
+      "meaning": "Mouse",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文49",
-          "translation": "Example 49"
+          "sentence": "マウスをクリックしてファイルを開く。",
+          "translation": "Click the mouse to open the file."
+        },
+        {
+          "sentence": "ワイヤレスマウスの電池が切れた。",
+          "translation": "The wireless mouse battery ran out."
         }
-      ],
-      "relatedWords": [
-        "related49"
-      ],
-      "notes": "Note 49"
+      ]
     },
     {
       "id": "v151",
-      "word": "word50",
-      "reading": "reading50",
-      "meaning": "Meaning 50",
+      "word": "タッチパッド",
+      "reading": "たっちぱっど",
+      "meaning": "Touchpad",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文50",
-          "translation": "Example 50"
+          "sentence": "ノートパソコンのタッチパッドを使う。",
+          "translation": "Use the laptop's touchpad."
+        },
+        {
+          "sentence": "タッチパッドの感度を調整する。",
+          "translation": "Adjust the touchpad sensitivity."
         }
-      ],
-      "relatedWords": [
-        "related50"
-      ],
-      "notes": "Note 50"
+      ]
     },
     {
       "id": "v152",
-      "word": "word51",
-      "reading": "reading51",
-      "meaning": "Meaning 51",
+      "word": "スピーカー",
+      "reading": "すぴーかー",
+      "meaning": "Speaker",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文51",
-          "translation": "Example 51"
+          "sentence": "スピーカーの音量を上げる。",
+          "translation": "Turn up the speaker volume."
+        },
+        {
+          "sentence": "Bluetoothスピーカーで音楽を聴く。",
+          "translation": "Listen to music on a Bluetooth speaker."
         }
-      ],
-      "relatedWords": [
-        "related51"
-      ],
-      "notes": "Note 51"
+      ]
     },
     {
       "id": "v153",
-      "word": "word52",
-      "reading": "reading52",
-      "meaning": "Meaning 52",
+      "word": "マイク",
+      "reading": "まいく",
+      "meaning": "Microphone",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文52",
-          "translation": "Example 52"
+          "sentence": "マイクをオンにして話す。",
+          "translation": "Turn on the microphone and speak."
+        },
+        {
+          "sentence": "マイクの音質が悪い。",
+          "translation": "The microphone sound quality is poor."
         }
-      ],
-      "relatedWords": [
-        "related52"
-      ],
-      "notes": "Note 52"
+      ]
     },
     {
       "id": "v154",
-      "word": "word53",
-      "reading": "reading53",
-      "meaning": "Meaning 53",
+      "word": "ウェブカメラ",
+      "reading": "うぇぶかめら",
+      "meaning": "Webcam",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文53",
-          "translation": "Example 53"
+          "sentence": "ウェブカメラでビデオ通話をする。",
+          "translation": "Make video calls with a webcam."
+        },
+        {
+          "sentence": "ウェブカメラをオフにして、プライバシーを守る。",
+          "translation": "Turn off the webcam to protect privacy."
         }
-      ],
-      "relatedWords": [
-        "related53"
-      ],
-      "notes": "Note 53"
+      ]
     },
     {
       "id": "v155",
-      "word": "word54",
-      "reading": "reading54",
-      "meaning": "Meaning 54",
+      "word": "充電",
+      "reading": "じゅうでん",
+      "meaning": "Charging",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文54",
-          "translation": "Example 54"
+          "sentence": "スマホを充電する。",
+          "translation": "Charge the smartphone."
+        },
+        {
+          "sentence": "バッテリーの充電が完了した。",
+          "translation": "The battery charging is complete."
         }
-      ],
-      "relatedWords": [
-        "related54"
-      ],
-      "notes": "Note 54"
+      ]
     },
     {
       "id": "v156",
-      "word": "word55",
-      "reading": "reading55",
-      "meaning": "Meaning 55",
+      "word": "バッテリー",
+      "reading": "ばってりー",
+      "meaning": "Battery",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文55",
-          "translation": "Example 55"
+          "sentence": "バッテリーの残量が少ない。",
+          "translation": "The battery level is low."
+        },
+        {
+          "sentence": "バッテリーを交換する必要がある。",
+          "translation": "The battery needs to be replaced."
         }
-      ],
-      "relatedWords": [
-        "related55"
-      ],
-      "notes": "Note 55"
+      ]
     },
     {
       "id": "v157",
-      "word": "word56",
-      "reading": "reading56",
-      "meaning": "Meaning 56",
+      "word": "電源",
+      "reading": "でんげん",
+      "meaning": "Power source",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文56",
-          "translation": "Example 56"
+          "sentence": "電源ボタンを押してパソコンを起動する。",
+          "translation": "Press the power button to start the computer."
+        },
+        {
+          "sentence": "電源が入らない場合は、コードを確認する。",
+          "translation": "If the power doesn't come on, check the cord."
         }
-      ],
-      "relatedWords": [
-        "related56"
-      ],
-      "notes": "Note 56"
+      ]
     },
     {
       "id": "v158",
-      "word": "word57",
-      "reading": "reading57",
-      "meaning": "Meaning 57",
+      "word": "再起動",
+      "reading": "さいきどう",
+      "meaning": "Restart, reboot",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文57",
-          "translation": "Example 57"
+          "sentence": "問題が解決しない場合は、パソコンを再起動する。",
+          "translation": "If the problem doesn't resolve, restart the computer."
+        },
+        {
+          "sentence": "アップデート後に自動的に再起動される。",
+          "translation": "It automatically restarts after the update."
         }
-      ],
-      "relatedWords": [
-        "related57"
-      ],
-      "notes": "Note 57"
+      ]
     },
     {
       "id": "v159",
-      "word": "word58",
-      "reading": "reading58",
-      "meaning": "Meaning 58",
+      "word": "シャットダウン",
+      "reading": "しゃっとだうん",
+      "meaning": "Shutdown",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文58",
-          "translation": "Example 58"
+          "sentence": "使用後はパソコンをシャットダウンする。",
+          "translation": "Shut down the computer after use."
+        },
+        {
+          "sentence": "正しくシャットダウンしないと、データが失われる可能性がある。",
+          "translation": "If you don't shut down properly, data may be lost."
         }
-      ],
-      "relatedWords": [
-        "related58"
-      ],
-      "notes": "Note 58"
+      ]
     },
     {
       "id": "v160",
-      "word": "word59",
-      "reading": "reading59",
-      "meaning": "Meaning 59",
+      "word": "スリープモード",
+      "reading": "すりーぷもーど",
+      "meaning": "Sleep mode",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文59",
-          "translation": "Example 59"
+          "sentence": "しばらく使わないときは、スリープモードにする。",
+          "translation": "Put it in sleep mode when not using it for a while."
+        },
+        {
+          "sentence": "スリープモードから復帰するのは速い。",
+          "translation": "Recovering from sleep mode is fast."
         }
-      ],
-      "relatedWords": [
-        "related59"
-      ],
-      "notes": "Note 59"
+      ]
     },
     {
       "id": "v161",
-      "word": "word60",
-      "reading": "reading60",
-      "meaning": "Meaning 60",
+      "word": "フリーズ",
+      "reading": "ふりーず",
+      "meaning": "Freeze",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文60",
-          "translation": "Example 60"
+          "sentence": "パソコンがフリーズして動かない。",
+          "translation": "The computer froze and won't move."
+        },
+        {
+          "sentence": "アプリがフリーズしたので、強制終了した。",
+          "translation": "The app froze, so I force quit it."
         }
-      ],
-      "relatedWords": [
-        "related60"
-      ],
-      "notes": "Note 60"
+      ]
     },
     {
       "id": "v162",
-      "word": "word61",
-      "reading": "reading61",
-      "meaning": "Meaning 61",
+      "word": "クラッシュ",
+      "reading": "くらっしゅ",
+      "meaning": "Crash",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文61",
-          "translation": "Example 61"
+          "sentence": "システムがクラッシュしてデータが失われた。",
+          "translation": "The system crashed and data was lost."
+        },
+        {
+          "sentence": "プログラムが頻繁にクラッシュする。",
+          "translation": "The program crashes frequently."
         }
-      ],
-      "relatedWords": [
-        "related61"
-      ],
-      "notes": "Note 61"
+      ]
     },
     {
       "id": "v163",
-      "word": "word62",
-      "reading": "reading62",
-      "meaning": "Meaning 62",
+      "word": "プラグイン",
+      "reading": "ぷらぐいん",
+      "meaning": "Plugin",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文62",
-          "translation": "Example 62"
+          "sentence": "ブラウザにプラグインをインストールする。",
+          "translation": "Install a plugin in the browser."
+        },
+        {
+          "sentence": "このプラグインは機能を拡張する。",
+          "translation": "This plugin extends functionality."
         }
-      ],
-      "relatedWords": [
-        "related62"
-      ],
-      "notes": "Note 62"
+      ]
     },
     {
       "id": "v164",
-      "word": "word63",
-      "reading": "reading63",
-      "meaning": "Meaning 63",
+      "word": "拡張機能",
+      "reading": "かくちょうきのう",
+      "meaning": "Extension",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文63",
-          "translation": "Example 63"
+          "sentence": "便利な拡張機能を追加した。",
+          "translation": "I added a useful extension."
+        },
+        {
+          "sentence": "拡張機能が多すぎると、ブラウザが遅くなる。",
+          "translation": "Too many extensions slow down the browser."
         }
-      ],
-      "relatedWords": [
-        "related63"
-      ],
-      "notes": "Note 63"
+      ]
     },
     {
       "id": "v165",
-      "word": "word64",
-      "reading": "reading64",
-      "meaning": "Meaning 64",
+      "word": "テンプレート",
+      "reading": "てんぷれーと",
+      "meaning": "Template",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文64",
-          "translation": "Example 64"
+          "sentence": "テンプレートを使って文書を作成する。",
+          "translation": "Create a document using a template."
+        },
+        {
+          "sentence": "無料のテンプレートをダウンロードした。",
+          "translation": "I downloaded a free template."
         }
-      ],
-      "relatedWords": [
-        "related64"
-      ],
-      "notes": "Note 64"
+      ]
     },
     {
       "id": "v166",
-      "word": "word65",
-      "reading": "reading65",
-      "meaning": "Meaning 65",
+      "word": "カスタマイズ",
+      "reading": "かすたまいず",
+      "meaning": "Customize",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文65",
-          "translation": "Example 65"
+          "sentence": "設定を自分の好みにカスタマイズする。",
+          "translation": "Customize the settings to your liking."
+        },
+        {
+          "sentence": "このアプリは高度にカスタマイズできる。",
+          "translation": "This app is highly customizable."
         }
-      ],
-      "relatedWords": [
-        "related65"
-      ],
-      "notes": "Note 65"
+      ]
     },
     {
       "id": "v167",
-      "word": "word66",
-      "reading": "reading66",
-      "meaning": "Meaning 66",
+      "word": "デフォルト",
+      "reading": "でふぉると",
+      "meaning": "Default",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文66",
-          "translation": "Example 66"
+          "sentence": "デフォルトの設定に戻す。",
+          "translation": "Return to default settings."
+        },
+        {
+          "sentence": "デフォルトではこの機能はオフになっている。",
+          "translation": "This feature is off by default."
         }
-      ],
-      "relatedWords": [
-        "related66"
-      ],
-      "notes": "Note 66"
+      ]
     },
     {
       "id": "v168",
-      "word": "word67",
-      "reading": "reading67",
-      "meaning": "Meaning 67",
+      "word": "オプション",
+      "reading": "おぷしょん",
+      "meaning": "Option",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文67",
-          "translation": "Example 67"
+          "sentence": "詳細オプションを確認する。",
+          "translation": "Check the advanced options."
+        },
+        {
+          "sentence": "複数のオプションから選択できる。",
+          "translation": "You can choose from multiple options."
         }
-      ],
-      "relatedWords": [
-        "related67"
-      ],
-      "notes": "Note 67"
+      ]
     },
     {
       "id": "v169",
-      "word": "word68",
-      "reading": "reading68",
-      "meaning": "Meaning 68",
+      "word": "パラメータ",
+      "reading": "ぱらめーた",
+      "meaning": "Parameter",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文68",
-          "translation": "Example 68"
+          "sentence": "関数にパラメータを渡す。",
+          "translation": "Pass parameters to the function."
+        },
+        {
+          "sentence": "パラメータの値を調整する必要がある。",
+          "translation": "The parameter values need to be adjusted."
         }
-      ],
-      "relatedWords": [
-        "related68"
-      ],
-      "notes": "Note 68"
+      ]
     },
     {
       "id": "v170",
-      "word": "word69",
-      "reading": "reading69",
-      "meaning": "Meaning 69",
+      "word": "引数",
+      "reading": "ひきすう",
+      "meaning": "Argument",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文69",
-          "translation": "Example 69"
+          "sentence": "この関数は2つの引数を取る。",
+          "translation": "This function takes two arguments."
+        },
+        {
+          "sentence": "引数の型が正しくない。",
+          "translation": "The argument type is incorrect."
         }
-      ],
-      "relatedWords": [
-        "related69"
-      ],
-      "notes": "Note 69"
+      ]
     },
     {
       "id": "v171",
-      "word": "word70",
-      "reading": "reading70",
-      "meaning": "Meaning 70",
+      "word": "戻り値",
+      "reading": "もどりち",
+      "meaning": "Return value",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文70",
-          "translation": "Example 70"
+          "sentence": "関数の戻り値を確認する。",
+          "translation": "Check the return value of the function."
+        },
+        {
+          "sentence": "戻り値が期待と異なる。",
+          "translation": "The return value is different from expected."
         }
-      ],
-      "relatedWords": [
-        "related70"
-      ],
-      "notes": "Note 70"
+      ]
     },
     {
       "id": "v172",
-      "word": "word71",
-      "reading": "reading71",
-      "meaning": "Meaning 71",
+      "word": "ループ",
+      "reading": "るーぷ",
+      "meaning": "Loop",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文71",
-          "translation": "Example 71"
+          "sentence": "ループを使って配列の要素を処理する。",
+          "translation": "Process array elements using a loop."
+        },
+        {
+          "sentence": "無限ループに陥ってしまった。",
+          "translation": "I fell into an infinite loop."
         }
-      ],
-      "relatedWords": [
-        "related71"
-      ],
-      "notes": "Note 71"
+      ]
     },
     {
       "id": "v173",
-      "word": "word72",
-      "reading": "reading72",
-      "meaning": "Meaning 72",
+      "word": "配列",
+      "reading": "はいれつ",
+      "meaning": "Array",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文72",
-          "translation": "Example 72"
+          "sentence": "配列にデータを格納する。",
+          "translation": "Store data in an array."
+        },
+        {
+          "sentence": "配列の要素にアクセスする。",
+          "translation": "Access the elements of the array."
         }
-      ],
-      "relatedWords": [
-        "related72"
-      ],
-      "notes": "Note 72"
+      ]
     },
     {
       "id": "v174",
-      "word": "word73",
-      "reading": "reading73",
-      "meaning": "Meaning 73",
+      "word": "オブジェクト",
+      "reading": "おぶじぇくと",
+      "meaning": "Object",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文73",
-          "translation": "Example 73"
+          "sentence": "オブジェクトを作成してプロパティを設定する。",
+          "translation": "Create an object and set properties."
+        },
+        {
+          "sentence": "このオブジェクトにはメソッドがある。",
+          "translation": "This object has methods."
         }
-      ],
-      "relatedWords": [
-        "related73"
-      ],
-      "notes": "Note 73"
+      ]
     },
     {
       "id": "v175",
-      "word": "word74",
-      "reading": "reading74",
-      "meaning": "Meaning 74",
+      "word": "クラス",
+      "reading": "くらす",
+      "meaning": "Class",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文74",
-          "translation": "Example 74"
+          "sentence": "新しいクラスを定義する。",
+          "translation": "Define a new class."
+        },
+        {
+          "sentence": "クラスからインスタンスを生成する。",
+          "translation": "Create an instance from a class."
         }
-      ],
-      "relatedWords": [
-        "related74"
-      ],
-      "notes": "Note 74"
+      ]
     },
     {
       "id": "v176",
-      "word": "word75",
-      "reading": "reading75",
-      "meaning": "Meaning 75",
+      "word": "インスタンス",
+      "reading": "いんすたんす",
+      "meaning": "Instance",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文75",
-          "translation": "Example 75"
+          "sentence": "クラスのインスタンスを作成する。",
+          "translation": "Create an instance of the class."
+        },
+        {
+          "sentence": "複数のインスタンスを同時に使用できる。",
+          "translation": "Multiple instances can be used simultaneously."
         }
-      ],
-      "relatedWords": [
-        "related75"
-      ],
-      "notes": "Note 75"
+      ]
     },
     {
       "id": "v177",
-      "word": "word76",
-      "reading": "reading76",
-      "meaning": "Meaning 76",
+      "word": "メソッド",
+      "reading": "めそっど",
+      "meaning": "Method",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文76",
-          "translation": "Example 76"
+          "sentence": "このメソッドはデータを処理する。",
+          "translation": "This method processes data."
+        },
+        {
+          "sentence": "メソッドを呼び出して結果を得る。",
+          "translation": "Call the method to get the result."
         }
-      ],
-      "relatedWords": [
-        "related76"
-      ],
-      "notes": "Note 76"
+      ]
     },
     {
       "id": "v178",
-      "word": "word77",
-      "reading": "reading77",
-      "meaning": "Meaning 77",
+      "word": "プロパティ",
+      "reading": "ぷろぱてぃ",
+      "meaning": "Property",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文77",
-          "translation": "Example 77"
+          "sentence": "オブジェクトのプロパティを変更する。",
+          "translation": "Change the object's properties."
+        },
+        {
+          "sentence": "このプロパティは読み取り専用だ。",
+          "translation": "This property is read-only."
         }
-      ],
-      "relatedWords": [
-        "related77"
-      ],
-      "notes": "Note 77"
+      ]
     },
     {
       "id": "v179",
-      "word": "word78",
-      "reading": "reading78",
-      "meaning": "Meaning 78",
+      "word": "継承",
+      "reading": "けいしょう",
+      "meaning": "Inheritance",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文78",
-          "translation": "Example 78"
+          "sentence": "親クラスから機能を継承する。",
+          "translation": "Inherit functionality from the parent class."
+        },
+        {
+          "sentence": "継承を使ってコードを再利用する。",
+          "translation": "Reuse code using inheritance."
         }
-      ],
-      "relatedWords": [
-        "related78"
-      ],
-      "notes": "Note 78"
+      ]
     },
     {
       "id": "v180",
-      "word": "word79",
-      "reading": "reading79",
-      "meaning": "Meaning 79",
+      "word": "インポート",
+      "reading": "いんぽーと",
+      "meaning": "Import",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文79",
-          "translation": "Example 79"
+          "sentence": "ライブラリをインポートして使用する。",
+          "translation": "Import a library to use it."
+        },
+        {
+          "sentence": "データをCSVファイルからインポートする。",
+          "translation": "Import data from a CSV file."
         }
-      ],
-      "relatedWords": [
-        "related79"
-      ],
-      "notes": "Note 79"
+      ]
     },
     {
       "id": "v181",
-      "word": "word80",
-      "reading": "reading80",
-      "meaning": "Meaning 80",
+      "word": "エクスポート",
+      "reading": "えくすぽーと",
+      "meaning": "Export",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文80",
-          "translation": "Example 80"
+          "sentence": "データをExcel形式でエクスポートする。",
+          "translation": "Export data in Excel format."
+        },
+        {
+          "sentence": "設定をファイルにエクスポートして保存する。",
+          "translation": "Export settings to a file and save them."
         }
-      ],
-      "relatedWords": [
-        "related80"
-      ],
-      "notes": "Note 80"
+      ]
     },
     {
       "id": "v182",
-      "word": "word81",
-      "reading": "reading81",
-      "meaning": "Meaning 81",
+      "word": "モジュール",
+      "reading": "もじゅーる",
+      "meaning": "Module",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文81",
-          "translation": "Example 81"
+          "sentence": "このモジュールは独立して動作する。",
+          "translation": "This module operates independently."
+        },
+        {
+          "sentence": "必要なモジュールをインストールする。",
+          "translation": "Install the required modules."
         }
-      ],
-      "relatedWords": [
-        "related81"
-      ],
-      "notes": "Note 81"
+      ]
     },
     {
       "id": "v183",
-      "word": "word82",
-      "reading": "reading82",
-      "meaning": "Meaning 82",
+      "word": "ライブラリ",
+      "reading": "らいぶらり",
+      "meaning": "Library",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文82",
-          "translation": "Example 82"
+          "sentence": "便利なライブラリを見つけた。",
+          "translation": "I found a useful library."
+        },
+        {
+          "sentence": "ライブラリを使って開発時間を短縮する。",
+          "translation": "Reduce development time by using libraries."
         }
-      ],
-      "relatedWords": [
-        "related82"
-      ],
-      "notes": "Note 82"
+      ]
     },
     {
       "id": "v184",
-      "word": "word83",
-      "reading": "reading83",
-      "meaning": "Meaning 83",
+      "word": "フレームワーク",
+      "reading": "ふれーむわーく",
+      "meaning": "Framework",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文83",
-          "translation": "Example 83"
+          "sentence": "人気のあるフレームワークを学んでいる。",
+          "translation": "I'm learning a popular framework."
+        },
+        {
+          "sentence": "このフレームワークは開発を効率化する。",
+          "translation": "This framework makes development more efficient."
         }
-      ],
-      "relatedWords": [
-        "related83"
-      ],
-      "notes": "Note 83"
+      ]
     },
     {
       "id": "v185",
-      "word": "word84",
-      "reading": "reading84",
-      "meaning": "Meaning 84",
+      "word": "テスト",
+      "reading": "てすと",
+      "meaning": "Test",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文84",
-          "translation": "Example 84"
+          "sentence": "コードのテストを実施する。",
+          "translation": "Conduct code testing."
+        },
+        {
+          "sentence": "すべてのテストが成功した。",
+          "translation": "All tests passed successfully."
         }
-      ],
-      "relatedWords": [
-        "related84"
-      ],
-      "notes": "Note 84"
+      ]
     },
     {
       "id": "v186",
-      "word": "word85",
-      "reading": "reading85",
-      "meaning": "Meaning 85",
+      "word": "ビルド",
+      "reading": "びるど",
+      "meaning": "Build",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文85",
-          "translation": "Example 85"
+          "sentence": "プロジェクトをビルドして実行ファイルを作成する。",
+          "translation": "Build the project to create an executable file."
+        },
+        {
+          "sentence": "ビルドに失敗した。",
+          "translation": "The build failed."
         }
-      ],
-      "relatedWords": [
-        "related85"
-      ],
-      "notes": "Note 85"
+      ]
     },
     {
       "id": "v187",
-      "word": "word86",
-      "reading": "reading86",
-      "meaning": "Meaning 86",
+      "word": "デプロイ",
+      "reading": "でぷろい",
+      "meaning": "Deploy",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文86",
-          "translation": "Example 86"
+          "sentence": "アプリを本番環境にデプロイする。",
+          "translation": "Deploy the app to the production environment."
+        },
+        {
+          "sentence": "自動デプロイの設定を行う。",
+          "translation": "Set up automatic deployment."
         }
-      ],
-      "relatedWords": [
-        "related86"
-      ],
-      "notes": "Note 86"
+      ]
     },
     {
       "id": "v188",
-      "word": "word87",
-      "reading": "reading87",
-      "meaning": "Meaning 87",
+      "word": "リリース",
+      "reading": "りりーす",
+      "meaning": "Release",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文87",
-          "translation": "Example 87"
+          "sentence": "新バージョンを来月リリースする予定だ。",
+          "translation": "We plan to release a new version next month."
+        },
+        {
+          "sentence": "ベータ版をリリースしてフィードバックを集める。",
+          "translation": "Release a beta version to collect feedback."
         }
-      ],
-      "relatedWords": [
-        "related87"
-      ],
-      "notes": "Note 87"
+      ]
     },
     {
       "id": "v189",
-      "word": "word88",
-      "reading": "reading88",
-      "meaning": "Meaning 88",
+      "word": "メンテナンス",
+      "reading": "めんてなんす",
+      "meaning": "Maintenance",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文88",
-          "translation": "Example 88"
+          "sentence": "定期的なメンテナンスを行う。",
+          "translation": "Perform regular maintenance."
+        },
+        {
+          "sentence": "システムメンテナンスのため、一時的にサービスを停止する。",
+          "translation": "The service will be temporarily suspended for system maintenance."
         }
-      ],
-      "relatedWords": [
-        "related88"
-      ],
-      "notes": "Note 88"
+      ]
     },
     {
       "id": "v190",
-      "word": "word89",
-      "reading": "reading89",
-      "meaning": "Meaning 89",
+      "word": "パフォーマンス",
+      "reading": "ぱふぉーまんす",
+      "meaning": "Performance",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文89",
-          "translation": "Example 89"
+          "sentence": "アプリのパフォーマンスを改善する。",
+          "translation": "Improve the app's performance."
+        },
+        {
+          "sentence": "パフォーマンスの問題を解決する必要がある。",
+          "translation": "We need to solve the performance issues."
         }
-      ],
-      "relatedWords": [
-        "related89"
-      ],
-      "notes": "Note 89"
+      ]
     },
     {
       "id": "v191",
-      "word": "word90",
-      "reading": "reading90",
-      "meaning": "Meaning 90",
+      "word": "最適化",
+      "reading": "さいてきか",
+      "meaning": "Optimization",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文90",
-          "translation": "Example 90"
+          "sentence": "コードを最適化して処理速度を上げる。",
+          "translation": "Optimize the code to increase processing speed."
+        },
+        {
+          "sentence": "画像を最適化してファイルサイズを減らす。",
+          "translation": "Optimize images to reduce file size."
         }
-      ],
-      "relatedWords": [
-        "related90"
-      ],
-      "notes": "Note 90"
+      ]
     },
     {
       "id": "v192",
-      "word": "word91",
-      "reading": "reading91",
-      "meaning": "Meaning 91",
+      "word": "互換性",
+      "reading": "ごかんせい",
+      "meaning": "Compatibility",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文91",
-          "translation": "Example 91"
+          "sentence": "古いブラウザとの互換性を確保する。",
+          "translation": "Ensure compatibility with older browsers."
+        },
+        {
+          "sentence": "このソフトウェアはMacと互換性がない。",
+          "translation": "This software is not compatible with Mac."
         }
-      ],
-      "relatedWords": [
-        "related91"
-      ],
-      "notes": "Note 91"
+      ]
     },
     {
       "id": "v193",
-      "word": "word92",
-      "reading": "reading92",
-      "meaning": "Meaning 92",
+      "word": "統合",
+      "reading": "とうごう",
+      "meaning": "Integration",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文92",
-          "translation": "Example 92"
+          "sentence": "複数のシステムを統合する。",
+          "translation": "Integrate multiple systems."
+        },
+        {
+          "sentence": "APIを使って他のサービスと統合できる。",
+          "translation": "You can integrate with other services using APIs."
         }
-      ],
-      "relatedWords": [
-        "related92"
-      ],
-      "notes": "Note 92"
+      ]
     },
     {
       "id": "v194",
-      "word": "word93",
-      "reading": "reading93",
-      "meaning": "Meaning 93",
+      "word": "自動化",
+      "reading": "じどうか",
+      "meaning": "Automation",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文93",
-          "translation": "Example 93"
+          "sentence": "繰り返し作業を自動化する。",
+          "translation": "Automate repetitive tasks."
+        },
+        {
+          "sentence": "テストの自動化により、効率が向上した。",
+          "translation": "Test automation improved efficiency."
         }
-      ],
-      "relatedWords": [
-        "related93"
-      ],
-      "notes": "Note 93"
+      ]
     },
     {
       "id": "v195",
-      "word": "word94",
-      "reading": "reading94",
-      "meaning": "Meaning 94",
+      "word": "仮想化",
+      "reading": "かそうか",
+      "meaning": "Virtualization",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文94",
-          "translation": "Example 94"
+          "sentence": "サーバーの仮想化によりコストを削減する。",
+          "translation": "Reduce costs through server virtualization."
+        },
+        {
+          "sentence": "仮想化技術を使って複数の環境を管理する。",
+          "translation": "Manage multiple environments using virtualization technology."
         }
-      ],
-      "relatedWords": [
-        "related94"
-      ],
-      "notes": "Note 94"
+      ]
     },
     {
       "id": "v196",
-      "word": "word95",
-      "reading": "reading95",
-      "meaning": "Meaning 95",
+      "word": "処理",
+      "reading": "しょり",
+      "meaning": "Processing",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文95",
-          "translation": "Example 95"
+          "sentence": "データの処理に時間がかかる。",
+          "translation": "Data processing takes time."
+        },
+        {
+          "sentence": "並列処理により速度が向上した。",
+          "translation": "Speed improved through parallel processing."
         }
-      ],
-      "relatedWords": [
-        "related95"
-      ],
-      "notes": "Note 95"
+      ]
     },
     {
       "id": "v197",
-      "word": "word96",
-      "reading": "reading96",
-      "meaning": "Meaning 96",
+      "word": "演算",
+      "reading": "えんざん",
+      "meaning": "Calculation, operation",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文96",
-          "translation": "Example 96"
+          "sentence": "複雑な演算を行う。",
+          "translation": "Perform complex calculations."
+        },
+        {
+          "sentence": "演算速度が速いプロセッサが必要だ。",
+          "translation": "A processor with high calculation speed is needed."
         }
-      ],
-      "relatedWords": [
-        "related96"
-      ],
-      "notes": "Note 96"
+      ]
     },
     {
       "id": "v198",
-      "word": "word97",
-      "reading": "reading97",
-      "meaning": "Meaning 97",
+      "word": "接続",
+      "reading": "せつぞく",
+      "meaning": "Connection",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文97",
-          "translation": "Example 97"
+          "sentence": "インターネットに接続する。",
+          "translation": "Connect to the internet."
+        },
+        {
+          "sentence": "接続が不安定で、何度も切れる。",
+          "translation": "The connection is unstable and disconnects repeatedly."
         }
-      ],
-      "relatedWords": [
-        "related97"
-      ],
-      "notes": "Note 97"
+      ]
     },
     {
       "id": "v199",
-      "word": "word98",
-      "reading": "reading98",
-      "meaning": "Meaning 98",
+      "word": "切断",
+      "reading": "せつだん",
+      "meaning": "Disconnection",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文98",
-          "translation": "Example 98"
+          "sentence": "ネットワークが切断された。",
+          "translation": "The network was disconnected."
+        },
+        {
+          "sentence": "使用後は接続を切断してください。",
+          "translation": "Please disconnect after use."
         }
-      ],
-      "relatedWords": [
-        "related98"
-      ],
-      "notes": "Note 98"
+      ]
     },
     {
       "id": "v200",
-      "word": "word99",
-      "reading": "reading99",
-      "meaning": "Meaning 99",
+      "word": "帯域幅",
+      "reading": "たいいきはば",
+      "meaning": "Bandwidth",
       "level": "N2",
       "category": "Technology",
       "examples": [
         {
-          "sentence": "例文99",
-          "translation": "Example 99"
+          "sentence": "高速通信には広い帯域幅が必要だ。",
+          "translation": "Wide bandwidth is needed for high-speed communication."
+        },
+        {
+          "sentence": "帯域幅が不足していて、動画が止まる。",
+          "translation": "The bandwidth is insufficient and the video stops."
         }
-      ],
-      "relatedWords": [
-        "related99"
-      ],
-      "notes": "Note 99"
+      ]
     }
   ]
 }

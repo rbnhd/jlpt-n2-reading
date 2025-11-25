@@ -1804,1803 +1804,1803 @@
     },
     {
       "id": "v101",
-      "word": "word0",
-      "reading": "reading0",
-      "meaning": "Meaning 0",
+      "word": "思考",
+      "reading": "しこう",
+      "meaning": "Thinking, thought",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文0",
-          "translation": "Example 0"
+          "sentence": "論理的思考を身につけることが大切だ。",
+          "translation": "It's important to develop logical thinking."
+        },
+        {
+          "sentence": "彼女の思考は常に前向きだ。",
+          "translation": "Her thinking is always positive."
         }
-      ],
-      "relatedWords": [
-        "related0"
-      ],
-      "notes": "Note 0"
+      ]
     },
     {
       "id": "v102",
-      "word": "word1",
-      "reading": "reading1",
-      "meaning": "Meaning 1",
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "Judgment, decision",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文1",
-          "translation": "Example 1"
+          "sentence": "状況を見て判断する必要がある。",
+          "translation": "It's necessary to judge based on the situation."
+        },
+        {
+          "sentence": "彼の判断は正しかった。",
+          "translation": "His judgment was correct."
         }
-      ],
-      "relatedWords": [
-        "related1"
-      ],
-      "notes": "Note 1"
+      ]
     },
     {
       "id": "v103",
-      "word": "word2",
-      "reading": "reading2",
-      "meaning": "Meaning 2",
+      "word": "認識",
+      "reading": "にんしき",
+      "meaning": "Recognition, awareness",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文2",
-          "translation": "Example 2"
+          "sentence": "問題の重要性を認識する。",
+          "translation": "Recognize the importance of the problem."
+        },
+        {
+          "sentence": "自分の限界を認識することが成長につながる。",
+          "translation": "Recognizing your limitations leads to growth."
         }
-      ],
-      "relatedWords": [
-        "related2"
-      ],
-      "notes": "Note 2"
+      ]
     },
     {
       "id": "v104",
-      "word": "word3",
-      "reading": "reading3",
-      "meaning": "Meaning 3",
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "Understanding, comprehension",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文3",
-          "translation": "Example 3"
+          "sentence": "彼女の気持ちを理解しようと努力した。",
+          "translation": "I tried to understand her feelings."
+        },
+        {
+          "sentence": "この概念を理解するのは難しい。",
+          "translation": "It's difficult to understand this concept."
         }
-      ],
-      "relatedWords": [
-        "related3"
-      ],
-      "notes": "Note 3"
+      ]
     },
     {
       "id": "v105",
-      "word": "word4",
-      "reading": "reading4",
-      "meaning": "Meaning 4",
+      "word": "知恵",
+      "reading": "ちえ",
+      "meaning": "Wisdom",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文4",
-          "translation": "Example 4"
+          "sentence": "経験から知恵を得る。",
+          "translation": "Gain wisdom from experience."
+        },
+        {
+          "sentence": "祖父の知恵に助けられた。",
+          "translation": "I was helped by my grandfather's wisdom."
         }
-      ],
-      "relatedWords": [
-        "related4"
-      ],
-      "notes": "Note 4"
+      ]
     },
     {
       "id": "v106",
-      "word": "word5",
-      "reading": "reading5",
-      "meaning": "Meaning 5",
+      "word": "直感",
+      "reading": "ちょっかん",
+      "meaning": "Intuition",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文5",
-          "translation": "Example 5"
+          "sentence": "直感で正しい選択をした。",
+          "translation": "I made the right choice by intuition."
+        },
+        {
+          "sentence": "彼女の直感は鋭い。",
+          "translation": "Her intuition is sharp."
         }
-      ],
-      "relatedWords": [
-        "related5"
-      ],
-      "notes": "Note 5"
+      ]
     },
     {
       "id": "v107",
-      "word": "word6",
-      "reading": "reading6",
-      "meaning": "Meaning 6",
+      "word": "感覚",
+      "reading": "かんかく",
+      "meaning": "Sense, sensation",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文6",
-          "translation": "Example 6"
+          "sentence": "時間の感覚が狂っている。",
+          "translation": "My sense of time is off."
+        },
+        {
+          "sentence": "彼は美的感覚に優れている。",
+          "translation": "He has an excellent aesthetic sense."
         }
-      ],
-      "relatedWords": [
-        "related6"
-      ],
-      "notes": "Note 6"
+      ]
     },
     {
       "id": "v108",
-      "word": "word7",
-      "reading": "reading7",
-      "meaning": "Meaning 7",
+      "word": "想像",
+      "reading": "そうぞう",
+      "meaning": "Imagination",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文7",
-          "translation": "Example 7"
+          "sentence": "未来を想像するのは楽しい。",
+          "translation": "It's fun to imagine the future."
+        },
+        {
+          "sentence": "想像以上に困難だった。",
+          "translation": "It was more difficult than imagined."
         }
-      ],
-      "relatedWords": [
-        "related7"
-      ],
-      "notes": "Note 7"
+      ]
     },
     {
       "id": "v109",
-      "word": "word8",
-      "reading": "reading8",
-      "meaning": "Meaning 8",
+      "word": "空想",
+      "reading": "くうそう",
+      "meaning": "Fantasy, daydream",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文8",
-          "translation": "Example 8"
+          "sentence": "空想にふけっていた。",
+          "translation": "I was indulging in fantasy."
+        },
+        {
+          "sentence": "空想と現実の区別がつかない。",
+          "translation": "Can't distinguish between fantasy and reality."
         }
-      ],
-      "relatedWords": [
-        "related8"
-      ],
-      "notes": "Note 8"
+      ]
     },
     {
       "id": "v110",
-      "word": "word9",
-      "reading": "reading9",
-      "meaning": "Meaning 9",
+      "word": "願望",
+      "reading": "がんぼう",
+      "meaning": "Desire, wish",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文9",
-          "translation": "Example 9"
+          "sentence": "成功への願望が強い。",
+          "translation": "The desire for success is strong."
+        },
+        {
+          "sentence": "彼女の願望は叶った。",
+          "translation": "Her wish came true."
         }
-      ],
-      "relatedWords": [
-        "related9"
-      ],
-      "notes": "Note 9"
+      ]
     },
     {
       "id": "v111",
-      "word": "word10",
-      "reading": "reading10",
-      "meaning": "Meaning 10",
+      "word": "欲望",
+      "reading": "よくぼう",
+      "meaning": "Desire, craving",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文10",
-          "translation": "Example 10"
+          "sentence": "物質的な欲望を抑える。",
+          "translation": "Suppress material desires."
+        },
+        {
+          "sentence": "欲望に駆られて行動した。",
+          "translation": "I acted driven by desire."
         }
-      ],
-      "relatedWords": [
-        "related10"
-      ],
-      "notes": "Note 10"
+      ]
     },
     {
       "id": "v112",
-      "word": "word11",
-      "reading": "reading11",
-      "meaning": "Meaning 11",
+      "word": "野心",
+      "reading": "やしん",
+      "meaning": "Ambition",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文11",
-          "translation": "Example 11"
+          "sentence": "彼は大きな野心を持っている。",
+          "translation": "He has great ambition."
+        },
+        {
+          "sentence": "野心的なプロジェクトを始めた。",
+          "translation": "I started an ambitious project."
         }
-      ],
-      "relatedWords": [
-        "related11"
-      ],
-      "notes": "Note 11"
+      ]
     },
     {
       "id": "v113",
-      "word": "word12",
-      "reading": "reading12",
-      "meaning": "Meaning 12",
+      "word": "意志",
+      "reading": "いし",
+      "meaning": "Will, volition",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文12",
-          "translation": "Example 12"
+          "sentence": "強い意志があれば、目標を達成できる。",
+          "translation": "With strong will, you can achieve your goals."
+        },
+        {
+          "sentence": "彼女の意志は固い。",
+          "translation": "Her will is firm."
         }
-      ],
-      "relatedWords": [
-        "related12"
-      ],
-      "notes": "Note 12"
+      ]
     },
     {
       "id": "v114",
-      "word": "word13",
-      "reading": "reading13",
-      "meaning": "Meaning 13",
+      "word": "決意",
+      "reading": "けつい",
+      "meaning": "Determination, resolution",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文13",
-          "translation": "Example 13"
+          "sentence": "新しい人生を始める決意をした。",
+          "translation": "I made a resolution to start a new life."
+        },
+        {
+          "sentence": "彼の決意は揺るがない。",
+          "translation": "His determination is unwavering."
         }
-      ],
-      "relatedWords": [
-        "related13"
-      ],
-      "notes": "Note 13"
+      ]
     },
     {
       "id": "v115",
-      "word": "word14",
-      "reading": "reading14",
-      "meaning": "Meaning 14",
+      "word": "覚悟",
+      "reading": "かくご",
+      "meaning": "Readiness, preparedness",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文14",
-          "translation": "Example 14"
+          "sentence": "失敗する覚悟ができている。",
+          "translation": "I'm prepared to fail."
+        },
+        {
+          "sentence": "覚悟を決めて挑戦する。",
+          "translation": "Challenge with determination."
         }
-      ],
-      "relatedWords": [
-        "related14"
-      ],
-      "notes": "Note 14"
+      ]
     },
     {
       "id": "v116",
-      "word": "word15",
-      "reading": "reading15",
-      "meaning": "Meaning 15",
+      "word": "信念",
+      "reading": "しんねん",
+      "meaning": "Belief, conviction",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文15",
-          "translation": "Example 15"
+          "sentence": "自分の信念を貫く。",
+          "translation": "Stick to your beliefs."
+        },
+        {
+          "sentence": "彼女は強い信念を持っている。",
+          "translation": "She has strong convictions."
         }
-      ],
-      "relatedWords": [
-        "related15"
-      ],
-      "notes": "Note 15"
+      ]
     },
     {
       "id": "v117",
-      "word": "word16",
-      "reading": "reading16",
-      "meaning": "Meaning 16",
+      "word": "確信",
+      "reading": "かくしん",
+      "meaning": "Conviction, certainty",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文16",
-          "translation": "Example 16"
+          "sentence": "成功する確信がある。",
+          "translation": "I have conviction that I will succeed."
+        },
+        {
+          "sentence": "彼の言葉に確信が持てない。",
+          "translation": "I can't be certain of his words."
         }
-      ],
-      "relatedWords": [
-        "related16"
-      ],
-      "notes": "Note 16"
+      ]
     },
     {
       "id": "v118",
-      "word": "word17",
-      "reading": "reading17",
-      "meaning": "Meaning 17",
+      "word": "疑念",
+      "reading": "ぎねん",
+      "meaning": "Doubt, suspicion",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文17",
-          "translation": "Example 17"
+          "sentence": "彼の行動に疑念を抱く。",
+          "translation": "I have doubts about his actions."
+        },
+        {
+          "sentence": "疑念が晴れた。",
+          "translation": "The doubts have been cleared."
         }
-      ],
-      "relatedWords": [
-        "related17"
-      ],
-      "notes": "Note 17"
+      ]
     },
     {
       "id": "v119",
-      "word": "word18",
-      "reading": "reading18",
-      "meaning": "Meaning 18",
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "Anxiety, unease",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文18",
-          "translation": "Example 18"
+          "sentence": "将来に対する不安がある。",
+          "translation": "I have anxiety about the future."
+        },
+        {
+          "sentence": "不安な気持ちを抱えている。",
+          "translation": "I'm carrying feelings of anxiety."
         }
-      ],
-      "relatedWords": [
-        "related18"
-      ],
-      "notes": "Note 18"
+      ]
     },
     {
       "id": "v120",
-      "word": "word19",
-      "reading": "reading19",
-      "meaning": "Meaning 19",
+      "word": "安心",
+      "reading": "あんしん",
+      "meaning": "Peace of mind, relief",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文19",
-          "translation": "Example 19"
+          "sentence": "彼の言葉で安心した。",
+          "translation": "His words gave me peace of mind."
+        },
+        {
+          "sentence": "安心して眠ることができる。",
+          "translation": "I can sleep with peace of mind."
         }
-      ],
-      "relatedWords": [
-        "related19"
-      ],
-      "notes": "Note 19"
+      ]
     },
     {
       "id": "v121",
-      "word": "word20",
-      "reading": "reading20",
-      "meaning": "Meaning 20",
+      "word": "緊張",
+      "reading": "きんちょう",
+      "meaning": "Tension, nervousness",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文20",
-          "translation": "Example 20"
+          "sentence": "試験前は緊張する。",
+          "translation": "I get nervous before exams."
+        },
+        {
+          "sentence": "緊張がほぐれた。",
+          "translation": "The tension eased."
         }
-      ],
-      "relatedWords": [
-        "related20"
-      ],
-      "notes": "Note 20"
+      ]
     },
     {
       "id": "v122",
-      "word": "word21",
-      "reading": "reading21",
-      "meaning": "Meaning 21",
+      "word": "リラックス",
+      "reading": "りらっくす",
+      "meaning": "Relaxation, to relax",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文21",
-          "translation": "Example 21"
+          "sentence": "音楽を聴いてリラックスする。",
+          "translation": "Listen to music and relax."
+        },
+        {
+          "sentence": "リラックスした雰囲気が好きだ。",
+          "translation": "I like a relaxed atmosphere."
         }
-      ],
-      "relatedWords": [
-        "related21"
-      ],
-      "notes": "Note 21"
+      ]
     },
     {
       "id": "v123",
-      "word": "word22",
-      "reading": "reading22",
-      "meaning": "Meaning 22",
+      "word": "興奮",
+      "reading": "こうふん",
+      "meaning": "Excitement",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文22",
-          "translation": "Example 22"
+          "sentence": "試合に興奮している。",
+          "translation": "I'm excited about the game."
+        },
+        {
+          "sentence": "興奮が冷めない。",
+          "translation": "The excitement hasn't cooled down."
         }
-      ],
-      "relatedWords": [
-        "related22"
-      ],
-      "notes": "Note 22"
+      ]
     },
     {
       "id": "v124",
-      "word": "word23",
-      "reading": "reading23",
-      "meaning": "Meaning 23",
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "Emotion, being moved",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文23",
-          "translation": "Example 23"
+          "sentence": "映画に感動して涙を流した。",
+          "translation": "I was moved by the movie and shed tears."
+        },
+        {
+          "sentence": "彼女の演説に感動した。",
+          "translation": "I was moved by her speech."
         }
-      ],
-      "relatedWords": [
-        "related23"
-      ],
-      "notes": "Note 23"
+      ]
     },
     {
       "id": "v125",
-      "word": "word24",
-      "reading": "reading24",
-      "meaning": "Meaning 24",
+      "word": "驚き",
+      "reading": "おどろき",
+      "meaning": "Surprise, astonishment",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文24",
-          "translation": "Example 24"
+          "sentence": "彼の成功には驚きを隠せない。",
+          "translation": "I can't hide my surprise at his success."
+        },
+        {
+          "sentence": "驚きの表情を浮かべた。",
+          "translation": "He showed a surprised expression."
         }
-      ],
-      "relatedWords": [
-        "related24"
-      ],
-      "notes": "Note 24"
+      ]
     },
     {
       "id": "v126",
-      "word": "word25",
-      "reading": "reading25",
-      "meaning": "Meaning 25",
+      "word": "失望",
+      "reading": "しつぼう",
+      "meaning": "Disappointment",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文25",
-          "translation": "Example 25"
+          "sentence": "結果に失望した。",
+          "translation": "I was disappointed with the result."
+        },
+        {
+          "sentence": "彼女は失望を顔に出さなかった。",
+          "translation": "She didn't show disappointment on her face."
         }
-      ],
-      "relatedWords": [
-        "related25"
-      ],
-      "notes": "Note 25"
+      ]
     },
     {
       "id": "v127",
-      "word": "word26",
-      "reading": "reading26",
-      "meaning": "Meaning 26",
+      "word": "後悔",
+      "reading": "こうかい",
+      "meaning": "Regret",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文26",
-          "translation": "Example 26"
+          "sentence": "あの時の決断を後悔している。",
+          "translation": "I regret that decision."
+        },
+        {
+          "sentence": "後悔しない人生を送りたい。",
+          "translation": "I want to live a life without regrets."
         }
-      ],
-      "relatedWords": [
-        "related26"
-      ],
-      "notes": "Note 26"
+      ]
     },
     {
       "id": "v128",
-      "word": "word27",
-      "reading": "reading27",
-      "meaning": "Meaning 27",
+      "word": "満足",
+      "reading": "まんぞく",
+      "meaning": "Satisfaction",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文27",
-          "translation": "Example 27"
+          "sentence": "この結果に満足している。",
+          "translation": "I'm satisfied with this result."
+        },
+        {
+          "sentence": "満足感を得る。",
+          "translation": "Obtain a sense of satisfaction."
         }
-      ],
-      "relatedWords": [
-        "related27"
-      ],
-      "notes": "Note 27"
+      ]
     },
     {
       "id": "v129",
-      "word": "word28",
-      "reading": "reading28",
-      "meaning": "Meaning 28",
+      "word": "充実",
+      "reading": "じゅうじつ",
+      "meaning": "Fulfillment, enrichment",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文28",
-          "translation": "Example 28"
+          "sentence": "充実した一日を過ごした。",
+          "translation": "I spent a fulfilling day."
+        },
+        {
+          "sentence": "仕事に充実感を感じる。",
+          "translation": "I feel a sense of fulfillment in my work."
         }
-      ],
-      "relatedWords": [
-        "related28"
-      ],
-      "notes": "Note 28"
+      ]
     },
     {
       "id": "v130",
-      "word": "word29",
-      "reading": "reading29",
-      "meaning": "Meaning 29",
+      "word": "空虚",
+      "reading": "くうきょ",
+      "meaning": "Emptiness, void",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文29",
-          "translation": "Example 29"
+          "sentence": "心に空虚感を感じる。",
+          "translation": "I feel emptiness in my heart."
+        },
+        {
+          "sentence": "空虚な生活を送っている。",
+          "translation": "I'm living an empty life."
         }
-      ],
-      "relatedWords": [
-        "related29"
-      ],
-      "notes": "Note 29"
+      ]
     },
     {
       "id": "v131",
-      "word": "word30",
-      "reading": "reading30",
-      "meaning": "Meaning 30",
+      "word": "退屈",
+      "reading": "たいくつ",
+      "meaning": "Boredom",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文30",
-          "translation": "Example 30"
+          "sentence": "退屈な時間を過ごした。",
+          "translation": "I spent boring time."
+        },
+        {
+          "sentence": "退屈しのぎに本を読む。",
+          "translation": "Read a book to kill boredom."
         }
-      ],
-      "relatedWords": [
-        "related30"
-      ],
-      "notes": "Note 30"
+      ]
     },
     {
       "id": "v132",
-      "word": "word31",
-      "reading": "reading31",
-      "meaning": "Meaning 31",
+      "word": "興味",
+      "reading": "きょうみ",
+      "meaning": "Interest",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文31",
-          "translation": "Example 31"
+          "sentence": "歴史に興味がある。",
+          "translation": "I'm interested in history."
+        },
+        {
+          "sentence": "彼女の話に興味を持った。",
+          "translation": "I became interested in her story."
         }
-      ],
-      "relatedWords": [
-        "related31"
-      ],
-      "notes": "Note 31"
+      ]
     },
     {
       "id": "v133",
-      "word": "word32",
-      "reading": "reading32",
-      "meaning": "Meaning 32",
+      "word": "関心",
+      "reading": "かんしん",
+      "meaning": "Interest, concern",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文32",
-          "translation": "Example 32"
+          "sentence": "環境問題に関心を持つ。",
+          "translation": "Have interest in environmental issues."
+        },
+        {
+          "sentence": "彼は政治に関心がない。",
+          "translation": "He has no interest in politics."
         }
-      ],
-      "relatedWords": [
-        "related32"
-      ],
-      "notes": "Note 32"
+      ]
     },
     {
       "id": "v134",
-      "word": "word33",
-      "reading": "reading33",
-      "meaning": "Meaning 33",
+      "word": "好奇心",
+      "reading": "こうきしん",
+      "meaning": "Curiosity",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文33",
-          "translation": "Example 33"
+          "sentence": "子供の好奇心は旺盛だ。",
+          "translation": "Children's curiosity is vigorous."
+        },
+        {
+          "sentence": "好奇心から新しいことに挑戦する。",
+          "translation": "Challenge new things out of curiosity."
         }
-      ],
-      "relatedWords": [
-        "related33"
-      ],
-      "notes": "Note 33"
+      ]
     },
     {
       "id": "v135",
-      "word": "word34",
-      "reading": "reading34",
-      "meaning": "Meaning 34",
+      "word": "情熱",
+      "reading": "じょうねつ",
+      "meaning": "Passion",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文34",
-          "translation": "Example 34"
+          "sentence": "仕事に情熱を注ぐ。",
+          "translation": "Pour passion into work."
+        },
+        {
+          "sentence": "彼の情熱に感銘を受けた。",
+          "translation": "I was impressed by his passion."
         }
-      ],
-      "relatedWords": [
-        "related34"
-      ],
-      "notes": "Note 34"
+      ]
     },
     {
       "id": "v136",
-      "word": "word35",
-      "reading": "reading35",
-      "meaning": "Meaning 35",
+      "word": "熱意",
+      "reading": "ねつい",
+      "meaning": "Enthusiasm, zeal",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文35",
-          "translation": "Example 35"
+          "sentence": "彼女の熱意が伝わってきた。",
+          "translation": "Her enthusiasm came through."
+        },
+        {
+          "sentence": "熱意を持って取り組む。",
+          "translation": "Work on it with enthusiasm."
         }
-      ],
-      "relatedWords": [
-        "related35"
-      ],
-      "notes": "Note 35"
+      ]
     },
     {
       "id": "v137",
-      "word": "word36",
-      "reading": "reading36",
-      "meaning": "Meaning 36",
+      "word": "意欲",
+      "reading": "いよく",
+      "meaning": "Motivation, willingness",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文36",
-          "translation": "Example 36"
+          "sentence": "学習意欲が高い。",
+          "translation": "Learning motivation is high."
+        },
+        {
+          "sentence": "意欲的に仕事に取り組む。",
+          "translation": "Work on the job with motivation."
         }
-      ],
-      "relatedWords": [
-        "related36"
-      ],
-      "notes": "Note 36"
+      ]
     },
     {
       "id": "v138",
-      "word": "word37",
-      "reading": "reading37",
-      "meaning": "Meaning 37",
+      "word": "意図",
+      "reading": "いと",
+      "meaning": "Intention, purpose",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文37",
-          "translation": "Example 37"
+          "sentence": "彼の意図がわからない。",
+          "translation": "I don't understand his intention."
+        },
+        {
+          "sentence": "意図的にそうしたわけではない。",
+          "translation": "I didn't do it intentionally."
         }
-      ],
-      "relatedWords": [
-        "related37"
-      ],
-      "notes": "Note 37"
+      ]
     },
     {
       "id": "v139",
-      "word": "word38",
-      "reading": "reading38",
-      "meaning": "Meaning 38",
+      "word": "動機",
+      "reading": "どうき",
+      "meaning": "Motive, motivation",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文38",
-          "translation": "Example 38"
+          "sentence": "犯行の動機を調べる。",
+          "translation": "Investigate the motive for the crime."
+        },
+        {
+          "sentence": "動機が不純だ。",
+          "translation": "The motive is impure."
         }
-      ],
-      "relatedWords": [
-        "related38"
-      ],
-      "notes": "Note 38"
+      ]
     },
     {
       "id": "v140",
-      "word": "word39",
-      "reading": "reading39",
-      "meaning": "Meaning 39",
+      "word": "衝動",
+      "reading": "しょうどう",
+      "meaning": "Impulse, urge",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文39",
-          "translation": "Example 39"
+          "sentence": "衝動的に買ってしまった。",
+          "translation": "I bought it on impulse."
+        },
+        {
+          "sentence": "衝動を抑えられない。",
+          "translation": "I can't control the impulse."
         }
-      ],
-      "relatedWords": [
-        "related39"
-      ],
-      "notes": "Note 39"
+      ]
     },
     {
       "id": "v141",
-      "word": "word40",
-      "reading": "reading40",
-      "meaning": "Meaning 40",
+      "word": "本能",
+      "reading": "ほんのう",
+      "meaning": "Instinct",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文40",
-          "translation": "Example 40"
+          "sentence": "母性本能が働く。",
+          "translation": "Maternal instinct works."
+        },
+        {
+          "sentence": "本能的に危険を感じた。",
+          "translation": "I sensed danger instinctively."
         }
-      ],
-      "relatedWords": [
-        "related40"
-      ],
-      "notes": "Note 40"
+      ]
     },
     {
       "id": "v142",
-      "word": "word41",
-      "reading": "reading41",
-      "meaning": "Meaning 41",
+      "word": "習性",
+      "reading": "しゅうせい",
+      "meaning": "Habit, nature",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文41",
-          "translation": "Example 41"
+          "sentence": "猫の習性を理解する。",
+          "translation": "Understand cat habits."
+        },
+        {
+          "sentence": "人間の習性として避けられない。",
+          "translation": "It's unavoidable as a human habit."
         }
-      ],
-      "relatedWords": [
-        "related41"
-      ],
-      "notes": "Note 41"
+      ]
     },
     {
       "id": "v143",
-      "word": "word42",
-      "reading": "reading42",
-      "meaning": "Meaning 42",
+      "word": "性格",
+      "reading": "せいかく",
+      "meaning": "Personality, character",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文42",
-          "translation": "Example 42"
+          "sentence": "彼は明るい性格だ。",
+          "translation": "He has a bright personality."
+        },
+        {
+          "sentence": "性格が合わない。",
+          "translation": "Our personalities don't match."
         }
-      ],
-      "relatedWords": [
-        "related42"
-      ],
-      "notes": "Note 42"
+      ]
     },
     {
       "id": "v144",
-      "word": "word43",
-      "reading": "reading43",
-      "meaning": "Meaning 43",
+      "word": "気質",
+      "reading": "きしつ",
+      "meaning": "Temperament, disposition",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文43",
-          "translation": "Example 43"
+          "sentence": "芸術家気質の人だ。",
+          "translation": "He's a person with an artistic temperament."
+        },
+        {
+          "sentence": "彼女は楽観的な気質を持っている。",
+          "translation": "She has an optimistic disposition."
         }
-      ],
-      "relatedWords": [
-        "related43"
-      ],
-      "notes": "Note 43"
+      ]
     },
     {
       "id": "v145",
-      "word": "word44",
-      "reading": "reading44",
-      "meaning": "Meaning 44",
+      "word": "態度",
+      "reading": "たいど",
+      "meaning": "Attitude",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文44",
-          "translation": "Example 44"
+          "sentence": "彼の態度が気に入らない。",
+          "translation": "I don't like his attitude."
+        },
+        {
+          "sentence": "前向きな態度で臨む。",
+          "translation": "Approach with a positive attitude."
         }
-      ],
-      "relatedWords": [
-        "related44"
-      ],
-      "notes": "Note 44"
+      ]
     },
     {
       "id": "v146",
-      "word": "word45",
-      "reading": "reading45",
-      "meaning": "Meaning 45",
+      "word": "姿勢",
+      "reading": "しせい",
+      "meaning": "Posture, attitude",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文45",
-          "translation": "Example 45"
+          "sentence": "学ぶ姿勢が大切だ。",
+          "translation": "An attitude of learning is important."
+        },
+        {
+          "sentence": "彼女は真摯な姿勢で取り組んでいる。",
+          "translation": "She's working with a sincere attitude."
         }
-      ],
-      "relatedWords": [
-        "related45"
-      ],
-      "notes": "Note 45"
+      ]
     },
     {
       "id": "v147",
-      "word": "word46",
-      "reading": "reading46",
-      "meaning": "Meaning 46",
+      "word": "誠実",
+      "reading": "せいじつ",
+      "meaning": "Sincerity, honesty",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文46",
-          "translation": "Example 46"
+          "sentence": "誠実な人柄に惹かれた。",
+          "translation": "I was attracted to his sincere character."
+        },
+        {
+          "sentence": "誠実に対応する。",
+          "translation": "Respond sincerely."
         }
-      ],
-      "relatedWords": [
-        "related46"
-      ],
-      "notes": "Note 46"
+      ]
     },
     {
       "id": "v148",
-      "word": "word47",
-      "reading": "reading47",
-      "meaning": "Meaning 47",
+      "word": "謙虚",
+      "reading": "けんきょ",
+      "meaning": "Humility, modesty",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文47",
-          "translation": "Example 47"
+          "sentence": "成功しても謙虚な態度を保つ。",
+          "translation": "Maintain a humble attitude even after success."
+        },
+        {
+          "sentence": "謙虚に学ぶ姿勢が大切だ。",
+          "translation": "An attitude of humble learning is important."
         }
-      ],
-      "relatedWords": [
-        "related47"
-      ],
-      "notes": "Note 47"
+      ]
     },
     {
       "id": "v149",
-      "word": "word48",
-      "reading": "reading48",
-      "meaning": "Meaning 48",
+      "word": "傲慢",
+      "reading": "ごうまん",
+      "meaning": "Arrogance, pride",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文48",
-          "translation": "Example 48"
+          "sentence": "彼の傲慢な態度に腹が立つ。",
+          "translation": "His arrogant attitude makes me angry."
+        },
+        {
+          "sentence": "傲慢さが失敗の原因だった。",
+          "translation": "Arrogance was the cause of failure."
         }
-      ],
-      "relatedWords": [
-        "related48"
-      ],
-      "notes": "Note 48"
+      ]
     },
     {
       "id": "v150",
-      "word": "word49",
-      "reading": "reading49",
-      "meaning": "Meaning 49",
+      "word": "素直",
+      "reading": "すなお",
+      "meaning": "Honesty, obedience",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文49",
-          "translation": "Example 49"
+          "sentence": "素直に謝ることが大切だ。",
+          "translation": "It's important to apologize honestly."
+        },
+        {
+          "sentence": "彼女は素直な性格だ。",
+          "translation": "She has an honest personality."
         }
-      ],
-      "relatedWords": [
-        "related49"
-      ],
-      "notes": "Note 49"
+      ]
     },
     {
       "id": "v151",
-      "word": "word50",
-      "reading": "reading50",
-      "meaning": "Meaning 50",
+      "word": "頑固",
+      "reading": "がんこ",
+      "meaning": "Stubbornness",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文50",
-          "translation": "Example 50"
+          "sentence": "彼は頑固で意見を曲げない。",
+          "translation": "He's stubborn and won't change his opinion."
+        },
+        {
+          "sentence": "頑固な性格が災いした。",
+          "translation": "His stubborn personality caused problems."
         }
-      ],
-      "relatedWords": [
-        "related50"
-      ],
-      "notes": "Note 50"
+      ]
     },
     {
       "id": "v152",
-      "word": "word51",
-      "reading": "reading51",
-      "meaning": "Meaning 51",
+      "word": "柔軟",
+      "reading": "じゅうなん",
+      "meaning": "Flexibility",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文51",
-          "translation": "Example 51"
+          "sentence": "柔軟な思考が必要だ。",
+          "translation": "Flexible thinking is necessary."
+        },
+        {
+          "sentence": "彼女は柔軟に対応できる。",
+          "translation": "She can respond flexibly."
         }
-      ],
-      "relatedWords": [
-        "related51"
-      ],
-      "notes": "Note 51"
+      ]
     },
     {
       "id": "v153",
-      "word": "word52",
-      "reading": "reading52",
-      "meaning": "Meaning 52",
+      "word": "慎重",
+      "reading": "しんちょう",
+      "meaning": "Caution, prudence",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文52",
-          "translation": "Example 52"
+          "sentence": "慎重に判断する必要がある。",
+          "translation": "It's necessary to judge cautiously."
+        },
+        {
+          "sentence": "彼は慎重な性格だ。",
+          "translation": "He has a cautious personality."
         }
-      ],
-      "relatedWords": [
-        "related52"
-      ],
-      "notes": "Note 52"
+      ]
     },
     {
       "id": "v154",
-      "word": "word53",
-      "reading": "reading53",
-      "meaning": "Meaning 53",
+      "word": "大胆",
+      "reading": "だいたん",
+      "meaning": "Boldness, audacity",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文53",
-          "translation": "Example 53"
+          "sentence": "大胆な計画を立てる。",
+          "translation": "Make a bold plan."
+        },
+        {
+          "sentence": "彼女の大胆な行動に驚いた。",
+          "translation": "I was surprised by her bold actions."
         }
-      ],
-      "relatedWords": [
-        "related53"
-      ],
-      "notes": "Note 53"
+      ]
     },
     {
       "id": "v155",
-      "word": "word54",
-      "reading": "reading54",
-      "meaning": "Meaning 54",
+      "word": "寛容",
+      "reading": "かんよう",
+      "meaning": "Tolerance, generosity",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文54",
-          "translation": "Example 54"
+          "sentence": "他人の意見に寛容であるべきだ。",
+          "translation": "We should be tolerant of others' opinions."
+        },
+        {
+          "sentence": "寛容な心を持つ。",
+          "translation": "Have a tolerant heart."
         }
-      ],
-      "relatedWords": [
-        "related54"
-      ],
-      "notes": "Note 54"
+      ]
     },
     {
       "id": "v156",
-      "word": "word55",
-      "reading": "reading55",
-      "meaning": "Meaning 55",
+      "word": "冷静",
+      "reading": "れいせい",
+      "meaning": "Calmness, composure",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文55",
-          "translation": "Example 55"
+          "sentence": "冷静に状況を分析する。",
+          "translation": "Analyze the situation calmly."
+        },
+        {
+          "sentence": "彼女は常に冷静だ。",
+          "translation": "She's always calm."
         }
-      ],
-      "relatedWords": [
-        "related55"
-      ],
-      "notes": "Note 55"
+      ]
     },
     {
       "id": "v157",
-      "word": "word56",
-      "reading": "reading56",
-      "meaning": "Meaning 56",
+      "word": "衝動",
+      "reading": "しょうどう",
+      "meaning": "Impulse",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文56",
-          "translation": "Example 56"
+          "sentence": "購買衝動を抑える。",
+          "translation": "Suppress the impulse to buy."
+        },
+        {
+          "sentence": "衝動的な行動は避けるべきだ。",
+          "translation": "Impulsive actions should be avoided."
         }
-      ],
-      "relatedWords": [
-        "related56"
-      ],
-      "notes": "Note 56"
+      ]
     },
     {
       "id": "v158",
-      "word": "word57",
-      "reading": "reading57",
-      "meaning": "Meaning 57",
+      "word": "忍耐",
+      "reading": "にんたい",
+      "meaning": "Patience, endurance",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文57",
-          "translation": "Example 57"
+          "sentence": "成功には忍耐が必要だ。",
+          "translation": "Success requires patience."
+        },
+        {
+          "sentence": "忍耐強く努力を続ける。",
+          "translation": "Continue efforts patiently."
         }
-      ],
-      "relatedWords": [
-        "related57"
-      ],
-      "notes": "Note 57"
+      ]
     },
     {
       "id": "v159",
-      "word": "word58",
-      "reading": "reading58",
-      "meaning": "Meaning 58",
+      "word": "我慢",
+      "reading": "がまん",
+      "meaning": "Patience, endurance",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文58",
-          "translation": "Example 58"
+          "sentence": "痛みを我慢する。",
+          "translation": "Endure the pain."
+        },
+        {
+          "sentence": "もう我慢できない。",
+          "translation": "I can't endure it anymore."
         }
-      ],
-      "relatedWords": [
-        "related58"
-      ],
-      "notes": "Note 58"
+      ]
     },
     {
       "id": "v160",
-      "word": "word59",
-      "reading": "reading59",
-      "meaning": "Meaning 59",
+      "word": "諦め",
+      "reading": "あきらめ",
+      "meaning": "Giving up, resignation",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文59",
-          "translation": "Example 59"
+          "sentence": "諦めずに挑戦し続ける。",
+          "translation": "Continue challenging without giving up."
+        },
+        {
+          "sentence": "彼の表情には諦めの色が見えた。",
+          "translation": "I could see resignation in his expression."
         }
-      ],
-      "relatedWords": [
-        "related59"
-      ],
-      "notes": "Note 59"
+      ]
     },
     {
       "id": "v161",
-      "word": "word60",
-      "reading": "reading60",
-      "meaning": "Meaning 60",
+      "word": "妥協",
+      "reading": "だきょう",
+      "meaning": "Compromise",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文60",
-          "translation": "Example 60"
+          "sentence": "両者が妥協点を見つける。",
+          "translation": "Both sides find a compromise."
+        },
+        {
+          "sentence": "妥協せずに自分の意見を通す。",
+          "translation": "Push through my opinion without compromise."
         }
-      ],
-      "relatedWords": [
-        "related60"
-      ],
-      "notes": "Note 60"
+      ]
     },
     {
       "id": "v162",
-      "word": "word61",
-      "reading": "reading61",
-      "meaning": "Meaning 61",
+      "word": "葛藤",
+      "reading": "かっとう",
+      "meaning": "Conflict, struggle",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文61",
-          "translation": "Example 61"
+          "sentence": "心の葛藤に苦しむ。",
+          "translation": "Suffer from inner conflict."
+        },
+        {
+          "sentence": "彼は仕事と家族の間で葛藤している。",
+          "translation": "He's struggling between work and family."
         }
-      ],
-      "relatedWords": [
-        "related61"
-      ],
-      "notes": "Note 61"
+      ]
     },
     {
       "id": "v163",
-      "word": "word62",
-      "reading": "reading62",
-      "meaning": "Meaning 62",
+      "word": "ジレンマ",
+      "reading": "じれんま",
+      "meaning": "Dilemma",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文62",
-          "translation": "Example 62"
+          "sentence": "倫理的なジレンマに直面する。",
+          "translation": "Face an ethical dilemma."
+        },
+        {
+          "sentence": "ジレンマに陥って決断できない。",
+          "translation": "I'm in a dilemma and can't decide."
         }
-      ],
-      "relatedWords": [
-        "related62"
-      ],
-      "notes": "Note 62"
+      ]
     },
     {
       "id": "v164",
-      "word": "word63",
-      "reading": "reading63",
-      "meaning": "Meaning 63",
+      "word": "矛盾",
+      "reading": "むじゅん",
+      "meaning": "Contradiction",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文63",
-          "translation": "Example 63"
+          "sentence": "彼の言動には矛盾がある。",
+          "translation": "There's a contradiction in his words and actions."
+        },
+        {
+          "sentence": "矛盾した主張をしている。",
+          "translation": "Making contradictory claims."
         }
-      ],
-      "relatedWords": [
-        "related63"
-      ],
-      "notes": "Note 63"
+      ]
     },
     {
       "id": "v165",
-      "word": "word64",
-      "reading": "reading64",
-      "meaning": "Meaning 64",
+      "word": "一貫",
+      "reading": "いっかん",
+      "meaning": "Consistency",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文64",
-          "translation": "Example 64"
+          "sentence": "一貫した態度を保つ。",
+          "translation": "Maintain a consistent attitude."
+        },
+        {
+          "sentence": "彼女の主張は一貫している。",
+          "translation": "Her arguments are consistent."
         }
-      ],
-      "relatedWords": [
-        "related64"
-      ],
-      "notes": "Note 64"
+      ]
     },
     {
       "id": "v166",
-      "word": "word65",
-      "reading": "reading65",
-      "meaning": "Meaning 65",
+      "word": "偏見",
+      "reading": "へんけん",
+      "meaning": "Prejudice, bias",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文65",
-          "translation": "Example 65"
+          "sentence": "偏見を持たずに判断する。",
+          "translation": "Judge without prejudice."
+        },
+        {
+          "sentence": "人種的偏見をなくすべきだ。",
+          "translation": "We should eliminate racial prejudice."
         }
-      ],
-      "relatedWords": [
-        "related65"
-      ],
-      "notes": "Note 65"
+      ]
     },
     {
       "id": "v167",
-      "word": "word66",
-      "reading": "reading66",
-      "meaning": "Meaning 66",
+      "word": "先入観",
+      "reading": "せんにゅうかん",
+      "meaning": "Preconception",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文66",
-          "translation": "Example 66"
+          "sentence": "先入観を捨てて考える。",
+          "translation": "Think without preconceptions."
+        },
+        {
+          "sentence": "先入観が判断を誤らせる。",
+          "translation": "Preconceptions cause misjudgment."
         }
-      ],
-      "relatedWords": [
-        "related66"
-      ],
-      "notes": "Note 66"
+      ]
     },
     {
       "id": "v168",
-      "word": "word67",
-      "reading": "reading67",
-      "meaning": "Meaning 67",
+      "word": "固定観念",
+      "reading": "こていかんねん",
+      "meaning": "Stereotype, fixed idea",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文67",
-          "translation": "Example 67"
+          "sentence": "固定観念にとらわれない。",
+          "translation": "Not bound by stereotypes."
+        },
+        {
+          "sentence": "古い固定観念を打ち破る。",
+          "translation": "Break old stereotypes."
         }
-      ],
-      "relatedWords": [
-        "related67"
-      ],
-      "notes": "Note 67"
+      ]
     },
     {
       "id": "v169",
-      "word": "word68",
-      "reading": "reading68",
-      "meaning": "Meaning 68",
+      "word": "視点",
+      "reading": "してん",
+      "meaning": "Viewpoint, perspective",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文68",
-          "translation": "Example 68"
+          "sentence": "異なる視点から考える。",
+          "translation": "Think from different viewpoints."
+        },
+        {
+          "sentence": "新しい視点を得る。",
+          "translation": "Gain a new perspective."
         }
-      ],
-      "relatedWords": [
-        "related68"
-      ],
-      "notes": "Note 68"
+      ]
     },
     {
       "id": "v170",
-      "word": "word69",
-      "reading": "reading69",
-      "meaning": "Meaning 69",
+      "word": "観点",
+      "reading": "かんてん",
+      "meaning": "Point of view",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文69",
-          "translation": "Example 69"
+          "sentence": "経済的観点から分析する。",
+          "translation": "Analyze from an economic point of view."
+        },
+        {
+          "sentence": "様々な観点を考慮する。",
+          "translation": "Consider various points of view."
         }
-      ],
-      "relatedWords": [
-        "related69"
-      ],
-      "notes": "Note 69"
+      ]
     },
     {
       "id": "v171",
-      "word": "word70",
-      "reading": "reading70",
-      "meaning": "Meaning 70",
+      "word": "立場",
+      "reading": "たちば",
+      "meaning": "Position, standpoint",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文70",
-          "translation": "Example 70"
+          "sentence": "彼の立場を理解する。",
+          "translation": "Understand his position."
+        },
+        {
+          "sentence": "立場が違えば意見も異なる。",
+          "translation": "Different positions lead to different opinions."
         }
-      ],
-      "relatedWords": [
-        "related70"
-      ],
-      "notes": "Note 70"
+      ]
     },
     {
       "id": "v172",
-      "word": "word71",
-      "reading": "reading71",
-      "meaning": "Meaning 71",
+      "word": "尊厳",
+      "reading": "そんげん",
+      "meaning": "Dignity",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文71",
-          "translation": "Example 71"
+          "sentence": "人間の尊厳を守る。",
+          "translation": "Protect human dignity."
+        },
+        {
+          "sentence": "尊厳を持って生きる。",
+          "translation": "Live with dignity."
         }
-      ],
-      "relatedWords": [
-        "related71"
-      ],
-      "notes": "Note 71"
+      ]
     },
     {
       "id": "v173",
-      "word": "word72",
-      "reading": "reading72",
-      "meaning": "Meaning 72",
+      "word": "誇り",
+      "reading": "ほこり",
+      "meaning": "Pride",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文72",
-          "translation": "Example 72"
+          "sentence": "仕事に誇りを持つ。",
+          "translation": "Take pride in work."
+        },
+        {
+          "sentence": "彼は自分の国に誇りを感じている。",
+          "translation": "He feels pride in his country."
         }
-      ],
-      "relatedWords": [
-        "related72"
-      ],
-      "notes": "Note 72"
+      ]
     },
     {
       "id": "v174",
-      "word": "word73",
-      "reading": "reading73",
-      "meaning": "Meaning 73",
+      "word": "恥",
+      "reading": "はじ",
+      "meaning": "Shame",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文73",
-          "translation": "Example 73"
+          "sentence": "恥を知るべきだ。",
+          "translation": "You should know shame."
+        },
+        {
+          "sentence": "恥ずかしい思いをした。",
+          "translation": "I felt ashamed."
         }
-      ],
-      "relatedWords": [
-        "related73"
-      ],
-      "notes": "Note 73"
+      ]
     },
     {
       "id": "v175",
-      "word": "word74",
-      "reading": "reading74",
-      "meaning": "Meaning 74",
+      "word": "名誉",
+      "reading": "めいよ",
+      "meaning": "Honor, reputation",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文74",
-          "translation": "Example 74"
+          "sentence": "名誉を守るために戦う。",
+          "translation": "Fight to protect honor."
+        },
+        {
+          "sentence": "名誉ある賞を受賞した。",
+          "translation": "Received an honorable award."
         }
-      ],
-      "relatedWords": [
-        "related74"
-      ],
-      "notes": "Note 74"
+      ]
     },
     {
       "id": "v176",
-      "word": "word75",
-      "reading": "reading75",
-      "meaning": "Meaning 75",
+      "word": "威厳",
+      "reading": "いげん",
+      "meaning": "Dignity, majesty",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文75",
-          "translation": "Example 75"
+          "sentence": "彼には威厳がある。",
+          "translation": "He has dignity."
+        },
+        {
+          "sentence": "威厳を保つ。",
+          "translation": "Maintain dignity."
         }
-      ],
-      "relatedWords": [
-        "related75"
-      ],
-      "notes": "Note 75"
+      ]
     },
     {
       "id": "v177",
-      "word": "word76",
-      "reading": "reading76",
-      "meaning": "Meaning 76",
+      "word": "品格",
+      "reading": "ひんかく",
+      "meaning": "Dignity, class",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文76",
-          "translation": "Example 76"
+          "sentence": "品格のある振る舞いをする。",
+          "translation": "Behave with dignity."
+        },
+        {
+          "sentence": "彼女は品格を備えている。",
+          "translation": "She possesses dignity."
         }
-      ],
-      "relatedWords": [
-        "related76"
-      ],
-      "notes": "Note 76"
+      ]
     },
     {
       "id": "v178",
-      "word": "word77",
-      "reading": "reading77",
-      "meaning": "Meaning 77",
+      "word": "優雅",
+      "reading": "ゆうが",
+      "meaning": "Elegance, grace",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文77",
-          "translation": "Example 77"
+          "sentence": "優雅な動作に魅了された。",
+          "translation": "I was fascinated by the elegant movements."
+        },
+        {
+          "sentence": "優雅な生活を送る。",
+          "translation": "Lead an elegant life."
         }
-      ],
-      "relatedWords": [
-        "related77"
-      ],
-      "notes": "Note 77"
+      ]
     },
     {
       "id": "v179",
-      "word": "word78",
-      "reading": "reading78",
-      "meaning": "Meaning 78",
+      "word": "洗練",
+      "reading": "せんれん",
+      "meaning": "Refinement, sophistication",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文78",
-          "translation": "Example 78"
+          "sentence": "洗練されたデザインだ。",
+          "translation": "It's a refined design."
+        },
+        {
+          "sentence": "技術を洗練させる。",
+          "translation": "Refine the technique."
         }
-      ],
-      "relatedWords": [
-        "related78"
-      ],
-      "notes": "Note 78"
+      ]
     },
     {
       "id": "v180",
-      "word": "word79",
-      "reading": "reading79",
-      "meaning": "Meaning 79",
+      "word": "純粋",
+      "reading": "じゅんすい",
+      "meaning": "Purity, innocence",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文79",
-          "translation": "Example 79"
+          "sentence": "純粋な心を持つ。",
+          "translation": "Have a pure heart."
+        },
+        {
+          "sentence": "彼の動機は純粋だ。",
+          "translation": "His motives are pure."
         }
-      ],
-      "relatedWords": [
-        "related79"
-      ],
-      "notes": "Note 79"
+      ]
     },
     {
       "id": "v181",
-      "word": "word80",
-      "reading": "reading80",
-      "meaning": "Meaning 80",
+      "word": "無邪気",
+      "reading": "むじゃき",
+      "meaning": "Innocence",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文80",
-          "translation": "Example 80"
+          "sentence": "子供の無邪気な笑顔が好きだ。",
+          "translation": "I like children's innocent smiles."
+        },
+        {
+          "sentence": "無邪気に遊ぶ。",
+          "translation": "Play innocently."
         }
-      ],
-      "relatedWords": [
-        "related80"
-      ],
-      "notes": "Note 80"
+      ]
     },
     {
       "id": "v182",
-      "word": "word81",
-      "reading": "reading81",
-      "meaning": "Meaning 81",
+      "word": "悪意",
+      "reading": "あくい",
+      "meaning": "Malice, ill will",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文81",
-          "translation": "Example 81"
+          "sentence": "悪意を持って行動する。",
+          "translation": "Act with malice."
+        },
+        {
+          "sentence": "彼の言葉には悪意がある。",
+          "translation": "There's malice in his words."
         }
-      ],
-      "relatedWords": [
-        "related81"
-      ],
-      "notes": "Note 81"
+      ]
     },
     {
       "id": "v183",
-      "word": "word82",
-      "reading": "reading82",
-      "meaning": "Meaning 82",
+      "word": "善意",
+      "reading": "ぜんい",
+      "meaning": "Goodwill, good intentions",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文82",
-          "translation": "Example 82"
+          "sentence": "善意で助けようとした。",
+          "translation": "I tried to help with good intentions."
+        },
+        {
+          "sentence": "彼女の善意に感謝する。",
+          "translation": "I'm grateful for her goodwill."
         }
-      ],
-      "relatedWords": [
-        "related82"
-      ],
-      "notes": "Note 82"
+      ]
     },
     {
       "id": "v184",
-      "word": "word83",
-      "reading": "reading83",
-      "meaning": "Meaning 83",
+      "word": "良心",
+      "reading": "りょうしん",
+      "meaning": "Conscience",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文83",
-          "translation": "Example 83"
+          "sentence": "良心に従って行動する。",
+          "translation": "Act according to conscience."
+        },
+        {
+          "sentence": "良心の呵責を感じる。",
+          "translation": "Feel pangs of conscience."
         }
-      ],
-      "relatedWords": [
-        "related83"
-      ],
-      "notes": "Note 83"
+      ]
     },
     {
       "id": "v185",
-      "word": "word84",
-      "reading": "reading84",
-      "meaning": "Meaning 84",
+      "word": "道徳",
+      "reading": "どうとく",
+      "meaning": "Morality, ethics",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文84",
-          "translation": "Example 84"
+          "sentence": "道徳的な判断をする。",
+          "translation": "Make a moral judgment."
+        },
+        {
+          "sentence": "道徳教育が重要だ。",
+          "translation": "Moral education is important."
         }
-      ],
-      "relatedWords": [
-        "related84"
-      ],
-      "notes": "Note 84"
+      ]
     },
     {
       "id": "v186",
-      "word": "word85",
-      "reading": "reading85",
-      "meaning": "Meaning 85",
+      "word": "倫理",
+      "reading": "りんり",
+      "meaning": "Ethics",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文85",
-          "translation": "Example 85"
+          "sentence": "医療倫理を守る。",
+          "translation": "Observe medical ethics."
+        },
+        {
+          "sentence": "倫理的な問題を議論する。",
+          "translation": "Discuss ethical issues."
         }
-      ],
-      "relatedWords": [
-        "related85"
-      ],
-      "notes": "Note 85"
+      ]
     },
     {
       "id": "v187",
-      "word": "word86",
-      "reading": "reading86",
-      "meaning": "Meaning 86",
+      "word": "美徳",
+      "reading": "びとく",
+      "meaning": "Virtue",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文86",
-          "translation": "Example 86"
+          "sentence": "正直は美徳だ。",
+          "translation": "Honesty is a virtue."
+        },
+        {
+          "sentence": "謙遜を美徳とする。",
+          "translation": "Consider humility a virtue."
         }
-      ],
-      "relatedWords": [
-        "related86"
-      ],
-      "notes": "Note 86"
+      ]
     },
     {
       "id": "v188",
-      "word": "word87",
-      "reading": "reading87",
-      "meaning": "Meaning 87",
+      "word": "悪徳",
+      "reading": "あくとく",
+      "meaning": "Vice, corruption",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文87",
-          "translation": "Example 87"
+          "sentence": "悪徳商法に騙された。",
+          "translation": "I was deceived by a fraudulent business."
+        },
+        {
+          "sentence": "悪徳を排除する。",
+          "translation": "Eliminate vice."
         }
-      ],
-      "relatedWords": [
-        "related87"
-      ],
-      "notes": "Note 87"
+      ]
     },
     {
       "id": "v189",
-      "word": "word88",
-      "reading": "reading88",
-      "meaning": "Meaning 88",
+      "word": "正義感",
+      "reading": "せいぎかん",
+      "meaning": "Sense of justice",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文88",
-          "translation": "Example 88"
+          "sentence": "彼は強い正義感を持っている。",
+          "translation": "He has a strong sense of justice."
+        },
+        {
+          "sentence": "正義感から行動した。",
+          "translation": "I acted out of a sense of justice."
         }
-      ],
-      "relatedWords": [
-        "related88"
-      ],
-      "notes": "Note 88"
+      ]
     },
     {
       "id": "v190",
-      "word": "word89",
-      "reading": "reading89",
-      "meaning": "Meaning 89",
+      "word": "使命感",
+      "reading": "しめいかん",
+      "meaning": "Sense of mission",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文89",
-          "translation": "Example 89"
+          "sentence": "使命感を持って仕事をする。",
+          "translation": "Work with a sense of mission."
+        },
+        {
+          "sentence": "教師としての使命感がある。",
+          "translation": "I have a sense of mission as a teacher."
         }
-      ],
-      "relatedWords": [
-        "related89"
-      ],
-      "notes": "Note 89"
+      ]
     },
     {
       "id": "v191",
-      "word": "word90",
-      "reading": "reading90",
-      "meaning": "Meaning 90",
+      "word": "罪悪感",
+      "reading": "ざいあくかん",
+      "meaning": "Sense of guilt",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文90",
-          "translation": "Example 90"
+          "sentence": "罪悪感に苛まれる。",
+          "translation": "Be tormented by guilt."
+        },
+        {
+          "sentence": "罪悪感を感じる必要はない。",
+          "translation": "There's no need to feel guilty."
         }
-      ],
-      "relatedWords": [
-        "related90"
-      ],
-      "notes": "Note 90"
+      ]
     },
     {
       "id": "v192",
-      "word": "word91",
-      "reading": "reading91",
-      "meaning": "Meaning 91",
+      "word": "責任感",
+      "reading": "せきにんかん",
+      "meaning": "Sense of responsibility",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文91",
-          "translation": "Example 91"
+          "sentence": "責任感の強い人だ。",
+          "translation": "He's a person with a strong sense of responsibility."
+        },
+        {
+          "sentence": "責任感を持って行動する。",
+          "translation": "Act with a sense of responsibility."
         }
-      ],
-      "relatedWords": [
-        "related91"
-      ],
-      "notes": "Note 91"
+      ]
     },
     {
       "id": "v193",
-      "word": "word92",
-      "reading": "reading92",
-      "meaning": "Meaning 92",
+      "word": "義理",
+      "reading": "ぎり",
+      "meaning": "Duty, obligation",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文92",
-          "translation": "Example 92"
+          "sentence": "義理を果たす。",
+          "translation": "Fulfill one's duty."
+        },
+        {
+          "sentence": "義理と人情の間で悩む。",
+          "translation": "Worry between duty and compassion."
         }
-      ],
-      "relatedWords": [
-        "related92"
-      ],
-      "notes": "Note 92"
+      ]
     },
     {
       "id": "v194",
-      "word": "word93",
-      "reading": "reading93",
-      "meaning": "Meaning 93",
+      "word": "恩",
+      "reading": "おん",
+      "meaning": "Favor, debt of gratitude",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文93",
-          "translation": "Example 93"
+          "sentence": "恩を返す。",
+          "translation": "Return a favor."
+        },
+        {
+          "sentence": "恩師に感謝する。",
+          "translation": "Be grateful to one's mentor."
         }
-      ],
-      "relatedWords": [
-        "related93"
-      ],
-      "notes": "Note 93"
+      ]
     },
     {
       "id": "v195",
-      "word": "word94",
-      "reading": "reading94",
-      "meaning": "Meaning 94",
+      "word": "恩恵",
+      "reading": "おんけい",
+      "meaning": "Benefit, blessing",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文94",
-          "translation": "Example 94"
+          "sentence": "自然の恩恵を受ける。",
+          "translation": "Receive the blessings of nature."
+        },
+        {
+          "sentence": "科学技術の恩恵に与る。",
+          "translation": "Benefit from science and technology."
         }
-      ],
-      "relatedWords": [
-        "related94"
-      ],
-      "notes": "Note 94"
+      ]
     },
     {
       "id": "v196",
-      "word": "word95",
-      "reading": "reading95",
-      "meaning": "Meaning 95",
+      "word": "報い",
+      "reading": "むくい",
+      "meaning": "Reward, retribution",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文95",
-          "translation": "Example 95"
+          "sentence": "努力が報いられた。",
+          "translation": "The effort was rewarded."
+        },
+        {
+          "sentence": "悪事の報いを受ける。",
+          "translation": "Receive retribution for evil deeds."
         }
-      ],
-      "relatedWords": [
-        "related95"
-      ],
-      "notes": "Note 95"
+      ]
     },
     {
       "id": "v197",
-      "word": "word96",
-      "reading": "reading96",
-      "meaning": "Meaning 96",
+      "word": "因果",
+      "reading": "いんが",
+      "meaning": "Cause and effect, karma",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文96",
-          "translation": "Example 96"
+          "sentence": "因果関係を調べる。",
+          "translation": "Investigate cause and effect."
+        },
+        {
+          "sentence": "因果応報を信じる。",
+          "translation": "Believe in karma."
         }
-      ],
-      "relatedWords": [
-        "related96"
-      ],
-      "notes": "Note 96"
+      ]
     },
     {
       "id": "v198",
-      "word": "word97",
-      "reading": "reading97",
-      "meaning": "Meaning 97",
+      "word": "奇跡",
+      "reading": "きせき",
+      "meaning": "Miracle",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文97",
-          "translation": "Example 97"
+          "sentence": "奇跡が起こった。",
+          "translation": "A miracle happened."
+        },
+        {
+          "sentence": "奇跡的に助かった。",
+          "translation": "I miraculously survived."
         }
-      ],
-      "relatedWords": [
-        "related97"
-      ],
-      "notes": "Note 97"
+      ]
     },
     {
       "id": "v199",
-      "word": "word98",
-      "reading": "reading98",
-      "meaning": "Meaning 98",
+      "word": "運命",
+      "reading": "うんめい",
+      "meaning": "Fate, destiny",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文98",
-          "translation": "Example 98"
+          "sentence": "これが運命だと思う。",
+          "translation": "I think this is fate."
+        },
+        {
+          "sentence": "運命に逆らう。",
+          "translation": "Defy destiny."
         }
-      ],
-      "relatedWords": [
-        "related98"
-      ],
-      "notes": "Note 98"
+      ]
     },
     {
       "id": "v200",
-      "word": "word99",
-      "reading": "reading99",
-      "meaning": "Meaning 99",
+      "word": "運",
+      "reading": "うん",
+      "meaning": "Luck, fortune",
       "level": "N2",
       "category": "Abstract Concepts",
       "examples": [
         {
-          "sentence": "例文99",
-          "translation": "Example 99"
+          "sentence": "運が良かった。",
+          "translation": "I was lucky."
+        },
+        {
+          "sentence": "運を天に任せる。",
+          "translation": "Leave it to fate."
         }
-      ],
-      "relatedWords": [
-        "related99"
-      ],
-      "notes": "Note 99"
+      ]
     }
   ]
 }
