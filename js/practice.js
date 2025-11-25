@@ -204,10 +204,6 @@ export async function selectPassage() {
   await displayPassage(trimmed);
 }
 
-export function toggleFurigana() {
-  document.body.classList.toggle('show-furigana');
-}
-
 export function adjustFontSize(direction) {
   if (!passageContainer) return;
   const current = parseFloat(getComputedStyle(passageContainer).fontSize);
@@ -254,7 +250,6 @@ init();
 
 window.loadRandomPassage = loadRandomPassage;
 window.selectPassage = selectPassage;
-window.toggleFurigana = toggleFurigana;
 window.adjustFontSize = adjustFontSize;
 window.submitAnswers = submitAnswers;
 window.showExplanations = showExplanations;
