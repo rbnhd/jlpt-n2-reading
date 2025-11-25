@@ -173,6 +173,7 @@
         const meaning = item.meaning || '';
         const example = item.exampleSentence || (item.examples && item.examples[0]?.sentence) || '';
         const translation = item.exampleTranslation || (item.examples && item.examples[0]?.translation) || '';
+        const notes = item.notes || '';
 
         // URL encode the word for dictionary links
         const encodedWord = encodeURIComponent(word);
@@ -188,6 +189,14 @@
               <div class="vocab-example">
                 <div class="example-sentence">${example}</div>
                 <div class="example-translation">${translation}</div>
+              </div>
+            ` : ''}
+            ${notes ? `
+              <div class="vocab-notes-container">
+                <span class="vocab-notes-icon">
+                  ℹ️ 注記
+                  <span class="vocab-notes-tooltip">${notes}</span>
+                </span>
               </div>
             ` : ''}
             <div class="vocab-dict-buttons">
