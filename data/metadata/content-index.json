@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-11-10",
-  "totalPassages": 30,
+  "lastUpdated": "2025-11-25",
+  "totalPassages": 36,
   "passages": [
     {
       "id": "n2-reading-001",
@@ -391,6 +391,84 @@
       "filePath": "data/passages/n2-reading-030.json",
       "vocabulary": 6,
       "grammarPoints": 6
+    },
+    {
+      "id": "n2-reading-031",
+      "title": "リモートワークの社内ガイドライン",
+      "category": "technology",
+      "difficulty": 2,
+      "questionsCount": 3,
+      "estimatedTime": 10,
+      "wordCount": 420,
+      "questionType": "情報検索",
+      "filePath": "data/passages/n2-reading-031.json",
+      "vocabulary": 6,
+      "grammarPoints": 2
+    },
+    {
+      "id": "n2-reading-032",
+      "title": "システム障害のお詫びとお知らせ",
+      "category": "technology",
+      "difficulty": 2,
+      "questionsCount": 2,
+      "estimatedTime": 4,
+      "wordCount": 340,
+      "questionType": "内容理解・短文",
+      "filePath": "data/passages/n2-reading-032.json",
+      "vocabulary": 5,
+      "grammarPoints": 2
+    },
+    {
+      "id": "n2-reading-033",
+      "title": "エンジニア採用についての考え方",
+      "category": "technology",
+      "difficulty": 4,
+      "questionsCount": 3,
+      "estimatedTime": 10,
+      "wordCount": 950,
+      "questionType": "主張理解・長文",
+      "filePath": "data/passages/n2-reading-033.json",
+      "vocabulary": 6,
+      "grammarPoints": 4
+    },
+    {
+      "id": "n2-reading-034",
+      "title": "生成AIとエンジニアの仕事",
+      "category": "technology",
+      "difficulty": 3,
+      "questionsCount": 3,
+      "estimatedTime": 8,
+      "wordCount": 580,
+      "questionType": "内容理解・中文",
+      "filePath": "data/passages/n2-reading-034.json",
+      "vocabulary": 6,
+      "grammarPoints": 3
+    },
+    {
+      "id": "n2-reading-035",
+      "title": "開発チームの振り返りミーティング",
+      "category": "technology",
+      "difficulty": 3,
+      "questionsCount": 3,
+      "estimatedTime": 7,
+      "wordCount": 620,
+      "questionType": "統合理解",
+      "filePath": "data/passages/n2-reading-035.json",
+      "vocabulary": 6,
+      "grammarPoints": 2
+    },
+    {
+      "id": "n2-reading-036",
+      "title": "日本のIT企業文化について",
+      "category": "technology",
+      "difficulty": 3,
+      "questionsCount": 3,
+      "estimatedTime": 8,
+      "wordCount": 590,
+      "questionType": "内容理解・中文",
+      "filePath": "data/passages/n2-reading-036.json",
+      "vocabulary": 6,
+      "grammarPoints": 3
     }
   ],
   "categories": [
@@ -398,7 +476,8 @@
     {"id": "essay", "name": "エッセイ", "count": 6, "totalQuestions": 15},
     {"id": "story", "name": "物語", "count": 6, "totalQuestions": 18},
     {"id": "business", "name": "ビジネス", "count": 6, "totalQuestions": 13},
-    {"id": "academic", "name": "学術", "count": 6, "totalQuestions": 16}
+    {"id": "academic", "name": "学術", "count": 6, "totalQuestions": 16},
+    {"id": "technology", "name": "テクノロジー", "count": 6, "totalQuestions": 17}
   ],
   "difficultyDistribution": {
     "easy": 3,
@@ -407,10 +486,10 @@
     "veryHard": 3
   },
   "questionTypeDistribution": {
-    "内容理解・短文": 5,
-    "内容理解・中文": 10,
-    "統合理解": 4,
-    "主張理解・長文": 8,
-    "情報検索": 3
+    "内容理解・短文": 6,
+    "内容理解・中文": 12,
+    "統合理解": 5,
+    "主張理解・長文": 9,
+    "情報検索": 4
   }
 }
