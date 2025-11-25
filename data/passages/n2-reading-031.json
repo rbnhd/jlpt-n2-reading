@@ -3,91 +3,127 @@
   "title": "リモートワークの社内ガイドライン",
   "category": "technology",
   "difficulty": 2,
-  "estimatedTime": 10,
   "questionType": "情報検索",
   "passage": "【リモートワーク実施要綱】\n\n１．対象者\n原則として、入社６か月以上の正社員とする。ただし、上長の承認があれば、契約社員も対象となる。\n\n２．実施日数\n週に２日まで在宅勤務が可能。ただし、チームミーティングがある日は原則出社とする。スプリントの振り返りミーティングは毎週金曜日に実施のため、金曜日は出社日とする。\n\n３．勤務時間\nコアタイムは10時から15時とし、この時間帯は必ずオンラインで連絡が取れる状態にすること。始業・終業時刻は各自のSlackステータスで明示すること。\n\n４．セキュリティ\n・会社支給のVPNを必ず使用すること\n・カフェなど公共の場所での作業時は、のぞき見防止フィルターを使用すること\n・機密情報を含むファイルは、ローカルに保存せず、社内クラウドストレージを使用すること\n\n５．申請方法\n在宅勤務を行う場合は、前日17時までに社内システムから申請し、上長の承認を得ること。急な申請の場合は、Slackで上長に直接連絡すること。\n\n本ガイドラインに関するお問い合わせは、人事部（内線：2345）までご連絡ください。",
-  "vocabulary": [
-    {
-      "word": "実施要綱",
-      "reading": "じっしようこう",
-      "meaning": "implementation guidelines"
-    },
-    {
-      "word": "上長",
-      "reading": "じょうちょう",
-      "meaning": "supervisor, superior"
-    },
-    {
-      "word": "承認",
-      "reading": "しょうにん",
-      "meaning": "approval"
-    },
-    {
-      "word": "振り返り",
-      "reading": "ふりかえり",
-      "meaning": "retrospective, review"
-    },
-    {
-      "word": "コアタイム",
-      "reading": "コアタイム",
-      "meaning": "core hours (required work hours)"
-    },
-    {
-      "word": "のぞき見",
-      "reading": "のぞきみ",
-      "meaning": "peeking, looking over someone's shoulder"
-    }
-  ],
-  "grammarPoints": [
-    "g008",
-    "g017"
-  ],
+  "estimatedTime": 10,
   "questions": [
     {
       "id": "q1",
-      "text": "入社４か月の契約社員の田中さんがリモートワークをしたい場合、どうすればよいですか。",
+      "questionText": "入社４か月の契約社員の田中さんがリモートワークをしたい場合、どうすればよいですか。",
       "type": "multiple-choice",
       "choices": [
-        "人事部に相談する",
-        "上長に承認をもらう",
-        "入社６か月になるまで待つ",
-        "契約社員は対象外なのでリモートワークできない"
+        {
+          "id": "a",
+          "text": "人事部に相談する"
+        },
+        {
+          "id": "b",
+          "text": "上長に承認をもらう"
+        },
+        {
+          "id": "c",
+          "text": "入社６か月になるまで待つ"
+        },
+        {
+          "id": "d",
+          "text": "契約社員は対象外なのでリモートワークできない"
+        }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "b",
       "explanation": "対象者の項目で「上長の承認があれば、契約社員も対象となる」と書かれています。田中さんは入社６か月未満ですが、契約社員でも上長の承認があれば可能です。",
       "points": 1
     },
     {
       "id": "q2",
-      "text": "このガイドラインによると、毎週金曜日に出社が必要な理由は何ですか。",
+      "questionText": "このガイドラインによると、毎週金曜日に出社が必要な理由は何ですか。",
       "type": "multiple-choice",
       "choices": [
-        "コアタイムが金曜日だけ長いから",
-        "スプリントの振り返りミーティングがあるから",
-        "上長への申請締め切りだから",
-        "セキュリティチェックがあるから"
+        {
+          "id": "a",
+          "text": "コアタイムが金曜日だけ長いから"
+        },
+        {
+          "id": "b",
+          "text": "スプリントの振り返りミーティングがあるから"
+        },
+        {
+          "id": "c",
+          "text": "上長への申請締め切りだから"
+        },
+        {
+          "id": "d",
+          "text": "セキュリティチェックがあるから"
+        }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": "b",
       "explanation": "「スプリントの振り返りミーティングは毎週金曜日に実施のため、金曜日は出社日とする」と明記されています。",
       "points": 1
     },
     {
       "id": "q3",
-      "text": "カフェで仕事をする場合、セキュリティのために何をする必要がありますか。",
+      "questionText": "カフェで仕事をする場合、セキュリティのために何をする必要がありますか。",
       "type": "multiple-choice",
       "choices": [
-        "機密情報をローカルに保存する",
-        "VPNを使わずに作業する",
-        "のぞき見防止フィルターを使用する",
-        "上長に直接電話で報告する"
+        {
+          "id": "a",
+          "text": "機密情報をローカルに保存する"
+        },
+        {
+          "id": "b",
+          "text": "VPNを使わずに作業する"
+        },
+        {
+          "id": "c",
+          "text": "のぞき見防止フィルターを使用する"
+        },
+        {
+          "id": "d",
+          "text": "上長に直接電話で報告する"
+        }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": "c",
       "explanation": "セキュリティの項目で「カフェなど公共の場所での作業時は、のぞき見防止フィルターを使用すること」と書かれています。",
       "points": 1
     }
   ],
+  "vocabulary": [
+    {
+      "kanji": "実施要綱",
+      "reading": "じっしようこう",
+      "meaning": "implementation guidelines"
+    },
+    {
+      "kanji": "上長",
+      "reading": "じょうちょう",
+      "meaning": "supervisor, superior"
+    },
+    {
+      "kanji": "承認",
+      "reading": "しょうにん",
+      "meaning": "approval"
+    },
+    {
+      "kanji": "振り返り",
+      "reading": "ふりかえり",
+      "meaning": "retrospective, review"
+    },
+    {
+      "kanji": "コアタイム",
+      "reading": "コアタイム",
+      "meaning": "core hours (required work hours)"
+    },
+    {
+      "kanji": "のぞき見",
+      "reading": "のぞきみ",
+      "meaning": "peeking, looking over someone's shoulder"
+    }
+  ],
+  "grammarPoints": [
+    "〜ない限り",
+    "〜次第"
+  ],
   "metadata": {
-    "wordCount": 420,
-    "createdAt": "2025-11-25"
+    "dateAdded": "2025-11-25",
+    "source": "Original"
   }
 }
